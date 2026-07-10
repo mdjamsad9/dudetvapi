@@ -7,7 +7,7 @@ on:
 
 jobs:
   run-processor:
-    runs-on: macos-13 # Required for Android hardware acceleration on GitHub Actions
+    runs-on: macos-14 # Apple Silicon (M1) runner with near-instant spin up time
     steps:
     - name: Checkout Code
       uses: actions/checkout@v3
@@ -33,7 +33,7 @@ jobs:
       with:
         api-level: 33
         target: google_apis
-        arch: x86_64
+        arch: arm64-v8a
         script: |
           # 1. Install the DUDEtv APK
           adb install DUDEtv_v2.5.apk
