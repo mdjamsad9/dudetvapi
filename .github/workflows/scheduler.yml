@@ -1,0 +1,50 @@
+name: Run Feed Processor
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Runs every 6 hours
+  workflow_dispatch:      # Allows manual trigger
+
+jobs:
+  run-processor:
+    runs-on: macos-13 # Required for Android hardware acceleration on GitHub Actions
+    steps:
+    - name: Checkout Code
+      uses: actions/checkout@v3
+
+    - name: Set up Java
+      uses: actions/setup-java@v3
+      with:
+        distribution: 'zulu'
+        java-version: '17'
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+        cache: 'pip'
+
+    - name: Install Dependencies
+      run: |
+        pip install -r requirements.txt
+
+    - name: Run Emulator and Decrypt
+      uses: reactivecircus/android-emulator-runner@v2
+      with:
+        api-level: 33
+        target: google_apis
+        arch: x86_64
+        script: |
+          # 1. Install the DUDEtv APK
+          adb install DUDEtv_v2.5.apk
+          
+          # 2. Run the decryption and scraper script
+          python fetch_and_decrypt.py
+
+    - name: Commit and Push Decrypted Files
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git add public_decrypted/
+        git commit -m "chore: update decrypted data feeds [skip ci]" || exit 0
+        git push
