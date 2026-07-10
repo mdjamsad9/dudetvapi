@@ -364,6 +364,9 @@ def main():
                         print(f"    [{i+1}/{len(decrypted_json)}] Fetching channels for: {title} (ID: {event_id})...")
                         
                         event_channels = []
+                        ch_out_file = os.path.join(ch_dir, f"{event_id}.json")
+                        channel_status = "unavailable"  # default
+
                         try:
                             ch_url = f"https://mymodi.top/channels/{event_id}.json"
                             ch_req = urllib.request.Request(ch_url, headers={"User-Agent": "Mozilla/5.0"})
@@ -375,17 +378,30 @@ def main():
                                 dec_ch = decrypt_via_emulator(ch_payload, apk_path, lib_path)
                                 if dec_ch:
                                     event_channels = dec_ch
-                                    # Save individual channels file
-                                    ch_out_file = os.path.join(ch_dir, f"{event_id}.json")
+                                    channel_status = "live"  # fresh from server
                                     with open(ch_out_file, "w", encoding="utf-8") as ch_f:
                                         json.dump(dec_ch, ch_f, indent=2, ensure_ascii=False)
-                                    print(f"      Saved: {ch_out_file} ({len(dec_ch)} channels)")
+                                    print(f"      Saved: {ch_out_file} ({len(dec_ch)} channels) [LIVE]")
+
                         except Exception as ce:
-                            print(f"      Failed to process channels for {event_id}: {ce}")
+                            # Server returned 404 or error — check if we have a cached copy
+                            if os.path.exists(ch_out_file):
+                                try:
+                                    with open(ch_out_file, "r", encoding="utf-8") as cached_f:
+                                        event_channels = json.load(cached_f)
+                                    channel_status = "cached"  # using last known good
+                                    print(f"      [CACHED] Using last known data for {event_id} ({len(event_channels)} channels)")
+                                except Exception:
+                                    channel_status = "unavailable"
+                                    print(f"      [UNAVAILABLE] No data for {event_id}: {ce}")
+                            else:
+                                channel_status = "unavailable"
+                                print(f"      [UNAVAILABLE] {event_id}: {ce}")
                             
                         # Add channels metadata to event object
                         event_copy = dict(event)
                         event_copy["decoded_channels"] = event_channels
+                        event_copy["channel_status"] = channel_status  # live / cached / unavailable
                         events_with_channels.append(event_copy)
                         
                     # Save combined file
