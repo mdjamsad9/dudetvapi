@@ -2180,9 +2180,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "SportzX MLB",
       "SportzX Live"
     ],
     "formatsNew": [
+      {
+        "title": "SportzX MLB",
+        "logo": ""
+      },
       {
         "title": "SportzX Live",
         "logo": ""
@@ -2633,6 +2638,72 @@
     "formatsNew": [
       {
         "title": "SportzX Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50090,
+    "title": "South Africa vs Scotland",
+    "image": "o",
+    "cat": "Rugby",
+    "eventInfo": {
+      "teamA": "South Africa",
+      "teamB": "Scotland",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4231/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4230/image",
+      "eventName": "South Africa vs Scotland",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/11 15:40:00 +0000",
+      "endTime": "2026/07/11 18:40:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "ITV SPORTS FHD",
+      "SKY SPORTS SD"
+    ],
+    "formatsNew": [
+      {
+        "title": "ITV SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "SKY SPORTS SD",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50091,
+    "title": "Argentina vs Wales",
+    "image": "o",
+    "cat": "Rugby",
+    "eventInfo": {
+      "teamA": "Argentina",
+      "teamB": "Wales",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4225/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/7058/image",
+      "eventName": "Argentina vs Wales",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/11 19:10:00 +0000",
+      "endTime": "2026/07/11 22:10:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "ITV SPORTS FHD",
+      "SKY SPORTS SD"
+    ],
+    "formatsNew": [
+      {
+        "title": "ITV SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "SKY SPORTS SD",
         "logo": ""
       }
     ]
