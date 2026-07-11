@@ -663,94 +663,6 @@
     "channel_status": "live"
   },
   {
-    "id": 50007,
-    "title": "Zimbabwe vs Bangladesh",
-    "image": "o",
-    "cat": "Cricket",
-    "eventInfo": {
-      "teamA": "ZIM",
-      "teamB": "BAN",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187745/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187744/image",
-      "eventName": "Zimbabwe vs Bangladesh",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/11 07:30:00 +0000",
-      "endTime": "2026/07/11 15:00:00 +0000"
-    },
-    "adsLimit": "12",
-    "publish": "1",
-    "formats": [
-      "FANCODE FHD",
-      "TAPMAD FHD",
-      "FANCODE SD",
-      "FANCODE BD"
-    ],
-    "formatsNew": [
-      {
-        "title": "FANCODE FHD",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
-      },
-      {
-        "title": "TAPMAD FHD",
-        "logo": ""
-      },
-      {
-        "title": "FANCODE SD",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
-      },
-      {
-        "title": "FANCODE BD",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780573506~acl=/hls/?|Referer=tapmad.com",
-        "logo": "",
-        "title": "Tapmad HD+",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://pastebin.com/raw/U2LaqQne?&.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36&Referer=https://www.tapmad.com/&Origin=https://www.tapmad.com",
-        "logo": "",
-        "title": "TAPMAD FHD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://raw.githubusercontent.com/srhady/Fancode-bd/refs/heads/main/raw_link/bangladesh_vs_zimbabwe_143399_english.m3u8",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
-        "title": "FANCODE (BD)",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8",
-        "logo": "",
-        "title": "TSports HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://in-mc-fblive.fancode.com/mumbai/143399_english_hls_b76266f66a74436_1ta-di_h264/index.m3u8",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
-        "title": "FANCODE - IN",
-        "type": "0"
-      },
-      {
-        "api": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e",
-        "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
-        "title": "FANCODE - SD",
-        "type": "1"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
     "id": 50008,
     "title": "England vs India",
     "image": "o",
@@ -763,7 +675,7 @@
       "eventName": "England vs India",
       "eventType": "null",
       "eventBanner": "null",
-      "isHot": "1",
+      "isHot": "0",
       "startTime": "2026/07/11 14:00:00 +0000",
       "endTime": "2026/07/11 17:45:00 +0000"
     },
