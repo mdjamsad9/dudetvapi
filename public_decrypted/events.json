@@ -384,26 +384,26 @@
       "eventName": "England vs India",
       "eventType": "null",
       "eventBanner": "null",
-      "isHot": "0",
-      "startTime": "2026/07/11 13:30:00 +0000",
-      "endTime": "2026/07/11 17:15:00 +0000"
+      "isHot": "1",
+      "startTime": "2026/07/11 14:00:00 +0000",
+      "endTime": "2026/07/11 17:45:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
       "WILLOW FHD",
-      "SKY CRICKET - AQ",
       "WILLOW ALT",
       "TAPMAD FHD",
+      "LOW SERVER",
       "SKY MAIN EVENT",
       "SKY SPORT NZ",
       "WILLOW HD",
       "FOX CRICKET HD",
-      "LOW SERVER",
       "SONY TEN 1 - IN",
+      "SONY TEN 2 - IN",
       "SONY TEN 3 - IN",
       "SONY TEN 4 - IN",
-      "SONY TEN 5 - IN"
+      "SKY CRICKET - AQ"
     ],
     "formatsNew": [
       {
@@ -411,15 +411,15 @@
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
-        "title": "SKY CRICKET - AQ",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
-      },
-      {
         "title": "WILLOW ALT",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
         "title": "TAPMAD FHD",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       },
       {
@@ -439,11 +439,11 @@
         "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj"
       },
       {
-        "title": "LOW SERVER",
+        "title": "SONY TEN 1 - IN",
         "logo": ""
       },
       {
-        "title": "SONY TEN 1 - IN",
+        "title": "SONY TEN 2 - IN",
         "logo": ""
       },
       {
@@ -455,8 +455,8 @@
         "logo": ""
       },
       {
-        "title": "SONY TEN 5 - IN",
-        "logo": ""
+        "title": "SKY CRICKET - AQ",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
       }
     ]
   },
@@ -612,6 +612,73 @@
     ]
   },
   {
+    "id": 50012,
+    "title": "Houston Rockets",
+    "image": "o",
+    "cat": "NBA",
+    "eventInfo": {
+      "teamA": "Raptors",
+      "teamB": "Rockets",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3433/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3412/image",
+      "eventName": "Toronto Raptors vs Houston Rockets",
+      "eventType": "null",
+      "eventBanner": "null",
+      "isHot": "0",
+      "startTime": "2026/07/12 01:30:00 +0000",
+      "endTime": "2026/07/12 04:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SportzX NBA",
+      "SportzX Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "SportzX NBA",
+        "logo": ""
+      },
+      {
+        "title": "SportzX Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50013,
+    "title": "Dallas Mavericks",
+    "image": "o",
+    "cat": "NBA",
+    "eventInfo": {
+      "teamA": "Mavericks",
+      "teamB": "Lakers",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3411/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3427/image",
+      "eventName": "Dallas Mavericks vs Los Angeles Lakers",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/12 02:00:00 +0000",
+      "endTime": "2026/07/12 05:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SportzX NBA",
+      "SportzX Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "SportzX NBA",
+        "logo": ""
+      },
+      {
+        "title": "SportzX Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50019,
     "title": "Wimbledon",
     "image": "o",
@@ -706,6 +773,260 @@
       },
       {
         "title": "SKY Wimbledon 6 [Italy]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50032,
+    "title": "Houston Astros",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Rangers",
+      "teamB": "Astros",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3647/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3655/image",
+      "eventName": "Texas Rangers vs Houston Astros",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/11 23:05:00 +0000",
+      "endTime": "2026/07/12 02:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SportzX LIVE",
+      "HD SERVER"
+    ],
+    "formatsNew": [
+      {
+        "title": "SportzX LIVE",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50033,
+    "title": "Cincinnati Reds",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Reds",
+      "teamB": "Cubs",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3633/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3627/image",
+      "eventName": "Cincinnati Reds vs Chicago Cubs",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/11 23:10:00 +0000",
+      "endTime": "2026/07/12 02:10:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SportzX MLB",
+      "SportzX Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "SportzX MLB",
+        "logo": ""
+      },
+      {
+        "title": "SportzX Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50034,
+    "title": "Toronto Blue Jays",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Padres",
+      "teamB": "Blue Jays",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3636/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3642/image",
+      "eventName": "San Diego Padres vs Toronto Blue Jays",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/12 00:40:00 +0000",
+      "endTime": "2026/07/12 03:40:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SportzX MLB",
+      "SportzX Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "SportzX MLB",
+        "logo": ""
+      },
+      {
+        "title": "SportzX Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50052,
+    "title": "Arizona Diamondbacks",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Dodgers",
+      "teamB": "Diamondbacks",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3638/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3640/image",
+      "eventName": "Los Angeles Dodgers vs Arizona Diamondbacks",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/12 01:10:00 +0000",
+      "endTime": "2026/07/12 04:10:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SportzX MLB",
+      "SportzX Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "SportzX MLB",
+        "logo": ""
+      },
+      {
+        "title": "SportzX Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50053,
+    "title": "Atlanta Braves",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Cardinals",
+      "teamB": "Braves",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3632/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3656/image",
+      "eventName": "St. Louis Cardinals vs Atlanta Braves",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/11 23:15:00 +0000",
+      "endTime": "2026/07/12 02:15:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SportzX MLB",
+      "SportzX Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "SportzX MLB",
+        "logo": ""
+      },
+      {
+        "title": "SportzX Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50055,
+    "title": "Minnesota Lynx vs Liberty",
+    "image": "o",
+    "cat": "WNBA",
+    "eventInfo": {
+      "teamA": "Lynx",
+      "teamB": "Liberty",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3440/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3446/image",
+      "eventName": "Minnesota Lynx vs New York Liberty",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/11 17:00:00 +0000",
+      "endTime": "2026/07/11 19:45:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SportzX Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "SportzX Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50056,
+    "title": "Atlanta Dream vs Portland Fire",
+    "image": "o",
+    "cat": "WNBA",
+    "eventInfo": {
+      "teamA": "Dream",
+      "teamB": "Fire",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/35545/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1166446/image",
+      "eventName": "Atlanta Dream vs Portland Fire",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/11 20:00:00 +0000",
+      "endTime": "2026/07/11 22:45:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SportzX Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "SportzX Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50057,
+    "title": "Aces vs Phoenix Mercury",
+    "image": "o",
+    "cat": "WNBA",
+    "eventInfo": {
+      "teamA": "Aces",
+      "teamB": "Mercury",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/35550/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3444/image",
+      "eventName": "Las Vegas Aces vs Phoenix Mercury",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/11 22:00:00 +0000",
+      "endTime": "2026/07/12 00:45:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SportzX WNBA",
+      "SportzX Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "SportzX WNBA",
+        "logo": ""
+      },
+      {
+        "title": "SportzX Live",
         "logo": ""
       }
     ]
@@ -838,7 +1159,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/4713/image",
       "eventName": "Norway vs England",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/07/11 21:00:00 +0000",
       "endTime": "2026/07/11 23:15:00 +0000"
     },
@@ -1499,7 +1820,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/4699/image",
       "eventName": "Argentina vs Switzerland",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/07/12 01:00:00 +0000",
       "endTime": "2026/07/12 03:15:00 +0000"
     },
@@ -1837,6 +2158,482 @@
       {
         "title": "TSN Arabic AQ",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+      }
+    ]
+  },
+  {
+    "id": 50073,
+    "title": "Pittsburgh Pirates vs Brewers",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Pirates",
+      "teamB": "Brewers",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3637/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3630/image",
+      "eventName": "Pittsburgh Pirates vs Brewers",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/11 16:05:00 +0000",
+      "endTime": "2026/07/11 19:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SportzX Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "SportzX Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50074,
+    "title": "White Sox vs Athletics",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "White Sox",
+      "teamB": "Athletics",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3644/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3645/image",
+      "eventName": "Chicago White Sox vs Athletics",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/11 18:10:00 +0000",
+      "endTime": "2026/07/11 21:10:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SportzX Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "SportzX Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50075,
+    "title": "Minnesota Twins vs Angels",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Twins",
+      "teamB": "Angels",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3649/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/5929/image",
+      "eventName": "Minnesota Twins vs Angels",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/11 18:10:00 +0000",
+      "endTime": "2026/07/11 21:10:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SportzX Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "SportzX Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50076,
+    "title": "Pirates vs Milwaukee Brewers",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Pirates",
+      "teamB": "Brewers",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3637/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3630/image",
+      "eventName": "Pirates vs Milwaukee Brewers",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/11 20:05:00 +0000",
+      "endTime": "2026/07/11 23:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SportzX Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "SportzX Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50077,
+    "title": "Giants vs Colorado Rockies",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Giants",
+      "teamB": "Rockies",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3634/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3628/image",
+      "eventName": "San Francisco Giants vs Colorado Rockies",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/11 20:05:00 +0000",
+      "endTime": "2026/07/11 23:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SportzX Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "SportzX Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50078,
+    "title": "Nationals vs Yankees",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Nationals",
+      "teamB": "Yankees",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/5930/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3654/image",
+      "eventName": "Washington Nationals vs Yankees",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/11 20:05:00 +0000",
+      "endTime": "2026/07/11 23:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SportzX Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "SportzX Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50079,
+    "title": "Miami Marlins vs Guardians",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Marlins",
+      "teamB": "Guardians",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3639/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3650/image",
+      "eventName": "Miami Marlins vs Cleveland Guardians",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/11 20:10:00 +0000",
+      "endTime": "2026/07/11 23:10:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SportzX Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "SportzX Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50080,
+    "title": "Mets vs Boston Red Sox",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Mets",
+      "teamB": "Red Sox",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3629/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3646/image",
+      "eventName": "New York Mets vs Boston Red Sox",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/11 20:10:00 +0000",
+      "endTime": "2026/07/11 23:10:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SportzX Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "SportzX Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50081,
+    "title": "Rays vs Seattle Mariners",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Rays",
+      "teamB": "Mariners",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3653/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3641/image",
+      "eventName": "Tampa Bay Rays vs Seattle Mariners",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/11 20:10:00 +0000",
+      "endTime": "2026/07/11 23:10:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SportzX Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "SportzX Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50082,
+    "title": "Detroit Tigers vs Phillies",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Tigers",
+      "teamB": "Phillies",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3648/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3635/image",
+      "eventName": "Detroit Tigers vs Phillies",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/11 22:10:00 +0000",
+      "endTime": "2026/07/12 01:10:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SportzX Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "SportzX Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50083,
+    "title": "Baltimore Orioles vs Royals",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Orioles",
+      "teamB": "Royals",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3652/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3651/image",
+      "eventName": "Baltimore Orioles vs Royals",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/11 23:05:00 +0000",
+      "endTime": "2026/07/12 02:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SportzX Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "SportzX Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50084,
+    "title": "Orlando Magic vs Miami Heat",
+    "image": "o",
+    "cat": "NBA",
+    "eventInfo": {
+      "teamA": "Magic",
+      "teamB": "Heat",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3437/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3435/image",
+      "eventName": "Orlando Magic vs Miami Heat",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/11 19:30:00 +0000",
+      "endTime": "2026/07/11 22:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SportzX Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "SportzX Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50085,
+    "title": "Charlotte Hornets vs Pelicans",
+    "image": "o",
+    "cat": "NBA",
+    "eventInfo": {
+      "teamA": "Hornets",
+      "teamB": "Pelicans",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3430/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/5539/image",
+      "eventName": "Charlotte Hornets vs Pelicans",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/11 20:00:00 +0000",
+      "endTime": "2026/07/11 23:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SportzX Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "SportzX Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50086,
+    "title": "76ers vs Indiana Pacers",
+    "image": "o",
+    "cat": "NBA",
+    "eventInfo": {
+      "teamA": "76ers",
+      "teamB": "Pacers",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3420/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3419/image",
+      "eventName": "Philadelphia 76ers vs Indiana Pacers",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/11 21:30:00 +0000",
+      "endTime": "2026/07/12 00:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SportzX Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "SportzX Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50087,
+    "title": "San Antonio Spurs vs Knicks",
+    "image": "o",
+    "cat": "NBA",
+    "eventInfo": {
+      "teamA": "Spurs",
+      "teamB": "Knicks",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3429/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3421/image",
+      "eventName": "San Antonio Spurs vs New York Knicks",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/11 22:00:00 +0000",
+      "endTime": "2026/07/12 01:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SportzX Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "SportzX Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50088,
+    "title": "Timberwolves vs Denver Nuggets",
+    "image": "o",
+    "cat": "NBA",
+    "eventInfo": {
+      "teamA": "Timberwolves",
+      "teamB": "Nuggets",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3426/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3417/image",
+      "eventName": "Minnesota Timberwolves vs Denver Nuggets",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/11 23:30:00 +0000",
+      "endTime": "2026/07/12 02:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SportzX Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "SportzX Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50089,
+    "title": "Brooklyn Nets vs Atlanta Hawks",
+    "image": "o",
+    "cat": "NBA",
+    "eventInfo": {
+      "teamA": "Nets",
+      "teamB": "Hawks",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3436/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3423/image",
+      "eventName": "Brooklyn Nets vs Atlanta Hawks",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/12 00:00:00 +0000",
+      "endTime": "2026/07/12 03:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SportzX Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "SportzX Live",
+        "logo": ""
       }
     ]
   }
