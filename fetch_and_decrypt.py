@@ -367,6 +367,8 @@ def main():
                         ch_out_file = os.path.join(ch_dir, f"{event_id}.json")
                         channel_status = "unavailable"  # default
 
+                        # Attempt to fetch with the main ID
+                        fetched_successfully = False
                         try:
                             ch_url = f"https://mymodi.top/channels/{event_id}.json"
                             ch_req = urllib.request.Request(ch_url, headers={"User-Agent": "Mozilla/5.0"})
@@ -378,25 +380,49 @@ def main():
                                 dec_ch = decrypt_via_emulator(ch_payload, apk_path, lib_path)
                                 if dec_ch:
                                     event_channels = dec_ch
-                                    channel_status = "live"  # fresh from server
+                                    channel_status = "live"
+                                    fetched_successfully = True
                                     with open(ch_out_file, "w", encoding="utf-8") as ch_f:
                                         json.dump(dec_ch, ch_f, indent=2, ensure_ascii=False)
                                     print(f"      Saved: {ch_out_file} ({len(dec_ch)} channels) [LIVE]")
-
                         except Exception as ce:
-                            # Server returned 404 or error — check if we have a cached copy
+                            print(f"      First attempt failed for {event_id}: {ce}")
+
+                        # If not fetched successfully (or returned empty channels), try with ID + 'e'
+                        if not fetched_successfully:
+                            try:
+                                ch_url = f"https://mymodi.top/channels/{event_id}e.json"
+                                ch_req = urllib.request.Request(ch_url, headers={"User-Agent": "Mozilla/5.0"})
+                                with urllib.request.urlopen(ch_req, timeout=15) as ch_res:
+                                    ch_json = json.loads(ch_res.read().decode("utf-8"))
+                                
+                                ch_payload = ch_json.get("data")
+                                if ch_payload:
+                                    dec_ch = decrypt_via_emulator(ch_payload, apk_path, lib_path)
+                                    if dec_ch:
+                                        event_channels = dec_ch
+                                        channel_status = "live"
+                                        fetched_successfully = True
+                                        with open(ch_out_file, "w", encoding="utf-8") as ch_f:
+                                            json.dump(dec_ch, ch_f, indent=2, ensure_ascii=False)
+                                        print(f"      Saved: {ch_out_file} ({len(dec_ch)} channels) [LIVE (fallback ID: {event_id}e)]")
+                            except Exception as ce2:
+                                print(f"      Fallback attempt failed for {event_id}e: {ce2}")
+
+                        # If both attempts failed to fetch live data, use cache if available
+                        if not fetched_successfully:
                             if os.path.exists(ch_out_file):
                                 try:
                                     with open(ch_out_file, "r", encoding="utf-8") as cached_f:
                                         event_channels = json.load(cached_f)
                                     channel_status = "cached"  # using last known good
                                     print(f"      [CACHED] Using last known data for {event_id} ({len(event_channels)} channels)")
-                                except Exception:
+                                except Exception as cached_err:
                                     channel_status = "unavailable"
-                                    print(f"      [UNAVAILABLE] No data for {event_id}: {ce}")
+                                    print(f"      [UNAVAILABLE] Cache read error for {event_id}: {cached_err}")
                             else:
                                 channel_status = "unavailable"
-                                print(f"      [UNAVAILABLE] {event_id}: {ce}")
+                                print(f"      [UNAVAILABLE] No data or cache available for {event_id}")
                             
                         # Add channels metadata to event object
                         event_copy = dict(event)
