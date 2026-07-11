@@ -36,18 +36,22 @@ def decrypt_deadbeef(enc_bytes, key):
     return json.loads(clean_bytes.decode("utf-8"))
 
 def decrypt_b5cdbd48(enc_bytes, key, hardcoded_iv):
-    # For b5cdbd48 endpoints, the ciphertext is the raw decrypted bytes (which starts with magic b5cdbd48...).
     # Decrypt everything using AES-128-CBC with the key and hardcoded IV.
     decrypted_bytes = decrypt_cbc(enc_bytes, key, hardcoded_iv)
+    dec_str = decrypted_bytes.decode("utf-8", errors="replace")
     
-    # Reconstruct the first block (first 16 bytes) by checking prefixes.
-    # The output will start with either '[{"id":"1","genre' or '[{"id":"1","title'.
-    dec_str_raw = decrypted_bytes.decode("utf-8", errors="replace")
-    
+    # Try parsing directly first to keep true IDs
+    try:
+        clean_json = dec_str.rstrip('\x00\x01\x02\x03\x04\x05\x06\x07\x08\x09\x0a\x0b\x0c\x0d\x0e\x0f\x10')
+        return json.loads(clean_json)
+    except Exception:
+        pass
+        
+    # Reconstruct the first block if it was corrupted due to incorrect IV
     prefixes = ['[{"id":"1","genre', '[{"id":"1","title']
     for prefix in prefixes:
         try:
-            reconstructed = prefix + dec_str_raw[16:]
+            reconstructed = prefix + dec_str[16:]
             clean_json = reconstructed.rstrip('\x00\x01\x02\x03\x04\x05\x06\x07\x08\x09\x0a\x0b\x0c\x0d\x0e\x0f\x10')
             return json.loads(clean_json)
         except Exception:

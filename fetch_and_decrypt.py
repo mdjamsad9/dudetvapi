@@ -104,12 +104,6 @@ def decrypt_cbc(ciphertext_bytes, key, iv):
 def decrypt_local_b5cdbd48(enc_bytes, iv_str):
     dec = decrypt_cbc(enc_bytes, STATIC_KEY, iv_str.encode("utf-8"))
     dec_str = dec.decode("utf-8", errors="ignore")
-    if not dec_str.strip().startswith(("[", "{")):
-        reconstructed = '[{"id":"1","genre' + dec_str[16:]
-        if reconstructed.strip().startswith("["):
-            return json.loads(reconstructed)
-        reconstructed2 = '[{"id":"1","title' + dec_str[16:]
-        return json.loads(reconstructed2)
     return json.loads(dec_str)
 
 def decrypt_via_emulator(payload, apk_path, lib_path):
@@ -268,13 +262,7 @@ def main():
             decrypted_json = None
             
             if format_type == "b5cdbd48":
-                if name == "eventcats":
-                    iv_str = "HsjJTCA7jJztpL2w"
-                elif name == "sports":
-                    iv_str = "cats/sports.json"
-                else:
-                    iv_str = "HsjJTCA7jJztpL2w"
-                
+                iv_str = "HsjJTCA7jJztpL2w"
                 print(f"  Decrypting locally using static key and IV '{iv_str}'...")
                 decrypted_json = decrypt_local_b5cdbd48(enc_bytes, iv_str)
                 
@@ -316,23 +304,16 @@ def main():
                                 sub_payload = sub_json.get("data")
                                 if sub_payload:
                                     sub_bytes = clean_and_decode_b64(sub_payload)
-                                    # Pad IV to 16 bytes
-                                    iv_bytes = relative_path.encode("utf-8").ljust(16, b"\x00")[:16]
+                                    # Use the correct static IV to prevent first block corruption and keep true IDs
+                                    iv_bytes = b"HsjJTCA7jJztpL2w"
                                     dec = decrypt_cbc(sub_bytes, STATIC_KEY, iv_bytes)
                                     dec_str = dec.decode("utf-8", errors="ignore")
-                                    
+                                     
                                     sub_data = None
-                                    if dec_str.strip().startswith(("[", "{")):
+                                    try:
                                         sub_data = json.loads(dec_str)
-                                    else:
-                                        prefixes = ['[{"id":"1","titl', '[{"id":"1","genre']
-                                        for prefix in prefixes:
-                                            try:
-                                                patched = prefix + dec_str[16:]
-                                                sub_data = json.loads(patched)
-                                                break
-                                            except Exception:
-                                                continue
+                                    except Exception as je:
+                                        print(f"      Failed to parse decrypted JSON for {cat_link}: {je}")
                                                 
                                     if sub_data:
                                         sub_out_file = os.path.join(sub_dir, f"{cat_link}.json")
