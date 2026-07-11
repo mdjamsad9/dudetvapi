@@ -136,9 +136,9 @@
       "SPOTV FHD",
       "MotoGP FHD",
       "AUVIO SPORTS",
-      "FOX SPORTS FHD",
+      "NOW SPORTS FHD",
       "TNT SPORTS FHD",
-      "TNT SPORTS SD",
+      "SKY SPORTS IT",
       "SportzX Live",
       "DAZN SPORTS",
       "CANAL+ HD"
@@ -161,7 +161,7 @@
         "logo": ""
       },
       {
-        "title": "FOX SPORTS FHD",
+        "title": "NOW SPORTS FHD",
         "logo": ""
       },
       {
@@ -169,8 +169,8 @@
         "logo": ""
       },
       {
-        "title": "TNT SPORTS SD",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+        "title": "SKY SPORTS IT",
+        "logo": ""
       },
       {
         "title": "SportzX Live",
@@ -350,7 +350,7 @@
       "FANCODE FHD",
       "TAPMAD FHD",
       "FANCODE SD",
-      "TAPMAD HD"
+      "FANCODE BD"
     ],
     "formatsNew": [
       {
@@ -366,7 +366,7 @@
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       },
       {
-        "title": "TAPMAD HD",
+        "title": "FANCODE BD",
         "logo": ""
       }
     ]
@@ -612,39 +612,6 @@
     ]
   },
   {
-    "id": 50013,
-    "title": "Phoenix Suns",
-    "image": "o",
-    "cat": "NBA",
-    "eventInfo": {
-      "teamA": "Suns",
-      "teamB": "Trail Blazers",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3416/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3414/image",
-      "eventName": "Phoenix Suns vs Trail Blazers",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/11 03:00:00 +0000",
-      "endTime": "2026/07/11 06:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SportzX NBA",
-      "SportzX Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "SportzX NBA",
-        "logo": ""
-      },
-      {
-        "title": "SportzX Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50019,
     "title": "Wimbledon",
     "image": "o",
@@ -762,18 +729,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "ICC TV FHD",
       "WILLOW FHD",
       "SKY CRICKET FHD",
-      "WILLOW ALT",
+      "WILLOW - ALT",
+      "SKY SPORT NZ",
+      "WILLOW HD",
+      "SonyLiv",
       "LOW SERVER",
-      "WILLOW HD"
+      "SONY TEN 5 - IN"
     ],
     "formatsNew": [
-      {
-        "title": "ICC TV FHD",
-        "logo": ""
-      },
       {
         "title": "WILLOW FHD",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
@@ -783,16 +748,28 @@
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
       },
       {
-        "title": "WILLOW ALT",
+        "title": "WILLOW - ALT",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "SKY SPORT NZ",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
+      },
+      {
+        "title": "WILLOW HD",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "SonyLiv",
+        "logo": ""
       },
       {
         "title": "LOW SERVER",
         "logo": ""
       },
       {
-        "title": "WILLOW HD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+        "title": "SONY TEN 5 - IN",
+        "logo": ""
       }
     ]
   },

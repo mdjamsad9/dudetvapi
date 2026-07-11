@@ -265,9 +265,9 @@
       "SPOTV FHD",
       "MotoGP FHD",
       "AUVIO SPORTS",
-      "FOX SPORTS FHD",
+      "NOW SPORTS FHD",
       "TNT SPORTS FHD",
-      "TNT SPORTS SD",
+      "SKY SPORTS IT",
       "SportzX Live",
       "DAZN SPORTS",
       "CANAL+ HD"
@@ -290,7 +290,7 @@
         "logo": ""
       },
       {
-        "title": "FOX SPORTS FHD",
+        "title": "NOW SPORTS FHD",
         "logo": ""
       },
       {
@@ -298,8 +298,8 @@
         "logo": ""
       },
       {
-        "title": "TNT SPORTS SD",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+        "title": "SKY SPORTS IT",
+        "logo": ""
       },
       {
         "title": "SportzX Live",
@@ -585,7 +585,7 @@
       "FANCODE FHD",
       "TAPMAD FHD",
       "FANCODE SD",
-      "TAPMAD HD"
+      "FANCODE BD"
     ],
     "formatsNew": [
       {
@@ -601,7 +601,7 @@
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       },
       {
-        "title": "TAPMAD HD",
+        "title": "FANCODE BD",
         "logo": ""
       }
     ],
@@ -1107,56 +1107,6 @@
     "channel_status": "live"
   },
   {
-    "id": 50013,
-    "title": "Phoenix Suns",
-    "image": "o",
-    "cat": "NBA",
-    "eventInfo": {
-      "teamA": "Suns",
-      "teamB": "Trail Blazers",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3416/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3414/image",
-      "eventName": "Phoenix Suns vs Trail Blazers",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/11 03:00:00 +0000",
-      "endTime": "2026/07/11 06:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SportzX NBA",
-      "SportzX Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "SportzX NBA",
-        "logo": ""
-      },
-      {
-        "title": "SportzX Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/53204/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "SportzX NBA",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://edgestream3.pro/hls/pllmazjkdzajh72.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "SportzX Live",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
     "id": 50019,
     "title": "Wimbledon",
     "image": "o",
@@ -1276,18 +1226,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "ICC TV FHD",
       "WILLOW FHD",
       "SKY CRICKET FHD",
-      "WILLOW ALT",
+      "WILLOW - ALT",
+      "SKY SPORT NZ",
+      "WILLOW HD",
+      "SonyLiv",
       "LOW SERVER",
-      "WILLOW HD"
+      "SONY TEN 5 - IN"
     ],
     "formatsNew": [
-      {
-        "title": "ICC TV FHD",
-        "logo": ""
-      },
       {
         "title": "WILLOW FHD",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
@@ -1297,29 +1245,34 @@
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
       },
       {
-        "title": "WILLOW ALT",
+        "title": "WILLOW - ALT",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "SKY SPORT NZ",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
+      },
+      {
+        "title": "WILLOW HD",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "SonyLiv",
+        "logo": ""
       },
       {
         "title": "LOW SERVER",
         "logo": ""
       },
       {
-        "title": "WILLOW HD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+        "title": "SONY TEN 5 - IN",
+        "logo": ""
       }
     ],
     "decoded_channels": [
       {
-        "api": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-        "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1783702529~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=41341b330805b9c5a1cb484abbf27034c64edf771e4349ca37bfecb54f4a1792/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "ICC TV FHD",
-        "type": "1"
-      },
-      {
-        "api": "f52a13486b5aa72569ab1e6b45e7ec29:41611477a72a4b932513c0b824ccae06",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/orxueyvu1q/out/v1/4f512a0c1bf2470c875bf8b26b563c80/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "1d63df11bb77a72701ae3233bdbfa1ab:95598b0c96d8c75ec60041e9151c1b11",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/il6abt14ce/out/v1/7973ad2adc6341dcb785e9960bdf1c0c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW FHD",
         "type": "1"
@@ -1332,11 +1285,32 @@
         "type": "0"
       },
       {
-        "api": "f52a13486b5aa72569ab1e6b45e7ec29:41611477a72a4b932513c0b824ccae06",
-        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/orxueyvu1q/out/v1/4f512a0c1bf2470c875bf8b26b563c80/cenc.mpd",
+        "api": "1d63df11bb77a72701ae3233bdbfa1ab:95598b0c96d8c75ec60041e9151c1b11",
+        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/il6abt14ce/out/v1/7973ad2adc6341dcb785e9960bdf1c0c/cenc.mpd",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW ALT",
+        "title": "WILLOW - ALT",
         "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://tmaxapp.site/8wirwjs76erftg/skysport4nz.m3u8",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+        "title": "SKY SPORT NZ",
+        "type": "0"
+      },
+      {
+        "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "title": "WILLOW HD",
+        "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/20000292/cricodi1107/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=54eac2245e0f4496fac43f80ea197c26-1783762200160",
+        "logo": "",
+        "title": "SonyLiv",
+        "type": "0"
       },
       {
         "api": "",
@@ -1346,11 +1320,11 @@
         "type": "0"
       },
       {
-        "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW HD",
-        "type": "1"
+        "api": "",
+        "link": "https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783719307~acl=/*~id=93990197163189329710487836056018~hmac=f3dc79fa525d6349508ae77d9891919455c7ce84cf84d32d3b89f92643f80c24",
+        "logo": "",
+        "title": "SONY TEN 5 - IN",
+        "type": "0"
       }
     ],
     "channel_status": "live"
