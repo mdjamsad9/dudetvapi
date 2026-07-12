@@ -134,12 +134,12 @@
     "formats": [
       "FANCODE FHD",
       "SPOTV FHD",
-      "MotoGP FHD",
       "AUVIO SPORTS",
       "NOW SPORTS FHD",
       "TNT SPORTS FHD",
       "SKY SPORTS IT",
       "SportzX Live",
+      "MotoGP FHD",
       "DAZN SPORTS",
       "CANAL+ HD"
     ],
@@ -151,10 +151,6 @@
       {
         "title": "SPOTV FHD",
         "logo": "https://app.ksmctv.com/Content/MCTV/Image/Channel/31-SPOTV__2.png"
-      },
-      {
-        "title": "MotoGP FHD",
-        "logo": "https://img.sofascore.com/api/v1/category/1325/image"
       },
       {
         "title": "AUVIO SPORTS",
@@ -175,6 +171,10 @@
       {
         "title": "SportzX Live",
         "logo": ""
+      },
+      {
+        "title": "MotoGP FHD",
+        "logo": "https://img.sofascore.com/api/v1/category/1325/image"
       },
       {
         "title": "DAZN SPORTS",
@@ -468,19 +468,19 @@
       "eventType": "null",
       "eventBanner": "https://iili.io/C5FwXja.png",
       "isHot": "0",
-      "startTime": "2026/07/12 15:00:00 +0000",
+      "startTime": "2026/07/12 12:00:00 +0000",
       "endTime": "2026/07/12 20:30:00 +0000"
     },
     "adsLimit": "10",
     "publish": "1",
     "formats": [
-      "TSN5 SPORTS FHD",
-      "SP0TV HD",
       "TSN SPORTS FHD",
+      "TSN4 SPORTS FHD",
+      "SP0TV HD",
       "SP0TV2 HD",
       "TSN2 SPORTS FHD",
       "TSN3 SPORTS FHD",
-      "TSN4 SPORTS FHD",
+      "TSN5 SPORTS FHD",
       "EUROSPORT FHD",
       "EUROSPORT2 FHD",
       "SKY Wimbledon 1 [Italy]",
@@ -492,16 +492,16 @@
     ],
     "formatsNew": [
       {
-        "title": "TSN5 SPORTS FHD",
+        "title": "TSN SPORTS FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+      },
+      {
+        "title": "TSN4 SPORTS FHD",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
       },
       {
         "title": "SP0TV HD",
         "logo": ""
-      },
-      {
-        "title": "TSN SPORTS FHD",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
       },
       {
         "title": "SP0TV2 HD",
@@ -516,7 +516,7 @@
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
       },
       {
-        "title": "TSN4 SPORTS FHD",
+        "title": "TSN5 SPORTS FHD",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
       },
       {
@@ -574,8 +574,8 @@
     "formats": [
       "WILLOW FHD",
       "SKY CRICKET FHD",
-      "WILLOW - ALT",
       "SKY SPORT NZ",
+      "WILLOW - ALT",
       "WILLOW HD",
       "SonyLiv",
       "LOW SERVER",
@@ -591,12 +591,12 @@
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
       },
       {
-        "title": "WILLOW - ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
         "title": "SKY SPORT NZ",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
+      },
+      {
+        "title": "WILLOW - ALT",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
         "title": "WILLOW HD",
@@ -1239,55 +1239,32 @@
     ]
   },
   {
-    "id": 50073,
-    "title": "South Sydney vs Newcastle Knights",
+    "id": 50075,
+    "title": "Melbourne Storm vs Gold Coast Titans",
     "image": "o",
     "cat": "Rugby",
     "eventInfo": {
-      "teamA": "South Sydney",
-      "teamB": "Newcastle Knights",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4263/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4260/image",
-      "eventName": "South Sydney vs Newcastle Knights",
+      "teamA": "Melbourne",
+      "teamB": "Gold Coast",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4255/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/7313/image",
+      "eventName": "Melbourne Storm vs Gold Coast Titans",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/12 04:00:00 +0000",
-      "endTime": "2026/07/12 07:00:00 +0000"
+      "startTime": "2026/07/12 08:15:00 +0000",
+      "endTime": "2026/07/12 10:45:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "FOX SPORTS FHD",
       "SKY SPORTS SD"
     ],
     "formatsNew": [
       {
-        "title": "SKY SPORTS SD",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50074,
-    "title": "Manly Sea Eagles vs North Queensland Cowboys",
-    "image": "o",
-    "cat": "Rugby",
-    "eventInfo": {
-      "teamA": "Manly",
-      "teamB": "Cowboys",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4259/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4257/image",
-      "eventName": "Sea Eagles vs North Queensland",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/12 06:05:00 +0000",
-      "endTime": "2026/07/12 09:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SKY SPORTS SD"
-    ],
-    "formatsNew": [
+        "title": "FOX SPORTS FHD",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
+      },
       {
         "title": "SKY SPORTS SD",
         "logo": ""
