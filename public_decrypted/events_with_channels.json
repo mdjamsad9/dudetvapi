@@ -586,12 +586,10 @@
     "publish": "1",
     "formats": [
       "WILLOW FHD",
-      "WILLOW ALT",
       "TAPMAD FHD",
+      "WILLOW ALT",
       "LOW SERVER",
-      "WILLOW HD",
       "SONY TEN 1 - IN",
-      "SONY TEN 2 - IN",
       "SONY TEN 3 - IN",
       "SONY TEN 4 - IN"
     ],
@@ -601,27 +599,19 @@
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
-        "title": "WILLOW ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
         "title": "TAPMAD FHD",
         "logo": ""
+      },
+      {
+        "title": "WILLOW ALT",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
         "title": "LOW SERVER",
         "logo": ""
       },
       {
-        "title": "WILLOW HD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
         "title": "SONY TEN 1 - IN",
-        "logo": ""
-      },
-      {
-        "title": "SONY TEN 2 - IN",
         "logo": ""
       },
       {
@@ -635,64 +625,50 @@
     ],
     "decoded_channels": [
       {
-        "api": "4a63f817e48857c820181f7a22e8a1b4:e53140d61b7bb8c1697316c1ee7ddac8",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/aotzzbdadk/out/v1/8af31edf2d1f4ada9f496c3d7246eef8/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "63ff5bd50a863114f9d5fe0d18aff544:319760d139c5af680bab44664fd833ad",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cc53mv1f5j/out/v1/5a8e934d90344844ab860c36adb3b615/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW FHD",
         "type": "1"
       },
       {
-        "api": "4a63f817e48857c820181f7a22e8a1b4:e53140d61b7bb8c1697316c1ee7ddac8",
-        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/aotzzbdadk/out/v1/8af31edf2d1f4ada9f496c3d7246eef8/cenc.mpd",
+        "api": "",
+        "link": "https://pastebin.com/raw/wt7tUMmX?e=.m3u8",
+        "logo": "",
+        "title": "TAPMAD FHD",
+        "type": "0"
+      },
+      {
+        "api": "63ff5bd50a863114f9d5fe0d18aff544:319760d139c5af680bab44664fd833ad",
+        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cc53mv1f5j/out/v1/5a8e934d90344844ab860c36adb3b615/cenc.mpd",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW ALT",
         "type": "1"
       },
       {
         "api": "",
-        "link": "https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8|user-agent=ExoPlayerDemo/6.4.36 (Linux;Android 11) AndroidXMedia3/1.4.1",
-        "logo": "",
-        "title": "TAPMAD FHD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.42/hls/FBBBQQQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "link": "http://193.47.62.44/hls/zzzz.m3u8|referer=http://www.fawanews.sc/",
         "logo": "",
         "title": "LOW SERVER",
         "type": "0"
       },
       {
-        "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW HD",
-        "type": "1"
-      },
-      {
         "api": "",
-        "link": "https://dishmt.slivcdn.com//hls/live/2011747/TEN1HD/hdntl=exp=1777645864~acl=%2f*~id=b27d2482-0287-42d8-af15-470397faa7ed~data=hdntl~hmac=c89db728ca24f0307a0f968f96d718a00ec965d9f77c66c401254f4d5c97c69b/master_3500.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
+        "link": "https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1784062296~acl=/*~id=50631058332994174048547819394841~hmac=f76b01c8711269e15159856f7c4d88130f7ff9e9dab308e4626cd4344e7b34c4",
         "logo": "",
         "title": "SONY TEN 1 - IN",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/hdntl=exp=1777645864~acl=%2f*~id=b27d2482-0287-42d8-af15-470397faa7ed~data=hdntl~hmac=c89db728ca24f0307a0f968f96d718a00ec965d9f77c66c401254f4d5c97c69b/master_3500.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "SONY TEN 2 - IN",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1783800057~acl=/*~id=86e9774078e3c2ecd9ffa0bed9c78f04-1783756853945~hmac=d44c91ce6e9cb985bd62fd2b51efe516ac712b8eaf890aa72df20df90ae5b751",
+        "link": "https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1784062296~acl=/*~id=50631058332994174048547819394841~hmac=f76b01c8711269e15159856f7c4d88130f7ff9e9dab308e4626cd4344e7b34c4",
         "logo": "",
         "title": "SONY TEN 3 - IN",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1783800057~acl=/*~id=86e9774078e3c2ecd9ffa0bed9c78f04-1783756853945~hmac=d44c91ce6e9cb985bd62fd2b51efe516ac712b8eaf890aa72df20df90ae5b751",
+        "link": "https://dishmt.slivcdn.com/hls/live/2020589-b/ten4hd/master.m3u8?hdnea=exp=1784062296~acl=/*~id=50631058332994174048547819394841~hmac=f76b01c8711269e15159856f7c4d88130f7ff9e9dab308e4626cd4344e7b34c4",
         "logo": "",
         "title": "SONY TEN 4 - IN",
         "type": "0"
@@ -2286,6 +2262,154 @@
         "link": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/nsuvwbv5a0/out/v1/745ffbb961054110852973877632f4e9/f7dd18d6-fb4d-4a8a-80fb-0cea8594021e-cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36&referer=primevideo.com&origin=primevideo.com",
         "title": "TSN FRANCE FHD",
         "type": "1"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50073,
+    "title": "Houston Rockets vs Philadelphia 76ers",
+    "image": "o",
+    "cat": "NBA",
+    "eventInfo": {
+      "teamA": "Rockets",
+      "teamB": "76ers",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3412/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3420/image",
+      "eventName": "Houston Rockets vs Philadelphia 76ers",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/14 20:00:00 +0000",
+      "endTime": "2026/07/14 23:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SportzX Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "SportzX Live",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "title": "SportzX Live",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50074,
+    "title": "Brooklyn Nets vs Kings",
+    "image": "o",
+    "cat": "NBA",
+    "eventInfo": {
+      "teamA": "Nets",
+      "teamB": "Kings",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3436/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3413/image",
+      "eventName": "Brooklyn Nets vs Sacramento Kings",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/14 22:00:00 +0000",
+      "endTime": "2026/07/15 01:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SportzX Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "SportzX Live",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "title": "SportzX Live",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50075,
+    "title": "Warriors vs Memphis Grizzlies",
+    "image": "o",
+    "cat": "NBA",
+    "eventInfo": {
+      "teamA": "Warriors",
+      "teamB": "Grizzlies",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3428/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3415/image",
+      "eventName": "Golden State Warriors vs Memphis Grizzlies",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/14 23:00:00 +0000",
+      "endTime": "2026/07/15 02:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SportzX Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "SportzX Live",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "title": "SportzX Live",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50076,
+    "title": "Chicago Bulls vs Wizards",
+    "image": "o",
+    "cat": "NBA",
+    "eventInfo": {
+      "teamA": "Bulls",
+      "teamB": "Wizards",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3409/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3431/image",
+      "eventName": "Chicago Bulls vs Washington Wizards",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/15 00:00:00 +0000",
+      "endTime": "2026/07/15 03:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SportzX Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "SportzX Live",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "title": "SportzX Live",
+        "type": "0"
       }
     ],
     "channel_status": "live"
