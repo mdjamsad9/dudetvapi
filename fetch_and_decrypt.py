@@ -4,6 +4,7 @@ import json
 import base64
 import urllib.request
 import subprocess
+import re
 from Crypto.Cipher import AES
 
 # Set terminal encoding to UTF-8
@@ -11,6 +12,15 @@ sys.stdout.reconfigure(encoding="utf-8")
 
 CONFIG_FILE = "config.json"
 STATIC_KEY = b"6ayJ7jo@ao#pxVc%"
+
+def replace_sportzx_with_dudetv(data):
+    if isinstance(data, dict):
+        return {k: replace_sportzx_with_dudetv(v) for k, v in data.items()}
+    elif isinstance(data, list):
+        return [replace_sportzx_with_dudetv(item) for item in data]
+    elif isinstance(data, str):
+        return re.sub(r'(?i)sportzx', 'DUDE Tv', data)
+    return data
 
 def load_config():
     if not os.path.exists(CONFIG_FILE):
@@ -274,6 +284,7 @@ def main():
                 decrypted_json = decrypt_via_emulator(payload, apk_path, lib_path)
                 
             if decrypted_json:
+                decrypted_json = replace_sportzx_with_dudetv(decrypted_json)
                 output_file = os.path.join(out_dir, f"{name}.json")
                 with open(output_file, "w", encoding="utf-8") as out_f:
                     json.dump(decrypted_json, out_f, indent=2, ensure_ascii=False)
@@ -316,6 +327,7 @@ def main():
                                         print(f"      Failed to parse decrypted JSON for {cat_link}: {je}")
                                                 
                                     if sub_data:
+                                        sub_data = replace_sportzx_with_dudetv(sub_data)
                                         sub_out_file = os.path.join(sub_dir, f"{cat_link}.json")
                                         with open(sub_out_file, "w", encoding="utf-8") as sub_f:
                                             json.dump(sub_data, sub_f, indent=2, ensure_ascii=False)
@@ -360,6 +372,7 @@ def main():
                             if ch_payload:
                                 dec_ch = decrypt_via_emulator(ch_payload, apk_path, lib_path)
                                 if dec_ch:
+                                    dec_ch = replace_sportzx_with_dudetv(dec_ch)
                                     event_channels = dec_ch
                                     channel_status = "live"
                                     fetched_successfully = True
@@ -381,6 +394,7 @@ def main():
                                 if ch_payload:
                                     dec_ch = decrypt_via_emulator(ch_payload, apk_path, lib_path)
                                     if dec_ch:
+                                        dec_ch = replace_sportzx_with_dudetv(dec_ch)
                                         event_channels = dec_ch
                                         channel_status = "live"
                                         fetched_successfully = True
@@ -396,6 +410,7 @@ def main():
                                 try:
                                     with open(ch_out_file, "r", encoding="utf-8") as cached_f:
                                         event_channels = json.load(cached_f)
+                                    event_channels = replace_sportzx_with_dudetv(event_channels)
                                     channel_status = "cached"  # using last known good
                                     print(f"      [CACHED] Using last known data for {event_id} ({len(event_channels)} channels)")
                                 except Exception as cached_err:
@@ -490,6 +505,7 @@ def main():
                 if ch_payload:
                     dec_ch = decrypt_via_emulator(ch_payload, apk_path, lib_path)
                     if dec_ch:
+                        dec_ch = replace_sportzx_with_dudetv(dec_ch)
                         ch_out_file = os.path.join(ch_dir, f"{ch_id}.json")
                         with open(ch_out_file, "w", encoding="utf-8") as ch_f:
                             json.dump(dec_ch, ch_f, indent=2, ensure_ascii=False)

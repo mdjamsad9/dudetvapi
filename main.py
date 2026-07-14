@@ -3,8 +3,18 @@ import sys
 import json
 import base64
 import requests
+import re
 from cryptography.hazmat.primitives.ciphers import Cipher, algorithms, modes
 from cryptography.hazmat.backends import default_backend
+
+def replace_sportzx_with_dudetv(data):
+    if isinstance(data, dict):
+        return {k: replace_sportzx_with_dudetv(v) for k, v in data.items()}
+    elif isinstance(data, list):
+        return [replace_sportzx_with_dudetv(item) for item in data]
+    elif isinstance(data, str):
+        return re.sub(r'(?i)sportzx', 'DUDE Tv', data)
+    return data
 
 def clean_and_decode_b64(encrypted_b64):
     # Remove any whitespaces/newlines
@@ -107,6 +117,7 @@ def main():
                 print(f"Skipping {name}: Unknown format type {format_type}")
                 continue
             
+            decrypted_json = replace_sportzx_with_dudetv(decrypted_json)
             output_file = os.path.join(out_dir, f"{name}.json")
             with open(output_file, "w", encoding="utf-8") as out_f:
                 json.dump(decrypted_json, out_f, indent=2, ensure_ascii=False)
