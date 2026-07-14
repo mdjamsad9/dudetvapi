@@ -634,6 +634,7 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "WC TV FHD",
       "FOX ONE - AQ",
       "TSN4 SPORTS FHD",
       "ITV SPORTS HD",
@@ -642,16 +643,16 @@
       "FAST [NO Comment]",
       "FAST SERVER",
       "TOFFEE BDIX (BD)",
+      "TELEMUNDO HD",
+      "CANAL5 FHD",
       "TVE La 1 FHD",
       "TSN SPORTS FHD",
       "CTV SPORTS FHD",
       "D Sports FHD",
       "CAZE TV FHD",
-      "SporTV BR FHD",
+      "TUDN MEXICO",
       "FOX ONE HDR",
       "FOX SPORTS 4K",
-      "TRT SPORTS UHD",
-      "TELEMUNDO HD",
       "FOX ONE HD",
       "NPO1 DUTCH FHD",
       "M6 FRANCE (USA)",
@@ -671,7 +672,6 @@
       "DAZN SPANISH",
       "TYC SPORTS HD",
       "ISCREEN BD FHD",
-      "DUDE Tv Live",
       "HD SERVER ENG",
       "HD SERVER AR",
       "HD SERVER ES",
@@ -689,10 +689,14 @@
       "SD SERVER [SWE]",
       "beiN SPORTS FR",
       "ESPANOL SD",
-      "GOLTV VIVO",
-      "WC TV FHD"
+      "TSN HDR",
+      "beIN ARABIC FHD"
     ],
     "formatsNew": [
+      {
+        "title": "WC TV FHD",
+        "logo": "https://img.sofascore.com/api/v1/unique-tournament/16/image"
+      },
       {
         "title": "FOX ONE - AQ",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
@@ -726,6 +730,14 @@
         "logo": ""
       },
       {
+        "title": "TELEMUNDO HD",
+        "logo": ""
+      },
+      {
+        "title": "CANAL5 FHD",
+        "logo": ""
+      },
+      {
         "title": "TVE La 1 FHD",
         "logo": ""
       },
@@ -746,8 +758,8 @@
         "logo": "https://duckduckgo.com/i/dab0d6887915781c.png"
       },
       {
-        "title": "SporTV BR FHD",
-        "logo": "https://iili.io/CFFRvqJ.png"
+        "title": "TUDN MEXICO",
+        "logo": ""
       },
       {
         "title": "FOX ONE HDR",
@@ -756,14 +768,6 @@
       {
         "title": "FOX SPORTS 4K",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
-      },
-      {
-        "title": "TRT SPORTS UHD",
-        "logo": ""
-      },
-      {
-        "title": "TELEMUNDO HD",
-        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
       },
       {
         "title": "FOX ONE HD",
@@ -842,10 +846,6 @@
         "logo": "https://play-lh.googleusercontent.com/SPbTC9tI82cpBSS4Nsv6pd-mvQd1lnJU2omTqs-sv4DvIdHVRxvZ9OboJTV5Gy1erWo6H569kZ74ZBg6v6sz=w600-h300-pc0xffffff-pd"
       },
       {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
         "title": "HD SERVER ENG",
         "logo": ""
       },
@@ -914,12 +914,12 @@
         "logo": ""
       },
       {
-        "title": "GOLTV VIVO",
+        "title": "TSN HDR",
         "logo": ""
       },
       {
-        "title": "WC TV FHD",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/16/image"
+        "title": "beIN ARABIC FHD",
+        "logo": ""
       }
     ]
   },
