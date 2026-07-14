@@ -22,7 +22,7 @@
       "TSN SPORTS FHD",
       "FANCODE FHD",
       "beIN SPORTS FHD",
-      "SportzX F1 HD",
+      "DUDE Tv F1 HD",
       "SPX LIVE FHD",
       "FOX SPORTS FHD",
       "APPLE TV FHD",
@@ -52,7 +52,7 @@
         "logo": ""
       },
       {
-        "title": "SportzX F1 HD",
+        "title": "DUDE Tv F1 HD",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
       },
       {
@@ -138,7 +138,7 @@
       "NOW SPORTS FHD",
       "TNT SPORTS FHD",
       "SKY SPORTS IT",
-      "SportzX Live",
+      "DUDE Tv Live",
       "MotoGP FHD",
       "DAZN SPORTS",
       "CANAL+ HD"
@@ -169,7 +169,7 @@
         "logo": ""
       },
       {
-        "title": "SportzX Live",
+        "title": "DUDE Tv Live",
         "logo": ""
       },
       {
@@ -206,7 +206,7 @@
     "publish": "1",
     "formats": [
       "TSN SPORTS",
-      "SportzX WWE",
+      "DUDE Tv WWE",
       "Fox Sports Premium",
       "BACKUP HD",
       "BACKUP SD"
@@ -217,7 +217,7 @@
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
       },
       {
-        "title": "SportzX WWE",
+        "title": "DUDE Tv WWE",
         "logo": ""
       },
       {
@@ -404,20 +404,20 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SportzX WWE",
-      "SportzX RAW",
+      "DUDE Tv WWE",
+      "DUDE Tv RAW",
       "HD SERVER",
-      "SportzX HD",
+      "DUDE Tv HD",
       "Backup SD",
       "Tap Sport LQ"
     ],
     "formatsNew": [
       {
-        "title": "SportzX WWE",
+        "title": "DUDE Tv WWE",
         "logo": ""
       },
       {
-        "title": "SportzX RAW",
+        "title": "DUDE Tv RAW",
         "logo": ""
       },
       {
@@ -425,7 +425,7 @@
         "logo": ""
       },
       {
-        "title": "SportzX HD",
+        "title": "DUDE Tv HD",
         "logo": ""
       },
       {
@@ -458,17 +458,17 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SportzX WWE HD",
+      "DUDE Tv WWE HD",
       "WWE LIVE HD",
       "SD SERVER",
-      "SportzX TV+ HD",
+      "DUDE Tv TV+ HD",
       "HD QUALITY",
       "LOW QUALITY",
       "USA TV"
     ],
     "formatsNew": [
       {
-        "title": "SportzX WWE HD",
+        "title": "DUDE Tv WWE HD",
         "logo": ""
       },
       {
@@ -480,7 +480,7 @@
         "logo": ""
       },
       {
-        "title": "SportzX TV+ HD",
+        "title": "DUDE Tv TV+ HD",
         "logo": ""
       },
       {
@@ -493,6 +493,129 @@
       },
       {
         "title": "USA TV",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50012,
+    "title": "Thunder vs Denver Nuggets",
+    "image": "o",
+    "cat": "NBA",
+    "eventInfo": {
+      "teamA": "Thunder",
+      "teamB": "Nuggets",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3418/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3417/image",
+      "eventName": "Thunder vs Denver Nuggets",
+      "eventType": "null",
+      "eventBanner": "null",
+      "isHot": "0",
+      "startTime": "2026/07/15 01:00:00 +0000",
+      "endTime": "2026/07/15 04:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv",
+      "DUDE Tv SD"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv SD",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50013,
+    "title": "Los Angeles Lakers",
+    "image": "o",
+    "cat": "NBA",
+    "eventInfo": {
+      "teamA": "Lakers",
+      "teamB": "Clippers",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3427/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3425/image",
+      "eventName": "Los Angeles Lakers vs Clippers",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/15 02:00:00 +0000",
+      "endTime": "2026/07/15 05:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv NBA",
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv NBA",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50055,
+    "title": "Connecticut Sun vs Portland",
+    "image": "o",
+    "cat": "WNBA",
+    "eventInfo": {
+      "teamA": "Sun",
+      "teamB": "Fire",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/35547/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1166446/image",
+      "eventName": "Connecticut Sun vs Portland Fire",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/14 15:00:00 +0000",
+      "endTime": "2026/07/14 17:45:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50056,
+    "title": "Toronto Tempo vs Mystics",
+    "image": "o",
+    "cat": "WNBA",
+    "eventInfo": {
+      "teamA": "Tempo",
+      "teamB": "Mystics",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1166445/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3454/image",
+      "eventName": "Toronto Tempo vs Washington Mystics",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/14 23:00:00 +0000",
+      "endTime": "2026/07/15 01:45:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv",
         "logo": ""
       }
     ]
@@ -555,7 +678,7 @@
       "DAZN SPANISH",
       "TYC SPORTS HD",
       "ISCREEN BD FHD",
-      "SportzX Live",
+      "DUDE Tv Live",
       "HD SERVER ENG",
       "HD SERVER AR",
       "HD SERVER ES",
@@ -734,7 +857,7 @@
         "logo": ""
       },
       {
-        "title": "SportzX Live",
+        "title": "DUDE Tv Live",
         "logo": ""
       },
       {
@@ -1138,11 +1261,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SportzX Live"
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
-        "title": "SportzX Live",
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
@@ -1166,11 +1289,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SportzX Live"
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
-        "title": "SportzX Live",
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
@@ -1194,11 +1317,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SportzX Live"
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
-        "title": "SportzX Live",
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
@@ -1222,11 +1345,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SportzX Live"
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
-        "title": "SportzX Live",
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
