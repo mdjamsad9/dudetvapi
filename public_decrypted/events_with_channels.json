@@ -1138,9 +1138,10 @@
       "ITV SPORTS HD",
       "TSN SPORTS HD",
       "RTE SPORTS FHD",
+      "UNITE8 HINDI HD",
+      "beIN ARABIC FHD",
       "FAST [NO Comment]",
       "FAST SERVER",
-      "TOFFEE BDIX (BD)",
       "TELEMUNDO HD",
       "CANAL5 FHD",
       "TVE La 1 FHD",
@@ -1154,7 +1155,6 @@
       "FOX ONE HD",
       "NPO1 DUTCH FHD",
       "M6 FRANCE (USA)",
-      "UNITE8 HINDI HD",
       "TSN SPORTS FHD",
       "FOX ONE FHD",
       "FOX 4K [ALT]",
@@ -1188,7 +1188,7 @@
       "beiN SPORTS FR",
       "ESPANOL SD",
       "TSN HDR",
-      "beIN ARABIC FHD"
+      "beIN ARABIC HD"
     ],
     "formatsNew": [
       {
@@ -1216,6 +1216,14 @@
         "logo": "https://r2.thesportsdb.com/images/media/channel/logo/syptrs1458515379.png"
       },
       {
+        "title": "UNITE8 HINDI HD",
+        "logo": ""
+      },
+      {
+        "title": "beIN ARABIC FHD",
+        "logo": ""
+      },
+      {
         "title": "FAST [NO Comment]",
         "logo": ""
       },
@@ -1224,12 +1232,8 @@
         "logo": ""
       },
       {
-        "title": "TOFFEE BDIX (BD)",
-        "logo": ""
-      },
-      {
         "title": "TELEMUNDO HD",
-        "logo": ""
+        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
       },
       {
         "title": "CANAL5 FHD",
@@ -1277,10 +1281,6 @@
       },
       {
         "title": "M6 FRANCE (USA)",
-        "logo": ""
-      },
-      {
-        "title": "UNITE8 HINDI HD",
         "logo": ""
       },
       {
@@ -1413,10 +1413,10 @@
       },
       {
         "title": "TSN HDR",
-        "logo": ""
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
       },
       {
-        "title": "beIN ARABIC FHD",
+        "title": "beIN ARABIC HD",
         "logo": ""
       }
     ],
@@ -1427,6 +1427,20 @@
         "logo": "https://img.sofascore.com/api/v1/unique-tournament/16/image",
         "title": "WC TV FHD",
         "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://hugh.cdn.rumble.cloud/live/k1ub38pe/live-hls/y835-iiaw/chunklist_i1.m3u8",
+        "logo": "",
+        "title": "UNITE8 HINDI HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/KEMXALi2QwxUE4Tdi140oMX37KNmyASmX5ztkmnSalpsKdiD-el2Q23Ahim8wDbj__G891JIrjGgpuOSQ4aBCQ/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_highlatency.m3u8?type=live",
+        "logo": "",
+        "title": "beIN ARABIC FHD",
+        "type": "0"
       },
       {
         "api": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
@@ -1458,7 +1472,7 @@
       },
       {
         "api": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
-        "link": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/0d80be88-2ffb-4548-8db3-a64235332b23:GRQ/manifest.mpd",
+        "link": "https://dai.google.com/linear/dash/pa/event/antwa0EiQm2PoHtx4rBtVw/stream/68a87ab9-4097-41ae-9943-b9e926472ebd:BRU/manifest.mpd",
         "logo": "https://r2.thesportsdb.com/images/media/channel/logo/syptrs1458515379.png",
         "title": "RTE SPORTS FHD",
         "type": "1"
@@ -1479,15 +1493,8 @@
       },
       {
         "api": "",
-        "link": "ok",
-        "logo": "",
-        "title": "TOFFEE BDIX (BD)",
-        "type": "0"
-      },
-      {
-        "api": "",
         "link": "https://chatgpt.hereisman.net/playlist/53355/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
+        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
         "title": "TELEMUNDO HD",
         "type": "0"
       },
@@ -1576,13 +1583,6 @@
         "type": "1"
       },
       {
-        "api": "",
-        "link": "http://fastshare1.com/live/112233/445566/741567.ts",
-        "logo": "",
-        "title": "UNITE8 HINDI HD",
-        "type": "0"
-      },
-      {
         "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
         "link": "https://abeqnpaaaaaaaaamkm25dx7jyzllj.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
@@ -1618,11 +1618,11 @@
         "type": "1"
       },
       {
-        "api": "",
-        "link": "ok",
+        "api": "00220148b14226afa81321a1ac4dec32:913857cbca1270e47f121c673afd8d64",
+        "link": "https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021779-723637-49139658575)/master_2hr.mpd?c3.ri=6a567c64_Q1ZYMDc_1_Q0xPVURGUk9OVA_2b3369291cb0%3A0&aws.sessionId=52b5845e-1bb4-464c-8b41-1d5c6a7386b0&ck=eyIwMDIyMDE0OGIxNDIyNmFmYTgxMzIxYTFhYzRkZWMzMiI6IjkxMzg1N2NiY2ExMjcwZTQ3ZjEyMWM2NzNhZmQ4ZDY0In0%3D",
         "logo": "",
         "title": "PEACOCK FHD [ALT]",
-        "type": "0"
+        "type": "1"
       },
       {
         "api": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
@@ -1809,20 +1809,13 @@
       {
         "api": "e5352c80bcb63ca6249f50cb98ecbcda:4da41337590f3792b0b40dfd9f18db18",
         "link": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/unkiaag7nz/out/v1/ccaa047c50fd4170b6a39c08238346ed/69f26ffb-befe-4f74-a04a-eff1b0bda0c6-cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36&referer=primevideo.com&origin=primevideo.com",
-        "logo": "",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "title": "TSN HDR",
         "type": "1"
       },
       {
         "api": "",
-        "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/KEMXALi2QwxUE4Tdi140oMX37KNmyASmX5ztkmnSalpsKdiD-el2Q23Ahim8wDbj__G891JIrjGgpuOSQ4aBCQ/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_highlatency.m3u8?type=live",
-        "logo": "",
-        "title": "beIN ARABIC FHD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://3.simokora.com/my-hls/h9asfma10d5/source/index.m3u8",
+        "link": "https://cp11.adabmedia.com/hls2/sport.m3u8",
         "logo": "",
         "title": "beIN ARABIC HD",
         "type": "0"
