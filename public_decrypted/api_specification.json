@@ -1,0 +1,85 @@
+{
+  "api_name": "DUDE TV Decrypted API",
+  "base_url": "https://mdjamsad9.github.io/dudetvapi/public_decrypted",
+  "description": "This is a clean, decrypted static JSON API database for DUDE TV, generated automatically every 6 hours via GitHub Actions.",
+  "endpoints": {
+    "categories_menu": {
+      "path": "/cats.json",
+      "description": "Main category menu list. Contains the category names, images, and links.",
+      "fields": {
+        "id": "Unique category identifier",
+        "title": "Category display name",
+        "image": "Category thumbnail URL",
+        "catLink": "The path to the subcategory channels list (e.g. 'cats/bangla.json') OR a direct M3U playlist URL (starts with http/https)"
+      },
+      "usage_flow": "Step 1: Fetch this file to render the menu. When user clicks a category: if 'catLink' starts with 'http', stream the M3U. If it points to a local file, fetch it from 'base_url + /cats/{catLink}'."
+    },
+    "sports_tv_channels": {
+      "path": "/sports.json",
+      "description": "List of standard sports TV channels.",
+      "fields": {
+        "id": "Unique TV channel identifier (e.g., '1')",
+        "title": "Channel display name",
+        "image": "Channel logo URL",
+        "formats": "Array of stream server format names"
+      },
+      "usage_flow": "To play a TV channel: Fetch its stream links using '/channels/{id}.json' (e.g., '/channels/1.json')."
+    },
+    "live_events": {
+      "path": "/events.json",
+      "description": "List of live and upcoming sports matches and events.",
+      "fields": {
+        "id": "Unique event identifier (e.g. 50002)",
+        "title": "Event title",
+        "eventInfo": "Object containing teams, logos, event name, start and end times",
+        "formats": "Available stream quality/server names"
+      },
+      "usage_flow": "To play a live match/event: Fetch its stream links using '/channels/{id}.json' (e.g., '/channels/50002.json')."
+    },
+    "live_events_combined": {
+      "path": "/events_with_channels.json",
+      "description": "A consolidated central database combining all live events directly with their decrypted channel links. Recommended for web and single-page apps to avoid multiple fetch requests.",
+      "fields": {
+        "id": "Event identifier",
+        "title": "Event title",
+        "decoded_channels": "Array of stream objects containing 'api', 'link', 'logo', and 'title'"
+      }
+    },
+    "highlights": {
+      "path": "/highlights.json",
+      "description": "List of completed matches highlights and replays.",
+      "fields": {
+        "id": "Unique highlight identifier (e.g. 100035)",
+        "title": "Match title",
+        "eventInfo": "Teams and start/end time metadata",
+        "formats": "Available highlight categories (e.g., HIGHLIGHTS, FULL MATCH)"
+      },
+      "usage_flow": "To play highlights: Fetch its stream links using '/channels/{id}.json' (e.g., '/channels/100035.json')."
+    },
+    "event_categories": {
+      "path": "/eventcats.json",
+      "description": "Filter categories for live events (e.g. Football, Cricket, Badminton)."
+    }
+  },
+  "sub_directories": {
+    "subcategory_details": {
+      "path_pattern": "/cats/{catLink}.json",
+      "description": "Contains list of channels inside a specific category (e.g. `/cats/bangla.json`).",
+      "fields": {
+        "id": "Channel identifier (use this to fetch stream links from /channels/{id}.json)",
+        "title": "Channel display name",
+        "image": "Channel logo URL"
+      }
+    },
+    "decrypted_stream_links": {
+      "path_pattern": "/channels/{id}.json",
+      "description": "Contains decrypted playback streams for any specific live event, highlight, or TV channel.",
+      "fields": {
+        "title": "Stream title/quality/server name (e.g. beIN Sports HD)",
+        "link": "The playback stream URL (DASH/MPD or HLS/M3U8). Note: Some URLs contain headers like '|user-agent=...' or '|Cookie=...' which MUST be parsed and set as custom request headers in your player.",
+        "api": "ClearKey decryption keys in the format 'kid:key' for encrypted DASH streams (if applicable)."
+      },
+      "player_decryption_handling": "If 'api' is present (e.g. '385ceb97...:18dce92...'), it represents a DRM protected stream. Split the 'api' string by ':' to get the Key ID (left) and Key (right), and pass them to your player's DRM ClearKey configuration."
+    }
+  }
+}
