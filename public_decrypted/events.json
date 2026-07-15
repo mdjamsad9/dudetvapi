@@ -640,43 +640,40 @@
   },
   {
     "id": 50065,
-    "title": "France vs Spain",
+    "title": "England vs Argentina",
     "image": "o",
     "cat": "FIFA World Cup",
     "eventInfo": {
-      "teamA": "France",
-      "teamB": "Spain",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4481/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4698/image",
-      "eventName": "France vs Spain",
+      "teamA": "England",
+      "teamB": "Argentina",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4713/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4819/image",
+      "eventName": "England vs Argentina",
       "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/14 19:00:00 +0000",
-      "endTime": "2026/07/14 21:15:00 +0000"
+      "isHot": "1",
+      "startTime": "2026/07/15 19:00:00 +0000",
+      "endTime": "2026/07/15 21:15:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "WC TV FHD",
-      "UNITE8 HINDI HD",
-      "beIN ARABIC FHD",
-      "ITV SPORTS HD",
-      "SPANISH FHD",
       "FOX ONE - AQ",
-      "TSN4 SPORTS FHD",
+      "BBC SPORTS HD",
       "TSN SPORTS HD",
+      "TSN4 SPORTS FHD",
+      "CTV SPORTS FHD",
+      "ISCREEN BD FHD",
       "RTE SPORTS FHD",
       "FAST [NO Comment]",
       "FAST SERVER",
-      "ISCREEN BD FHD",
       "TELEMUNDO HD",
       "CANAL5 FHD",
       "TVE La 1 FHD",
       "TSN SPORTS FHD",
-      "CTV SPORTS FHD",
       "D Sports FHD",
       "CAZE TV FHD",
       "TUDN MEXICO",
+      "SporTV BR FHD",
       "FOX ONE HDR",
       "FOX SPORTS 4K",
       "FOX ONE HD",
@@ -714,40 +711,32 @@
       "beiN SPORTS FR",
       "ESPANOL SD",
       "TSN HDR",
-      "beIN ARABIC HD"
+      "SPANISH FHD"
     ],
     "formatsNew": [
       {
-        "title": "WC TV FHD",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/16/image"
+        "title": "FOX ONE - AQ",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
       },
       {
-        "title": "UNITE8 HINDI HD",
-        "logo": ""
-      },
-      {
-        "title": "beIN ARABIC FHD",
-        "logo": ""
-      },
-      {
-        "title": "ITV SPORTS HD",
+        "title": "BBC SPORTS HD",
         "logo": "https://r2.thesportsdb.com/images/media/channel/logo/mcoywh1678355150.png"
       },
       {
-        "title": "SPANISH FHD",
-        "logo": ""
-      },
-      {
-        "title": "FOX ONE - AQ",
-        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
+        "title": "TSN SPORTS HD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
       },
       {
         "title": "TSN4 SPORTS FHD",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
       },
       {
-        "title": "TSN SPORTS HD",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+        "title": "CTV SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "ISCREEN BD FHD",
+        "logo": "https://play-lh.googleusercontent.com/SPbTC9tI82cpBSS4Nsv6pd-mvQd1lnJU2omTqs-sv4DvIdHVRxvZ9OboJTV5Gy1erWo6H569kZ74ZBg6v6sz=w600-h300-pc0xffffff-pd"
       },
       {
         "title": "RTE SPORTS FHD",
@@ -760,10 +749,6 @@
       {
         "title": "FAST SERVER",
         "logo": ""
-      },
-      {
-        "title": "ISCREEN BD FHD",
-        "logo": "https://play-lh.googleusercontent.com/SPbTC9tI82cpBSS4Nsv6pd-mvQd1lnJU2omTqs-sv4DvIdHVRxvZ9OboJTV5Gy1erWo6H569kZ74ZBg6v6sz=w600-h300-pc0xffffff-pd"
       },
       {
         "title": "TELEMUNDO HD",
@@ -782,10 +767,6 @@
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
       },
       {
-        "title": "CTV SPORTS FHD",
-        "logo": ""
-      },
-      {
         "title": "D Sports FHD",
         "logo": ""
       },
@@ -795,6 +776,10 @@
       },
       {
         "title": "TUDN MEXICO",
+        "logo": ""
+      },
+      {
+        "title": "SporTV BR FHD",
         "logo": ""
       },
       {
@@ -946,311 +931,7 @@
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
       },
       {
-        "title": "beIN ARABIC HD",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50067,
-    "title": "Argentina vs England",
-    "image": "o",
-    "cat": "FIFA World Cup",
-    "eventInfo": {
-      "teamA": "England",
-      "teamB": "Argentina",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4713/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4819/image",
-      "eventName": "England vs Argentina",
-      "eventType": "null",
-      "eventBanner": "null",
-      "isHot": "1",
-      "startTime": "2026/07/15 19:00:00 +0000",
-      "endTime": "2026/07/15 21:15:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "FOX ONE - AQ",
-      "WC TV FHD",
-      "ITV SPORTS HD",
-      "TSN SPORTS HD",
-      "TOFFEE LIVE",
-      "SPX FHD LIVE",
-      "TELEMUNDO HD",
-      "FAST SERVER FR",
-      "FAST [NO Comment]",
-      "TSN SPORTS FHD",
-      "ITV SPORTS FHD",
-      "RTE SPORTS FHD",
-      "CTV SPORTS FHD",
-      "TSN4 SPORTS FHD",
-      "D Sports FHD",
-      "CAZE TV FHD",
-      "beIN SPORTS HD",
-      "FOX FHD HDR",
-      "FOX SPORTS 4K",
-      "IRIB 4K",
-      "UNITE8 HINDI",
-      "FOX SPORTS HD",
-      "NPO1 DUTCH FHD",
-      "M6 FRANCE (USA)",
-      "TSN Sports FHD",
-      "FOX SPORTS FHD",
-      "TSN SPORTS [ALT]",
-      "FOX ONE [ALT]",
-      "FOX 4K [ALT]",
-      "PEACOCK FHD [ALT]",
-      "TELEMUNDO [USA]",
-      "FUSSBALL TV1 4K",
-      "FUSSBALL TV2 4K",
-      "FOX SPORTS HD",
-      "TSN SPORTS HD",
-      "TYC SPORTS HD",
-      "DAZN SPANISH",
-      "HD SERVER EN",
-      "HD SERVER AR",
-      "HD SERVER ES",
-      "MATCH TV RU",
-      "FUSSBALL 4K [GER]",
-      "FUSSBALL2 4K [GER]",
-      "FUSSBALL TV FHD",
-      "FUSSBALL2 TV FHD",
-      "TELEMUNDO [ALT]",
-      "SD SERVER [ENG]",
-      "ENG SERVER SD",
-      "SD SERVER  [SWE]",
-      "beiN SPORTS FR",
-      "ESPANOL SD",
-      "TSports BDIX",
-      "SomoyTV BDIX",
-      "TSN HDR",
-      "TSN Espanol FHD",
-      "TSN FRANCE FHD"
-    ],
-    "formatsNew": [
-      {
-        "title": "FOX ONE - AQ",
-        "logo": ""
-      },
-      {
-        "title": "WC TV FHD",
-        "logo": ""
-      },
-      {
-        "title": "ITV SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "TSN SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "TOFFEE LIVE",
-        "logo": ""
-      },
-      {
-        "title": "SPX FHD LIVE",
-        "logo": ""
-      },
-      {
-        "title": "TELEMUNDO HD",
-        "logo": ""
-      },
-      {
-        "title": "FAST SERVER FR",
-        "logo": ""
-      },
-      {
-        "title": "FAST [NO Comment]",
-        "logo": ""
-      },
-      {
-        "title": "TSN SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "ITV SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "RTE SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "CTV SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "TSN4 SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "D Sports FHD",
-        "logo": ""
-      },
-      {
-        "title": "CAZE TV FHD",
-        "logo": ""
-      },
-      {
-        "title": "beIN SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "FOX FHD HDR",
-        "logo": ""
-      },
-      {
-        "title": "FOX SPORTS 4K",
-        "logo": ""
-      },
-      {
-        "title": "IRIB 4K",
-        "logo": ""
-      },
-      {
-        "title": "UNITE8 HINDI",
-        "logo": ""
-      },
-      {
-        "title": "FOX SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "NPO1 DUTCH FHD",
-        "logo": ""
-      },
-      {
-        "title": "M6 FRANCE (USA)",
-        "logo": ""
-      },
-      {
-        "title": "TSN Sports FHD",
-        "logo": ""
-      },
-      {
-        "title": "FOX SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "TSN SPORTS [ALT]",
-        "logo": ""
-      },
-      {
-        "title": "FOX ONE [ALT]",
-        "logo": ""
-      },
-      {
-        "title": "FOX 4K [ALT]",
-        "logo": ""
-      },
-      {
-        "title": "PEACOCK FHD [ALT]",
-        "logo": ""
-      },
-      {
-        "title": "TELEMUNDO [USA]",
-        "logo": ""
-      },
-      {
-        "title": "FUSSBALL TV1 4K",
-        "logo": ""
-      },
-      {
-        "title": "FUSSBALL TV2 4K",
-        "logo": ""
-      },
-      {
-        "title": "FOX SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "TSN SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "TYC SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "DAZN SPANISH",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER EN",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER AR",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER ES",
-        "logo": ""
-      },
-      {
-        "title": "MATCH TV RU",
-        "logo": ""
-      },
-      {
-        "title": "FUSSBALL 4K [GER]",
-        "logo": ""
-      },
-      {
-        "title": "FUSSBALL2 4K [GER]",
-        "logo": ""
-      },
-      {
-        "title": "FUSSBALL TV FHD",
-        "logo": ""
-      },
-      {
-        "title": "FUSSBALL2 TV FHD",
-        "logo": ""
-      },
-      {
-        "title": "TELEMUNDO [ALT]",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER [ENG]",
-        "logo": ""
-      },
-      {
-        "title": "ENG SERVER SD",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER  [SWE]",
-        "logo": ""
-      },
-      {
-        "title": "beiN SPORTS FR",
-        "logo": ""
-      },
-      {
-        "title": "ESPANOL SD",
-        "logo": ""
-      },
-      {
-        "title": "TSports BDIX",
-        "logo": ""
-      },
-      {
-        "title": "SomoyTV BDIX",
-        "logo": ""
-      },
-      {
-        "title": "TSN HDR",
-        "logo": ""
-      },
-      {
-        "title": "TSN Espanol FHD",
-        "logo": ""
-      },
-      {
-        "title": "TSN FRANCE FHD",
+        "title": "SPANISH FHD",
         "logo": ""
       }
     ]
