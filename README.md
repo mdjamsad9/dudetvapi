@@ -1,6 +1,6 @@
 # DUDE TV API Scraper & Decryptor Template
 
-This repository automatically fetches, decrypts, and hosts static JSON feeds from the `mymodi.top` domain using GitHub Actions.
+This repository automatically fetches, decrypts, and hosts static JSON feeds from the `streamtvapp.top` domain using GitHub Actions.
 
 ## How it Works
 

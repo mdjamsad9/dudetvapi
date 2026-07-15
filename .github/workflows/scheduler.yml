@@ -51,6 +51,6 @@ jobs:
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        git add public_decrypted/
+        git add -f public_decrypted/
         git commit -m "chore: update decrypted data feeds [skip ci]" || exit 0
         git push

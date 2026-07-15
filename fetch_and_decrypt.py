@@ -142,6 +142,38 @@ def decrypt_via_emulator(payload, apk_path, lib_path):
         if os.path.exists(temp_file):
             os.remove(temp_file)
 
+def decrypt_data(payload, apk_path=None, lib_path=None):
+    try:
+        enc_bytes = clean_and_decode_b64(payload)
+        # Check for DEADBEEF format (starts with \xde\xad\xbe\xef)
+        if len(enc_bytes) >= 20 and enc_bytes[:4] == b'\xde\xad\xbe\xef':
+            if apk_path and lib_path:
+                print("      [DEADBEEF] Decrypting via emulator JNI...")
+                return decrypt_via_emulator(payload, apk_path, lib_path)
+            else:
+                print("      [DEADBEEF] Emulator not available. Decrypting locally with static key...")
+                iv = enc_bytes[4:20]
+                ciphertext = enc_bytes[20:]
+                dec = decrypt_cbc(ciphertext, STATIC_KEY, iv)
+                dec_str = dec.decode("utf-8", errors="ignore")
+                dec_str = dec_str.rstrip('\x00\x01\x02\x03\x04\x05\x06\x07\x08\x09\x0a\x0b\x0c\x0d\x0e\x0f\x10')
+                return json.loads(dec_str)
+        else:
+            print("      [Static Format] Decrypting locally...")
+            dec = decrypt_cbc(enc_bytes, STATIC_KEY, b"HsjJTCA7jJztpL2w")
+            dec_str = dec.decode("utf-8", errors="ignore")
+            dec_str = dec_str.rstrip('\x00\x01\x02\x03\x04\x05\x06\x07\x08\x09\x0a\x0b\x0c\x0d\x0e\x0f\x10')
+            return json.loads(dec_str)
+    except Exception as e:
+        print(f"      Decryption attempt failed: {e}")
+        if apk_path and lib_path:
+            try:
+                print("      Trying emulator JNI fallback...")
+                return decrypt_via_emulator(payload, apk_path, lib_path)
+            except Exception as jnie:
+                print(f"      JNI fallback failed: {jnie}")
+        return None
+
 def write_api_specification(out_dir):
     spec = {
         "api_name": "DUDE TV Decrypted API",
@@ -277,11 +309,8 @@ def main():
                 decrypted_json = decrypt_local_b5cdbd48(enc_bytes, iv_str)
                 
             elif format_type == "deadbeef":
-                if not emulator_available:
-                    print(f"  Skipping {name}: Requires emulator for native JNI decryption.")
-                    continue
-                print(f"  Decrypting via JNI emulator decryptor...")
-                decrypted_json = decrypt_via_emulator(payload, apk_path, lib_path)
+                print(f"  Decrypting {name}...")
+                decrypted_json = decrypt_data(payload, apk_path, lib_path)
                 
             if decrypted_json:
                 decrypted_json = replace_sportzx_with_dudetv(decrypted_json)
@@ -307,7 +336,7 @@ def main():
                             print(f"    [{i+1}/{len(decrypted_json)}] Fetching subcategory: {title} ({cat_link})...")
                             try:
                                 relative_path = f"cats/{cat_link}.json"
-                                sub_url = f"https://cdn-stream.top/{relative_path}"
+                                sub_url = f"https://streamtvapp.top/{relative_path}"
                                 sub_req = urllib.request.Request(sub_url, headers={"User-Agent": "Mozilla/5.0"})
                                 with urllib.request.urlopen(sub_req, timeout=15) as sub_res:
                                     sub_json = json.loads(sub_res.read().decode("utf-8"))
@@ -345,8 +374,8 @@ def main():
                     print(f"  [SUCCESS] Updated {output_file} with hosted API links.")
                 
                 # If this is events.json, process individual channels
-                if name == "events" and emulator_available:
-                    print("  Processing individual channels for each event...")
+                if name == "events":
+                    print("  Processing individual channels for each event (merging main and fallback)...")
                     ch_dir = os.path.join(out_dir, "channels")
                     os.makedirs(ch_dir, exist_ok=True)
                     events_with_channels = []
@@ -359,50 +388,61 @@ def main():
                         event_channels = []
                         ch_out_file = os.path.join(ch_dir, f"{event_id}.json")
                         channel_status = "unavailable"  # default
-
-                        # Attempt to fetch with the main ID
+                        
+                        channels1 = []
+                        channels2 = []
                         fetched_successfully = False
+
+                        # 1. Fetch main ID channels
                         try:
-                            ch_url = f"https://cdn-stream.top/channels/{event_id}.json"
+                            ch_url = f"https://streamtvapp.top/channels/{event_id}.json"
                             ch_req = urllib.request.Request(ch_url, headers={"User-Agent": "Mozilla/5.0"})
                             with urllib.request.urlopen(ch_req, timeout=15) as ch_res:
                                 ch_json = json.loads(ch_res.read().decode("utf-8"))
                             
                             ch_payload = ch_json.get("data")
                             if ch_payload:
-                                dec_ch = decrypt_via_emulator(ch_payload, apk_path, lib_path)
+                                dec_ch = decrypt_data(ch_payload, apk_path, lib_path)
                                 if dec_ch:
-                                    dec_ch = replace_sportzx_with_dudetv(dec_ch)
-                                    event_channels = dec_ch
-                                    channel_status = "live"
+                                    channels1 = replace_sportzx_with_dudetv(dec_ch)
                                     fetched_successfully = True
-                                    with open(ch_out_file, "w", encoding="utf-8") as ch_f:
-                                        json.dump(dec_ch, ch_f, indent=2, ensure_ascii=False)
-                                    print(f"      Saved: {ch_out_file} ({len(dec_ch)} channels) [LIVE]")
+                                    print(f"      Fetched {event_id}.json ({len(channels1)} channels)")
                         except Exception as ce:
-                            print(f"      First attempt failed for {event_id}: {ce}")
+                            print(f"      Main attempt failed for {event_id}: {ce}")
 
-                        # If not fetched successfully (or returned empty channels), try with ID + 'e'
-                        if not fetched_successfully:
-                            try:
-                                ch_url = f"https://cdn-stream.top/channels/{event_id}e.json"
-                                ch_req = urllib.request.Request(ch_url, headers={"User-Agent": "Mozilla/5.0"})
-                                with urllib.request.urlopen(ch_req, timeout=15) as ch_res:
-                                    ch_json = json.loads(ch_res.read().decode("utf-8"))
-                                
-                                ch_payload = ch_json.get("data")
-                                if ch_payload:
-                                    dec_ch = decrypt_via_emulator(ch_payload, apk_path, lib_path)
-                                    if dec_ch:
-                                        dec_ch = replace_sportzx_with_dudetv(dec_ch)
-                                        event_channels = dec_ch
-                                        channel_status = "live"
-                                        fetched_successfully = True
-                                        with open(ch_out_file, "w", encoding="utf-8") as ch_f:
-                                            json.dump(dec_ch, ch_f, indent=2, ensure_ascii=False)
-                                        print(f"      Saved: {ch_out_file} ({len(dec_ch)} channels) [LIVE (fallback ID: {event_id}e)]")
-                            except Exception as ce2:
-                                print(f"      Fallback attempt failed for {event_id}e: {ce2}")
+                        # 2. Fetch fallback ID 'e' channels
+                        try:
+                            ch_url = f"https://streamtvapp.top/channels/{event_id}e.json"
+                            ch_req = urllib.request.Request(ch_url, headers={"User-Agent": "Mozilla/5.0"})
+                            with urllib.request.urlopen(ch_req, timeout=15) as ch_res:
+                                ch_json = json.loads(ch_res.read().decode("utf-8"))
+                            
+                            ch_payload = ch_json.get("data")
+                            if ch_payload:
+                                dec_ch = decrypt_data(ch_payload, apk_path, lib_path)
+                                if dec_ch:
+                                    channels2 = replace_sportzx_with_dudetv(dec_ch)
+                                    fetched_successfully = True
+                                    print(f"      Fetched fallback {event_id}e.json ({len(channels2)} channels)")
+                        except Exception as ce2:
+                            print(f"      Fallback attempt failed for {event_id}e: {ce2}")
+
+                        # 3. Merge and deduplicate channels if we fetched anything
+                        if fetched_successfully:
+                            seen_links = set()
+                            merged_channels = []
+                            for ch in (channels1 + channels2):
+                                # Clean link comparison by ignoring query params or request headers after '|'
+                                link = ch.get("link", "").split("|")[0].strip()
+                                if link and link not in seen_links:
+                                    seen_links.add(link)
+                                    merged_channels.append(ch)
+                            
+                            event_channels = merged_channels
+                            channel_status = "live"
+                            with open(ch_out_file, "w", encoding="utf-8") as ch_f:
+                                json.dump(event_channels, ch_f, indent=2, ensure_ascii=False)
+                            print(f"      Saved merged: {ch_out_file} ({len(event_channels)} channels) [LIVE]")
 
                         # If both attempts failed to fetch live data, use cache if available
                         if not fetched_successfully:
@@ -438,80 +478,80 @@ def main():
             print(f"  [ERROR] Failed to process {name}: {e}")
 
     # Collect and process all unique TV channel stream links from all subcategories
-    if emulator_available:
-        print("\n=== Harvesting TV Channel Streams from Subcategories ===")
-        ch_dir = os.path.join(out_dir, "channels")
-        os.makedirs(ch_dir, exist_ok=True)
-        
-        tv_channel_ids = set()
-        
-        # Read subcategory files from public_decrypted/cats/
-        sub_dir = os.path.join(out_dir, "cats")
-        if os.path.exists(sub_dir):
-            for file_name in os.listdir(sub_dir):
-                if file_name.endswith(".json"):
-                    sub_path = os.path.join(sub_dir, file_name)
-                    try:
-                        with open(sub_path, "r", encoding="utf-8") as sf:
-                            channels_list = json.load(sf)
-                        if isinstance(channels_list, list):
-                            for ch in channels_list:
-                                ch_id = ch.get("id")
-                                if ch_id:
-                                    tv_channel_ids.add(str(ch_id))
-                    except Exception as e:
-                        print(f"Error reading subcategory file {file_name}: {e}")
-                        
-        # Read channels from sports.json (main category file)
-        sports_path = os.path.join(out_dir, "sports.json")
-        if os.path.exists(sports_path):
-            try:
-                with open(sports_path, "r", encoding="utf-8") as sf:
-                    channels_list = json.load(sf)
-                if isinstance(channels_list, list):
-                    for ch in channels_list:
-                        ch_id = ch.get("id")
-                        if ch_id:
-                            tv_channel_ids.add(str(ch_id))
-            except Exception as e:
-                print(f"Error reading sports.json: {e}")
-                
-        # Read channels from highlights.json
-        highlights_path = os.path.join(out_dir, "highlights.json")
-        if os.path.exists(highlights_path):
-            try:
-                with open(highlights_path, "r", encoding="utf-8") as sf:
-                    channels_list = json.load(sf)
-                if isinstance(channels_list, list):
-                    for ch in channels_list:
-                        ch_id = ch.get("id")
-                        if ch_id:
-                            tv_channel_ids.add(str(ch_id))
-            except Exception as e:
-                print(f"Error reading highlights.json: {e}")
-                
-        print(f"Found {len(tv_channel_ids)} unique TV channel/highlight IDs in subcategories.")
-        
-        # Fetch and decrypt each TV channel stream info
-        for idx, ch_id in enumerate(sorted(list(tv_channel_ids))):
-            print(f"    [{idx+1}/{len(tv_channel_ids)}] Fetching TV channel ID: {ch_id}...")
-            try:
-                ch_url = f"https://cdn-stream.top/channels/{ch_id}.json"
-                ch_req = urllib.request.Request(ch_url, headers={"User-Agent": "Mozilla/5.0"})
-                with urllib.request.urlopen(ch_req, timeout=12) as ch_res:
-                    ch_json = json.loads(ch_res.read().decode("utf-8"))
-                
-                ch_payload = ch_json.get("data")
-                if ch_payload:
-                    dec_ch = decrypt_via_emulator(ch_payload, apk_path, lib_path)
-                    if dec_ch:
-                        dec_ch = replace_sportzx_with_dudetv(dec_ch)
-                        ch_out_file = os.path.join(ch_dir, f"{ch_id}.json")
-                        with open(ch_out_file, "w", encoding="utf-8") as ch_f:
-                            json.dump(dec_ch, ch_f, indent=2, ensure_ascii=False)
-                        print(f"      Saved: {ch_out_file} ({len(dec_ch)} channels)")
-            except Exception as ce:
-                print(f"      Failed to process TV channel {ch_id}: {ce}")
+    # We run this even if emulator is not available because we have local decryption fallback
+    print("\n=== Harvesting TV Channel Streams from Subcategories ===")
+    ch_dir = os.path.join(out_dir, "channels")
+    os.makedirs(ch_dir, exist_ok=True)
+    
+    tv_channel_ids = set()
+    
+    # Read subcategory files from public_decrypted/cats/
+    sub_dir = os.path.join(out_dir, "cats")
+    if os.path.exists(sub_dir):
+        for file_name in os.listdir(sub_dir):
+            if file_name.endswith(".json"):
+                sub_path = os.path.join(sub_dir, file_name)
+                try:
+                    with open(sub_path, "r", encoding="utf-8") as sf:
+                        channels_list = json.load(sf)
+                    if isinstance(channels_list, list):
+                        for ch in channels_list:
+                            ch_id = ch.get("id")
+                            if ch_id:
+                                tv_channel_ids.add(str(ch_id))
+                except Exception as e:
+                    print(f"Error reading subcategory file {file_name}: {e}")
+                    
+    # Read channels from sports.json (main category file)
+    sports_path = os.path.join(out_dir, "sports.json")
+    if os.path.exists(sports_path):
+        try:
+            with open(sports_path, "r", encoding="utf-8") as sf:
+                channels_list = json.load(sf)
+            if isinstance(channels_list, list):
+                for ch in channels_list:
+                    ch_id = ch.get("id")
+                    if ch_id:
+                        tv_channel_ids.add(str(ch_id))
+        except Exception as e:
+            print(f"Error reading sports.json: {e}")
+            
+    # Read channels from highlights.json
+    highlights_path = os.path.join(out_dir, "highlights.json")
+    if os.path.exists(highlights_path):
+        try:
+            with open(highlights_path, "r", encoding="utf-8") as sf:
+                channels_list = json.load(sf)
+            if isinstance(channels_list, list):
+                for ch in channels_list:
+                    ch_id = ch.get("id")
+                    if ch_id:
+                        tv_channel_ids.add(str(ch_id))
+        except Exception as e:
+            print(f"Error reading highlights.json: {e}")
+            
+    print(f"Found {len(tv_channel_ids)} unique TV channel/highlight IDs in subcategories.")
+    
+    # Fetch and decrypt each TV channel stream info
+    for idx, ch_id in enumerate(sorted(list(tv_channel_ids))):
+        print(f"    [{idx+1}/{len(tv_channel_ids)}] Fetching TV channel ID: {ch_id}...")
+        try:
+            ch_url = f"https://streamtvapp.top/channels/{ch_id}.json"
+            ch_req = urllib.request.Request(ch_url, headers={"User-Agent": "Mozilla/5.0"})
+            with urllib.request.urlopen(ch_req, timeout=12) as ch_res:
+                ch_json = json.loads(ch_res.read().decode("utf-8"))
+            
+            ch_payload = ch_json.get("data")
+            if ch_payload:
+                dec_ch = decrypt_data(ch_payload, apk_path, lib_path)
+                if dec_ch:
+                    dec_ch = replace_sportzx_with_dudetv(dec_ch)
+                    ch_out_file = os.path.join(ch_dir, f"{ch_id}.json")
+                    with open(ch_out_file, "w", encoding="utf-8") as ch_f:
+                        json.dump(dec_ch, ch_f, indent=2, ensure_ascii=False)
+                    print(f"      Saved: {ch_out_file} ({len(dec_ch)} channels)")
+        except Exception as ce:
+            print(f"      Failed to process TV channel {ch_id}: {ce}")
 
     # Write the API specification JSON file
     write_api_specification(out_dir)

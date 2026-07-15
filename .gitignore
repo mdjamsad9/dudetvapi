@@ -1,0 +1,26 @@
+# Generated outputs (should not be committed locally, GitHub actions will generate/host them)
+public_decrypted/
+
+# Python caching & bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Java compilation artifacts
+*.class
+*.dex
+classes.dex
+
+# Logs
+*.log
+temp_payload.txt
+
+# IDE settings
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
