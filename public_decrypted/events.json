@@ -12,18 +12,20 @@
       "eventName": "Formula 1 - Belgium Grand Prix",
       "eventType": "null",
       "eventBanner": "https://iili.io/Cl54sja.png",
-      "isHot": "1",
-      "startTime": "2026/07/17 11:30:00 +0000",
-      "endTime": "2026/07/17 16:30:00 +0000"
+      "isHot": "0",
+      "startTime": "2026/07/18 10:30:00 +0000",
+      "endTime": "2026/07/18 15:45:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "TSN SPORTS FHD",
       "FANCODE FHD",
       "DUDE Tv F1 HD",
-      "SKY FHD LIVE",
+      "SPORTSCAST FHD",
       "FOX SPORTS FHD",
       "APPLE TV FHD",
+      "F1 RUSSIA FHD",
       "DAZN ESPANOL",
       "SKY ITALY FHD",
       "LOW RES",
@@ -32,10 +34,13 @@
       "Tipik FRANCE FHD",
       "SKY SPORTS HD",
       "ELEVEN SPORTS",
-      "Fox Sports - AQ",
-      "TSN SPORTS FHD"
+      "Fox Sports - AQ"
     ],
     "formatsNew": [
+      {
+        "title": "TSN SPORTS FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+      },
       {
         "title": "FANCODE FHD",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
@@ -45,7 +50,7 @@
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
       },
       {
-        "title": "SKY FHD LIVE",
+        "title": "SPORTSCAST FHD",
         "logo": ""
       },
       {
@@ -54,6 +59,10 @@
       },
       {
         "title": "APPLE TV FHD",
+        "logo": ""
+      },
+      {
+        "title": "F1 RUSSIA FHD",
         "logo": ""
       },
       {
@@ -91,10 +100,6 @@
       {
         "title": "Fox Sports - AQ",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
-      },
-      {
-        "title": "TSN SPORTS FHD",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
       }
     ]
   },
@@ -167,6 +172,65 @@
       },
       {
         "title": "CANAL+ HD",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50004,
+    "title": "UFC",
+    "image": "o",
+    "cat": "UFC",
+    "eventInfo": {
+      "teamA": "D. Du Plessis",
+      "teamB": "K. Usman",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/461874/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1243923/image",
+      "eventName": "UFC Fight Night: Du Plessis vs Usman",
+      "eventType": "null",
+      "eventBanner": "null",
+      "isHot": "0",
+      "startTime": "2026/07/18 21:00:00 +0000",
+      "endTime": "2026/07/19 04:30:00 +0000"
+    },
+    "adsLimit": "15",
+    "publish": "1",
+    "formats": [
+      "PARAMOUNT+ HD",
+      "PARAMOUNT+ AQ",
+      "PARAMOUNT+ S2",
+      "PARAMOUNT+ BR",
+      "SD TV (USE VPN)",
+      "DUDE Tv LIVE",
+      "PARAMOUNT+ EN FHD"
+    ],
+    "formatsNew": [
+      {
+        "title": "PARAMOUNT+ HD",
+        "logo": ""
+      },
+      {
+        "title": "PARAMOUNT+ AQ",
+        "logo": ""
+      },
+      {
+        "title": "PARAMOUNT+ S2",
+        "logo": ""
+      },
+      {
+        "title": "PARAMOUNT+ BR",
+        "logo": ""
+      },
+      {
+        "title": "SD TV (USE VPN)",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv LIVE",
+        "logo": ""
+      },
+      {
+        "title": "PARAMOUNT+ EN FHD",
         "logo": ""
       }
     ]
@@ -483,6 +547,63 @@
     ]
   },
   {
+    "id": 50012,
+    "title": "Portland Trail Blazers",
+    "image": "o",
+    "cat": "NBA",
+    "eventInfo": {
+      "teamA": "Jazz",
+      "teamB": "Trail Blazers",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3434/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3414/image",
+      "eventName": "Utah Jazz vs Portland Trail Blazers",
+      "eventType": "null",
+      "eventBanner": "null",
+      "isHot": "0",
+      "startTime": "2026/07/18 02:30:00 +0000",
+      "endTime": "2026/07/18 05:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv SD"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv SD",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50013,
+    "title": "Minnesota Timberwolves",
+    "image": "o",
+    "cat": "NBA",
+    "eventInfo": {
+      "teamA": "Clippers",
+      "teamB": "Timberwolves",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3425/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3426/image",
+      "eventName": "Los Angeles Clippers vs Minnesota Timberwolves",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/18 03:00:00 +0000",
+      "endTime": "2026/07/18 06:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50032,
     "title": "Colorado Rockies",
     "image": "o",
@@ -643,6 +764,34 @@
     ]
   },
   {
+    "id": 50054,
+    "title": "CFL",
+    "image": "o",
+    "cat": "CFL",
+    "eventInfo": {
+      "teamA": "Edmonton",
+      "teamB": "BC",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4434/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4440/image",
+      "eventName": "Edmonton Elks vs BC Lions",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/18 01:00:00 +0000",
+      "endTime": "2026/07/18 03:45:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "TSN SPORTS FHD"
+    ],
+    "formatsNew": [
+      {
+        "title": "TSN SPORTS FHD",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50055,
     "title": "Chicago Sky vs Sparks",
     "image": "o",
@@ -717,12 +866,12 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv WNBA",
+      "TSN SPORTS FHD",
       "DUDE Tv Live"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv WNBA",
+        "title": "TSN SPORTS FHD",
         "logo": ""
       },
       {
@@ -814,6 +963,39 @@
       {
         "title": "LOW SERVER",
         "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50061,
+    "title": "Lanka Premier League",
+    "image": "o",
+    "cat": "Cricket",
+    "eventInfo": {
+      "teamA": "Jaffna Kings",
+      "teamB": "Galle Gallants",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/453388/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/453389/image",
+      "eventName": "Jaffna Kings vs Galle Gallants",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/17 14:00:00 +0000",
+      "endTime": "2026/07/17 17:45:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "WILLOW FHD",
+      "WILLOW ALT"
+    ],
+    "formatsNew": [
+      {
+        "title": "WILLOW FHD",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "WILLOW ALT",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       }
     ]
   },
@@ -1455,6 +1637,34 @@
     ]
   },
   {
+    "id": 50073,
+    "title": "Juarez vs Club Puebla",
+    "image": "o",
+    "cat": "Liga MX",
+    "eventInfo": {
+      "teamA": "Juárez",
+      "teamB": "Puebla",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/201624/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1941/image",
+      "eventName": "FC Juárez vs Club Puebla",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/18 03:00:00 +0000",
+      "endTime": "2026/07/18 05:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50074,
     "title": "LA Galaxy vs Los Angeles",
     "image": "o",
@@ -1886,47 +2096,19 @@
   },
   {
     "id": 50090,
-    "title": "Sydney Swans vs Adelaide Crows",
+    "title": "San Luis vs Cruz Azul",
     "image": "o",
-    "cat": "AFL",
+    "cat": "Liga MX",
     "eventInfo": {
-      "teamA": "Sydney",
-      "teamB": "Adelaide",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4447/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4442/image",
-      "eventName": "Sydney Swans vs Adelaide Crows",
+      "teamA": "San Luis",
+      "teamB": "Cruz Azul",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1950/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1947/image",
+      "eventName": "Atlético San Luis vs Cruz Azul",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/17 09:40:00 +0000",
-      "endTime": "2026/07/17 12:10:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "FOX SPORTS FHD"
-    ],
-    "formatsNew": [
-      {
-        "title": "FOX SPORTS FHD",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50091,
-    "title": "Sharks vs Newcastle Knights",
-    "image": "o",
-    "cat": "NRL Rugby",
-    "eventInfo": {
-      "teamA": "Cronulla",
-      "teamB": "Newcastle",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4266/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4260/image",
-      "eventName": "Cronulla Sharks vs Newcastle Knights",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/17 08:00:00 +0000",
-      "endTime": "2026/07/17 10:30:00 +0000"
+      "startTime": "2026/07/18 01:00:00 +0000",
+      "endTime": "2026/07/18 03:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1941,20 +2123,20 @@
     ]
   },
   {
-    "id": 50092,
-    "title": "Roosters vs Melbourne Storm",
+    "id": 50091,
+    "title": "Huddersfield vs Wigan Warriors",
     "image": "o",
-    "cat": "NRL Rugby",
+    "cat": "Rugby",
     "eventInfo": {
-      "teamA": "Sydney",
-      "teamB": "Melbourne",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4264/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4255/image",
-      "eventName": "Sydney Roosters vs Melbourne Storm",
+      "teamA": "Huddersfield",
+      "teamB": "Wigan",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4241/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4233/image",
+      "eventName": "Huddersfield Giants vs Wigan Warriors",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/17 10:00:00 +0000",
-      "endTime": "2026/07/17 12:30:00 +0000"
+      "startTime": "2026/07/17 19:00:00 +0000",
+      "endTime": "2026/07/17 21:15:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1987,11 +2169,128 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TSN 2"
+      "TSN SPORTS FHD"
     ],
     "formatsNew": [
       {
-        "title": "TSN 2",
+        "title": "TSN SPORTS FHD",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50094,
+    "title": "Club León vs Atlas",
+    "image": "o",
+    "cat": "Liga MX",
+    "eventInfo": {
+      "teamA": "León",
+      "teamB": "Atlas ",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/36534/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1949/image",
+      "eventName": "Club León vs Atlas FC",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/18 01:00:00 +0000",
+      "endTime": "2026/07/18 03:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50095,
+    "title": "Bahia vs Chapecoense",
+    "image": "o",
+    "cat": "Brasileirão",
+    "eventInfo": {
+      "teamA": "Bahia",
+      "teamB": "Chapecoense",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1955/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/21845/image",
+      "eventName": "Bahia vs Chapecoense",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/17 22:30:00 +0000",
+      "endTime": "2026/07/18 00:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "PREMIERER BR"
+    ],
+    "formatsNew": [
+      {
+        "title": "PREMIERER BR",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50096,
+    "title": "Fluminense vs RB Bragantino",
+    "image": "o",
+    "cat": "Brasileirão",
+    "eventInfo": {
+      "teamA": "Fluminense",
+      "teamB": "RB Bragantino",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1961/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1999/image",
+      "eventName": "Fluminense vs RB Bragantino",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/17 23:00:00 +0000",
+      "endTime": "2026/07/18 01:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "PREMIERER BR",
+      "SportDigital Fussball"
+    ],
+    "formatsNew": [
+      {
+        "title": "PREMIERER BR",
+        "logo": ""
+      },
+      {
+        "title": "SportDigital Fussball",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50097,
+    "title": "Mirassol vs Grêmio",
+    "image": "o",
+    "cat": "Brasileirão",
+    "eventInfo": {
+      "teamA": "Mirassol",
+      "teamB": "Grêmio",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/21982/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/5926/image",
+      "eventName": "Mirassol vs Grêmio",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/17 23:00:00 +0000",
+      "endTime": "2026/07/18 01:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "PREMIERER BR"
+    ],
+    "formatsNew": [
+      {
+        "title": "PREMIERER BR",
         "logo": ""
       }
     ]
