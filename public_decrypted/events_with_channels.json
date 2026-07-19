@@ -1272,15 +1272,27 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv LIVE"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv LIVE",
         "logo": ""
       }
     ],
     "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/53564/load-playlist?|Referer=https://gooz.aapmains.net/",
+        "logo": "",
+        "title": "DUDE Tv MLB",
+        "type": "0"
+      },
       {
         "api": "",
         "link": "https://edgestream3.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
@@ -1493,20 +1505,20 @@
     "channel_status": "live"
   },
   {
-    "id": 50055,
-    "title": "Dallas Wings vs Sparks",
+    "id": 50056,
+    "title": "Dream vs Chicago Sky",
     "image": "o",
     "cat": "WNBA",
     "eventInfo": {
-      "teamA": "Wings",
-      "teamB": "Sparks",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3450/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3447/image",
-      "eventName": "Dallas Wings vs Los Angeles Sparks",
+      "teamA": "Dream",
+      "teamB": "Sky",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/35545/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/35546/image",
+      "eventName": "Atlanta Dream vs Chicago Sky",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/19 17:00:00 +0000",
-      "endTime": "2026/07/19 19:45:00 +0000"
+      "startTime": "2026/07/19 20:00:00 +0000",
+      "endTime": "2026/07/19 22:45:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1527,49 +1539,11 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/53541/load-playlist?|Referer=https://gooz.aapmains.net/",
+        "link": "https://chatgpt.hereisman.net/playlist/53562/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "",
         "title": "DUDE Tv WNBA",
         "type": "0"
       },
-      {
-        "api": "",
-        "link": "https://edgestream1.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50056,
-    "title": "Dream vs Chicago Sky",
-    "image": "o",
-    "cat": "WNBA",
-    "eventInfo": {
-      "teamA": "Dream",
-      "teamB": "Sky",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/35545/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/35546/image",
-      "eventName": "Atlanta Dream vs Chicago Sky",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/19 20:00:00 +0000",
-      "endTime": "2026/07/19 22:45:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
       {
         "api": "",
         "link": "https://edgestream2.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
@@ -1814,29 +1788,28 @@
       "eventBanner": "null",
       "isHot": "1",
       "startTime": "2026/07/19 18:50:00 +0000",
-      "endTime": "2026/07/19 21:15:00 +0000"
+      "endTime": "2026/07/19 23:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "Fusball 4K MULTI",
+      "ITV SPORTS HD",
       "Fox Sports UHD [US VPN]",
-      "UNIFY TV FHD",
-      "KAN 11 FHD",
-      "FOX ONE - AQ",
-      "GLOBOSP BR",
       "DUDE Tv Live",
       "ISCREEN BD FHD",
       "FAST SERVER FR",
-      "ITV SPORTS HD",
-      "TSN SPORTS HD",
       "beIN MAX HD",
+      "FOX ONE - AQ",
+      "UNIFY TV FHD",
+      "GLOBOSP BR",
+      "TSN SPORTS HD",
       "CCTV SPORTS HD",
       "MUNIDAL HD",
       "CAZE TV HD",
       "TELEMUNDO FHD",
       "Fox Sports 4K",
       "TSN SPORTS FHD",
-      "Fusball 4K MULTI",
       "CANAL5",
       "TVE La 1 FHD",
       "FUSSBALL TV FHD",
@@ -1887,24 +1860,16 @@
     ],
     "formatsNew": [
       {
+        "title": "Fusball 4K MULTI",
+        "logo": ""
+      },
+      {
+        "title": "ITV SPORTS HD",
+        "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png"
+      },
+      {
         "title": "Fox Sports UHD [US VPN]",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
-      },
-      {
-        "title": "UNIFY TV FHD",
-        "logo": ""
-      },
-      {
-        "title": "KAN 11 FHD",
-        "logo": ""
-      },
-      {
-        "title": "FOX ONE - AQ",
-        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
-      },
-      {
-        "title": "GLOBOSP BR",
-        "logo": ""
       },
       {
         "title": "DUDE Tv Live",
@@ -1919,16 +1884,24 @@
         "logo": ""
       },
       {
-        "title": "ITV SPORTS HD",
-        "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png"
+        "title": "beIN MAX HD",
+        "logo": ""
+      },
+      {
+        "title": "FOX ONE - AQ",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
+      },
+      {
+        "title": "UNIFY TV FHD",
+        "logo": ""
+      },
+      {
+        "title": "GLOBOSP BR",
+        "logo": ""
       },
       {
         "title": "TSN SPORTS HD",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
-      },
-      {
-        "title": "beIN MAX HD",
-        "logo": ""
       },
       {
         "title": "CCTV SPORTS HD",
@@ -1953,10 +1926,6 @@
       {
         "title": "TSN SPORTS FHD",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
-      },
-      {
-        "title": "Fusball 4K MULTI",
-        "logo": ""
       },
       {
         "title": "CANAL5",
@@ -2150,37 +2119,23 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://foxdtc-video.akamaized.net/ZXhwPTE3ODQ1NjQxODc7YWNsPS8qO3dzaWQ9ZThkZWM0NWJhZDNjN2Y3ODNlYWMxNjYxNDk2NjQyOTVfZm94ZHRjX2FuZHJvaWR0dl9lbi1VUztobWFjPW41QjV5bE90dDdFVkhTei9aVEU4QmlxcjFxWmNmTEJWN1VXK3BLSkhsMWs9/live/uhd-1-b-uw2/index.m3u8",
-        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-        "title": "Fox Sports UHD [US VPN]",
+        "link": "https://cast.zlive.st/p/a1e123c50c75cf09/index.m3u8?|referer=https://zlive.st/",
+        "logo": "",
+        "title": "Fusball 4K MULTI",
         "type": "0"
       },
       {
-        "api": "10e2114398744f3880cc96653568da55:d6d40441f9fbebea03ec64c4aea7211f",
-        "link": "https://anak-fifuck.donasi-dulu-colong-kemudian.workers.dev/Content/DASH/Live/channel(fifa1)/master.mpd?hdntl=st=1784480346~exp=1784570346~acl=/Content/DASH/Live/channel(fifa1)/*~id=feeywxgMAObNR5wIftrBt2PkP0I4nspAy0b2-z_bEQ8S~hmac=d5a4dad519e21881367b63417ca801a5007c3d726bbbe15b14825b65787c2c89",
-        "logo": "",
-        "title": "UNIFY TV FHD",
-        "type": "1"
-      },
-      {
-        "api": "23fad97468a1338f973d192646df2d19:27fd56ffd7d70ec6aa9252e713c21190",
-        "link": "https://n-121-7.il.cdn-redge.media/livedash/oil/freetv/live/kan11/live.livx?manifest.mpd",
-        "logo": "",
-        "title": "KAN 11 FHD",
-        "type": "1"
-      },
-      {
-        "api": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-        "title": "FOX ONE - AQ",
-        "type": "1"
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/53550/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png",
+        "title": "ITV SPORTS HD",
+        "type": "0"
       },
       {
         "api": "",
-        "link": "https://live-ancdn-06.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCRCIsImRvbWFpbiI6ImxpdmUtYW5jZG4tMDYudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzg0NTA4NjEyLCJpYXQiOjE3ODQ0ODcwMTIsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiYmE2Mzc2NDAtN2I0ZS00ZTBmLTkwYjktMzI1ZDllM2ZiYTMwIiwicGF0aCI6Ii9saXZlL2YobGwpL2dsb2JvLWZpZmEyNi9wbGF5bGlzdC5tM3U4In0.rmVpOmu-gGUslWqy0NTr34CWJq8RTvcci-oEqEdzNBZVBz7sF9YZNR-ebxS4IWZaCR68SyiscB42dMquOepK4PW6-sC8DkmJxG9edkqUslEA8KG3vRm-82XTcYn8cVz_9LHBo3EOrRNuojS0_Bji-dmYrVjYYWJmtqkWAYmdjvxFJlnKYimu025y_PAMUmZtf_t_4zs8TTXQ3WlVFOh3krV4yM9_BOGmXBS5lBDFO1-at1nysGtjXqQ33FlWWa8wMWd8OJnfFIZcq8eKUjY56oJji_09VpUMeqkLKw-yn-IIx5MGpPPJr2C7NUSAKj50Ur4cskJb3us2cy2Q_QR5pA/live/f(ll)/globo-fifa26/playlist.m3u8",
-        "logo": "",
-        "title": "GLOBOSP BR",
+        "link": "https://foxdtc-video.akamaized.net/ZXhwPTE3ODQ1NjQxODc7YWNsPS8qO3dzaWQ9ZThkZWM0NWJhZDNjN2Y3ODNlYWMxNjYxNDk2NjQyOTVfZm94ZHRjX2FuZHJvaWR0dl9lbi1VUztobWFjPW41QjV5bE90dDdFVkhTei9aVEU4QmlxcjFxWmNmTEJWN1VXK3BLSkhsMWs9/live/uhd-1-b-uw2/index.m3u8",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+        "title": "Fox Sports UHD [US VPN]",
         "type": "0"
       },
       {
@@ -2192,7 +2147,7 @@
       },
       {
         "api": "",
-        "link": "https://lkjhgf-zxcvbnmq.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019f7a7fea1b1ea557843549782f9b/main.m3u8|referer=https://iscreen.com.bd/",
+        "link": "https://lkjhgf-zxcvbnmq.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019f7a80c28515fc600b375de3e273/main.m3u8?|referer=https://iscreen.com.bd/",
         "logo": "https://play-lh.googleusercontent.com/SPbTC9tI82cpBSS4Nsv6pd-mvQd1lnJU2omTqs-sv4DvIdHVRxvZ9OboJTV5Gy1erWo6H569kZ74ZBg6v6sz=w600-h300-pc0xffffff-pd",
         "title": "ISCREEN BD FHD",
         "type": "0"
@@ -2206,9 +2161,30 @@
       },
       {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/53550/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png",
-        "title": "ITV SPORTS HD",
+        "link": "https://cua.atharican.shop/menze1.m3u8",
+        "logo": "",
+        "title": "beIN MAX HD",
+        "type": "0"
+      },
+      {
+        "api": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+        "title": "FOX ONE - AQ",
+        "type": "1"
+      },
+      {
+        "api": "10e2114398744f3880cc96653568da55:d6d40441f9fbebea03ec64c4aea7211f",
+        "link": "https://anak-fifuck.donasi-dulu-colong-kemudian.workers.dev/Content/DASH/Live/channel(fifa1)/master.mpd?hdntl=st=1784480346~exp=1784570346~acl=/Content/DASH/Live/channel(fifa1)/*~id=feeywxgMAObNR5wIftrBt2PkP0I4nspAy0b2-z_bEQ8S~hmac=d5a4dad519e21881367b63417ca801a5007c3d726bbbe15b14825b65787c2c89",
+        "logo": "",
+        "title": "UNIFY TV FHD",
+        "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://live-ancdn-06.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCRCIsImRvbWFpbiI6ImxpdmUtYW5jZG4tMDYudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzg0NTA4NjEyLCJpYXQiOjE3ODQ0ODcwMTIsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiYmE2Mzc2NDAtN2I0ZS00ZTBmLTkwYjktMzI1ZDllM2ZiYTMwIiwicGF0aCI6Ii9saXZlL2YobGwpL2dsb2JvLWZpZmEyNi9wbGF5bGlzdC5tM3U4In0.rmVpOmu-gGUslWqy0NTr34CWJq8RTvcci-oEqEdzNBZVBz7sF9YZNR-ebxS4IWZaCR68SyiscB42dMquOepK4PW6-sC8DkmJxG9edkqUslEA8KG3vRm-82XTcYn8cVz_9LHBo3EOrRNuojS0_Bji-dmYrVjYYWJmtqkWAYmdjvxFJlnKYimu025y_PAMUmZtf_t_4zs8TTXQ3WlVFOh3krV4yM9_BOGmXBS5lBDFO1-at1nysGtjXqQ33FlWWa8wMWd8OJnfFIZcq8eKUjY56oJji_09VpUMeqkLKw-yn-IIx5MGpPPJr2C7NUSAKj50Ur4cskJb3us2cy2Q_QR5pA/live/f(ll)/globo-fifa26/playlist.m3u8",
+        "logo": "",
+        "title": "GLOBOSP BR",
         "type": "0"
       },
       {
@@ -2216,13 +2192,6 @@
         "link": "https://chatgpt.hereisman.net/playlist/53540/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "title": "TSN SPORTS HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://cua.atharican.shop/menze1.m3u8",
-        "logo": "",
-        "title": "beIN MAX HD",
         "type": "0"
       },
       {
@@ -2265,13 +2234,6 @@
         "link": "https://cast.zlive.st/p/d786921a17ec5daf/index.m3u8?|referer=https://zlive.st/",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "title": "TSN SPORTS FHD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://cast.zlive.st/p/a1e123c50c75cf09/index.m3u8?|referer=https://zlive.st/",
-        "logo": "",
-        "title": "Fusball 4K MULTI",
         "type": "0"
       },
       {

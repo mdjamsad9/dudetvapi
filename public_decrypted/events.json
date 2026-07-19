@@ -648,9 +648,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv LIVE"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv LIVE",
         "logo": ""
@@ -803,39 +808,6 @@
     ]
   },
   {
-    "id": 50055,
-    "title": "Dallas Wings vs Sparks",
-    "image": "o",
-    "cat": "WNBA",
-    "eventInfo": {
-      "teamA": "Wings",
-      "teamB": "Sparks",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3450/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3447/image",
-      "eventName": "Dallas Wings vs Los Angeles Sparks",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/19 17:00:00 +0000",
-      "endTime": "2026/07/19 19:45:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv WNBA",
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv WNBA",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50056,
     "title": "Dream vs Chicago Sky",
     "image": "o",
@@ -854,9 +826,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv WNBA",
       "DUDE Tv Live"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv WNBA",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -997,29 +974,28 @@
       "eventBanner": "null",
       "isHot": "1",
       "startTime": "2026/07/19 18:50:00 +0000",
-      "endTime": "2026/07/19 21:15:00 +0000"
+      "endTime": "2026/07/19 23:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "Fusball 4K MULTI",
+      "ITV SPORTS HD",
       "Fox Sports UHD [US VPN]",
-      "UNIFY TV FHD",
-      "KAN 11 FHD",
-      "FOX ONE - AQ",
-      "GLOBOSP BR",
       "DUDE Tv Live",
       "ISCREEN BD FHD",
       "FAST SERVER FR",
-      "ITV SPORTS HD",
-      "TSN SPORTS HD",
       "beIN MAX HD",
+      "FOX ONE - AQ",
+      "UNIFY TV FHD",
+      "GLOBOSP BR",
+      "TSN SPORTS HD",
       "CCTV SPORTS HD",
       "MUNIDAL HD",
       "CAZE TV HD",
       "TELEMUNDO FHD",
       "Fox Sports 4K",
       "TSN SPORTS FHD",
-      "Fusball 4K MULTI",
       "CANAL5",
       "TVE La 1 FHD",
       "FUSSBALL TV FHD",
@@ -1070,24 +1046,16 @@
     ],
     "formatsNew": [
       {
+        "title": "Fusball 4K MULTI",
+        "logo": ""
+      },
+      {
+        "title": "ITV SPORTS HD",
+        "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png"
+      },
+      {
         "title": "Fox Sports UHD [US VPN]",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
-      },
-      {
-        "title": "UNIFY TV FHD",
-        "logo": ""
-      },
-      {
-        "title": "KAN 11 FHD",
-        "logo": ""
-      },
-      {
-        "title": "FOX ONE - AQ",
-        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
-      },
-      {
-        "title": "GLOBOSP BR",
-        "logo": ""
       },
       {
         "title": "DUDE Tv Live",
@@ -1102,16 +1070,24 @@
         "logo": ""
       },
       {
-        "title": "ITV SPORTS HD",
-        "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png"
+        "title": "beIN MAX HD",
+        "logo": ""
+      },
+      {
+        "title": "FOX ONE - AQ",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
+      },
+      {
+        "title": "UNIFY TV FHD",
+        "logo": ""
+      },
+      {
+        "title": "GLOBOSP BR",
+        "logo": ""
       },
       {
         "title": "TSN SPORTS HD",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
-      },
-      {
-        "title": "beIN MAX HD",
-        "logo": ""
       },
       {
         "title": "CCTV SPORTS HD",
@@ -1136,10 +1112,6 @@
       {
         "title": "TSN SPORTS FHD",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
-      },
-      {
-        "title": "Fusball 4K MULTI",
-        "logo": ""
       },
       {
         "title": "CANAL5",
