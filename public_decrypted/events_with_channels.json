@@ -1451,15 +1451,15 @@
     ],
     "decoded_channels": [
       {
-        "api": "c1781b18ef9a3a4455c4ada2bce6c670:c03d707bc916b280b457013dac5b2954",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u3ilketteh/out/v1/1ea199d6caf04e81b0ecf7f589cd3c9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "70aa90cb5fbc9c681891ffadd144c764:3f9113c845f44f75058cc38db91cff2b",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjigreak4h/out/v1/3e2e635212094aa5802cf66c1601f8a5/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW FHD",
         "type": "1"
       },
       {
-        "api": "c1781b18ef9a3a4455c4ada2bce6c670:c03d707bc916b280b457013dac5b2954",
-        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/u3ilketteh/out/v1/1ea199d6caf04e81b0ecf7f589cd3c9f/cenc.mpd",
+        "api": "70aa90cb5fbc9c681891ffadd144c764:3f9113c845f44f75058cc38db91cff2b",
+        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/gjigreak4h/out/v1/3e2e635212094aa5802cf66c1601f8a5/cenc.mpd",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW - ALT",
         "type": "1"
@@ -1546,29 +1546,79 @@
     "publish": "1",
     "formats": [
       "WILLOW FHD",
-      "CRICKET FHD"
+      "CRICKET FHD",
+      "BBC SPORTS",
+      "TAPMAD FHD",
+      "WILLOW - ALT",
+      "SKY SPORT"
     ],
     "formatsNew": [
       {
         "title": "WILLOW FHD",
-        "logo": ""
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
         "title": "CRICKET FHD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
+      },
+      {
+        "title": "BBC SPORTS",
         "logo": ""
+      },
+      {
+        "title": "TAPMAD FHD",
+        "logo": ""
+      },
+      {
+        "title": "WILLOW - ALT",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "SKY SPORT",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
       }
     ],
     "decoded_channels": [
       {
-        "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "api": "453c4ba8f7c775a4ef534847bd33b184:4f14453aaf260377336bb0e6267da4f1",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ynefhymijt/out/v1/02ab74a814ba405d8b749b3497c1b899/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW FHD",
-        "type": "0"
+        "type": "1"
       },
       {
         "api": "",
         "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
         "title": "CRICKET FHD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://tmaxapp.site/8wirwjs76erftg/bbctwo.m3u8",
+        "logo": "",
+        "title": "BBC SPORTS",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|referer=https://tapmad.com",
+        "logo": "",
+        "title": "TAPMAD FHD",
+        "type": "0"
+      },
+      {
+        "api": "453c4ba8f7c775a4ef534847bd33b184:4f14453aaf260377336bb0e6267da4f1",
+        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ynefhymijt/out/v1/02ab74a814ba405d8b749b3497c1b899/cenc.mpd",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "title": "WILLOW - ALT",
+        "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+        "title": "SKY SPORT",
         "type": "0"
       }
     ],
@@ -1950,6 +2000,246 @@
         "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50085,
+    "title": "Iberia 1999 vs Slovan Bratislava",
+    "image": "o",
+    "cat": "UCL",
+    "eventInfo": {
+      "teamA": "Iberia 1999",
+      "teamB": "Slovan Bratislava",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/116312/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2404/image",
+      "eventName": "Iberia 1999 vs Slovan Bratislava",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/21 16:00:00 +0000",
+      "endTime": "2026/07/21 18:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://live.vivo200.com/live/sd-1-4586108.m3u8?txSecret=0e374ed99d6a0297bdc63624d493ab01&txTime=6A5FAC06|referer=https://player.online909.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50086,
+    "title": "Fenerbahçe vs Górnik Zabrze",
+    "image": "o",
+    "cat": "UCL",
+    "eventInfo": {
+      "teamA": "Fenerbahçe",
+      "teamB": "Górnik Zabrze",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3052/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3110/image",
+      "eventName": "Fenerbahçe vs Górnik Zabrze",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/21 18:00:00 +0000",
+      "endTime": "2026/07/21 20:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://live.vivo200.com/live/sd-1-4556528.m3u8?txSecret=a4b53d1e18346bd1f7131c979fbe6c8b&txTime=6A5FACA8|referer=https://player.online909.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50087,
+    "title": "FC Thun vs Dinamo Zagreb",
+    "image": "o",
+    "cat": "UCL",
+    "eventInfo": {
+      "teamA": "FC Thun",
+      "teamB": "GNK Dinamo Zagreb",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2454/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2032/image",
+      "eventName": "FC Thun vs Dinamo Zagreb",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/21 18:00:00 +0000",
+      "endTime": "2026/07/21 20:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://live.vivo200.com/live/sd-1-4556532.m3u8?txSecret=3da262ed4be0155c76d7bc8e4866d778&txTime=6A5FAD03|referer=https://player.online909.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50088,
+    "title": "Sturm Graz vs Hearts",
+    "image": "o",
+    "cat": "UCL",
+    "eventInfo": {
+      "teamA": "Sturm Graz",
+      "teamB": "Hearts",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2051/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2353/image",
+      "eventName": "SK Sturm Graz vs Heart of Midlothian",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/21 18:30:00 +0000",
+      "endTime": "2026/07/21 20:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://live.vivo200.com/live/sd-1-4556530.m3u8?txSecret=addc8f6e96189968278a3cd9f9fc5631&txTime=6A5FAD43|referer=https://player.online909.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50089,
+    "title": "Gillingham vs Millwall",
+    "image": "o",
+    "cat": "Club Friendly",
+    "eventInfo": {
+      "teamA": "Gillingham",
+      "teamB": "Millwall",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/20/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/25/image",
+      "eventName": "Gillingham vs Millwall",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/21 18:00:00 +0000",
+      "endTime": "2026/07/21 20:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://live.vivo200.com/live/sd-1-4591032.m3u8?txSecret=1adcc3c48de22b9a8357916197137a8c&txTime=6A5FADF1|referer=https://player.online909.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50090,
+    "title": "Atlético Mineiro vs Bahia",
+    "image": "o",
+    "cat": "Brasileirão",
+    "eventInfo": {
+      "teamA": "Atlético Mineiro",
+      "teamB": "Bahia",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1977/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1955/image",
+      "eventName": "Atlético Mineiro vs Bahia",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/21 22:30:00 +0000",
+      "endTime": "2026/07/22 00:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "PREMIERER 1",
+      "SporTV BR"
+    ],
+    "formatsNew": [
+      {
+        "title": "PREMIERER 1",
+        "logo": ""
+      },
+      {
+        "title": "SporTV BR",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+        "logo": "",
+        "title": "PREMIERER 1",
+        "type": "1"
+      },
+      {
+        "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+        "logo": "",
+        "title": "SporTV BR",
+        "type": "1"
       }
     ],
     "channel_status": "live"
