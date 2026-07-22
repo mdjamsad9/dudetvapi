@@ -683,19 +683,85 @@
   },
   {
     "id": 50034,
-    "title": "St. Louis Cardinals",
+    "title": "Chicago White Sox",
     "image": "o",
     "cat": "MLB",
     "eventInfo": {
-      "teamA": "Angels",
-      "teamB": "Cardinals",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/5929/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3632/image",
-      "eventName": "Angels vs St. Louis Cardinals",
+      "teamA": "Rangers",
+      "teamB": "White Sox",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3647/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3644/image",
+      "eventName": "Texas Rangers vs Chicago White Sox",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/22 01:38:00 +0000",
-      "endTime": "2026/07/22 04:38:00 +0000"
+      "startTime": "2026/07/23 00:05:00 +0000",
+      "endTime": "2026/07/23 03:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv MLB",
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50052,
+    "title": "Chicago Cubs",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Cubs",
+      "teamB": "Tigers",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3627/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3648/image",
+      "eventName": "Chicago Cubs vs Detroit Tigers",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/23 00:10:00 +0000",
+      "endTime": "2026/07/23 03:10:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv MLB",
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50053,
+    "title": "Houston Astros",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Astros",
+      "teamB": "Marlins",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3655/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3639/image",
+      "eventName": "Houston Astros vs Miami Marlins",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/23 00:10:00 +0000",
+      "endTime": "2026/07/23 03:10:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -794,9 +860,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "TSN SPORTS",
       "DUDE Tv Live"
     ],
     "formatsNew": [
+      {
+        "title": "TSN SPORTS",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -904,7 +975,11 @@
     "publish": "1",
     "formats": [
       "WILLOW FHD",
-      "WILLOW - ALT"
+      "FANCODE - FHD",
+      "WILLOW - ALT",
+      "FANCODE - SD",
+      "FANCODE - IN",
+      "FANCODE - BD"
     ],
     "formatsNew": [
       {
@@ -912,8 +987,24 @@
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
+        "title": "FANCODE - FHD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
+      {
         "title": "WILLOW - ALT",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "FANCODE - SD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
+      {
+        "title": "FANCODE - IN",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
+      {
+        "title": "FANCODE - BD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       }
     ]
   },
@@ -1024,6 +1115,49 @@
       {
         "title": "SKY SPORT",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
+      }
+    ]
+  },
+  {
+    "id": 50073,
+    "title": "Los Angeles vs Real Salt Lake",
+    "image": "o",
+    "cat": "MLS 🇺🇸",
+    "eventInfo": {
+      "teamA": "Los Angeles",
+      "teamB": "Salt Lake",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/274650/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/5133/image",
+      "eventName": "Los Angeles vs Real Salt Lake",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/23 02:30:00 +0000",
+      "endTime": "2026/07/23 04:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "TSN SPORTS",
+      "TSN3 SPORTS",
+      "FOX SPORTS",
+      "FOX DEPORTES"
+    ],
+    "formatsNew": [
+      {
+        "title": "TSN SPORTS",
+        "logo": ""
+      },
+      {
+        "title": "TSN3 SPORTS",
+        "logo": ""
+      },
+      {
+        "title": "FOX SPORTS",
+        "logo": ""
+      },
+      {
+        "title": "FOX DEPORTES",
+        "logo": ""
       }
     ]
   },
@@ -1392,34 +1526,6 @@
     ]
   },
   {
-    "id": 50089,
-    "title": "Nottingham Forest vs Blackburn Rovers",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Forest",
-      "teamB": "Blackburn Rovers",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/14/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/46/image",
-      "eventName": "Nottingham Forest vs Blackburn Rovers",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/22 10:00:00 +0000",
-      "endTime": "2026/07/22 12:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50090,
     "title": "Bologna vs Heidenheim",
     "image": "o",
@@ -1438,11 +1544,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1466,11 +1577,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "SD SERVER"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1494,11 +1605,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1714,6 +1835,405 @@
       "isHot": "0",
       "startTime": "2026/07/22 19:00:00 +0000",
       "endTime": "2026/07/22 21:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50101,
+    "title": "Coritiba vs Palmeiras",
+    "image": "o",
+    "cat": "Brasileirão",
+    "eventInfo": {
+      "teamA": "Coritiba",
+      "teamB": "Palmeiras",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1982/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1963/image",
+      "eventName": "Coritiba vs Palmeiras",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/22 22:30:00 +0000",
+      "endTime": "2026/07/23 00:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SportDigital Fussball",
+      "PRIME VIDEO HD"
+    ],
+    "formatsNew": [
+      {
+        "title": "SportDigital Fussball",
+        "logo": ""
+      },
+      {
+        "title": "PRIME VIDEO HD",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50102,
+    "title": "Chapecoense vs Flamengo",
+    "image": "o",
+    "cat": "Brasileirão",
+    "eventInfo": {
+      "teamA": "Chapecoense",
+      "teamB": "Flamengo",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/21845/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/5981/image",
+      "eventName": "Chapecoense vs Flamengo",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/23 00:30:00 +0000",
+      "endTime": "2026/07/23 02:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "PREMIERER BR",
+      "GLOBO BR HD"
+    ],
+    "formatsNew": [
+      {
+        "title": "PREMIERER BR",
+        "logo": ""
+      },
+      {
+        "title": "GLOBO BR HD",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50103,
+    "title": "Internacional vs Cruzeiro",
+    "image": "o",
+    "cat": "Brasileirão",
+    "eventInfo": {
+      "teamA": "Internacional",
+      "teamB": "Cruzeiro",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1966/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1954/image",
+      "eventName": "Internacional vs Cruzeiro",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/23 00:30:00 +0000",
+      "endTime": "2026/07/23 02:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "Premier Sports FHD",
+      "PREMIERER BR"
+    ],
+    "formatsNew": [
+      {
+        "title": "Premier Sports FHD",
+        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
+      },
+      {
+        "title": "PREMIERER BR",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50104,
+    "title": "São Paulo vs Athletico",
+    "image": "o",
+    "cat": "Brasileirão",
+    "eventInfo": {
+      "teamA": "São Paulo",
+      "teamB": "Athletico",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1981/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1967/image",
+      "eventName": "São Paulo vs Athletico",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/23 00:30:00 +0000",
+      "endTime": "2026/07/23 02:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "PREMIERER BR"
+    ],
+    "formatsNew": [
+      {
+        "title": "PREMIERER BR",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50105,
+    "title": "Inter Miami vs Chicago Fire",
+    "image": "o",
+    "cat": "MLS 🇺🇸",
+    "eventInfo": {
+      "teamA": "Inter Miami",
+      "teamB": "Chicago",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/337602/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2505/image",
+      "eventName": "Inter Miami vs Chicago Fire",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/22 23:30:00 +0000",
+      "endTime": "2026/07/23 01:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "APPLE TV+ HD"
+    ],
+    "formatsNew": [
+      {
+        "title": "APPLE TV+ HD",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50106,
+    "title": "Charlotte vs Atlanta United",
+    "image": "o",
+    "cat": "MLS 🇺🇸",
+    "eventInfo": {
+      "teamA": "Charlotte",
+      "teamB": "Atlanta",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/404108/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/243211/image",
+      "eventName": "Charlotte vs Atlanta United",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/23 00:15:00 +0000",
+      "endTime": "2026/07/23 02:20:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "FOX SPORTS FHD",
+      "FOX DEPORTES"
+    ],
+    "formatsNew": [
+      {
+        "title": "FOX SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "FOX DEPORTES",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50107,
+    "title": "New England vs Toronto",
+    "image": "o",
+    "cat": "MLS 🇺🇸",
+    "eventInfo": {
+      "teamA": "New England",
+      "teamB": "Toronto",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2511/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/7080/image",
+      "eventName": "New England vs Toronto",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/22 23:30:00 +0000",
+      "endTime": "2026/07/23 01:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "TSN SPORTS FHD"
+    ],
+    "formatsNew": [
+      {
+        "title": "TSN SPORTS FHD",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50108,
+    "title": "Independiente vs Vasco",
+    "image": "o",
+    "cat": "CON. Sudamericana",
+    "eventInfo": {
+      "teamA": "Ind. Medellín",
+      "teamB": "Vasco",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/6115/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1974/image",
+      "eventName": "Independiente vs Vasco da Gama",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/22 22:00:00 +0000",
+      "endTime": "2026/07/23 00:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "beIN SPORTS"
+    ],
+    "formatsNew": [
+      {
+        "title": "beIN SPORTS",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50109,
+    "title": "Lanús vs Cienciano",
+    "image": "o",
+    "cat": "CON. Sudamericana",
+    "eventInfo": {
+      "teamA": "Lanús",
+      "teamB": "Cienciano",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3218/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2301/image",
+      "eventName": "CA Lanús vs Cienciano",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/23 00:30:00 +0000",
+      "endTime": "2026/07/23 02:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "beIN SPORTS"
+    ],
+    "formatsNew": [
+      {
+        "title": "beIN SPORTS",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50110,
+    "title": "Sporting Cristal vs RB Bragantino",
+    "image": "o",
+    "cat": "CON. Sudamericana",
+    "eventInfo": {
+      "teamA": "Sporting Cristal",
+      "teamB": "RB Bragantino",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2302/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1999/image",
+      "eventName": "Sporting Cristal vs RB Bragantino",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/23 00:30:00 +0000",
+      "endTime": "2026/07/23 02:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "beIN SPORTS"
+    ],
+    "formatsNew": [
+      {
+        "title": "beIN SPORTS",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50111,
+    "title": "Torino vs Alcione Milano",
+    "image": "o",
+    "cat": "Club Friendly",
+    "eventInfo": {
+      "teamA": "Torino",
+      "teamB": "Alcione Milano",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2696/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/380181/image",
+      "eventName": "Torino vs Alcione Milano",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/22 15:30:00 +0000",
+      "endTime": "2026/07/22 17:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "HD SERVER",
+      "SD SERVER"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50112,
+    "title": "Nantes vs La Roche",
+    "image": "o",
+    "cat": "Club Friendly",
+    "eventInfo": {
+      "teamA": "Nantes",
+      "teamB": "La Roche VF",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1647/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1714/image",
+      "eventName": "Nantes vs La Roche Vendée",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/22 15:30:00 +0000",
+      "endTime": "2026/07/22 17:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "SD SERVER"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50113,
+    "title": "Stade Brestois vs Al-Wakrah",
+    "image": "o",
+    "cat": "Club Friendly",
+    "eventInfo": {
+      "teamA": "Stade Brestois",
+      "teamB": "Al-Wakrah",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1715/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/44440/image",
+      "eventName": "Stade Brestois vs Al-Wakrah",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/22 16:00:00 +0000",
+      "endTime": "2026/07/22 18:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
