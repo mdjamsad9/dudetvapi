@@ -328,6 +328,7 @@
     "publish": "1",
     "formats": [
       "TSN SPORTS",
+      "DUDE Tv Live",
       "Fox Sports Premium",
       "BACKUP HD",
       "BACKUP SD"
@@ -336,6 +337,10 @@
       {
         "title": "TSN SPORTS",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
       },
       {
         "title": "Fox Sports Premium",
@@ -634,14 +639,9 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv MLB",
       "DUDE Tv LIVE"
     ],
     "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
       {
         "title": "DUDE Tv LIVE",
         "logo": ""
@@ -667,14 +667,9 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv MLB",
       "DUDE Tv Live"
     ],
     "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -700,14 +695,9 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv MLB",
       "DUDE Tv Live"
     ],
     "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -733,14 +723,9 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv MLB",
       "DUDE Tv Live"
     ],
     "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -766,14 +751,9 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv MLB",
       "DUDE Tv Live"
     ],
     "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -827,14 +807,9 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TSN SPORTS",
       "DUDE Tv Live"
     ],
     "formatsNew": [
-      {
-        "title": "TSN SPORTS",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
-      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -968,8 +943,8 @@
       "eventName": "Lanka Premier League",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/22 09:30:00 +0000",
-      "endTime": "2026/07/22 17:59:00 +0000"
+      "startTime": "2026/07/23 09:30:00 +0000",
+      "endTime": "2026/07/23 17:59:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1020,7 +995,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/377179/image",
       "eventName": "Southern Brave vs Welsh Fire",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/07/22 17:30:00 +0000",
       "endTime": "2026/07/22 21:15:00 +0000"
     },
@@ -1029,11 +1004,11 @@
     "formats": [
       "WILLOW FHD",
       "CRICKET FHD",
-      "BBC SPORTS",
       "WILLOW - ALT",
       "TAPMAD FHD",
-      "SKY SPORT",
-      "LOW SERVER"
+      "HD SERVER ",
+      "LOW SERVER ",
+      "SKY SPORT"
     ],
     "formatsNew": [
       {
@@ -1045,10 +1020,6 @@
         "logo": ""
       },
       {
-        "title": "BBC SPORTS",
-        "logo": ""
-      },
-      {
         "title": "WILLOW - ALT",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
@@ -1057,12 +1028,16 @@
         "logo": ""
       },
       {
-        "title": "SKY SPORT",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
+        "title": "HD SERVER ",
+        "logo": ""
       },
       {
-        "title": "LOW SERVER",
+        "title": "LOW SERVER ",
         "logo": ""
+      },
+      {
+        "title": "SKY SPORT",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
       }
     ]
   },
@@ -1078,8 +1053,9 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/16717/image",
       "eventName": "The Hundred Women",
       "eventType": "null",
-      "startTime": "2026/07/22 13:45:00 +0000",
-      "endTime": "2026/07/22 17:00:00 +0000"
+      "isHot": "0",
+      "startTime": "2026/07/23 13:45:00 +0000",
+      "endTime": "2026/07/23 17:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1180,9 +1156,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1208,9 +1189,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1236,9 +1222,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1264,9 +1255,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1320,9 +1316,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1348,9 +1349,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1376,9 +1382,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1488,9 +1499,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv WNBA",
       "DUDE Tv Live"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv WNBA",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1516,110 +1532,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv WNBA",
       "DUDE Tv Live"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50090,
-    "title": "Bologna vs Heidenheim",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Bologna",
-      "teamB": "Heidenheim",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2685/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/5885/image",
-      "eventName": "Bologna vs Heidenheim",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/22 14:00:00 +0000",
-      "endTime": "2026/07/22 16:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
+        "title": "DUDE Tv WNBA",
         "logo": ""
       },
       {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50091,
-    "title": "Kharkiv vs Schalke 04",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Kharkiv",
-      "teamB": "Schalke 04",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/266889/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2530/image",
-      "eventName": "Kharkiv vs Schalke 04",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/22 14:00:00 +0000",
-      "endTime": "2026/07/22 16:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50092,
-    "title": "Tottenham Hotspur vs MK Dons",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Tottenham",
-      "teamB": "MK Dons",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/33/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4/image",
-      "eventName": "Tottenham Hotspur vs MK Dons",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/22 16:00:00 +0000",
-      "endTime": "2026/07/22 18:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "HD SERVER",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
         "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1639,146 +1561,6 @@
       "isHot": "0",
       "startTime": "2026/07/22 16:30:00 +0000",
       "endTime": "2026/07/22 18:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50094,
-    "title": "Fiorentina vs Gubbio",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Fiorentina",
-      "teamB": "Gubbio",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2693/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2782/image",
-      "eventName": "Fiorentina vs Gubbio",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/22 17:00:00 +0000",
-      "endTime": "2026/07/22 19:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50095,
-    "title": "Sestao River vs Athletic Club",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Sestao River",
-      "teamB": "Athletic Club",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/24364/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2825/image",
-      "eventName": "Sestao River vs Athletic Club",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/22 17:30:00 +0000",
-      "endTime": "2026/07/22 19:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50096,
-    "title": "Valencia vs CD Eldense",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Valencia",
-      "teamB": "CD Eldense",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2828/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/47321/image",
-      "eventName": "Valencia vs CD Eldense",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/22 18:00:00 +0000",
-      "endTime": "2026/07/22 20:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50097,
-    "title": "Wimbledon vs Norwich City",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Wimbledon",
-      "teamB": "Norwich City",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/23957/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/263/image",
-      "eventName": "Wimbledon vs Norwich City",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/22 18:00:00 +0000",
-      "endTime": "2026/07/22 20:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50098,
-    "title": "Stevenage vs West Ham United",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Stevenage",
-      "teamB": "West Ham United",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/133/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/37/image",
-      "eventName": "Stevenage vs West Ham United",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/22 18:45:00 +0000",
-      "endTime": "2026/07/22 20:50:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1839,11 +1621,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "LOW QUALITY"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW QUALITY",
         "logo": ""
       }
     ]
@@ -2150,36 +1937,26 @@
   },
   {
     "id": 50111,
-    "title": "Torino vs Alcione Milano",
+    "title": "Burton vs Birmingham City",
     "image": "o",
     "cat": "Club Friendly",
     "eventInfo": {
-      "teamA": "Torino",
-      "teamB": "Alcione Milano",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2696/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/380181/image",
-      "eventName": "Torino vs Alcione Milano",
+      "teamA": "Burton Albion",
+      "teamB": "Birmingham City",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/134/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/9/image",
+      "eventName": "Burton vs Birmingham City",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/22 15:30:00 +0000",
-      "endTime": "2026/07/22 17:35:00 +0000"
+      "startTime": "2026/07/22 18:30:00 +0000",
+      "endTime": "2026/07/22 20:35:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live",
-      "HD SERVER",
       "SD SERVER"
     ],
     "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
       {
         "title": "SD SERVER",
         "logo": ""
@@ -2188,52 +1965,19 @@
   },
   {
     "id": 50112,
-    "title": "Nantes vs La Roche",
+    "title": "CD Tenerife vs Getafe",
     "image": "o",
     "cat": "Club Friendly",
     "eventInfo": {
-      "teamA": "Nantes",
-      "teamB": "La Roche VF",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1647/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1714/image",
-      "eventName": "Nantes vs La Roche Vendée",
+      "teamA": "CD Tenerife",
+      "teamB": "Getafe",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2822/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2859/image",
+      "eventName": "CD Tenerife vs Getafe",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/22 15:30:00 +0000",
-      "endTime": "2026/07/22 17:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50113,
-    "title": "Stade Brestois vs Al-Wakrah",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Stade Brestois",
-      "teamB": "Al-Wakrah",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1715/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/44440/image",
-      "eventName": "Stade Brestois vs Al-Wakrah",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/22 16:00:00 +0000",
-      "endTime": "2026/07/22 18:05:00 +0000"
+      "startTime": "2026/07/22 18:30:00 +0000",
+      "endTime": "2026/07/22 20:35:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
