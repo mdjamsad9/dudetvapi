@@ -19,6 +19,10 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "SKY SPORTS FHD",
+      "TSN SPORTS FHD",
+      "APPLE TV FHD",
+      "APPLE TV 4K",
       "FANCODE FHD",
       "DUDE Tv F1 HD",
       "SKY F1 Italia [IT]",
@@ -32,6 +36,22 @@
       "SD SERVER"
     ],
     "formatsNew": [
+      {
+        "title": "SKY SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "TSN SPORTS FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+      },
+      {
+        "title": "APPLE TV FHD",
+        "logo": ""
+      },
+      {
+        "title": "APPLE TV 4K",
+        "logo": ""
+      },
       {
         "title": "FANCODE FHD",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
@@ -79,6 +99,34 @@
     ],
     "decoded_channels": [
       {
+        "api": "45db60e4737d35e420bd97942b04aed1:7ca2e2b62278f9049cc00fbfee67dc2d",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/icb5vnlwmg/out/v1/5eb3451446c74c1d81f9e3c4745db42c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "SKY SPORTS FHD",
+        "type": "1"
+      },
+      {
+        "api": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+        "title": "TSN SPORTS FHD",
+        "type": "1"
+      },
+      {
+        "api": "5063eacbd2db41219fdd276a28084396:43646c017da1515a8318eefd9a0eb1a0",
+        "link": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/2jwhozlnvd/out/v1/417508555deb4e468d41c9eb7195f0d1/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "APPLE TV FHD",
+        "type": "1"
+      },
+      {
+        "api": "02699b724a0600f972b348df387e0ae8:865a29b98aa926a8743f4d1b24e4130a",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iebeqzkrwe/out/v1/8cee1d3b1b8447b9a45b733e06241a37/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "APPLE TV 4K",
+        "type": "1"
+      },
+      {
         "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
@@ -101,42 +149,42 @@
       },
       {
         "api": "",
-        "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/5f80538f-a945-4227-804f-a9c2743c0e3b/master.m3u8",
+        "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/4ff3852e-67ca-4573-8f44-784b63320625/master.m3u8",
         "logo": "",
         "title": "Sportscast FHD",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://bl.rutube.ru/livestream/4ee70215ae4c152fcd01310ed5456721/index.m3u8?s=HkcmRFg5XJOrbyLjqijjrw&e=1787575468&scheme=https|user-agent=Mozilla",
+        "link": "https://bl.rutube.ru/livestream/96906abea32ed46d02e1042930dfa0a7/index.m3u8?s=X-GiFpfCacsAXqmtFo1ixA&e=1788616502&scheme=https|user-agent=Mozilla",
         "logo": "",
         "title": "RUSSIA FEED",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/f1/2026/italy/fp1/dazn-es",
+        "link": "https://embedindia.st/embed/f1/2026/italy/fp2/dazn-es",
         "logo": "",
         "title": "DAZN ESPANOL [FHD]",
         "type": "2"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/f1/2026/italy/fp1",
+        "link": "https://embedindia.st/embed/f1/2026/italy/fp2",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
         "title": "SKY SPORTS [FHD]",
         "type": "2"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/f1/2026/italy/fp1/f1tv",
+        "link": "https://embedindia.st/embed/f1/2026/italy/fp2/f1tv",
         "logo": "",
         "title": "APPLE TV [FHD]",
         "type": "2"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/f1/2026/italy/fp1/viaplay-nl",
+        "link": "https://embedindia.st/embed/f1/2026/italy/fp2/viaplay-nl",
         "logo": "",
         "title": "VIAPLAY NL [FHD]",
         "type": "2"
@@ -150,7 +198,7 @@
       },
       {
         "api": "",
-        "link": "http://193.47.62.53/hls/dpdpdp.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.41/hls/YTTTr.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "SD SERVER",
         "type": "0"
@@ -1290,19 +1338,76 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "WILLOW - FHD",
+      "WILLOW - ALT",
+      "T SPORTS HD",
+      "SonyLiv - English",
+      "SonyLiv - Hindi",
+      "SonyLiv - Tamil",
+      "SonyLiv - Telugu",
+      "SonyLiv - Kannada"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "WILLOW - FHD",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "WILLOW - ALT",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "T SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv - English",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv - Hindi",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv - Tamil",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv - Telugu",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv - Kannada",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
+        "api": "709d27a43d7e5336e76d0395ee9b04a8:b109a68de85b07d60fdc13bfbed8f684",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/llm7bx0nly/out/v1/1a697966454b4a3fa149b2815ceecff4/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "title": "WILLOW - FHD",
+        "type": "1"
+      },
+      {
+        "api": "709d27a43d7e5336e76d0395ee9b04a8:b109a68de85b07d60fdc13bfbed8f684",
+        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/llm7bx0nly/out/v1/1a697966454b4a3fa149b2815ceecff4/cenc.mpd",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "title": "WILLOW - ALT",
+        "type": "1"
+      },
+      {
         "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-        "title": "DUDE Tv Live",
+        "link": "https://tvsen7.aynascope.net/Sports1/index.m3u8",
+        "logo": "",
+        "title": "T SPORTS HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://dai.google.com/ssai/event/Vqhl5bQURxa3_aLKeTXABA/master.m3u8",
+        "logo": "",
+        "title": "SonyLiv - English",
         "type": "0"
       }
     ],
@@ -1357,8 +1462,8 @@
     ],
     "decoded_channels": [
       {
-        "api": "0f2212b8b44f648cfbec541972f1317f:17bcbd6c29439f699082a5d310d76d29",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/i29wc7rgws/out/v1/620df28d026f425da1b826a40c43bebc/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "bd3b27fa9fec3ae1ba2b53bf1f5fc022:de46a6d90d5ec10f3a50e6ac269773ac",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/p0dpfipel9/out/v1/1b51e61fdcee4e19a27ea00e172068cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW - FHD",
         "type": "1"
@@ -1371,8 +1476,8 @@
         "type": "1"
       },
       {
-        "api": "0f2212b8b44f648cfbec541972f1317f:17bcbd6c29439f699082a5d310d76d29",
-        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/i29wc7rgws/out/v1/620df28d026f425da1b826a40c43bebc/cenc.mpd",
+        "api": "bd3b27fa9fec3ae1ba2b53bf1f5fc022:de46a6d90d5ec10f3a50e6ac269773ac",
+        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/p0dpfipel9/out/v1/1b51e61fdcee4e19a27ea00e172068cf/cenc.mpd",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW - ALT",
         "type": "1"
