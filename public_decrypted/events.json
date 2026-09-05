@@ -12,9 +12,9 @@
       "eventName": "Formula 1 -  Pirelli Gran Premio di Italia",
       "eventType": "null",
       "eventBanner": "https://wsrv.nl/?url=https://iili.io/nJRR17s.png",
-      "isHot": "1",
-      "startTime": "2026/09/05 14:00:00 +0000",
-      "endTime": "2026/09/05 15:45:00 +0000"
+      "isHot": "0",
+      "startTime": "2026/09/06 13:00:00 +0000",
+      "endTime": "2026/09/06 15:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -164,9 +164,9 @@
       "eventName": "UFC Fight Night: Parnasse vs Hooker",
       "eventType": "null",
       "eventBanner": "null",
-      "isHot": "0",
-      "startTime": "2026/09/05 18:00:00 +0000",
-      "endTime": "2026/09/05 20:00:00 +0000"
+      "isHot": "1",
+      "startTime": "2026/09/05 16:00:00 +0000",
+      "endTime": "2026/09/06 00:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -176,14 +176,14 @@
       "PARAMOUNT+ ES",
       "PARAMOUNT+ PT",
       "PARAMOUNT+ HD",
-      "SportsNet FHD",
       "DUDE Tv Live",
       "DUDE Tv LIVE",
       "PARAMOUNT+ [FHD]",
       "PARAMOUNT+ ES [FHD]",
       "PARAMOUNT+ PT [FHD]",
       "DAZN DE [FHD]",
-      "SD TV (USE VPN)"
+      "SD TV (USE VPN)",
+      "SportsNet FHD"
     ],
     "formatsNew": [
       {
@@ -205,10 +205,6 @@
       {
         "title": "PARAMOUNT+ HD",
         "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
-        "title": "SportsNet FHD",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
       },
       {
         "title": "DUDE Tv Live",
@@ -237,6 +233,10 @@
       {
         "title": "SD TV (USE VPN)",
         "logo": ""
+      },
+      {
+        "title": "SportsNet FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
       }
     ]
   },
@@ -501,8 +501,8 @@
       "eventType": "null",
       "eventBanner": "https://wsrv.nl/?url=https://iili.io/n9UupwX.png",
       "isHot": "0",
-      "startTime": "2026/09/04 15:00:00 +0000",
-      "endTime": "2026/09/05 03:00:00 +0000"
+      "startTime": "2026/09/05 15:00:00 +0000",
+      "endTime": "2026/09/06 03:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -912,9 +912,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
       {
         "title": "MLB LIVE [FHD]",
         "logo": ""
@@ -1235,18 +1240,38 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/40/image",
       "eventName": "Hull City vs Aston Villa",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/09/05 16:30:00 +0000",
       "endTime": "2026/09/05 18:35:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "FUBO SPORTS FHD",
+      "NBC SPORTS HD",
+      "DUDE Tv Live",
+      "SKY SPORTS HD",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
+        "title": "FUBO SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "NBC SPORTS HD",
+        "logo": ""
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SKY SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1270,12 +1295,24 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "FUBO SPORTS FHD",
+      "PEACOCK TV 4K",
       "DUDE Tv Live",
       "PEACOCK TV HD",
       "SKY SPORTS HD",
+      "HD SERVER",
+      "LOW SERVER",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "FUBO SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "PEACOCK TV 4K",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1286,6 +1323,14 @@
       },
       {
         "title": "SKY SPORTS HD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       },
       {
@@ -1314,225 +1359,43 @@
     "publish": "1",
     "formats": [
       "FUBO SPORTS FHD",
+      "ESPN SPORTS AR",
       "USA TV HD",
       "DUDE Tv Live",
       "SKY SPORTS HD",
-      "SPX LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "FUBO SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "USA TV HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SKY SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50098,
-    "title": "Fulham vs Crystal Palace",
-    "image": "o",
-    "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Fulham",
-      "teamB": "Crystal Palace",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/43/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/7/image",
-      "eventName": "Fulham vs Crystal Palace",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/05 14:00:00 +0000",
-      "endTime": "2026/09/05 16:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "SKY SPORTS HD",
-      "SPX LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SKY SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50099,
-    "title": "Brighton vs Leeds",
-    "image": "o",
-    "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Brighton",
-      "teamB": "Leeds",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/30/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/34/image",
-      "eventName": "Brighton vs Leeds United",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/05 14:00:00 +0000",
-      "endTime": "2026/09/05 16:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "FUBO SPORTS FHD",
-      "DUDE Tv Live",
-      "SKY SPORTS HD",
-      "SPX LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "FUBO SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SKY SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50100,
-    "title": "Brentford vs Sunderland",
-    "image": "o",
-    "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Brentford",
-      "teamB": "Sunderland",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/50/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/41/image",
-      "eventName": "Brentford vs Sunderland",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/05 14:00:00 +0000",
-      "endTime": "2026/09/05 16:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "FUBO SPORTS FHD",
-      "DUDE Tv Live",
-      "SKY SPORTS HD",
-      "SPX LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "FUBO SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SKY SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50101,
-    "title": "Newcastle vs Bournemouth",
-    "image": "o",
-    "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Newcastle",
-      "teamB": "Bournemouth",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/39/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/60/image",
-      "eventName": "Newcastle United vs Bournemouth",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/05 11:30:00 +0000",
-      "endTime": "2026/09/05 13:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "TNT SPORTS FHD",
-      "FUBO SPORTS FHD",
-      "USA TV HD",
-      "DUDE Tv Live",
-      "HD SERVER",
-      "USA NETWROK HD",
       "DAZN SPORTS HD",
-      "SKY SPORTS NZ",
-      "DAZN SPORTS ES",
+      "beIN SPORTS USA",
       "LOW SERVER",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "TNT SPORTS FHD",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
-      },
-      {
         "title": "FUBO SPORTS FHD",
         "logo": ""
       },
       {
+        "title": "ESPN SPORTS AR",
+        "logo": ""
+      },
+      {
         "title": "USA TV HD",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+        "logo": ""
       },
       {
         "title": "DUDE Tv Live",
         "logo": ""
       },
       {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "USA NETWROK HD",
-        "logo": ""
+        "title": "SKY SPORTS HD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
       },
       {
         "title": "DAZN SPORTS HD",
         "logo": ""
       },
       {
-        "title": "SKY SPORTS NZ",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
-      },
-      {
-        "title": "DAZN SPORTS ES",
-        "logo": ""
+        "title": "beIN SPORTS USA",
+        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
       },
       {
         "title": "LOW SERVER",
@@ -1592,7 +1455,8 @@
     "publish": "1",
     "formats": [
       "beIN ENGLISH FHD",
-      "D Sports FHD"
+      "D Sports FHD",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
@@ -1601,6 +1465,10 @@
       },
       {
         "title": "D Sports FHD",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1624,11 +1492,31 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH FHD"
+      "beIN ENGLISH FHD",
+      "FANCODE FHD",
+      "ESPN SPORTS AR",
+      "ESPN DEPORTES HD",
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
         "title": "beIN ENGLISH FHD",
+        "logo": ""
+      },
+      {
+        "title": "FANCODE FHD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
+      {
+        "title": "ESPN SPORTS AR",
+        "logo": ""
+      },
+      {
+        "title": "ESPN DEPORTES HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
@@ -1683,23 +1571,58 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2714/image",
       "eventName": "Inter vs SSC Napoli",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/09/05 16:00:00 +0000",
       "endTime": "2026/09/05 18:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PARAMOUNT+ (EN/IT)",
       "TNT SPORTS FHD",
-      "beIN ENGLISH"
+      "beIN ENGLISH",
+      "CBS SPORTS HD",
+      "DUDE Tv Live",
+      "HD SERVER",
+      "DAZN SPORTS HD",
+      "SPORT TV HD",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ (EN/IT)",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
         "title": "TNT SPORTS FHD",
-        "logo": ""
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
       },
       {
         "title": "beIN ENGLISH",
+        "logo": ""
+      },
+      {
+        "title": "CBS SPORTS HD",
+        "logo": "https://iili.io/BtCdabj.png"
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "DAZN SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "SPORT TV HD",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1774,47 +1697,20 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2672/image",
       "eventName": "Schalke 04 vs Bayern München",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/09/05 16:30:00 +0000",
       "endTime": "2026/09/05 18:35:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH FHD"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN ENGLISH FHD",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50109,
-    "title": "Hoffenheim vs Dortmund",
-    "image": "o",
-    "cat": "Bundesliga 🇩🇪",
-    "eventInfo": {
-      "teamA": "Hoffenheim",
-      "teamB": "Dortmund",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2569/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2673/image",
-      "eventName": "TSG Hoffenheim vs Borussia Dortmund",
-      "eventType": "null",
-      "isHot": "1",
-      "startTime": "2026/09/05 13:30:00 +0000",
-      "endTime": "2026/09/05 15:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
       "beIN ENGLISH FHD",
-      "DAZN ENG HD",
+      "ESPN SPORTS AR",
       "DUDE Tv Live",
-      "LOW SERVER",
-      "SKY BUNDESLIGA SD",
-      "BUNDESLIGA [FHD]"
+      "HD SERVER",
+      "USA NETWROK HD",
+      "SKY FOOTBALL HD",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
@@ -1822,195 +1718,27 @@
         "logo": ""
       },
       {
-        "title": "DAZN ENG HD",
+        "title": "ESPN SPORTS AR",
         "logo": ""
       },
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "USA NETWROK HD",
+        "logo": ""
+      },
+      {
+        "title": "SKY FOOTBALL HD",
         "logo": ""
       },
       {
         "title": "LOW SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SKY BUNDESLIGA SD",
-        "logo": ""
-      },
-      {
-        "title": "BUNDESLIGA [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50110,
-    "title": "Leverkusen vs Union Berlin",
-    "image": "o",
-    "cat": "Bundesliga 🇩🇪",
-    "eventInfo": {
-      "teamA": "Leverkusen",
-      "teamB": "Union Berlin",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2681/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2547/image",
-      "eventName": "Bayer Leverkusen vs Union Berlin",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/05 13:30:00 +0000",
-      "endTime": "2026/09/05 15:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DAZN ENG FHD",
-      "DAZN SPORTS HD",
-      "DUDE Tv Live",
-      "LOW SERVER",
-      "SKY BUNDESLIGA SD",
-      "BUNDESLIGA [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DAZN ENG FHD",
-        "logo": ""
-      },
-      {
-        "title": "DAZN SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SKY BUNDESLIGA SD",
-        "logo": ""
-      },
-      {
-        "title": "BUNDESLIGA [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50111,
-    "title": "M'gladbach vs Elversberg",
-    "image": "o",
-    "cat": "Bundesliga 🇩🇪",
-    "eventInfo": {
-      "teamA": "M'gladbach",
-      "teamB": "Elversberg",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2527/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2598/image",
-      "eventName": "Borussia M'gladbach vs Elversberg",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/05 13:30:00 +0000",
-      "endTime": "2026/09/05 15:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "SKY BUNDESLIGA SD",
-      "BUNDESLIGA [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SKY BUNDESLIGA SD",
-        "logo": ""
-      },
-      {
-        "title": "BUNDESLIGA [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50112,
-    "title": "Paderborn vs Freiburg",
-    "image": "o",
-    "cat": "Bundesliga 🇩🇪",
-    "eventInfo": {
-      "teamA": "Paderborn",
-      "teamB": "Freiburg",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2561/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2538/image",
-      "eventName": "Paderborn vs Freiburg",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/05 13:30:00 +0000",
-      "endTime": "2026/09/05 15:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "SKY BUNDESLIGA SD",
-      "BUNDESLIGA [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SKY BUNDESLIGA SD",
-        "logo": ""
-      },
-      {
-        "title": "BUNDESLIGA [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50113,
-    "title": "Werder Bremen vs RB Leipzig",
-    "image": "o",
-    "cat": "Bundesliga 🇩🇪",
-    "eventInfo": {
-      "teamA": "Bremen",
-      "teamB": "Leipzig",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2534/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/36360/image",
-      "eventName": "Werder Bremen vs RB Leipzig",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/05 13:30:00 +0000",
-      "endTime": "2026/09/05 15:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "SKY BUNDESLIGA SD",
-      "LOW SERVER",
-      "BUNDESLIGA [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SKY BUNDESLIGA SD",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      },
-      {
-        "title": "BUNDESLIGA [FHD]",
         "logo": ""
       }
     ]
@@ -2090,11 +1818,31 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "beIN SPORTS FHD",
+      "DUDE Tv Live",
+      "HD SERVER",
+      "beIN SPORTS HD",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "beIN SPORTS FHD",
+        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "beIN SPORTS HD",
+        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -2230,11 +1978,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SportDigital Fussball"
+      "SportDigital Fussball",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "SportDigital Fussball",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -2296,34 +2049,6 @@
     ]
   },
   {
-    "id": 50124,
-    "title": "Rangers vs Motherwell",
-    "image": "o",
-    "cat": "Scottish Premiership",
-    "eventInfo": {
-      "teamA": "Rangers",
-      "teamB": "Motherwell",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2351/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2346/image",
-      "eventName": "Rangers vs Motherwell",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/05 14:00:00 +0000",
-      "endTime": "2026/09/05 16:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50126,
     "title": "Burnley vs Bristol City",
     "image": "o",
@@ -2343,11 +2068,16 @@
     "publish": "1",
     "formats": [
       "beIN ENGLISH",
+      "CBS SPORTS HD",
       "DUDE Tv Live"
     ],
     "formatsNew": [
       {
         "title": "beIN ENGLISH",
+        "logo": ""
+      },
+      {
+        "title": "CBS SPORTS HD",
         "logo": ""
       },
       {
@@ -2375,9 +2105,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PARAMOUNT+ FHD",
       "CBS NETWORK"
     ],
     "formatsNew": [
+      {
+        "title": "PARAMOUNT+ FHD",
+        "logo": ""
+      },
       {
         "title": "CBS NETWORK",
         "logo": ""
@@ -2431,9 +2166,19 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PARAMOUNT+ FHD",
+      "CBS SPORTS HD",
       "DUDE Tv Live"
     ],
     "formatsNew": [
+      {
+        "title": "PARAMOUNT+ FHD",
+        "logo": ""
+      },
+      {
+        "title": "CBS SPORTS HD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2459,9 +2204,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "CBS SPORTS HD",
       "DUDE Tv Live"
     ],
     "formatsNew": [
+      {
+        "title": "CBS SPORTS HD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2539,34 +2289,6 @@
       "isHot": "0",
       "startTime": "2026/09/05 14:15:00 +0000",
       "endTime": "2026/09/05 16:15:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "Laliga Hypermotion ES"
-    ],
-    "formatsNew": [
-      {
-        "title": "Laliga Hypermotion ES",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50134,
-    "title": "Real Sociedad vs Tenerife",
-    "image": "o",
-    "cat": "LaLiga 2",
-    "eventInfo": {
-      "teamA": "Real Sociedad B",
-      "teamB": "Tenerife",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/24360/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2822/image",
-      "eventName": "Real Sociedad B vs CD Tenerife",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/05 12:00:00 +0000",
-      "endTime": "2026/09/05 14:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
