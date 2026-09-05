@@ -13,13 +13,15 @@
       "eventType": "null",
       "eventBanner": "https://wsrv.nl/?url=https://iili.io/nJRR17s.png",
       "isHot": "1",
-      "startTime": "2026/09/05 10:30:00 +0000",
-      "endTime": "2026/09/05 15:30:00 +0000"
+      "startTime": "2026/09/05 14:00:00 +0000",
+      "endTime": "2026/09/05 15:45:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
       "SKY SPORTS FHD",
+      "APPLE TV FHD",
+      "TSN SPORTS FHD",
       "FANCODE FHD",
       "APPLE TV 4K",
       "DUDE Tv F1 HD",
@@ -37,6 +39,14 @@
       {
         "title": "SKY SPORTS FHD",
         "logo": ""
+      },
+      {
+        "title": "APPLE TV FHD",
+        "logo": ""
+      },
+      {
+        "title": "TSN SPORTS FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
       },
       {
         "title": "FANCODE FHD",
@@ -759,7 +769,7 @@
       "eventName": "European T20 Premier League",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/05 09:15:00 +0000",
+      "startTime": "2026/09/05 13:15:00 +0000",
       "endTime": "2026/09/05 17:30:00 +0000"
     },
     "adsLimit": "0",
@@ -1260,11 +1270,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "PEACOCK TV HD",
+      "SKY SPORTS HD",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "PEACOCK TV HD",
+        "logo": ""
+      },
+      {
+        "title": "SKY SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1281,18 +1306,38 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/11/image",
       "eventName": "Manchester City vs Coventry City",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/09/05 14:00:00 +0000",
       "endTime": "2026/09/05 16:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "FUBO SPORTS FHD"
+      "FUBO SPORTS FHD",
+      "USA TV HD",
+      "DUDE Tv Live",
+      "SKY SPORTS HD",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "FUBO SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "USA TV HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SKY SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1316,11 +1361,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "SKY SPORTS HD",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SKY SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1344,11 +1399,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "FUBO SPORTS FHD",
+      "DUDE Tv Live",
+      "SKY SPORTS HD",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
+        "title": "FUBO SPORTS FHD",
+        "logo": ""
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SKY SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1372,11 +1442,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "FUBO SPORTS FHD",
+      "DUDE Tv Live",
+      "SKY SPORTS HD",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
+        "title": "FUBO SPORTS FHD",
+        "logo": ""
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SKY SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1393,7 +1478,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/60/image",
       "eventName": "Newcastle United vs Bournemouth",
       "eventType": "null",
-      "isHot": "1",
+      "isHot": "0",
       "startTime": "2026/09/05 11:30:00 +0000",
       "endTime": "2026/09/05 13:30:00 +0000"
     },
@@ -1401,6 +1486,7 @@
     "publish": "1",
     "formats": [
       "TNT SPORTS FHD",
+      "FUBO SPORTS FHD",
       "USA TV HD",
       "DUDE Tv Live",
       "HD SERVER",
@@ -1415,6 +1501,10 @@
       {
         "title": "TNT SPORTS FHD",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+      },
+      {
+        "title": "FUBO SPORTS FHD",
+        "logo": ""
       },
       {
         "title": "USA TV HD",
@@ -1633,16 +1723,41 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PARAMOUNT+ (EN/IT)",
       "ESPN SPORTS FHD",
-      "DAZN SPORTS HD"
+      "PARAMOUNT+ FHD",
+      "DUDE Tv Live",
+      "HD SERVER",
+      "DAZN SPORTS HD",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "PARAMOUNT+ (EN/IT)",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
       {
         "title": "ESPN SPORTS FHD",
         "logo": ""
       },
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": "https://edgestream6.pro/hls/syaLqucEne4k.m3u8"
+      },
+      {
         "title": "DAZN SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1687,18 +1802,43 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2673/image",
       "eventName": "TSG Hoffenheim vs Borussia Dortmund",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/09/05 13:30:00 +0000",
       "endTime": "2026/09/05 15:35:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH FHD"
+      "beIN ENGLISH FHD",
+      "DAZN ENG HD",
+      "DUDE Tv Live",
+      "LOW SERVER",
+      "SKY BUNDESLIGA SD",
+      "BUNDESLIGA [FHD]"
     ],
     "formatsNew": [
       {
         "title": "beIN ENGLISH FHD",
+        "logo": ""
+      },
+      {
+        "title": "DAZN ENG HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SKY BUNDESLIGA SD",
+        "logo": ""
+      },
+      {
+        "title": "BUNDESLIGA [FHD]",
         "logo": ""
       }
     ]
@@ -1722,11 +1862,36 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DAZN ENG FHD",
+      "DAZN SPORTS HD",
+      "DUDE Tv Live",
+      "LOW SERVER",
+      "SKY BUNDESLIGA SD",
+      "BUNDESLIGA [FHD]"
     ],
     "formatsNew": [
       {
+        "title": "DAZN ENG FHD",
+        "logo": ""
+      },
+      {
+        "title": "DAZN SPORTS HD",
+        "logo": ""
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SKY BUNDESLIGA SD",
+        "logo": ""
+      },
+      {
+        "title": "BUNDESLIGA [FHD]",
         "logo": ""
       }
     ]
@@ -1750,11 +1915,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "SKY BUNDESLIGA SD",
+      "BUNDESLIGA [FHD]"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SKY BUNDESLIGA SD",
+        "logo": ""
+      },
+      {
+        "title": "BUNDESLIGA [FHD]",
         "logo": ""
       }
     ]
@@ -1778,11 +1953,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "SKY BUNDESLIGA SD",
+      "BUNDESLIGA [FHD]"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SKY BUNDESLIGA SD",
+        "logo": ""
+      },
+      {
+        "title": "BUNDESLIGA [FHD]",
         "logo": ""
       }
     ]
@@ -1806,11 +1991,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "SKY BUNDESLIGA SD",
+      "LOW SERVER",
+      "BUNDESLIGA [FHD]"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SKY BUNDESLIGA SD",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
+        "logo": ""
+      },
+      {
+        "title": "BUNDESLIGA [FHD]",
         "logo": ""
       }
     ]
@@ -2124,49 +2324,6 @@
     ]
   },
   {
-    "id": 50125,
-    "title": "Preston vs Blackburn",
-    "image": "o",
-    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Preston",
-      "teamB": "Blackburn",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/21/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/46/image",
-      "eventName": "Preston vs Blackburn Rovers",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/05 11:30:00 +0000",
-      "endTime": "2026/09/05 13:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "beIN ENGLISH",
-      "DUDE Tv Live",
-      "LOW SERVER",
-      "SKY MAIN EVENT"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN ENGLISH",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SKY MAIN EVENT",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50126,
     "title": "Burnley vs Bristol City",
     "image": "o",
@@ -2185,11 +2342,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH"
+      "beIN ENGLISH",
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
         "title": "beIN ENGLISH",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
@@ -2420,109 +2582,27 @@
   },
   {
     "id": 50135,
-    "title": "Wolfsburg vs Cottbus",
+    "title": "Bundesliga Konferenz",
     "image": "o",
-    "cat": "2. Bundesliga",
+    "cat": "Bundesliga 🇩🇪",
     "eventInfo": {
-      "teamA": "Wolfsburg",
-      "teamB": "Cottbus",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2524/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2532/image",
-      "eventName": "VfL Wolfsburg vs Cottbus",
+      "teamA": "Bundesliga",
+      "teamB": "Konferenz",
+      "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/35/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/35/image",
+      "eventName": "Bundesliga Konferenz",
       "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/05 11:00:00 +0000",
-      "endTime": "2026/09/05 13:00:00 +0000"
+      "startTime": "2026/09/05 13:25:00 +0000",
+      "endTime": "2026/09/05 15:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH FHD",
-      "DUDE Tv Live",
-      "LOW SERVER"
+      "Bundesliga Konferenz [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "beIN ENGLISH FHD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50136,
-    "title": "Kaiserslautern vs Darmstadt",
-    "image": "o",
-    "cat": "2. Bundesliga",
-    "eventInfo": {
-      "teamA": "Kaiserslautern",
-      "teamB": "Darmstadt",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2675/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2576/image",
-      "eventName": "Kaiserslautern vs Darmstadt",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/05 11:00:00 +0000",
-      "endTime": "2026/09/05 13:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "beIN ENGLISH FHD",
-      "DUDE Tv Live",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN ENGLISH FHD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50137,
-    "title": "Holstein Kiel vs Nürnberg",
-    "image": "o",
-    "cat": "2. Bundesliga",
-    "eventInfo": {
-      "teamA": "Kiel",
-      "teamB": "Nürnberg",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2573/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2523/image",
-      "eventName": "Holstein Kiel vs Nürnberg",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/05 11:00:00 +0000",
-      "endTime": "2026/09/05 13:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
+        "title": "Bundesliga Konferenz [FHD]",
         "logo": ""
       }
     ]
@@ -2607,39 +2687,6 @@
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50141,
-    "title": "Lincoln City vs Southampton",
-    "image": "o",
-    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Lincoln City",
-      "teamB": "Southampton",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/92/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/45/image",
-      "eventName": "Lincoln City vs Southampton",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/05 11:30:00 +0000",
-      "endTime": "2026/09/05 13:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
         "logo": ""
       }
     ]
