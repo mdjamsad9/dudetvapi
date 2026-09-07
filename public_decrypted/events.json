@@ -649,12 +649,12 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TSN SPORTS"
+      "TSN SPORTS FHD"
     ],
     "formatsNew": [
       {
-        "title": "TSN SPORTS",
-        "logo": ""
+        "title": "TSN SPORTS FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
       }
     ]
   },
@@ -677,10 +677,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -710,10 +715,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -743,16 +753,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live",
-      "MLB LIVE [FHD]"
+      "DUDE Tv MLB",
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "DUDE Tv MLB",
         "logo": ""
       },
       {
-        "title": "MLB LIVE [FHD]",
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
@@ -776,10 +786,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -809,10 +824,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -842,10 +862,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -875,10 +900,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1055,44 +1085,6 @@
     ]
   },
   {
-    "id": 50090,
-    "title": "Cagliari vs Lecce",
-    "image": "o",
-    "cat": "Serie A 🇮🇹",
-    "eventInfo": {
-      "teamA": "Cagliari",
-      "teamB": "Lecce",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2719/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2689/image",
-      "eventName": "Cagliari vs Lecce",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/07 16:30:00 +0000",
-      "endTime": "2026/09/07 18:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "beIN ENGLISH FHD",
-      "CBS NETWORK",
-      "SPORT 1 CZ"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN ENGLISH FHD",
-        "logo": ""
-      },
-      {
-        "title": "CBS NETWORK",
-        "logo": ""
-      },
-      {
-        "title": "SPORT 1 CZ",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50091,
     "title": "Udinese vs Lazio",
     "image": "o",
@@ -1111,12 +1103,19 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PARAMOUNT+ (EN/IT)",
       "FUBO SPORTS",
       "beIN ENGLISH",
       "CBS NETWORK",
-      "SPORT 1 CZ"
+      "SKY CALCIO (ITALY)",
+      "SPORT 1 CZ",
+      "LOW SERVER"
     ],
     "formatsNew": [
+      {
+        "title": "PARAMOUNT+ (EN/IT)",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
       {
         "title": "FUBO SPORTS",
         "logo": ""
@@ -1130,55 +1129,15 @@
         "logo": ""
       },
       {
+        "title": "SKY CALCIO (ITALY)",
+        "logo": ""
+      },
+      {
         "title": "SPORT 1 CZ",
         "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50093,
-    "title": "Getafe vs Celta Vigo",
-    "image": "o",
-    "cat": "LaLiga 🇪🇸",
-    "eventInfo": {
-      "teamA": "Getafe",
-      "teamB": "Celta",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2859/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2821/image",
-      "eventName": "Getafe vs Celta Vigo",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/07 17:00:00 +0000",
-      "endTime": "2026/09/07 19:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "PREMIER SPORTS",
-      "beIN ENGLISH",
-      "FANCODE FHD",
-      "ESPN AR FHD",
-      "CAZE TV FHD"
-    ],
-    "formatsNew": [
-      {
-        "title": "PREMIER SPORTS",
-        "logo": ""
       },
       {
-        "title": "beIN ENGLISH",
-        "logo": ""
-      },
-      {
-        "title": "FANCODE FHD",
-        "logo": ""
-      },
-      {
-        "title": "ESPN AR FHD",
-        "logo": ""
-      },
-      {
-        "title": "CAZE TV FHD",
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1245,11 +1204,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "SPORT TV HD",
+      "HD SERVER "
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "SPORT TV HD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER ",
         "logo": ""
       }
     ]
@@ -1301,11 +1265,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH FHD"
+      "beIN ENGLISH FHD",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "beIN ENGLISH FHD",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1329,11 +1298,31 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "FOX DEPORTES"
+      "FOX DEPORTES",
+      "FOX SOCCER+ HD",
+      "SPORT TV HD",
+      "HD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "FOX DEPORTES",
+        "logo": ""
+      },
+      {
+        "title": "FOX SOCCER+ HD",
+        "logo": ""
+      },
+      {
+        "title": "SPORT TV HD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1385,11 +1374,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1413,11 +1402,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
