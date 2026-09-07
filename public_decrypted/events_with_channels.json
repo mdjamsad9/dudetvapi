@@ -1065,19 +1065,76 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "WILLOW - FHD",
+      "WILLOW - ALT",
+      "T SPORTS HD",
+      "SonyLiv - English",
+      "SonyLiv - Hindi",
+      "SonyLiv - Tamil",
+      "SonyLiv - Telugu",
+      "SonyLiv - Kannada"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "WILLOW - FHD",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "WILLOW - ALT",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "T SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv - English",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv - Hindi",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv - Tamil",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv - Telugu",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv - Kannada",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
+        "api": "ecfd503a2e10cdfc5cc824087a70824e:f33f6735b179d13d712de1c1ad2db810",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qhj7fyqqpl/out/v1/bca61413994542088261e44b1bf1c5de/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "title": "WILLOW - FHD",
+        "type": "1"
+      },
+      {
+        "api": "ecfd503a2e10cdfc5cc824087a70824e:f33f6735b179d13d712de1c1ad2db810",
+        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qhj7fyqqpl/out/v1/bca61413994542088261e44b1bf1c5de/cenc.mpd",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "title": "WILLOW - ALT",
+        "type": "1"
+      },
+      {
         "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-        "title": "DUDE Tv Live",
+        "link": "https://tvsen7.aynascope.net/Sports1/index.m3u8",
+        "logo": "",
+        "title": "T SPORTS HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://dai.google.com/ssai/event/Vqhl5bQURxa3_aLKeTXABA/master.m3u8",
+        "logo": "",
+        "title": "SonyLiv - English",
         "type": "0"
       }
     ],
@@ -1836,22 +1893,39 @@
     ],
     "decoded_channels": [
       {
+        "api": "4f5b8cd9fb198d4d5b3ac101248c0519:b1de34c98c9d050058c5bee6fc185436",
+        "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/qhpdsrqcev/out/v1/329c3d2f2f8a4d64b2391a2894784cf1/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "PARAMOUNT+ (EN/IT)",
+        "type": "1"
+      },
+      {
         "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
         "title": "beIN ENGLISH FHD",
         "type": "1"
       },
       {
         "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
         "title": "CBS NETWORK",
         "type": "1"
       },
       {
         "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
         "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+        "logo": "",
         "title": "SPORT 1 CZ",
         "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/seriea/2026-09-07/cag-lec",
+        "logo": "",
+        "title": "SPX LIVE [FHD]",
+        "type": "2"
       }
     ],
     "channel_status": "live"
@@ -2273,19 +2347,20 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "LOW SERVER",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-        "title": "DUDE Tv Live",
+        "link": "http://193.47.62.41/hls/eaaav.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "LOW SERVER",
         "type": "0"
       }
     ],
