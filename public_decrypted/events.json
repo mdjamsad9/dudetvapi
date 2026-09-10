@@ -591,6 +591,7 @@
     "publish": "1",
     "formats": [
       "TSN SPORTS",
+      "ESPN SPORTS HD",
       "TSN4 SPORTS",
       "TENNIS2 FHD",
       "SKY TENNIS FHD",
@@ -602,6 +603,10 @@
     "formatsNew": [
       {
         "title": "TSN SPORTS",
+        "logo": ""
+      },
+      {
+        "title": "ESPN SPORTS HD",
         "logo": ""
       },
       {
@@ -847,115 +852,6 @@
     ]
   },
   {
-    "id": 50075,
-    "title": "Atlanta Braves vs Tampa Bay Rays",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Braves",
-      "teamB": "Rays",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3656/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3653/image",
-      "eventName": "Atlanta Braves vs Tampa Bay Rays",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/10 16:15:00 +0000",
-      "endTime": "2026/09/10 19:15:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv MLB",
-      "DUDE Tv Live",
-      "MLB LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "MLB LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50076,
-    "title": "1. Phillies vs Houston Astros",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Phillies",
-      "teamB": "Astros",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3635/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3655/image",
-      "eventName": "Philadelphia Phillies vs Houston Astros",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/10 17:05:00 +0000",
-      "endTime": "2026/09/10 20:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv MLB",
-      "DUDE Tv Live",
-      "MLB LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "MLB LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50077,
-    "title": "Seattle Mariners vs Texas Rangers",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Mariners",
-      "teamB": "Rangers",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3641/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3647/image",
-      "eventName": "Seattle Mariners vs Texas Rangers",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/10 20:10:00 +0000",
-      "endTime": "2026/09/10 23:10:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "SPX LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50078,
     "title": "Yankees vs Colorado Rockies",
     "image": "o",
@@ -974,10 +870,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1007,10 +908,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1116,118 +1022,6 @@
       },
       {
         "title": "D Sports FHD",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50090,
-    "title": "Manchester United vs Sabah",
-    "image": "o",
-    "cat": "UCL",
-    "eventInfo": {
-      "teamA": "Man Utd",
-      "teamB": "Sabah",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/35/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/267828/image",
-      "eventName": "Manchester United vs Sabah FK",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/10 19:00:00 +0000",
-      "endTime": "2026/09/10 21:10:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "TNT SPORTS FHD"
-    ],
-    "formatsNew": [
-      {
-        "title": "TNT SPORTS FHD",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50091,
-    "title": "Bayern vs Bodø/Glimt",
-    "image": "o",
-    "cat": "UCL",
-    "eventInfo": {
-      "teamA": "Bayern",
-      "teamB": "Bodø/Glimt",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2672/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/656/image",
-      "eventName": "Bayern München vs Bodø/Glimt",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/10 19:00:00 +0000",
-      "endTime": "2026/09/10 21:10:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "TNT SPORTS FHD"
-    ],
-    "formatsNew": [
-      {
-        "title": "TNT SPORTS FHD",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50093,
-    "title": "Como vs RB Leipzig",
-    "image": "o",
-    "cat": "UCL",
-    "eventInfo": {
-      "teamA": "Como",
-      "teamB": "Leipzig",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2704/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/36360/image",
-      "eventName": "Como vs RB Leipzig",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/10 19:00:00 +0000",
-      "endTime": "2026/09/10 21:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "TNT SPORTS FHD"
-    ],
-    "formatsNew": [
-      {
-        "title": "TNT SPORTS FHD",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50094,
-    "title": "Slavia Praha vs RC Lens",
-    "image": "o",
-    "cat": "UCL",
-    "eventInfo": {
-      "teamA": "Slavia Praha",
-      "teamB": "Lens",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2216/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1648/image",
-      "eventName": "SK Slavia Praha vs RC Lens",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/10 19:00:00 +0000",
-      "endTime": "2026/09/10 21:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
