@@ -19,18 +19,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "FANCODE FHD",
+      "FANCODE - FHD",
       "DUDE Tv F1 HD",
       "SKY F1 Italia [IT]",
       "Sportscast FHD",
       "RUSSIA FEED",
-      "Lewis Hamilton",
-      "Charles Leclerc",
-      "Pierre Gasly",
-      "George Russell",
-      "Oscar Piastri",
-      "Lando Norris",
-      "Kimi Antonelli",
       "DAZN ESPANOL [FHD]",
       "SKY SPORTS [FHD]",
       "APPLE TV [FHD]",
@@ -40,8 +33,8 @@
     ],
     "formatsNew": [
       {
-        "title": "FANCODE FHD",
-        "logo": ""
+        "title": "FANCODE - FHD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       },
       {
         "title": "DUDE Tv F1 HD",
@@ -60,40 +53,12 @@
         "logo": ""
       },
       {
-        "title": "Lewis Hamilton",
-        "logo": ""
-      },
-      {
-        "title": "Charles Leclerc",
-        "logo": ""
-      },
-      {
-        "title": "Pierre Gasly",
-        "logo": ""
-      },
-      {
-        "title": "George Russell",
-        "logo": ""
-      },
-      {
-        "title": "Oscar Piastri",
-        "logo": ""
-      },
-      {
-        "title": "Lando Norris",
-        "logo": ""
-      },
-      {
-        "title": "Kimi Antonelli",
-        "logo": ""
-      },
-      {
         "title": "DAZN ESPANOL [FHD]",
         "logo": ""
       },
       {
         "title": "SKY SPORTS [FHD]",
-        "logo": ""
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
       },
       {
         "title": "APPLE TV [FHD]",
@@ -105,7 +70,7 @@
       },
       {
         "title": "SKY SPORTS HD",
-        "logo": ""
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
       },
       {
         "title": "SD SERVER",
@@ -115,109 +80,78 @@
     "decoded_channels": [
       {
         "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "title": "FANCODE FHD",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
+        "title": "FANCODE - FHD",
         "type": "1"
       },
       {
         "api": "",
         "link": "https://chatgpt.hereisman.net/playlist/55739/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
         "title": "DUDE Tv F1 HD",
         "type": "0"
       },
       {
         "api": "1118309a2acda72cfc3cb3cc9e047a3b:a9e90af10faf93b3c935bb0a807d285a",
         "link": "https://g006-lin-it-cmaf-prd-sn.pcdn07.cssott02.com/v~1-0-0_e~1788597844_f~0_g~1_s~3f4937a9-3ff1-4569-8ba1-4d71267b77cc_u~fe3b84cbbdf5bc565dd1012e5306ba8dc943c4ee57b1c5b2555a972552c5c85df5468f3aaf797d103da27a492f48c64a_k~A_l~56_x~87c073c87c84cce52658823bcb030cdc/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportf1)/master_2hr-all.mpd",
+        "logo": "",
         "title": "SKY F1 Italia [IT]",
         "type": "1"
       },
       {
         "api": "",
         "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/0aeeb4af-9141-46a6-b13b-56cf8bbffc95/master.m3u8",
+        "logo": "",
         "title": "Sportscast FHD",
         "type": "0"
       },
       {
         "api": "",
         "link": "https://bl.rutube.ru/livestream/c5f202caee6c91618c60155c61501a9d/index.m3u8?s=xpUsLxld9wCdVIi76xZP9w&e=1788690430&scheme=https|user-agent=Mozilla",
+        "logo": "",
         "title": "RUSSIA FEED",
         "type": "0"
       },
       {
-        "api": "cc753b5e91eb85ee26dc1d3e1eaeec52:6dabd222baa4065756ff8eeeff651ca8",
-        "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bfx4irduot/out/v1/d565f7b0d5d141afa16332d0236bf7c2/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "title": "Lewis Hamilton",
-        "type": "1"
-      },
-      {
-        "api": "6baf74ed15dbce5b93f1a8bccfdc8038:815c11fd34a2c5692166605006cbe7b6",
-        "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/6g2iuthrrs/out/v1/ab4b9d24ec2f4751ae686d2541a45239/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "title": "Charles Leclerc",
-        "type": "1"
-      },
-      {
-        "api": "1c296e57eacd40a50917f25e93af04ff:bff886b5688640ec2599e851bce54135",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nrx1zpwpp1/out/v1/1d67f93a0de541f0b231e1e1657f7ce8/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "title": "Pierre Gasly",
-        "type": "1"
-      },
-      {
-        "api": "9c4fbd682977342087dfe04f012729a6:6a15cb89c2131b0c2ef156f83e79dbb7",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/h82txri5jv/out/v1/a7dd1417b9a5419683ba8a0302950e19/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "title": "George Russell",
-        "type": "1"
-      },
-      {
-        "api": "70f8edbef5c483848d3dd02d08c4cf26:b92ee649402d57331ac69ccaaf5534aa",
-        "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/7tblxcqwhs/out/v1/c4446f8feb874f50aa263a1f92f20915/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "title": "Oscar Piastri",
-        "type": "1"
-      },
-      {
-        "api": "2f1284382b56090df0a7e40d518b169b:45a7a5aa59fb9d3ebf30190160c2f58b",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uive9n8fwj/out/v1/0069b1b3631c470da376d89d0745428c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "title": "Lando Norris",
-        "type": "1"
-      },
-      {
-        "api": "be687a725b249f0de35bea50c31a4c4c:2bea5d8ce6e34c5508fbc8541010744c",
-        "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/gfk8v1lyav/out/v1/ae6e7128953d4d628b47d02efbeea00c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "title": "Kimi Antonelli",
-        "type": "1"
-      },
-      {
         "api": "",
         "link": "https://embedindia.st/embed/f1/2026/italy/race/dazn-es",
+        "logo": "",
         "title": "DAZN ESPANOL [FHD]",
         "type": "2"
       },
       {
         "api": "",
         "link": "https://embedindia.st/embed/f1/2026/italy/race/qualifying",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
         "title": "SKY SPORTS [FHD]",
         "type": "2"
       },
       {
         "api": "",
         "link": "https://embedindia.st/embed/f1/2026/italy/race/f1tv",
+        "logo": "",
         "title": "APPLE TV [FHD]",
         "type": "2"
       },
       {
         "api": "",
         "link": "https://embedindia.st/embed/f1/2026/italy/race/viaplay-nl",
+        "logo": "",
         "title": "VIAPLAY NL [FHD]",
         "type": "2"
       },
       {
         "api": "",
         "link": "https://edgestream3.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
         "title": "SKY SPORTS HD",
         "type": "0"
       },
       {
         "api": "",
         "link": "http://193.47.62.55/hls/bababa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
         "title": "SD SERVER",
         "type": "0"
       }
@@ -1725,56 +1659,6 @@
       }
     ],
     "channel_status": "cached"
-  },
-  {
-    "id": 50073,
-    "title": "Pumas UNAM vs Club León",
-    "image": "o",
-    "cat": "Liga MX",
-    "eventInfo": {
-      "teamA": "Pumas",
-      "teamB": "León",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1933/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/36534/image",
-      "eventName": "Pumas UNAM vs Club León",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/11 03:05:00 +0000",
-      "endTime": "2026/09/11 05:10:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "Liga MX [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "Liga MX [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://live.vivo155.com/live/sd-1-4553856.m3u8?txSecret=c3b10936474b2caeec3f4a16d68b26aa&txTime=6AA37E70|Referer=https://player.787200.com/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/liga-mx/2026-09-10/unam-leo",
-        "logo": "",
-        "title": "Liga MX [FHD]",
-        "type": "2"
-      }
-    ],
-    "channel_status": "live"
   },
   {
     "id": 50075,
