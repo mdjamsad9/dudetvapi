@@ -12,9 +12,9 @@
       "eventName": "Formula 1 -  Circuito de Madring",
       "eventType": "null",
       "eventBanner": "https://wsrv.nl/?url=https://tikolu.net/i/vfbcx",
-      "isHot": "1",
-      "startTime": "2026/09/11 14:30:00 +0000",
-      "endTime": "2026/09/11 16:30:00 +0000"
+      "isHot": "0",
+      "startTime": "2026/09/12 10:30:00 +0000",
+      "endTime": "2026/09/12 15:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -501,8 +501,8 @@
       "eventType": "null",
       "eventBanner": "https://wsrv.nl/?url=https://iili.io/n9UupwX.png",
       "isHot": "0",
-      "startTime": "2026/09/10 20:00:00 +0000",
-      "endTime": "2026/09/11 03:00:00 +0000"
+      "startTime": "2026/09/11 19:00:00 +0000",
+      "endTime": "2026/09/12 03:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -943,12 +943,17 @@
     "publish": "1",
     "formats": [
       "TNT SPORTS",
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "TNT SPORTS",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+      },
+      {
+        "title": "DUDE Tv MLB",
         "logo": ""
       },
       {
@@ -1346,7 +1351,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2828/image",
       "eventName": "Sevilla vs Valencia",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/09/11 19:00:00 +0000",
       "endTime": "2026/09/11 21:05:00 +0000"
     },
@@ -1355,19 +1360,44 @@
     "formats": [
       "PREMIER SPORTS",
       "FANCODE FHD",
-      "CAZE TV FHD"
+      "CAZE TV FHD",
+      "ESPN DEPORTES HD",
+      "Laliga TV HD",
+      "M+ LaLiga HD",
+      "DAZN SPORTS HD",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "PREMIER SPORTS",
-        "logo": ""
+        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
       },
       {
         "title": "FANCODE FHD",
-        "logo": ""
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       },
       {
         "title": "CAZE TV FHD",
+        "logo": "https://duckduckgo.com/i/dab0d6887915781c.png"
+      },
+      {
+        "title": "ESPN DEPORTES HD",
+        "logo": ""
+      },
+      {
+        "title": "Laliga TV HD",
+        "logo": ""
+      },
+      {
+        "title": "M+ LaLiga HD",
+        "logo": ""
+      },
+      {
+        "title": "DAZN SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1391,11 +1421,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "PEACOCK TV FHD",
+      "DUDE Tv Live",
+      "HD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "PEACOCK TV FHD",
+        "logo": ""
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1412,18 +1457,33 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/1641/image",
       "eventName": "Stade Rennais vs Olympique de Marseille",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/09/11 18:45:00 +0000",
       "endTime": "2026/09/11 20:50:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "PRIME VIDEO FHD",
+      "CAZE TV FHD",
+      "beIN SPORTS HD",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "PRIME VIDEO FHD",
+        "logo": ""
+      },
+      {
+        "title": "CAZE TV FHD",
+        "logo": "https://duckduckgo.com/i/dab0d6887915781c.png"
+      },
+      {
+        "title": "beIN SPORTS HD",
+        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1926,18 +1986,33 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2693/image",
       "eventName": "Venezia vs Fiorentina",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/09/11 18:45:00 +0000",
       "endTime": "2026/09/11 20:50:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DAZN SPORTS (EN/IT)",
+      "PARAMOUNT+ FHD",
       "FUBO SPORTS FHD",
       "beIN ENGLISH FHD",
-      "CBS NETWORK"
+      "CBS NETWORK",
+      "PARAMOUNT+ HD",
+      "DAZN SPORTS HD",
+      "DUDE Tv Live",
+      "SPORT TV HD",
+      "LOW SERVER"
     ],
     "formatsNew": [
+      {
+        "title": "DAZN SPORTS (EN/IT)",
+        "logo": ""
+      },
+      {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
       {
         "title": "FUBO SPORTS FHD",
         "logo": ""
@@ -1948,6 +2023,26 @@
       },
       {
         "title": "CBS NETWORK",
+        "logo": ""
+      },
+      {
+        "title": "PARAMOUNT+ HD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "DAZN SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SPORT TV HD",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -2060,11 +2155,31 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH FHD"
+      "beIN ENGLISH FHD",
+      "FANCODE FHD",
+      "SKY FOOTBALL HD",
+      "SKY MAIN EVENT",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "beIN ENGLISH FHD",
+        "logo": ""
+      },
+      {
+        "title": "FANCODE FHD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
+      {
+        "title": "SKY FOOTBALL HD",
+        "logo": ""
+      },
+      {
+        "title": "SKY MAIN EVENT",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -2116,11 +2231,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -2144,11 +2259,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH"
+      "beIN ENGLISH",
+      "SKY BUNDESLIGA HD",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "beIN ENGLISH",
+        "logo": ""
+      },
+      {
+        "title": "SKY BUNDESLIGA HD",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -2172,49 +2297,49 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH"
+      "beIN ENGLISH",
+      "SKY BUNDESLIGA HD",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "beIN ENGLISH",
+        "logo": ""
+      },
+      {
+        "title": "SKY BUNDESLIGA HD",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
   },
   {
     "id": 50121,
-    "title": "Dockers vs Geelong Cats",
+    "title": "Beşiktaş vs Erzurumspor",
     "image": "o",
-    "cat": "AFL",
+    "cat": "Super Lig",
     "eventInfo": {
-      "teamA": "Fremantle",
-      "teamB": "Geelong",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4452/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4443/image",
-      "eventName": "Fremantle Dockers vs Geelong Cats",
+      "teamA": "Beşiktaş JK",
+      "teamB": "Erzurumspor",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3050/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/55603/image",
+      "eventName": "Beşiktaş JK vs Erzurumspor FK",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/11 10:10:00 +0000",
-      "endTime": "2026/09/11 13:10:00 +0000"
+      "startTime": "2026/09/11 17:00:00 +0000",
+      "endTime": "2026/09/11 19:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TNT SPORTS FHD",
-      "TSN SPORTS FHD",
-      "FOX SPORTS FHD"
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "TNT SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "TSN SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "FOX SPORTS FHD",
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
