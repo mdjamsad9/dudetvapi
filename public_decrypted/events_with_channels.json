@@ -12,14 +12,18 @@
       "eventName": "Formula 1 -  Circuito de Madring",
       "eventType": "null",
       "eventBanner": "https://wsrv.nl/?url=https://tikolu.net/i/vfbcx",
-      "isHot": "0",
-      "startTime": "2026/09/11 11:30:00 +0000",
+      "isHot": "1",
+      "startTime": "2026/09/11 14:30:00 +0000",
       "endTime": "2026/09/11 16:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "Sky SPORTS FHD",
+      "APPLE TV FHD",
+      "TSN SPORTS FHD",
       "FANCODE - FHD",
+      "APPLE TV 4K",
       "DUDE Tv F1 HD",
       "SKY F1 Italia [IT]",
       "Sportscast FHD",
@@ -33,8 +37,24 @@
     ],
     "formatsNew": [
       {
+        "title": "Sky SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "APPLE TV FHD",
+        "logo": ""
+      },
+      {
+        "title": "TSN SPORTS FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+      },
+      {
         "title": "FANCODE - FHD",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
+      {
+        "title": "APPLE TV 4K",
+        "logo": ""
       },
       {
         "title": "DUDE Tv F1 HD",
@@ -79,6 +99,27 @@
     ],
     "decoded_channels": [
       {
+        "api": "dabb1f053969f5f73877164a6506d987:96bc554277e343e4353b5d2eafece741",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cbriuqwzto/out/v1/5f4752c12c7a43bfacc04e2cae3cd6cb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "Sky SPORTS FHD",
+        "type": "1"
+      },
+      {
+        "api": "19686e7ce46d2f6ae88c6d6dd8874e5d:d9c15a24051a1f44f16aae02105cdaf4",
+        "link": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/2cnyc2z1lz/out/v1/8ac31523346442f3827301f2f2af3abd/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "APPLE TV FHD",
+        "type": "1"
+      },
+      {
+        "api": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+        "title": "TSN SPORTS FHD",
+        "type": "1"
+      },
+      {
         "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
         "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
@@ -87,7 +128,7 @@
       },
       {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/55739/load-playlist?|Referer=https://gooz.aapmains.net",
+        "link": "https://chatgpt.hereisman.net/playlist/56188/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "",
         "title": "DUDE Tv F1 HD",
         "type": "0"
@@ -101,7 +142,7 @@
       },
       {
         "api": "",
-        "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/0aeeb4af-9141-46a6-b13b-56cf8bbffc95/master.m3u8",
+        "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/1a3ac119-530b-404e-8003-c71950f9e639/master.m3u8",
         "logo": "",
         "title": "Sportscast FHD",
         "type": "0"
@@ -115,28 +156,28 @@
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/f1/2026/italy/race/dazn-es",
+        "link": "https://embedindia.st/embed/f1/2026/spain/fp2/dazn-es",
         "logo": "",
         "title": "DAZN ESPANOL [FHD]",
         "type": "2"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/f1/2026/italy/race/qualifying",
+        "link": "https://embedindia.st/embed/f1/2026/spain/fp2/qualifying",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
         "title": "SKY SPORTS [FHD]",
         "type": "2"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/f1/2026/italy/race/f1tv",
+        "link": "https://embedindia.st/embed/f1/2026/spain/fp2/f1tv",
         "logo": "",
         "title": "APPLE TV [FHD]",
         "type": "2"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/f1/2026/italy/race/viaplay-nl",
+        "link": "https://embedindia.st/embed/f1/2026/spain/fp2/viaplay-nl",
         "logo": "",
         "title": "VIAPLAY NL [FHD]",
         "type": "2"
@@ -1384,19 +1425,64 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "WILLOW - FHD",
+      "WILLOW - ALT",
+      "SonyLiv - English",
+      "SonyLiv - Hindi",
+      "SonyLiv - Tamil",
+      "SonyLiv - Telugu",
+      "SonyLiv - Kannada"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "WILLOW - FHD",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "WILLOW - ALT",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "SonyLiv - English",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv - Hindi",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv - Tamil",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv - Telugu",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv - Kannada",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
+        "api": "3b8b2e5fc6b2ff6a1becfaa770e0807f:0f7f907364870c16af43744cb481f6a3",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oswqp2gsrk/out/v1/ddb2c1e928dc4a54b8e9db919be1d39a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "title": "WILLOW - FHD",
+        "type": "1"
+      },
+      {
+        "api": "3b8b2e5fc6b2ff6a1becfaa770e0807f:0f7f907364870c16af43744cb481f6a3",
+        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/oswqp2gsrk/out/v1/ddb2c1e928dc4a54b8e9db919be1d39a/cenc.mpd",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "title": "WILLOW - ALT",
+        "type": "1"
+      },
+      {
         "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-        "title": "DUDE Tv Live",
+        "link": "https://dai.google.com/ssai/event/Vqhl5bQURxa3_aLKeTXABA/master.m3u8",
+        "logo": "",
+        "title": "SonyLiv - English",
         "type": "0"
       }
     ],
@@ -1471,8 +1557,8 @@
     ],
     "decoded_channels": [
       {
-        "api": "bb0ec9d372efb70167bf3db05c963393:bd54e2afc4ece7d3853080cd601ea0ad",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/s0vxxrjcsl/out/v1/78d97a74f6b3438a89a405abd6de818e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "4b449e62d6400a82c000f057837d3c34:6726fe4c78a06a3861c5403c716ea96f",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kbatzaazbo/out/v1/e12d4e78342c47348c272f5d5979eeec/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW - FHD",
         "type": "1"
@@ -1485,15 +1571,15 @@
         "type": "0"
       },
       {
-        "api": "bb0ec9d372efb70167bf3db05c963393:bd54e2afc4ece7d3853080cd601ea0ad",
-        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/s0vxxrjcsl/out/v1/78d97a74f6b3438a89a405abd6de818e/cenc.mpd",
+        "api": "4b449e62d6400a82c000f057837d3c34:6726fe4c78a06a3861c5403c716ea96f",
+        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kbatzaazbo/out/v1/e12d4e78342c47348c272f5d5979eeec/cenc.mpd",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW - ALT",
         "type": "1"
       },
       {
         "api": "",
-        "link": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8|referer=https://tapmad.com/",
+        "link": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8|referer=https://tapmad.com/",
         "logo": "",
         "title": "TAPMAD - AQ",
         "type": "0"
@@ -1521,7 +1607,7 @@
       },
       {
         "api": "",
-        "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2022320/criclive1009/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=7420defe27e52e0d9045387c32eb86b5-1789032604242",
+        "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2037142/criclive1109/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=44649048e8888c54853e613a2e64a930-1789119004647",
         "logo": "",
         "title": "SonyLiv",
         "type": "0"
@@ -1585,8 +1671,8 @@
     ],
     "decoded_channels": [
       {
-        "api": "2420d5014ea17f77f5400b8214e10ac2:46c3d858547ddd9f0b8d0b7a3b057868",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/e0bkc74zda/out/v1/6577da522b874e25a1954c2897edd4d4/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "4f04d96a04402d8818478ece57b9475f:fedfd84ff9b4034a5d20dec45c282c0a",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ijdtchzbii/out/v1/1d139fe172f94e6c8c107da1bdee0192/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW - FHD",
         "type": "1"
@@ -1599,8 +1685,8 @@
         "type": "1"
       },
       {
-        "api": "2420d5014ea17f77f5400b8214e10ac2:46c3d858547ddd9f0b8d0b7a3b057868",
-        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/e0bkc74zda/out/v1/6577da522b874e25a1954c2897edd4d4/cenc.mpd",
+        "api": "4f04d96a04402d8818478ece57b9475f:fedfd84ff9b4034a5d20dec45c282c0a",
+        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ijdtchzbii/out/v1/1d139fe172f94e6c8c107da1bdee0192/cenc.mpd",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW - ALT",
         "type": "1"
@@ -3212,11 +3298,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "FOX DEPORTES"
+      "FOX DEPORTES",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "FOX DEPORTES",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ],
@@ -3224,8 +3315,16 @@
       {
         "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
         "title": "FOX DEPORTES",
         "type": "1"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.43/hls/LOOOAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "LOW SERVER",
+        "type": "0"
       }
     ],
     "channel_status": "live"
@@ -3510,42 +3609,5 @@
       }
     ],
     "channel_status": "live"
-  },
-  {
-    "id": 50122,
-    "title": "Rabbitohs vs Newcastle Knights",
-    "image": "O",
-    "cat": "NRL Rugby",
-    "eventInfo": {
-      "teamA": "South Sydney",
-      "teamB": "Newcastle",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4263/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4260/image",
-      "eventName": "South Sydney Rabbitohs vs Newcastle Knights",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/11 09:50:00 +0000",
-      "endTime": "2026/09/11 12:50:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "NRL RUGBY [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "NRL RUGBY [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      }
-    ],
-    "channel_status": "cached"
   }
 ]

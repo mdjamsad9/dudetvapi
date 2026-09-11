@@ -12,14 +12,18 @@
       "eventName": "Formula 1 -  Circuito de Madring",
       "eventType": "null",
       "eventBanner": "https://wsrv.nl/?url=https://tikolu.net/i/vfbcx",
-      "isHot": "0",
-      "startTime": "2026/09/11 11:30:00 +0000",
+      "isHot": "1",
+      "startTime": "2026/09/11 14:30:00 +0000",
       "endTime": "2026/09/11 16:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "Sky SPORTS FHD",
+      "APPLE TV FHD",
+      "TSN SPORTS FHD",
       "FANCODE - FHD",
+      "APPLE TV 4K",
       "DUDE Tv F1 HD",
       "SKY F1 Italia [IT]",
       "Sportscast FHD",
@@ -33,8 +37,24 @@
     ],
     "formatsNew": [
       {
+        "title": "Sky SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "APPLE TV FHD",
+        "logo": ""
+      },
+      {
+        "title": "TSN SPORTS FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+      },
+      {
         "title": "FANCODE - FHD",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
+      {
+        "title": "APPLE TV 4K",
+        "logo": ""
       },
       {
         "title": "DUDE Tv F1 HD",
@@ -720,11 +740,41 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "WILLOW - FHD",
+      "WILLOW - ALT",
+      "SonyLiv - English",
+      "SonyLiv - Hindi",
+      "SonyLiv - Tamil",
+      "SonyLiv - Telugu",
+      "SonyLiv - Kannada"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "WILLOW - FHD",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "WILLOW - ALT",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "SonyLiv - English",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv - Hindi",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv - Tamil",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv - Telugu",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv - Kannada",
         "logo": ""
       }
     ]
@@ -1949,11 +1999,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "FOX DEPORTES"
+      "FOX DEPORTES",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "FOX DEPORTES",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -2160,34 +2215,6 @@
       },
       {
         "title": "FOX SPORTS FHD",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50122,
-    "title": "Rabbitohs vs Newcastle Knights",
-    "image": "O",
-    "cat": "NRL Rugby",
-    "eventInfo": {
-      "teamA": "South Sydney",
-      "teamB": "Newcastle",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4263/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4260/image",
-      "eventName": "South Sydney Rabbitohs vs Newcastle Knights",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/11 09:50:00 +0000",
-      "endTime": "2026/09/11 12:50:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "NRL RUGBY [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "NRL RUGBY [FHD]",
         "logo": ""
       }
     ]
