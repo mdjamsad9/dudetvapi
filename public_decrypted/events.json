@@ -12,9 +12,9 @@
       "eventName": "Formula 1 -  Circuito de Madring",
       "eventType": "null",
       "eventBanner": "https://wsrv.nl/?url=https://tikolu.net/i/vfbcx",
-      "isHot": "1",
-      "startTime": "2026/09/12 10:30:00 +0000",
-      "endTime": "2026/09/12 15:30:00 +0000"
+      "isHot": "0",
+      "startTime": "2026/09/13 12:50:00 +0000",
+      "endTime": "2026/09/13 15:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -174,15 +174,15 @@
       "eventName": "UFC Fight Night: Silva vs Delgado",
       "eventType": "null",
       "eventBanner": "null",
-      "isHot": "0",
-      "startTime": "2026/09/12 21:00:00 +0000",
-      "endTime": "2026/09/13 04:30:00 +0000"
+      "isHot": "1",
+      "startTime": "2026/09/12 18:00:00 +0000",
+      "endTime": "2026/09/13 02:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
       "PARAMOUNT+ FHD",
-      "TNT SPORTS FHD",
+      "TNT Sports FHD",
       "PARAMOUNT+ ES",
       "PARAMOUNT+ PT",
       "PARAMOUNT+ HD",
@@ -191,7 +191,6 @@
       "PARAMOUNT+ [FHD]",
       "PARAMOUNT+ ES [FHD]",
       "PARAMOUNT+ PT [FHD]",
-      "DAZN DE [FHD]",
       "SD TV (USE VPN)",
       "SportsNet FHD"
     ],
@@ -201,7 +200,7 @@
         "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
       },
       {
-        "title": "TNT SPORTS FHD",
+        "title": "TNT Sports FHD",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
       },
       {
@@ -235,10 +234,6 @@
       {
         "title": "PARAMOUNT+ PT [FHD]",
         "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
-        "title": "DAZN DE [FHD]",
-        "logo": ""
       },
       {
         "title": "SD TV (USE VPN)",
@@ -591,6 +586,35 @@
       },
       {
         "title": "TSN5 SPORTS",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50023,
+    "title": "Garcia vs Benn",
+    "image": "o",
+    "cat": "Boxing",
+    "eventInfo": {
+      "teamA": "Garcia",
+      "teamB": "Benn",
+      "teamAFlag": "https://images.tapology.com/headshot_images/204534/preview/IMG_20220728_020931.jpg",
+      "teamBFlag": "https://images.tapology.com/headshot_images/220306/preview/IMG_20220418_030233.jpg",
+      "eventName": "Garcia vs Benn",
+      "eventType": "null",
+      "eventBanner": "https://wsrv.nl/?url=https://tikolu.net/i/tyklu",
+      "isHot": "0",
+      "startTime": "2026/09/13 00:00:00 +0000",
+      "endTime": "2026/09/13 05:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
@@ -976,10 +1000,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1009,10 +1038,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1469,18 +1503,63 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/48/image",
       "eventName": "Tottenham Hotspur vs Everton",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/09/12 16:30:00 +0000",
       "endTime": "2026/09/12 18:35:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "NBC SPORTS FHD"
+      "FUBO SPORTS FHD",
+      "NBC SPORTS FHD",
+      "ESPN AR FHD",
+      "SKY EPL HD",
+      "NBC SPORTS HD",
+      "DUDE Tv Live",
+      "SKY MAIN EVENT",
+      "SKY SPORTS HD",
+      "HD SERVER",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
+        "title": "FUBO SPORTS FHD",
+        "logo": ""
+      },
+      {
         "title": "NBC SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "ESPN AR FHD",
+        "logo": ""
+      },
+      {
+        "title": "SKY EPL HD",
+        "logo": ""
+      },
+      {
+        "title": "NBC SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SKY MAIN EVENT",
+        "logo": ""
+      },
+      {
+        "title": "SKY SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1591,7 +1670,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/43/image",
       "eventName": "Liverpool FC vs Fulham",
       "eventType": "null",
-      "isHot": "1",
+      "isHot": "0",
       "startTime": "2026/09/12 14:00:00 +0000",
       "endTime": "2026/09/12 16:05:00 +0000"
     },
@@ -1601,6 +1680,7 @@
       "FUBO SPORTS FHD",
       "PEACOCK TV 4K",
       "PEACOCK TV HD",
+      "beIN ARABIC FHD",
       "DUDE Tv Live",
       "HD SERVER",
       "LOW SERVER"
@@ -1616,6 +1696,10 @@
       },
       {
         "title": "PEACOCK TV HD",
+        "logo": ""
+      },
+      {
+        "title": "beIN ARABIC FHD",
         "logo": ""
       },
       {
@@ -1644,7 +1728,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/96/image",
       "eventName": "Chelsea vs Hull City",
       "eventType": "null",
-      "isHot": "1",
+      "isHot": "0",
       "startTime": "2026/09/12 14:00:00 +0000",
       "endTime": "2026/09/12 16:05:00 +0000"
     },
@@ -1653,6 +1737,7 @@
     "formats": [
       "FUBO SPORTS FHD",
       "USA TV HD",
+      "beIN ARABIC FHD",
       "DUDE Tv Live",
       "HD SERVER",
       "LOW SERVER"
@@ -1667,57 +1752,7 @@
         "logo": ""
       },
       {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50097,
-    "title": "Aston Villa vs Forest",
-    "image": "o",
-    "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Aston Villa",
-      "teamB": "Forest",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/40/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/14/image",
-      "eventName": "Aston Villa vs Nottingham Forest",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/12 14:00:00 +0000",
-      "endTime": "2026/09/12 16:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "FUBO SPORTS FHD",
-      "PEACOCK TV 4K",
-      "PEACOCK TV HD",
-      "DUDE Tv Live",
-      "HD SERVER",
-      "SD SERVER",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "FUBO SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "PEACOCK TV 4K",
-        "logo": ""
-      },
-      {
-        "title": "PEACOCK TV HD",
+        "title": "beIN ARABIC FHD",
         "logo": ""
       },
       {
@@ -1726,121 +1761,6 @@
       },
       {
         "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50098,
-    "title": "Bournemouth vs Brentford",
-    "image": "o",
-    "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Bournemouth",
-      "teamB": "Brentford",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/60/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/50/image",
-      "eventName": "Bournemouth vs Brentford",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/12 14:00:00 +0000",
-      "endTime": "2026/09/12 16:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "FUBO SPORTS FHD",
-      "PEACOCK TV HD",
-      "DUDE Tv Live",
-      "HD SERVER",
-      "HD SERVER",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "FUBO SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "PEACOCK TV HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50099,
-    "title": "Palace vs Ipswich Town",
-    "image": "o",
-    "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Crystal Palace",
-      "teamB": "Ipswich",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/7/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/32/image",
-      "eventName": "Crystal Palace vs Ipswich Town",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/12 14:00:00 +0000",
-      "endTime": "2026/09/12 16:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "FUBO SPORTS FHD",
-      "PEACOCK TV 4K",
-      "PEACOCK TV HD",
-      "DUDE Tv Live",
-      "HD SERVER",
-      "SD SERVER",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "FUBO SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "PEACOCK TV 4K",
-        "logo": ""
-      },
-      {
-        "title": "PEACOCK TV HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
         "logo": ""
       },
       {
@@ -1869,136 +1789,24 @@
     "publish": "1",
     "formats": [
       "PREMIER SPORTS",
-      "beIN ENGLISH FHD"
-    ],
-    "formatsNew": [
-      {
-        "title": "PREMIER SPORTS",
-        "logo": ""
-      },
-      {
-        "title": "beIN ENGLISH FHD",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50101,
-    "title": "Osasuna vs Espanyol",
-    "image": "o",
-    "cat": "LaLiga 🇪🇸",
-    "eventInfo": {
-      "teamA": "Osasuna",
-      "teamB": "Espanyol",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2820/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2814/image",
-      "eventName": "Osasuna vs Espanyol",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/12 14:15:00 +0000",
-      "endTime": "2026/09/12 16:20:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "Premier Sports",
-      "D Sports FHD",
-      "ESPN DEPORTES HD",
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "Premier Sports",
-        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
-      },
-      {
-        "title": "D Sports FHD",
-        "logo": ""
-      },
-      {
-        "title": "ESPN DEPORTES HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50102,
-    "title": "Racing Club vs Deportivo Alavés",
-    "image": "o",
-    "cat": "LaLiga 🇪🇸",
-    "eventInfo": {
-      "teamA": "R. Racing Club",
-      "teamB": "Alavés",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2835/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2885/image",
-      "eventName": "Real Racing Club vs Deportivo Alavés",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/12 12:00:00 +0000",
-      "endTime": "2026/09/12 14:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "PREMIER SPORTS",
-      "D Sports FHD",
-      "ESPN DEPORTES HD",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "PREMIER SPORTS",
-        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
-      },
-      {
-        "title": "D Sports FHD",
-        "logo": ""
-      },
-      {
-        "title": "ESPN DEPORTES HD",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50103,
-    "title": "Dortmund vs Paderborn",
-    "image": "o",
-    "cat": "Bundesliga 🇩🇪",
-    "eventInfo": {
-      "teamA": "Dortmund",
-      "teamB": "Paderborn",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2673/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2561/image",
-      "eventName": "Borussia Dortmund vs Paderborn",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/12 13:30:00 +0000",
-      "endTime": "2026/09/12 15:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
       "beIN ENGLISH FHD",
-      "BUNDESLIGA HD",
+      "ESPN DEPORTES HD",
       "DUDE Tv Live",
-      "LOW SERVER"
+      "HD SERVER",
+      "HD SERVER",
+      "SD SERVER"
     ],
     "formatsNew": [
+      {
+        "title": "PREMIER SPORTS",
+        "logo": ""
+      },
       {
         "title": "beIN ENGLISH FHD",
         "logo": ""
       },
       {
-        "title": "BUNDESLIGA HD",
+        "title": "ESPN DEPORTES HD",
         "logo": ""
       },
       {
@@ -2006,164 +1814,15 @@
         "logo": ""
       },
       {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50104,
-    "title": "Augsburg vs Bayer Leverkusen",
-    "image": "o",
-    "cat": "Bundesliga 🇩🇪",
-    "eventInfo": {
-      "teamA": "Augsburg",
-      "teamB": "Leverkusen",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2600/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2681/image",
-      "eventName": "Augsburg vs Bayer Leverkusen",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/12 13:30:00 +0000",
-      "endTime": "2026/09/12 15:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "PEACOCK TV FHD",
-      "BUNDESLIGA HD",
-      "DUDE Tv Live",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "PEACOCK TV FHD",
+        "title": "HD SERVER",
         "logo": ""
       },
       {
-        "title": "BUNDESLIGA HD",
+        "title": "HD SERVER",
         "logo": ""
       },
       {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50105,
-    "title": "Hoffenheim vs VfB Stuttgart",
-    "image": "o",
-    "cat": "Bundesliga 🇩🇪",
-    "eventInfo": {
-      "teamA": "Hoffenheim",
-      "teamB": "Stuttgart",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2569/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2677/image",
-      "eventName": "TSG Hoffenheim vs VfB Stuttgart",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/12 13:30:00 +0000",
-      "endTime": "2026/09/12 15:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "BUNDESLIGA HD",
-      "DUDE Tv Live",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "BUNDESLIGA HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50106,
-    "title": "Freiburg vs Borussia M'gladbach",
-    "image": "o",
-    "cat": "Bundesliga 🇩🇪",
-    "eventInfo": {
-      "teamA": "Freiburg",
-      "teamB": "M'gladbach",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2538/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2527/image",
-      "eventName": "Freiburg vs Borussia M'gladbach",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/12 13:30:00 +0000",
-      "endTime": "2026/09/12 15:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "BUNDESLIGA HD",
-      "DUDE Tv Live",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "BUNDESLIGA HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50107,
-    "title": "Mainz 05 vs Frankfurt",
-    "image": "o",
-    "cat": "Bundesliga 🇩🇪",
-    "eventInfo": {
-      "teamA": "Mainz 05",
-      "teamB": "Frankfurt",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2556/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2674/image",
-      "eventName": "Mainz 05 vs Eintracht Frankfurt",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/12 13:30:00 +0000",
-      "endTime": "2026/09/12 15:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "BUNDESLIGA HD",
-      "DUDE Tv Live",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "BUNDESLIGA HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -2187,11 +1846,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH FHD"
+      "beIN ENGLISH FHD",
+      "DUDE Tv Live",
+      "HD SERVER",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "beIN ENGLISH FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -2241,47 +1915,20 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2692/image",
       "eventName": "Lazio vs AC Milan",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/09/12 16:00:00 +0000",
       "endTime": "2026/09/12 18:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH FHD"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN ENGLISH FHD",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50111,
-    "title": "Genoa vs Frosinone",
-    "image": "o",
-    "cat": "Serie A 🇮🇹",
-    "eventInfo": {
-      "teamA": "Genoa",
-      "teamB": "Frosinone",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2713/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2801/image",
-      "eventName": "Genoa vs Frosinone",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/12 13:00:00 +0000",
-      "endTime": "2026/09/12 15:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
       "PARAMOUNT+ FHD",
       "beIN ENGLISH FHD",
-      "CBS SPORTS HD",
+      "PARAMOUNT+ HD",
       "DUDE Tv Live",
-      "SPORT TV HD",
-      "LOW SERVER"
+      "DAZN SPORTS HD",
+      "HD SERVER",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
@@ -2293,19 +1940,23 @@
         "logo": ""
       },
       {
-        "title": "CBS SPORTS HD",
-        "logo": "https://iili.io/BtCdabj.png"
+        "title": "PARAMOUNT+ HD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
       },
       {
         "title": "DUDE Tv Live",
         "logo": ""
       },
       {
-        "title": "SPORT TV HD",
+        "title": "DAZN SPORTS HD",
         "logo": ""
       },
       {
-        "title": "LOW SERVER",
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -2441,11 +2092,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "beIN SPORTS FHD",
+      "beIN USA HD",
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
+        "title": "beIN SPORTS FHD",
+        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
+      },
+      {
+        "title": "beIN USA HD",
+        "logo": ""
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -2591,224 +2257,6 @@
     ]
   },
   {
-    "id": 50122,
-    "title": "Samsunspor vs Çorum",
-    "image": "o",
-    "cat": "Super Lig",
-    "eventInfo": {
-      "teamA": "Samsunspor",
-      "teamB": "Çorum",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3053/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/77629/image",
-      "eventName": "Samsunspor vs Çorum FK",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/12 14:00:00 +0000",
-      "endTime": "2026/09/12 16:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50123,
-    "title": "Eyüpspor vs Rizespor",
-    "image": "o",
-    "cat": "Super Lig",
-    "eventInfo": {
-      "teamA": "Eyüpspor",
-      "teamB": "Rizespor",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/7040/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3064/image",
-      "eventName": "Eyüpspor vs Çaykur Rizespor",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/12 14:00:00 +0000",
-      "endTime": "2026/09/12 16:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50126,
-    "title": "Watford vs Stoke City",
-    "image": "o",
-    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Watford",
-      "teamB": "Stoke",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/24/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/29/image",
-      "eventName": "Watford vs Stoke City",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/12 14:00:00 +0000",
-      "endTime": "2026/09/12 16:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "PARAMOUNT+ FHD",
-      "beIN ENGLISH FHD",
-      "FANCODE FHD",
-      "DUDE Tv Live",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "PARAMOUNT+ FHD",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
-        "title": "beIN ENGLISH FHD",
-        "logo": ""
-      },
-      {
-        "title": "FANCODE FHD",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50127,
-    "title": "Middlesbrough vs Norwich",
-    "image": "o",
-    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Middlesbrough",
-      "teamB": "Norwich",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/36/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/263/image",
-      "eventName": "Middlesbrough vs Norwich City",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/12 14:00:00 +0000",
-      "endTime": "2026/09/12 16:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "CBS NETWORK",
-      "DUDE Tv Live",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "CBS NETWORK",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50128,
-    "title": "Swansea City vs Burnley",
-    "image": "o",
-    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Swansea",
-      "teamB": "Burnley",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/74/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/6/image",
-      "eventName": "Swansea City vs Burnley",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/12 14:00:00 +0000",
-      "endTime": "2026/09/12 16:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50129,
-    "title": "Southampton vs Bristol City",
-    "image": "o",
-    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Southampton",
-      "teamB": "Bristol City",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/45/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/58/image",
-      "eventName": "Southampton vs Bristol City",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/12 14:00:00 +0000",
-      "endTime": "2026/09/12 16:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50130,
     "title": "Córdoba vs Almería",
     "image": "o",
@@ -2851,62 +2299,6 @@
       "isHot": "0",
       "startTime": "2026/09/12 16:30:00 +0000",
       "endTime": "2026/09/12 18:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "Laliga Hypermotion ES"
-    ],
-    "formatsNew": [
-      {
-        "title": "Laliga Hypermotion ES",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50132,
-    "title": "Cádiz vs UD Las Palmas",
-    "image": "o",
-    "cat": "LaLiga 2",
-    "eventInfo": {
-      "teamA": "Cádiz",
-      "teamB": "Las Palmas",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4488/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/6577/image",
-      "eventName": "Cádiz vs UD Las Palmas",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/12 14:15:00 +0000",
-      "endTime": "2026/09/12 16:15:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "Laliga Hypermotion ES"
-    ],
-    "formatsNew": [
-      {
-        "title": "Laliga Hypermotion ES",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50133,
-    "title": "Andorra vs Real Sociedad",
-    "image": "o",
-    "cat": "LaLiga 2",
-    "eventInfo": {
-      "teamA": "Andorra",
-      "teamB": "Real Sociedad B",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/324871/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/24360/image",
-      "eventName": "Andorra vs Real Sociedad",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/12 12:00:00 +0000",
-      "endTime": "2026/09/12 14:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -2967,37 +2359,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SportDigital Fussball"
+      "SportDigital Fussball",
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
         "title": "SportDigital Fussball",
         "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50136,
-    "title": "Twente vs ADO",
-    "image": "o",
-    "cat": "Eredivisie",
-    "eventInfo": {
-      "teamA": "Twente",
-      "teamB": "ADO",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2955/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2966/image",
-      "eventName": "Twente vs ADO",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/12 14:30:00 +0000",
-      "endTime": "2026/09/12 16:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -3079,9 +2448,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "FOX SOCCER+ HD",
       "DUDE Tv Live"
     ],
     "formatsNew": [
+      {
+        "title": "FOX SOCCER+ HD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -3135,11 +2509,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
