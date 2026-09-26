@@ -12,7 +12,7 @@
       "eventName": "Formula 1 -  AZERBAIJAN GRAND PRIX",
       "eventType": "null",
       "eventBanner": "https://wsrv.nl/?url=https://tikolu.net/i/yipsx",
-      "isHot": "1",
+      "isHot": "0",
       "startTime": "2026/09/26 10:55:00 +0000",
       "endTime": "2026/09/26 13:00:00 +0000"
     },
@@ -1517,7 +1517,13 @@
     "formats": [
       "beIN ENGLISH FHD",
       "FOX SPORTS FHD",
-      "SporTV BR FHD"
+      "SporTV BR FHD",
+      "SPORT1 CZ FHD",
+      "FOX SPORTS HD",
+      "HD SERVER",
+      "SonyLiv (ASIA)",
+      "HD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
@@ -1526,10 +1532,34 @@
       },
       {
         "title": "FOX SPORTS FHD",
-        "logo": ""
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
       },
       {
         "title": "SporTV BR FHD",
+        "logo": "https://iili.io/CFFRvqJ.png"
+      },
+      {
+        "title": "SPORT1 CZ FHD",
+        "logo": ""
+      },
+      {
+        "title": "FOX SPORTS HD",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (ASIA)",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1609,11 +1639,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "beIN SPORTS FHD",
+      "HD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "beIN SPORTS FHD",
+        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1637,11 +1677,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "beIN SPORTS FHD",
+      "HD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "beIN SPORTS FHD",
+        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1721,34 +1771,6 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50111,
-    "title": "Ceuta vs Real Sociedad",
-    "image": "o",
-    "cat": "LaLiga 2",
-    "eventInfo": {
-      "teamA": "Ceuta",
-      "teamB": "Real Sociedad B",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2869/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/24360/image",
-      "eventName": "AD Ceuta vs Real Sociedad B",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/26 12:00:00 +0000",
-      "endTime": "2026/09/26 14:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
       "LOW SERVER"
     ],
     "formatsNew": [
@@ -1777,9 +1799,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PARAMOUNT+ FHD",
       "CBS NETWORK"
     ],
     "formatsNew": [
+      {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
       {
         "title": "CBS NETWORK",
         "logo": ""
@@ -1805,11 +1832,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "PARAMOUNT+ FHD",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1833,11 +1865,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "PARAMOUNT+ FHD",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1861,42 +1898,9 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50116,
-    "title": "Pakistan vs Thailand",
-    "image": "o",
-    "cat": "FIFA ASEAN Cup",
-    "eventInfo": {
-      "teamA": "Pakistan",
-      "teamB": "Thailand",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/6081/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4730/image",
-      "eventName": "Pakistan vs Thailand",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/26 09:00:00 +0000",
-      "endTime": "2026/09/26 11:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "TAPMAD - FHD",
       "LOW SERVER"
     ],
     "formatsNew": [
-      {
-        "title": "TAPMAD - FHD",
-        "logo": ""
-      },
       {
         "title": "LOW SERVER",
         "logo": ""
