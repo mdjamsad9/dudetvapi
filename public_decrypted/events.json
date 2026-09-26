@@ -12,8 +12,8 @@
       "eventName": "Formula 1 -  AZERBAIJAN GRAND PRIX",
       "eventType": "null",
       "eventBanner": "https://wsrv.nl/?url=https://tikolu.net/i/yipsx",
-      "isHot": "0",
-      "startTime": "2026/09/26 11:00:00 +0000",
+      "isHot": "1",
+      "startTime": "2026/09/26 10:55:00 +0000",
       "endTime": "2026/09/26 13:00:00 +0000"
     },
     "adsLimit": "0",
@@ -24,10 +24,24 @@
       "TSN SPORTS FHD",
       "FANCODE - FHD",
       "SporTV BR FHD",
+      "Mixed On Board",
+      "Driver Tracker FHD",
+      "Driver Data FHD",
+      "APPLE TV ALT",
       "DUDE Tv F1 HD",
       "RUSSIA FEED",
-      "Sportscast FHD",
       "SKY F1 Italia [IT]",
+      "P1 Driver FHD",
+      "P2 Driver FHD",
+      "P3 Driver FHD",
+      "Lewis Hamilton CAM",
+      "Max Verstappen CAM",
+      "Charles Leclerc CAM",
+      "Lando Norris CAM",
+      "Oscar Piastri CAM",
+      "George Russell CAM",
+      "Kimi Antonelli CAM",
+      "Sportscast FHD",
       "DAZN ESPANOL [FHD]",
       "SKY SPORTS [FHD]",
       "APPLE TV [FHD]",
@@ -39,7 +53,7 @@
     "formatsNew": [
       {
         "title": "SKY SPORTS FHD",
-        "logo": ""
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
       },
       {
         "title": "APPLE TV FHD",
@@ -58,6 +72,22 @@
         "logo": "https://iili.io/CFFRvqJ.png"
       },
       {
+        "title": "Mixed On Board",
+        "logo": ""
+      },
+      {
+        "title": "Driver Tracker FHD",
+        "logo": ""
+      },
+      {
+        "title": "Driver Data FHD",
+        "logo": ""
+      },
+      {
+        "title": "APPLE TV ALT",
+        "logo": ""
+      },
+      {
         "title": "DUDE Tv F1 HD",
         "logo": ""
       },
@@ -66,11 +96,51 @@
         "logo": ""
       },
       {
-        "title": "Sportscast FHD",
+        "title": "SKY F1 Italia [IT]",
         "logo": ""
       },
       {
-        "title": "SKY F1 Italia [IT]",
+        "title": "P1 Driver FHD",
+        "logo": ""
+      },
+      {
+        "title": "P2 Driver FHD",
+        "logo": ""
+      },
+      {
+        "title": "P3 Driver FHD",
+        "logo": ""
+      },
+      {
+        "title": "Lewis Hamilton CAM",
+        "logo": ""
+      },
+      {
+        "title": "Max Verstappen CAM",
+        "logo": ""
+      },
+      {
+        "title": "Charles Leclerc CAM",
+        "logo": ""
+      },
+      {
+        "title": "Lando Norris CAM",
+        "logo": ""
+      },
+      {
+        "title": "Oscar Piastri CAM",
+        "logo": ""
+      },
+      {
+        "title": "George Russell CAM",
+        "logo": ""
+      },
+      {
+        "title": "Kimi Antonelli CAM",
+        "logo": ""
+      },
+      {
+        "title": "Sportscast FHD",
         "logo": ""
       },
       {
@@ -1137,34 +1207,6 @@
     ]
   },
   {
-    "id": 50085,
-    "title": "Malaysia vs Oman",
-    "image": "o",
-    "cat": "Asian Games",
-    "eventInfo": {
-      "teamA": "MAS",
-      "teamB": "OMA",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187811/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/199279/image",
-      "eventName": "Malaysia vs Oman",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/26 05:00:00 +0000",
-      "endTime": "2026/09/26 08:45:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "WILLOW - FHD"
-    ],
-    "formatsNew": [
-      {
-        "title": "WILLOW - FHD",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50093,
     "title": "Mexico vs Colombia",
     "image": "o",
@@ -1707,11 +1749,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1847,11 +1889,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "TAPMAD - FHD",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "TAPMAD - FHD",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
