@@ -239,7 +239,7 @@
       "eventName": "UFC Fight Night: Rosas Jr. vs Barcelos",
       "eventType": "null",
       "eventBanner": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/09/26 21:00:00 +0000",
       "endTime": "2026/09/27 04:30:00 +0000"
     },
@@ -247,8 +247,12 @@
     "publish": "1",
     "formats": [
       "PARAMOUNT+ FHD",
+      "PARAMOUNT+ ALT",
       "TNT SPORTS FHD",
+      "PARAMOUNT+ FHD (ES)",
+      "PARAMOUNT+ FHD (PT)",
       "PARAMOUNT+ HD",
+      "PARAMOUNT+ HD (2)",
       "DUDE Tv Live",
       "DUDE Tv LIVE",
       "PARAMOUNT+ [FHD]",
@@ -263,11 +267,27 @@
         "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
       },
       {
+        "title": "PARAMOUNT+ ALT",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
         "title": "TNT SPORTS FHD",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
       },
       {
+        "title": "PARAMOUNT+ FHD (ES)",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "PARAMOUNT+ FHD (PT)",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
         "title": "PARAMOUNT+ HD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "PARAMOUNT+ HD (2)",
         "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
       },
       {
@@ -829,7 +849,7 @@
       "eventBanner": "https://wsrv.nl/?url=https://tikolu.net/i/yrzeh",
       "isHot": "0",
       "startTime": "2026/09/26 16:00:00 +0000",
-      "endTime": "2026/09/26 20:30:00 +0000"
+      "endTime": "2026/09/26 21:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -971,10 +991,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1042,10 +1067,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1075,10 +1105,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1261,7 +1296,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/4698/image",
       "eventName": "England vs Spain",
       "eventType": "null",
-      "isHot": "1",
+      "isHot": "0",
       "startTime": "2026/09/26 18:45:00 +0000",
       "endTime": "2026/09/26 20:50:00 +0000"
     },
@@ -1793,11 +1828,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "HD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
