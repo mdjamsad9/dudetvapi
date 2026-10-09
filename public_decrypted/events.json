@@ -13,19 +13,20 @@
       "eventType": "null",
       "eventBanner": "https://wsrv.nl/?url=https://tikolu.net/i/xhxdk",
       "isHot": "0",
-      "startTime": "2026/10/09 08:30:00 +0000",
-      "endTime": "2026/10/09 13:30:00 +0000"
+      "startTime": "2026/10/10 09:00:00 +0000",
+      "endTime": "2026/10/10 14:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "TSN SPORTS FHD",
       "FANCODE - FHD",
       "SporTV BR FHD",
       "DUDE Tv F1 HD",
       "FORMULA 1 FHD",
       "RUSSIA FEED",
       "Sportscast FHD",
-      "SKY SPORTS DE",
+      "DAZN SPORTS FHD",
       "ELEVEN SPORTS PL",
       "SKY SPORTS HD",
       "SD SERVER",
@@ -38,12 +39,16 @@
     ],
     "formatsNew": [
       {
+        "title": "TSN SPORTS FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+      },
+      {
         "title": "FANCODE - FHD",
-        "logo": ""
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       },
       {
         "title": "SporTV BR FHD",
-        "logo": ""
+        "logo": "https://iili.io/CFFRvqJ.png"
       },
       {
         "title": "DUDE Tv F1 HD",
@@ -62,7 +67,7 @@
         "logo": ""
       },
       {
-        "title": "SKY SPORTS DE",
+        "title": "DAZN SPORTS FHD",
         "logo": ""
       },
       {
@@ -71,7 +76,7 @@
       },
       {
         "title": "SKY SPORTS HD",
-        "logo": ""
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
       },
       {
         "title": "SD SERVER",
@@ -87,7 +92,7 @@
       },
       {
         "title": "SKY SPORTS [FHD]",
-        "logo": ""
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
       },
       {
         "title": "APPLE TV [FHD]",
@@ -342,8 +347,12 @@
     "formats": [
       "WILLOW - FHD",
       "WILLOW - ALT",
-      "LOW SERVER",
-      "FANCODE - IN"
+      "TAPMAD - FHD",
+      "A SPORTS HD",
+      "T SPORTS HD",
+      "WILLOW HD",
+      "FANCODE - IN",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
@@ -355,12 +364,28 @@
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
-        "title": "LOW SERVER",
+        "title": "TAPMAD - FHD",
         "logo": ""
+      },
+      {
+        "title": "A SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "T SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "WILLOW HD",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
         "title": "FANCODE - IN",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
+      {
+        "title": "LOW SERVER",
+        "logo": ""
       }
     ]
   },
@@ -377,7 +402,7 @@
       "eventName": "India vs West Indies",
       "eventType": "null",
       "eventBanner": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/10/09 13:30:00 +0000",
       "endTime": "2026/10/09 17:15:00 +0000"
     },
@@ -387,10 +412,10 @@
       "WILLOW - FHD",
       "TNT SPORTS FHD",
       "WILLOW - ALT",
-      "TAPMAD - FHD",
       "LOW SERVER",
-      "HOTSTAR HIN - IN",
-      "HOTSTAR ENG - IN"
+      "TAPMAD - FHD",
+      "STAR SPORTS HIN - IN",
+      "STAR SPORTS ENG - IN"
     ],
     "formatsNew": [
       {
@@ -406,19 +431,19 @@
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
-        "title": "TAPMAD - FHD",
-        "logo": ""
-      },
-      {
         "title": "LOW SERVER",
         "logo": ""
       },
       {
-        "title": "HOTSTAR HIN - IN",
+        "title": "TAPMAD - FHD",
         "logo": ""
       },
       {
-        "title": "HOTSTAR ENG - IN",
+        "title": "STAR SPORTS HIN - IN",
+        "logo": ""
+      },
+      {
+        "title": "STAR SPORTS ENG - IN",
         "logo": ""
       }
     ]
@@ -602,18 +627,38 @@
       "eventName": "Pakistan vs Sri Lanka",
       "eventType": "null",
       "eventBanner": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/10/09 13:00:00 +0000",
       "endTime": "2026/10/09 16:45:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "WILLOW - FHD",
+      "WILLOW - ALT",
+      "WILLOW - HD",
+      "TAPMAD - FHD",
+      "LOW SERVER "
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "WILLOW - FHD",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "WILLOW - ALT",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "WILLOW - HD",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "TAPMAD - FHD",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER ",
         "logo": ""
       }
     ]
@@ -670,10 +715,20 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv NBA HD",
+      "NBA LIVE FHD",
       "DUDE Tv Live",
       "NBA LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv NBA HD",
+        "logo": ""
+      },
+      {
+        "title": "NBA LIVE FHD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -737,10 +792,12 @@
     "publish": "1",
     "formats": [
       "WILLOW - FHD",
-      "FANCODE - FHD",
+      "SKY CRICKET - FHD",
       "WILLOW - ALT",
+      "FANCODE - FHD",
       "TAPMAD - FHD",
-      "LOW SERVER"
+      "LOW SERVER",
+      "FANCODE - IN"
     ],
     "formatsNew": [
       {
@@ -748,12 +805,16 @@
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
-        "title": "FANCODE - FHD",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+        "title": "SKY CRICKET - FHD",
+        "logo": ""
       },
       {
         "title": "WILLOW - ALT",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "FANCODE - FHD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       },
       {
         "title": "TAPMAD - FHD",
@@ -762,6 +823,10 @@
       {
         "title": "LOW SERVER",
         "logo": ""
+      },
+      {
+        "title": "FANCODE - IN",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       }
     ]
   },
@@ -864,27 +929,21 @@
       "eventName": "World Championship of Legends",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/09 15:30:00 +0000",
-      "endTime": "2026/10/09 19:00:00 +0000"
+      "startTime": "2026/10/09 11:30:00 +0000",
+      "endTime": "2026/10/09 15:15:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
       "WILLOW - FHD",
-      "FANCODE FHD",
       "WILLOW - ALT",
       "FANCODE ENG - IN",
-      "FANCODE HIN - IN",
-      "LOW SERVER"
+      "FANCODE HIN - IN"
     ],
     "formatsNew": [
       {
         "title": "WILLOW - FHD",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "FANCODE FHD",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       },
       {
         "title": "WILLOW - ALT",
@@ -897,10 +956,6 @@
       {
         "title": "FANCODE HIN - IN",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
       }
     ]
   },
@@ -1104,49 +1159,6 @@
       {
         "title": "NHL LIVE [FHD]",
         "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50085,
-    "title": "Australia W vs Bangladesh W",
-    "image": "o",
-    "cat": "Cricket",
-    "eventInfo": {
-      "teamA": "Australia Women",
-      "teamB": "Bangladesh Women",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/213117/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187809/image",
-      "eventName": "Australia W vs Bangladesh W",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/09 03:50:00 +0000",
-      "endTime": "2026/10/09 11:20:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "WILLOW - FHD",
-      "WILLOW - ALT",
-      "LOW SERVER",
-      "FANCODE - IN"
-    ],
-    "formatsNew": [
-      {
-        "title": "WILLOW - FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "WILLOW - ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      },
-      {
-        "title": "FANCODE - IN",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       }
     ]
   },
@@ -1957,11 +1969,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "FOX SPORTS FHD"
+      "FOX SPORTS FHD",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "FOX SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1986,7 +2003,9 @@
     "publish": "1",
     "formats": [
       "FOX DEPORTES",
-      "SporTV BR FHD"
+      "SporTV BR FHD",
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
@@ -1995,6 +2014,14 @@
       },
       {
         "title": "SporTV BR FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
