@@ -12,8 +12,8 @@
       "eventName": "Formula 1 -  Singapore Grand Prix",
       "eventType": "null",
       "eventBanner": "https://wsrv.nl/?url=https://tikolu.net/i/xhxdk",
-      "isHot": "0",
-      "startTime": "2026/10/10 09:00:00 +0000",
+      "isHot": "1",
+      "startTime": "2026/10/10 08:55:00 +0000",
       "endTime": "2026/10/10 14:30:00 +0000"
     },
     "adsLimit": "0",
@@ -350,9 +350,7 @@
       "TAPMAD - FHD",
       "A SPORTS HD",
       "T SPORTS HD",
-      "WILLOW HD",
-      "FANCODE - IN",
-      "LOW SERVER"
+      "WILLOW HD"
     ],
     "formatsNew": [
       {
@@ -378,14 +376,6 @@
       {
         "title": "WILLOW HD",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "FANCODE - IN",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
       }
     ]
   },
@@ -403,8 +393,8 @@
       "eventType": "null",
       "eventBanner": "null",
       "isHot": "0",
-      "startTime": "2026/10/09 13:30:00 +0000",
-      "endTime": "2026/10/09 17:15:00 +0000"
+      "startTime": "2026/10/11 13:30:00 +0000",
+      "endTime": "2026/10/11 17:15:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -629,7 +619,7 @@
       "eventBanner": "null",
       "isHot": "0",
       "startTime": "2026/10/11 13:00:00 +0000",
-      "endTime": "2026/10/11 17:00:00 +0000"
+      "endTime": "2026/10/11 16:45:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -664,33 +654,221 @@
     ]
   },
   {
-    "id": 50056,
-    "title": "Chicago Bulls vs Memphis Grizzlies",
+    "id": 50051,
+    "title": "Toronto Raptors vs Clippers",
     "image": "o",
     "cat": "NBA",
     "eventInfo": {
-      "teamA": "Bulls",
-      "teamB": "Grizzlies",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3409/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3415/image",
-      "eventName": "Chicago Bulls vs Memphis Grizzlies",
+      "teamA": "Raptors",
+      "teamB": "Clippers",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3433/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3425/image",
+      "eventName": "Toronto Raptors vs Los Angeles Clippers",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/10 00:00:00 +0000",
-      "endTime": "2026/10/10 03:00:00 +0000"
+      "startTime": "2026/10/10 22:30:00 +0000",
+      "endTime": "2026/10/11 01:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "NBA LEAGUE PASS",
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50055,
+    "title": "Indiana Pacers vs Atlanta Hawks",
+    "image": "o",
+    "cat": "NBA",
+    "eventInfo": {
+      "teamA": "Pacers",
+      "teamB": "Hawks",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3419/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3423/image",
+      "eventName": "Indiana Pacers vs Atlanta Hawks",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/10 23:00:00 +0000",
+      "endTime": "2026/10/11 02:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
       "DUDE Tv Live",
       "NBA LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "NBA LEAGUE PASS",
+        "title": "DUDE Tv Live",
         "logo": ""
       },
+      {
+        "title": "NBA LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50056,
+    "title": "Wizards vs Detroit Pistons",
+    "image": "o",
+    "cat": "NBA",
+    "eventInfo": {
+      "teamA": "Wizards",
+      "teamB": "Pistons",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3431/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3424/image",
+      "eventName": "Washington Wizards vs Detroit Pistons",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/10 23:00:00 +0000",
+      "endTime": "2026/10/11 02:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "NBA LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NBA LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50058,
+    "title": "Boston Celtics vs Philadelphia 76ers",
+    "image": "o",
+    "cat": "NBA",
+    "eventInfo": {
+      "teamA": "Celtics",
+      "teamB": "76ers",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3422/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3420/image",
+      "eventName": "Boston Celtics vs Philadelphia 76ers",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/11 00:00:00 +0000",
+      "endTime": "2026/10/11 03:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "NBA LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NBA LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50059,
+    "title": "Miami Heat vs Timberwolves",
+    "image": "o",
+    "cat": "NBA",
+    "eventInfo": {
+      "teamA": "Heat",
+      "teamB": "Timberwolves",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3435/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3426/image",
+      "eventName": "Miami Heat vs Minnesota Timberwolves",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/11 00:00:00 +0000",
+      "endTime": "2026/10/11 03:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "NBA LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NBA LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50060,
+    "title": "Warriors vs Sacramento Kings",
+    "image": "o",
+    "cat": "NBA",
+    "eventInfo": {
+      "teamA": "Warriors",
+      "teamB": "Kings",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3428/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3413/image",
+      "eventName": "Golden State Warriors vs Sacramento Kings",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/11 00:30:00 +0000",
+      "endTime": "2026/10/11 03:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "NBA LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NBA LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50061,
+    "title": "Phoenix Suns vs San Antonio Spurs",
+    "image": "o",
+    "cat": "NBA",
+    "eventInfo": {
+      "teamA": "Suns",
+      "teamB": "Spurs",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3416/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3429/image",
+      "eventName": "Phoenix Suns vs San Antonio Spurs",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/11 02:30:00 +0000",
+      "endTime": "2026/10/11 05:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "NBA LIVE [FHD]"
+    ],
+    "formatsNew": [
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -725,7 +903,6 @@
       "WILLOW - ALT",
       "FANCODE - FHD",
       "TAPMAD - FHD",
-      "LOW SERVER",
       "FANCODE - IN"
     ],
     "formatsNew": [
@@ -750,103 +927,8 @@
         "logo": ""
       },
       {
-        "title": "LOW SERVER",
-        "logo": ""
-      },
-      {
         "title": "FANCODE - IN",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
-      }
-    ]
-  },
-  {
-    "id": 50064,
-    "title": "[OLD] Aces vs Valkyries",
-    "image": "o",
-    "cat": "WNBA",
-    "eventInfo": {
-      "teamA": "Aces",
-      "teamB": "Valkyries",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/35550/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1041936/image",
-      "eventName": "Las Vegas Aces vs Golden State Valkyries",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/10 01:30:00 +0000",
-      "endTime": "2026/10/10 04:15:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "TSN SPORTS FHD",
-      "DUDE Tv Live",
-      "WNBA LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "TSN SPORTS FHD",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "WNBA LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50069,
-    "title": "Tampa Bay Buccaneers",
-    "image": "o",
-    "cat": "NFL",
-    "eventInfo": {
-      "teamA": "Cowboys",
-      "teamB": "Buccaneers",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4392/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4388/image",
-      "eventName": "Dallas Cowboys vs Tampa Bay Buccaneers",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/09 00:15:00 +0000",
-      "endTime": "2026/10/09 03:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "TSN SPORTS FHD",
-      "TSN3 SPORTS FHD",
-      "DUDE Tv NFL HD",
-      "NFL LIVE FHD",
-      "DUDE Tv Live",
-      "NFL LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "TSN SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "TSN3 SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv NFL HD",
-        "logo": ""
-      },
-      {
-        "title": "NFL LIVE FHD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "NFL LIVE [FHD]",
-        "logo": ""
       }
     ]
   },
@@ -895,44 +977,6 @@
       {
         "title": "FANCODE HIN - IN",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
-      }
-    ]
-  },
-  {
-    "id": 50073,
-    "title": "Tigres UANL vs CD Toluca",
-    "image": "o",
-    "cat": "Liga MX",
-    "eventInfo": {
-      "teamA": "Tigres",
-      "teamB": "Toluca",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1940/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1931/image",
-      "eventName": "Tigres UANL vs CD Toluca",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/10 03:00:00 +0000",
-      "endTime": "2026/10/10 05:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "FOX SPORTS FHD",
-      "FOX DEPORTES",
-      "SPX LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "FOX SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "FOX DEPORTES",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE [FHD]",
-        "logo": ""
       }
     ]
   },
@@ -1263,6 +1307,49 @@
       {
         "title": "NHL LIVE [FHD]",
         "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50085,
+    "title": "Australia W vs Bangladesh W",
+    "image": "o",
+    "cat": "Cricket",
+    "eventInfo": {
+      "teamA": "AUS-W",
+      "teamB": "BAN-W",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/213117/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/187809/image",
+      "eventName": "Australia Women vs Bangladesh Women",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/11 03:50:00 +0000",
+      "endTime": "2026/10/11 11:20:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "WILLOW - FHD",
+      "WILLOW - ALT",
+      "LOW SERVER",
+      "FANCODE - IN"
+    ],
+    "formatsNew": [
+      {
+        "title": "WILLOW - FHD",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "WILLOW - ALT",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "LOW SERVER",
+        "logo": ""
+      },
+      {
+        "title": "FANCODE - IN",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       }
     ]
   },
