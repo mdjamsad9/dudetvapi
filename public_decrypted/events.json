@@ -13,19 +13,20 @@
       "eventType": "null",
       "eventBanner": "https://wsrv.nl/?url=https://tikolu.net/i/bxvpx",
       "isHot": "0",
-      "startTime": "2026/10/23 17:30:00 +0000",
+      "startTime": "2026/10/23 21:00:00 +0000",
       "endTime": "2026/10/24 11:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "TSN SPORTS FHD",
       "FANCODE - FHD",
       "SporTV BR FHD",
+      "Sky Sports F1 HD",
       "FORMULA 1 FHD",
+      "SKY SPORTS HD",
       "RUSSIA FEED",
       "Sportscast FHD",
-      "DAZN SPORTS FHD",
-      "ELEVEN SPORTS PL",
       "SKY SPORTS HD",
       "SD SERVER",
       "SKY F1 Italia [IT]",
@@ -37,6 +38,10 @@
     ],
     "formatsNew": [
       {
+        "title": "TSN SPORTS FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+      },
+      {
         "title": "FANCODE - FHD",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       },
@@ -45,8 +50,16 @@
         "logo": "https://iili.io/CFFRvqJ.png"
       },
       {
+        "title": "Sky Sports F1 HD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
+      },
+      {
         "title": "FORMULA 1 FHD",
         "logo": ""
+      },
+      {
+        "title": "SKY SPORTS HD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
       },
       {
         "title": "RUSSIA FEED",
@@ -54,14 +67,6 @@
       },
       {
         "title": "Sportscast FHD",
-        "logo": ""
-      },
-      {
-        "title": "DAZN SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "ELEVEN SPORTS PL",
         "logo": ""
       },
       {
@@ -111,8 +116,8 @@
       "eventName": "MotoGP - Australian Motorcycle Grand Prix",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/22 23:30:00 +0000",
-      "endTime": "2026/10/23 05:45:00 +0000"
+      "startTime": "2026/10/23 23:00:00 +0000",
+      "endTime": "2026/10/24 05:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -308,59 +313,6 @@
       {
         "title": "BACKUP SD",
         "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50007,
-    "title": "Afghanistan vs Zimbabwe",
-    "image": "o",
-    "cat": "Cricket",
-    "eventInfo": {
-      "teamA": "AFG",
-      "teamB": "ZIM",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187575/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187745/image",
-      "eventName": "Afghanistan vs Zimbabwe",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/23 11:30:00 +0000",
-      "endTime": "2026/10/23 19:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "WILLOW - FHD",
-      "FANCODE FHD",
-      "WILLOW - ALT",
-      "TAPMAD - FHD",
-      "T SPORTS HD",
-      "FANCODE - IN"
-    ],
-    "formatsNew": [
-      {
-        "title": "WILLOW - FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "FANCODE FHD",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
-      },
-      {
-        "title": "WILLOW - ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "TAPMAD - FHD",
-        "logo": ""
-      },
-      {
-        "title": "T SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "FANCODE - IN",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       }
     ]
   },
@@ -715,10 +667,20 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "TNT Sports FHD",
+      "FOX DEPORTES",
       "DUDE Tv LIVE",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "TNT Sports FHD",
+        "logo": ""
+      },
+      {
+        "title": "FOX DEPORTES",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv LIVE",
         "logo": ""
@@ -744,6 +706,44 @@
       "isHot": "0",
       "startTime": "2026/10/23 20:00:00 +0000",
       "endTime": "2026/10/23 23:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv NBA HD",
+      "DUDE Tv Live",
+      "NBA LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv NBA HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NBA LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50044,
+    "title": "Boston Celtics vs Knicks",
+    "image": "o",
+    "cat": "NBA",
+    "eventInfo": {
+      "teamA": "Celtics",
+      "teamB": "Knicks",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3422/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3421/image",
+      "eventName": "Boston Celtics vs New York Knicks",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/23 23:00:00 +0000",
+      "endTime": "2026/10/24 02:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -848,7 +848,7 @@
     "publish": "1",
     "formats": [
       "TSN SPORTS FHD",
-      "TSN3 SPORTS FHD",
+      "TSN4 SPORTS FHD",
       "CFL LIVE [FHD]"
     ],
     "formatsNew": [
@@ -857,7 +857,7 @@
         "logo": ""
       },
       {
-        "title": "TSN3 SPORTS FHD",
+        "title": "TSN4 SPORTS FHD",
         "logo": ""
       },
       {
@@ -1050,9 +1050,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv Live",
       "NBA LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
       {
         "title": "NBA LIVE [FHD]",
         "logo": ""
@@ -1086,11 +1091,11 @@
     "formatsNew": [
       {
         "title": "TSN SPORTS FHD",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+        "logo": ""
       },
       {
         "title": "TSN3 SPORTS FHD",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+        "logo": ""
       },
       {
         "title": "CFL LIVE [FHD]",
@@ -1216,10 +1221,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PREMIER SPORTS",
       "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "PREMIER SPORTS",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1918,7 +1928,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/14/image",
       "eventName": "Ipswich Town vs Nottingham Forest",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/10/23 19:00:00 +0000",
       "endTime": "2026/10/23 21:05:00 +0000"
     },
@@ -1926,7 +1936,14 @@
     "publish": "1",
     "formats": [
       "FUBO SPORTS FHD",
-      "PREMIER LEAGUE FHD"
+      "PREMIER LEAGUE FHD",
+      "FUBO SPORTS ALT",
+      "USA TV HD",
+      "SKY MAIN EVENT",
+      "DUDE Tv Live",
+      "HD SERVER",
+      "LOW SERVER",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
@@ -1935,6 +1952,34 @@
       },
       {
         "title": "PREMIER LEAGUE FHD",
+        "logo": ""
+      },
+      {
+        "title": "FUBO SPORTS ALT",
+        "logo": ""
+      },
+      {
+        "title": "USA TV HD",
+        "logo": ""
+      },
+      {
+        "title": "SKY MAIN EVENT",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1958,11 +2003,31 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "CAZE TV FHD"
+      "FANCODE FHD",
+      "CAZE TV FHD",
+      "DUDE Tv Live",
+      "ESPN DEPORTES",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "FANCODE FHD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
+      {
         "title": "CAZE TV FHD",
+        "logo": "https://duckduckgo.com/i/dab0d6887915781c.png"
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "ESPN DEPORTES",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1986,16 +2051,46 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PARAMOUNT+ FHD",
+      "FUBO SPORTS FHD",
       "beIN ENGLISH FHD",
-      "SPORT 1 CZ"
+      "SPORT 1 CZ",
+      "PARAMOUNT+ HD",
+      "DUDE Tv Live",
+      "HD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
+      {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "FUBO SPORTS FHD",
+        "logo": ""
+      },
       {
         "title": "beIN ENGLISH FHD",
         "logo": ""
       },
       {
         "title": "SPORT 1 CZ",
+        "logo": ""
+      },
+      {
+        "title": "PARAMOUNT+ HD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -2019,11 +2114,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "CAZE TV FHD"
+      "SporTV BR FHD",
+      "CAZE TV FHD",
+      "HD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "SporTV BR FHD",
+        "logo": "https://iili.io/CFFRvqJ.png"
+      },
+      {
         "title": "CAZE TV FHD",
+        "logo": "https://duckduckgo.com/i/dab0d6887915781c.png"
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -2047,11 +2157,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "CAZE TV FHD"
+      "beIN SPORTS FHD",
+      "beIN USA HD",
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "CAZE TV FHD",
+        "title": "beIN SPORTS FHD",
+        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
+      },
+      {
+        "title": "beIN USA HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -2075,11 +2200,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH FHD"
+      "PARAMOUNT+ FHD",
+      "beIN ENGLISH FHD",
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
         "title": "beIN ENGLISH FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -2103,11 +2243,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -2131,11 +2271,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "FOX DEPORTES"
+      "FOX DEPORTES",
+      "FOX SOCCER+ HD",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "FOX DEPORTES",
+        "logo": ""
+      },
+      {
+        "title": "FOX SOCCER+ HD",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -2187,11 +2337,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -2215,11 +2365,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -2243,11 +2398,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH FHD"
+      "beIN ENGLISH FHD",
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "beIN ENGLISH FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -2271,95 +2436,13 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH FHD"
+      "beIN ENGLISH FHD",
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "beIN ENGLISH FHD",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50122,
-    "title": "Al-Ittihad vs Diriyah",
-    "image": "o",
-    "cat": "Pro League 🇸🇦",
-    "eventInfo": {
-      "teamA": "Al-Ittihad",
-      "teamB": "Diriyah",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/34315/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/853574/image",
-      "eventName": "Al-Ittihad vs Diriyah",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/23 15:30:00 +0000",
-      "endTime": "2026/10/23 17:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "FOX DEPORTES",
-      "HD SERVER",
-      "FOX ONE HD",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "FOX DEPORTES",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "FOX ONE HD",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50123,
-    "title": "Al Faisaly vs Al-Nassr",
-    "image": "o",
-    "cat": "Pro League 🇸🇦",
-    "eventInfo": {
-      "teamA": "Al Faisaly",
-      "teamB": "Al-Nassr",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/56035/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/23400/image",
-      "eventName": "Al Faisaly vs Al-Nassr",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/23 13:30:00 +0000",
-      "endTime": "2026/10/23 15:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "FOX SPORTS FHD",
-      "FOX DEPORTES",
-      "SportDigital Fussball",
-      "DUDE Tv Live",
-      "HD SERVER",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "FOX SPORTS FHD",
-        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
-      },
-      {
-        "title": "FOX DEPORTES",
-        "logo": ""
-      },
-      {
-        "title": "SportDigital Fussball",
         "logo": ""
       },
       {
@@ -2367,11 +2450,35 @@
         "logo": ""
       },
       {
-        "title": "HD SERVER",
+        "title": "LOW SERVER",
         "logo": ""
-      },
+      }
+    ]
+  },
+  {
+    "id": 50122,
+    "title": "Al-Ahli vs Al-Khaleej",
+    "image": "o",
+    "cat": "Pro League 🇸🇦",
+    "eventInfo": {
+      "teamA": "Al-Ahli",
+      "teamB": "Al-Khaleej",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/34469/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/167228/image",
+      "eventName": "Al-Ahli vs Al-Khaleej",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/23 18:00:00 +0000",
+      "endTime": "2026/10/23 20:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "LOW SERVER"
+    ],
+    "formatsNew": [
       {
-        "title": "SD SERVER",
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
