@@ -169,16 +169,18 @@
       "eventName": "UFC 333: Volkanovski vs Evloev",
       "eventType": "null",
       "eventBanner": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/10/24 14:00:00 +0000",
       "endTime": "2026/10/24 21:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TNT SPORTS FHD",
+      "PARAMOUNT+ FHD",
+      "PARAMOUNT+ ES",
       "PARAMOUNT+ HD",
-      "UFC LIVE - AQ",
+      "TNT SPORTS FHD",
+      "UFC LIVE - FHD",
       "DUDE Tv Live FHD",
       "SERVER 2 HD",
       "DUDE Tv LIVE",
@@ -190,15 +192,23 @@
     ],
     "formatsNew": [
       {
-        "title": "TNT SPORTS FHD",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "PARAMOUNT+ ES",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
       },
       {
         "title": "PARAMOUNT+ HD",
         "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
       },
       {
-        "title": "UFC LIVE - AQ",
+        "title": "TNT SPORTS FHD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+      },
+      {
+        "title": "UFC LIVE - FHD",
         "logo": ""
       },
       {
@@ -1551,18 +1561,38 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/48/image",
       "eventName": "Arsenal vs Everton",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/10/24 14:00:00 +0000",
       "endTime": "2026/10/24 16:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "FUBO SPORTS FHD",
+      "USA TV HD",
+      "SKY SPORTS HD",
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "FUBO SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "USA TV HD",
+        "logo": ""
+      },
+      {
+        "title": "SKY SPORTS HD",
+        "logo": ""
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1586,11 +1616,31 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "FUBO SPORTS FHD",
+      "PARAMOUNT+ HD",
+      "SKY SPORTS HD",
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "FUBO SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "PARAMOUNT+ HD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "SKY SPORTS HD",
+        "logo": ""
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1607,7 +1657,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/17/image",
       "eventName": "Aston Villa vs Manchester City",
       "eventType": "null",
-      "isHot": "1",
+      "isHot": "0",
       "startTime": "2026/10/24 11:30:00 +0000",
       "endTime": "2026/10/24 13:35:00 +0000"
     },
@@ -1619,8 +1669,9 @@
       "USA TV HD",
       "TNT SPORTS HD",
       "DUDE Tv Live",
+      "beIN SPORTS FHD",
       "HD SERVER",
-      "LOW SERVER "
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
@@ -1644,11 +1695,15 @@
         "logo": ""
       },
       {
+        "title": "beIN SPORTS FHD",
+        "logo": ""
+      },
+      {
         "title": "HD SERVER",
         "logo": ""
       },
       {
-        "title": "LOW SERVER ",
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1673,6 +1728,7 @@
     "publish": "1",
     "formats": [
       "beIN ENGLISH FHD",
+      "FANCODE FHD",
       "D Sports FHD",
       "CAZE TV FHD"
     ],
@@ -1682,12 +1738,16 @@
         "logo": ""
       },
       {
+        "title": "FANCODE FHD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
+      {
         "title": "D Sports FHD",
         "logo": ""
       },
       {
         "title": "CAZE TV FHD",
-        "logo": ""
+        "logo": "https://duckduckgo.com/i/dab0d6887915781c.png"
       }
     ]
   },
@@ -1710,11 +1770,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "CAZE TV FHD"
+      "FANCODE FHD",
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
-        "title": "CAZE TV FHD",
+        "title": "FANCODE FHD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
@@ -1739,7 +1804,12 @@
     "publish": "1",
     "formats": [
       "FANCODE FHD",
-      "CAZE TV FHD"
+      "CAZE TV FHD",
+      "Laliga TV HD",
+      "ESPN DEPORTES HD",
+      "DUDE Tv Live",
+      "HD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
@@ -1749,6 +1819,26 @@
       {
         "title": "CAZE TV FHD",
         "logo": "https://duckduckgo.com/i/dab0d6887915781c.png"
+      },
+      {
+        "title": "Laliga TV HD",
+        "logo": ""
+      },
+      {
+        "title": "ESPN DEPORTES HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
+        "logo": ""
       }
     ]
   },
@@ -1814,11 +1904,31 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH FHD"
+      "PARAMOUNT+ FHD",
+      "FUBO SPORTS FHD",
+      "beIN ENGLISH FHD",
+      "PARAMOUNT+ HD",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "FUBO SPORTS FHD",
+        "logo": ""
+      },
+      {
         "title": "beIN ENGLISH FHD",
+        "logo": ""
+      },
+      {
+        "title": "PARAMOUNT+ HD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1842,11 +1952,31 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SPORT 1 CZ FHD"
+      "PARAMOUNT+ FHD",
+      "FUBO SPORTS FHD",
+      "SPORT 1 CZ FHD",
+      "PARAMOUNT+ HD",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "FUBO SPORTS FHD",
+        "logo": ""
+      },
+      {
         "title": "SPORT 1 CZ FHD",
+        "logo": ""
+      },
+      {
+        "title": "PARAMOUNT+ HD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1870,11 +2000,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SPORT 1 CZ FHD"
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "SPORT 1 CZ FHD",
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1898,11 +2033,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "CAZE TV FHD",
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "CAZE TV FHD",
+        "logo": "https://duckduckgo.com/i/dab0d6887915781c.png"
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1926,11 +2071,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1954,11 +2104,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1982,11 +2137,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -2323,11 +2483,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "SD SERVER"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -2491,49 +2651,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50126,
-    "title": "Eyupspor vs Kasımpasa",
-    "image": "o",
-    "cat": "Super Lig",
-    "eventInfo": {
-      "teamA": "Eyüpspor",
-      "teamB": "Kasımpaşa",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/7040/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/6063/image",
-      "eventName": "Eyüpspor vs Kasımpaşa",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/24 10:30:00 +0000",
-      "endTime": "2026/10/24 12:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "HD SERVER",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -2557,11 +2679,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -2669,11 +2796,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -2735,120 +2867,6 @@
     ]
   },
   {
-    "id": 50134,
-    "title": "Hertha BSC vs Arminia Bielefeld",
-    "image": "o",
-    "cat": "2. Bundesliga",
-    "eventInfo": {
-      "teamA": "Hertha",
-      "teamB": "Bielefeld",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2528/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2540/image",
-      "eventName": "Hertha BSC vs Arminia Bielefeld",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/24 11:00:00 +0000",
-      "endTime": "2026/10/24 13:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "HD SERVER",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50135,
-    "title": "Magdeburg vs Karlsruher",
-    "image": "o",
-    "cat": "2. Bundesliga",
-    "eventInfo": {
-      "teamA": "Magdeburg",
-      "teamB": "Karlsruhe",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2591/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2553/image",
-      "eventName": "Magdeburg vs Karlsruher",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/24 11:00:00 +0000",
-      "endTime": "2026/10/24 13:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "HD SERVER",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50136,
-    "title": "Heidenheim vs Cottbus",
-    "image": "o",
-    "cat": "2. Bundesliga",
-    "eventInfo": {
-      "teamA": "Heidenheim",
-      "teamB": "Cottbus",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/5885/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2532/image",
-      "eventName": "Heidenheim vs Energie Cottbus",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/24 11:00:00 +0000",
-      "endTime": "2026/10/24 13:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "HD SERVER",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50137,
     "title": "West Ham vs Southampton",
     "image": "o",
@@ -2867,11 +2885,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "CBS NETWORK"
+      "PARAMOUNT+ FHD",
+      "CBS NETWORK",
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": ""
+      },
+      {
         "title": "CBS NETWORK",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -2895,11 +2928,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH FHD"
+      "beIN ENGLISH FHD",
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "beIN ENGLISH FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -2923,11 +2966,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "PARAMOUNT+ FHD",
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -2951,11 +3004,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "PARAMOUNT+ FHD",
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -2979,11 +3042,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "PARAMOUNT+ FHD",
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -3007,72 +3080,6 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50143,
-    "title": "Sheffield United vs Derby County",
-    "image": "o",
-    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Sheffield Utd",
-      "teamB": "Derby",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/15/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/27/image",
-      "eventName": "Sheffield United vs Derby County",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/24 11:30:00 +0000",
-      "endTime": "2026/10/24 13:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "V Sports HD",
-      "DUDE Tv Live",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "V Sports HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50144,
-    "title": "Portsmouth vs Millwall",
-    "image": "o",
-    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Portsmouth",
-      "teamB": "Millwall",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/25/image",
-      "eventName": "Portsmouth vs Millwall",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/24 11:30:00 +0000",
-      "endTime": "2026/10/24 13:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
       "PARAMOUNT+ FHD",
       "DUDE Tv Live",
       "LOW SERVER"
@@ -3081,54 +3088,6 @@
       {
         "title": "PARAMOUNT+ FHD",
         "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50145,
-    "title": "Charlton Athletic vs Norwich City",
-    "image": "o",
-    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Charlton",
-      "teamB": "Norwich",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/47/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/263/image",
-      "eventName": "Charlton Athletic vs Norwich City",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/24 11:30:00 +0000",
-      "endTime": "2026/10/24 13:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "PARAMOUNT+ FHD",
-      "beIN ENGLISH FHD",
-      "CBS NETWORK",
-      "DUDE Tv Live",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "PARAMOUNT+ FHD",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
-        "title": "beIN ENGLISH FHD",
-        "logo": ""
-      },
-      {
-        "title": "CBS NETWORK",
-        "logo": ""
       },
       {
         "title": "DUDE Tv Live",
@@ -3159,9 +3118,24 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PRIME VIDEO FHD",
+      "SonyLiv (ENG)",
+      "SonyLiv (HIN)",
       "DUDE Tv Live"
     ],
     "formatsNew": [
+      {
+        "title": "PRIME VIDEO FHD",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (ENG)",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (HIN)",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
