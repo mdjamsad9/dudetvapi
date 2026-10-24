@@ -12,14 +12,14 @@
       "eventName": "Formula 1 -  United States Grand Prix",
       "eventType": "null",
       "eventBanner": "https://wsrv.nl/?url=https://tikolu.net/i/bxvpx",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/10/24 17:30:00 +0000",
       "endTime": "2026/10/25 11:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TSN SPORTS FHD",
+      "F1 TV FHD",
       "FANCODE - FHD",
       "SporTV BR FHD",
       "Sky Sports F1 HD",
@@ -38,7 +38,7 @@
     ],
     "formatsNew": [
       {
-        "title": "TSN SPORTS FHD",
+        "title": "F1 TV FHD",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
       },
       {
@@ -178,6 +178,7 @@
     "formats": [
       "PARAMOUNT+ FHD",
       "PARAMOUNT+ ES",
+      "PARAMOUNT+ PT",
       "PARAMOUNT+ HD",
       "TNT SPORTS FHD",
       "UFC LIVE - FHD",
@@ -197,6 +198,10 @@
       },
       {
         "title": "PARAMOUNT+ ES",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "PARAMOUNT+ PT",
         "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
       },
       {
@@ -597,7 +602,7 @@
     "formatsNew": [
       {
         "title": "TSN SPORTS FHD",
-        "logo": ""
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
       },
       {
         "title": "DUDE Tv Live",
@@ -1434,18 +1439,43 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/33/image",
       "eventName": "Chelsea vs Tottenham Hotspur",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/10/24 16:30:00 +0000",
       "endTime": "2026/10/24 18:35:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "PREMIER LEAGUE FHD"
+      "FUBO SPORTS FHD",
+      "PREMIER LEAGUE FHD",
+      "Peacock TV HD",
+      "SKY SPORTS HD",
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "FUBO SPORTS FHD",
+        "logo": ""
+      },
+      {
         "title": "PREMIER LEAGUE FHD",
+        "logo": ""
+      },
+      {
+        "title": "Peacock TV HD",
+        "logo": ""
+      },
+      {
+        "title": "SKY SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1540,11 +1570,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "USA TV HD",
+      "USA SPORTS HD",
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "USA TV HD",
+        "logo": ""
+      },
+      {
+        "title": "USA SPORTS HD",
+        "logo": ""
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1561,7 +1606,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/48/image",
       "eventName": "Arsenal vs Everton",
       "eventType": "null",
-      "isHot": "1",
+      "isHot": "0",
       "startTime": "2026/10/24 14:00:00 +0000",
       "endTime": "2026/10/24 16:05:00 +0000"
     },
@@ -1730,7 +1775,9 @@
       "beIN ENGLISH FHD",
       "FANCODE FHD",
       "D Sports FHD",
-      "CAZE TV FHD"
+      "CAZE TV FHD",
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
@@ -1748,6 +1795,14 @@
       {
         "title": "CAZE TV FHD",
         "logo": "https://duckduckgo.com/i/dab0d6887915781c.png"
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
+        "logo": ""
       }
     ]
   },
@@ -1854,25 +1909,47 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2702/image",
       "eventName": "SSC Napoli vs AS Roma",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/10/24 16:00:00 +0000",
       "endTime": "2026/10/24 18:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PARAMOUNT+ FHD",
+      "FUBO SPORTS FHD",
       "TNT SPORTS FHD",
       "beIN ENGLISH FHD",
+      "CAZE TV FHD",
+      "CBS NETWORK",
       "SPORT 1 CZ",
-      "CAZE TV FHD"
+      "PARAMOUNT+ HD",
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "TNT SPORTS FHD",
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "FUBO SPORTS FHD",
         "logo": ""
       },
       {
+        "title": "TNT SPORTS FHD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+      },
+      {
         "title": "beIN ENGLISH FHD",
+        "logo": ""
+      },
+      {
+        "title": "CAZE TV FHD",
+        "logo": "https://duckduckgo.com/i/dab0d6887915781c.png"
+      },
+      {
+        "title": "CBS NETWORK",
         "logo": ""
       },
       {
@@ -1880,7 +1957,15 @@
         "logo": ""
       },
       {
-        "title": "CAZE TV FHD",
+        "title": "PARAMOUNT+ HD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1974,176 +2059,6 @@
       {
         "title": "PARAMOUNT+ HD",
         "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50103,
-    "title": "Paderborn vs Hamburger",
-    "image": "o",
-    "cat": "Bundesliga 🇩🇪",
-    "eventInfo": {
-      "teamA": "Paderborn",
-      "teamB": "HSV",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2561/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2676/image",
-      "eventName": "SC Paderborn vs Hamburger SV",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/24 13:30:00 +0000",
-      "endTime": "2026/10/24 15:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50104,
-    "title": "RB Leipzig vs Elversberg",
-    "image": "o",
-    "cat": "Bundesliga 🇩🇪",
-    "eventInfo": {
-      "teamA": "Leipzig",
-      "teamB": "Elversberg",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/36360/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2598/image",
-      "eventName": "RB Leipzig vs Elversberg",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/24 13:30:00 +0000",
-      "endTime": "2026/10/24 15:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "CAZE TV FHD",
-      "DUDE Tv Live",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "CAZE TV FHD",
-        "logo": "https://duckduckgo.com/i/dab0d6887915781c.png"
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50105,
-    "title": "Augsburg vs Union Berlin",
-    "image": "o",
-    "cat": "Bundesliga 🇩🇪",
-    "eventInfo": {
-      "teamA": "Augsburg",
-      "teamB": "Union Berlin",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2600/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2547/image",
-      "eventName": "Augsburg vs Union Berlin",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/24 13:30:00 +0000",
-      "endTime": "2026/10/24 15:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50106,
-    "title": "Mainz 05 vs Werder Bremen",
-    "image": "o",
-    "cat": "Bundesliga 🇩🇪",
-    "eventInfo": {
-      "teamA": "Mainz 05",
-      "teamB": "Bremen",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2556/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2534/image",
-      "eventName": "Mainz 05 vs Werder Bremen",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/24 13:30:00 +0000",
-      "endTime": "2026/10/24 15:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50107,
-    "title": "Koln vs Schalke",
-    "image": "o",
-    "cat": "Bundesliga 🇩🇪",
-    "eventInfo": {
-      "teamA": "Köln",
-      "teamB": "Schalke",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2671/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2530/image",
-      "eventName": "Köln vs Schalke",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/24 13:30:00 +0000",
-      "endTime": "2026/10/24 15:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
       },
       {
         "title": "LOW SERVER",
@@ -2310,11 +2225,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv NHL HD",
+      "NHL LIVE HD",
+      "DUDE Tv Live",
+      "NHL LIVE [FHD]"
     ],
     "formatsNew": [
       {
+        "title": "DUDE Tv NHL HD",
+        "logo": ""
+      },
+      {
+        "title": "NHL LIVE HD",
+        "logo": ""
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NHL LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -2399,11 +2329,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -2493,34 +2423,6 @@
     ]
   },
   {
-    "id": 50120,
-    "title": "Neom SC vs Abha",
-    "image": "o",
-    "cat": "Pro League 🇸🇦",
-    "eventInfo": {
-      "teamA": "Neom",
-      "teamB": "Abha",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/530631/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/168090/image",
-      "eventName": "Neom SC vs Abha",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/24 14:00:00 +0000",
-      "endTime": "2026/10/24 16:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50121,
     "title": "ADO vs Heerenveen",
     "image": "o",
@@ -2567,39 +2469,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50123,
-    "title": "Utrecht vs PEC Zwolle",
-    "image": "o",
-    "cat": "Eredivisie",
-    "eventInfo": {
-      "teamA": "Utrecht",
-      "teamB": "PEC Zwolle",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2948/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2971/image",
-      "eventName": "Utrecht vs PEC Zwolle",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/24 14:30:00 +0000",
-      "endTime": "2026/10/24 16:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -2619,62 +2493,6 @@
       "isHot": "0",
       "startTime": "2026/10/24 16:00:00 +0000",
       "endTime": "2026/10/24 18:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50125,
-    "title": "Gaziantep vs Erzurumspor",
-    "image": "o",
-    "cat": "Super Lig",
-    "eventInfo": {
-      "teamA": "Gaziantep",
-      "teamB": "Erzurumspor",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/5138/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/55603/image",
-      "eventName": "Gaziantep FK vs Erzurumspor FK",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/24 13:00:00 +0000",
-      "endTime": "2026/10/24 15:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50127,
-    "title": "Rangers vs St. Johnstone",
-    "image": "o",
-    "cat": "Scottish Premiership",
-    "eventInfo": {
-      "teamA": "Rangers",
-      "teamB": "St. Johnstone",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2351/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2348/image",
-      "eventName": "Rangers vs St. Johnstone",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/24 14:00:00 +0000",
-      "endTime": "2026/10/24 16:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -2778,67 +2596,6 @@
     ]
   },
   {
-    "id": 50131,
-    "title": "Leganes vs Mallorca",
-    "image": "o",
-    "cat": "LaLiga 2",
-    "eventInfo": {
-      "teamA": "Leganés",
-      "teamB": "Mallorca",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2845/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2826/image",
-      "eventName": "Leganés vs Mallorca",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/24 14:15:00 +0000",
-      "endTime": "2026/10/24 16:15:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50132,
-    "title": "Cordoba vs Eibar",
-    "image": "o",
-    "cat": "LaLiga 2",
-    "eventInfo": {
-      "teamA": "Córdoba",
-      "teamB": "Eibar",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2850/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2839/image",
-      "eventName": "Córdoba vs Eibar",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/24 12:00:00 +0000",
-      "endTime": "2026/10/24 14:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50133,
     "title": "Nurnberg vs Kaiserslautern",
     "image": "o",
@@ -2862,282 +2619,6 @@
     "formatsNew": [
       {
         "title": "beIN ENGLISH FHD",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50137,
-    "title": "West Ham vs Southampton",
-    "image": "o",
-    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "West Ham",
-      "teamB": "Southampton",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/37/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/45/image",
-      "eventName": "West Ham United vs Southampton",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/24 14:00:00 +0000",
-      "endTime": "2026/10/24 16:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "PARAMOUNT+ FHD",
-      "CBS NETWORK",
-      "DUDE Tv Live",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "PARAMOUNT+ FHD",
-        "logo": ""
-      },
-      {
-        "title": "CBS NETWORK",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50138,
-    "title": "Preston vs West Bromwich",
-    "image": "o",
-    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Preston",
-      "teamB": "West Brom",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/21/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/8/image",
-      "eventName": "Preston North End vs West Bromwich",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/24 14:00:00 +0000",
-      "endTime": "2026/10/24 16:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "beIN ENGLISH FHD",
-      "DUDE Tv Live",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN ENGLISH FHD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50139,
-    "title": "Wolverhampton vs Watford",
-    "image": "o",
-    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Wolves",
-      "teamB": "Watford",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/24/image",
-      "eventName": "Wolverhampton vs Watford",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/24 14:00:00 +0000",
-      "endTime": "2026/10/24 16:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "PARAMOUNT+ FHD",
-      "DUDE Tv Live",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "PARAMOUNT+ FHD",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50140,
-    "title": "Lincoln City vs Burnley",
-    "image": "o",
-    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Lincoln",
-      "teamB": "Burnley",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/92/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/6/image",
-      "eventName": "Lincoln City vs Burnley",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/24 14:00:00 +0000",
-      "endTime": "2026/10/24 16:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "PARAMOUNT+ FHD",
-      "DUDE Tv Live",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "PARAMOUNT+ FHD",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50141,
-    "title": "Cardiff City vs Birmingham City",
-    "image": "o",
-    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Cardiff",
-      "teamB": "Birmingham",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/61/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/9/image",
-      "eventName": "Cardiff City vs Birmingham City",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/24 14:00:00 +0000",
-      "endTime": "2026/10/24 16:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "PARAMOUNT+ FHD",
-      "DUDE Tv Live",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "PARAMOUNT+ FHD",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50142,
-    "title": "Blackburn Rovers vs Wrexham",
-    "image": "o",
-    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Blackburn",
-      "teamB": "Wrexham",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/46/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/64/image",
-      "eventName": "Blackburn Rovers vs Wrexham",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/24 14:00:00 +0000",
-      "endTime": "2026/10/24 16:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "PARAMOUNT+ FHD",
-      "DUDE Tv Live",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "PARAMOUNT+ FHD",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50146,
-    "title": "Odisha vs NorthEast United",
-    "image": "o",
-    "cat": "ISL",
-    "eventInfo": {
-      "teamA": "Odisha",
-      "teamB": "NorthEast United",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/174592/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/174602/image",
-      "eventName": "Odisha vs NorthEast United",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/24 14:00:00 +0000",
-      "endTime": "2026/10/24 16:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "PRIME VIDEO FHD",
-      "SonyLiv (ENG)",
-      "SonyLiv (HIN)",
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "PRIME VIDEO FHD",
-        "logo": ""
-      },
-      {
-        "title": "SonyLiv (ENG)",
-        "logo": ""
-      },
-      {
-        "title": "SonyLiv (HIN)",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
