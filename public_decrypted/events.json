@@ -12,7 +12,7 @@
       "eventName": "Formula 1 -  United States Grand Prix",
       "eventType": "null",
       "eventBanner": "https://wsrv.nl/?url=https://tikolu.net/i/bxvpx",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/10/25 20:00:00 +0000",
       "endTime": "2026/10/25 21:00:00 +0000"
     },
@@ -23,7 +23,6 @@
       "FANCODE - FHD",
       "SporTV BR FHD",
       "Sky Sports F1 HD",
-      "FORMULA 1 FHD",
       "SKY SPORTS HD",
       "RUSSIA FEED",
       "Sportscast FHD",
@@ -52,10 +51,6 @@
       {
         "title": "Sky Sports F1 HD",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
-      },
-      {
-        "title": "FORMULA 1 FHD",
-        "logo": ""
       },
       {
         "title": "SKY SPORTS HD",
@@ -1166,10 +1161,20 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv NFL HD",
+      "NFL HD (USA)",
       "DUDE Tv Live",
       "NFL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv NFL HD",
+        "logo": ""
+      },
+      {
+        "title": "NFL HD (USA)",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1201,12 +1206,22 @@
     "publish": "1",
     "formats": [
       "SporTV BR FHD",
+      "DUDE Tv NFL HD",
+      "NFL LIVE (USA)",
       "DUDE Tv Live",
       "NFL LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "SporTV BR FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv NFL HD",
+        "logo": ""
+      },
+      {
+        "title": "NFL LIVE (USA)",
         "logo": ""
       },
       {
@@ -1239,12 +1254,22 @@
     "publish": "1",
     "formats": [
       "TSN SPORTS FHD",
+      "FOX NFL HD",
+      "DUDE Tv NFL HD",
       "DUDE Tv Live",
       "NFL LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "TSN SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "FOX NFL HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv NFL HD",
         "logo": ""
       },
       {
@@ -1319,10 +1344,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv NHL HD",
       "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv NHL HD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1571,15 +1601,35 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "PREMIER SPORTS",
+      "PREMIER SPORTS FHD",
+      "CAZE TV FHD",
+      "ESPN DEPORTES HD",
       "beIN ENGLISH FHD",
+      "TAPMAD FHD",
       "FANCODE FHD",
       "D Sports FHD",
-      "CAZE TV FHD"
+      "beIN SPORTS FHD",
+      "PREMIER SPORTS HD",
+      "ESPN ENGLISH HD",
+      "ESPN SPORTS HD",
+      "ARABIC HD",
+      "FAST SERVER HD",
+      "FAST SERVER SD",
+      "HD SERVER",
+      "BDIX HD",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "PREMIER SPORTS",
+        "title": "PREMIER SPORTS FHD",
+        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
+      },
+      {
+        "title": "CAZE TV FHD",
+        "logo": "https://duckduckgo.com/i/dab0d6887915781c.png"
+      },
+      {
+        "title": "ESPN DEPORTES HD",
         "logo": ""
       },
       {
@@ -1587,15 +1637,55 @@
         "logo": ""
       },
       {
-        "title": "FANCODE FHD",
+        "title": "TAPMAD FHD",
         "logo": ""
+      },
+      {
+        "title": "FANCODE FHD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       },
       {
         "title": "D Sports FHD",
         "logo": ""
       },
       {
-        "title": "CAZE TV FHD",
+        "title": "beIN SPORTS FHD",
+        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
+      },
+      {
+        "title": "PREMIER SPORTS HD",
+        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
+      },
+      {
+        "title": "ESPN ENGLISH HD",
+        "logo": ""
+      },
+      {
+        "title": "ESPN SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "ARABIC HD",
+        "logo": ""
+      },
+      {
+        "title": "FAST SERVER HD",
+        "logo": ""
+      },
+      {
+        "title": "FAST SERVER SD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "BDIX HD",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1619,16 +1709,23 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PARAMOUNT+ FHD",
       "TNT SPORTS FHD",
       "FUBO SPORTS FHD",
       "beIN ENGLISH FHD",
+      "FUBO SPORTS ALT",
       "CBS NETWORK",
-      "SPORT 1 CZ FHD"
+      "SPORT 1 CZ FHD",
+      "PARAMOUNT+ HD"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
         "title": "TNT SPORTS FHD",
-        "logo": ""
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
       },
       {
         "title": "FUBO SPORTS FHD",
@@ -1639,12 +1736,20 @@
         "logo": ""
       },
       {
+        "title": "FUBO SPORTS ALT",
+        "logo": ""
+      },
+      {
         "title": "CBS NETWORK",
         "logo": ""
       },
       {
         "title": "SPORT 1 CZ FHD",
         "logo": ""
+      },
+      {
+        "title": "PARAMOUNT+ HD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
       }
     ]
   },
@@ -2071,74 +2176,6 @@
     ]
   },
   {
-    "id": 50102,
-    "title": "Liverpool vs Brighton",
-    "image": "o",
-    "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Liverpool",
-      "teamB": "Brighton",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/44/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/30/image",
-      "eventName": "Liverpool vs Brighton",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/25 14:00:00 +0000",
-      "endTime": "2026/10/25 16:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "PEACOCK TV FHD",
-      "FUBO SPORTS FHD",
-      "FUBO SPORTS ALT",
-      "SKY SPORTS EPL",
-      "DUDE Tv Live",
-      "beIN ARABIC FHD",
-      "FUBO SPORTS HD",
-      "HD SERVER",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "PEACOCK TV FHD",
-        "logo": ""
-      },
-      {
-        "title": "FUBO SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "FUBO SPORTS ALT",
-        "logo": ""
-      },
-      {
-        "title": "SKY SPORTS EPL",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "beIN ARABIC FHD",
-        "logo": ""
-      },
-      {
-        "title": "FUBO SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50105,
     "title": "Real Sociedad vs Levante",
     "image": "o",
@@ -2187,355 +2224,6 @@
       },
       {
         "title": "HD SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50106,
-    "title": "Celta Vigo vs Real Betis",
-    "image": "o",
-    "cat": "LaLiga 🇪🇸",
-    "eventInfo": {
-      "teamA": "Celta",
-      "teamB": "Real Betis",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2821/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2816/image",
-      "eventName": "Celta Vigo vs Real Betis",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/25 15:15:00 +0000",
-      "endTime": "2026/10/25 17:21:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "PREMIER SPORTS",
-      "beIN ENGLISH FHD",
-      "FANCODE FHD",
-      "D Sports FHD",
-      "ESPN DEPORTES HD",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "PREMIER SPORTS",
-        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
-      },
-      {
-        "title": "beIN ENGLISH FHD",
-        "logo": ""
-      },
-      {
-        "title": "FANCODE FHD",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
-      },
-      {
-        "title": "D Sports FHD",
-        "logo": ""
-      },
-      {
-        "title": "ESPN DEPORTES HD",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50108,
-    "title": "Freiburg vs Bayern Munchen",
-    "image": "o",
-    "cat": "Bundesliga 🇩🇪",
-    "eventInfo": {
-      "teamA": "Freiburg",
-      "teamB": "Bayern",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2538/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2672/image",
-      "eventName": "Freiburg vs Bayern München",
-      "eventType": "null",
-      "isHot": "1",
-      "startTime": "2026/10/25 16:30:00 +0000",
-      "endTime": "2026/10/25 18:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "beIN ENGLISH FHD",
-      "DAZN SPORTS HD",
-      "DUDE Tv Live",
-      "HD SERVER",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN ENGLISH FHD",
-        "logo": ""
-      },
-      {
-        "title": "DAZN SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50110,
-    "title": "Lecce vs Juventus",
-    "image": "o",
-    "cat": "Serie A 🇮🇹",
-    "eventInfo": {
-      "teamA": "Lecce",
-      "teamB": "Juventus",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2689/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2687/image",
-      "eventName": "Lecce vs Juventus",
-      "eventType": "null",
-      "isHot": "1",
-      "startTime": "2026/10/25 17:00:00 +0000",
-      "endTime": "2026/10/25 19:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "PARAMOUNT+ FHD",
-      "FUBO SPORTS FHD",
-      "DAZN SPORTS FHD",
-      "beIN ENGLISH FHD",
-      "CBS NETWORK",
-      "SPORT 1 CZ FHD",
-      "PARAMOUNT+ HD",
-      "HD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "PARAMOUNT+ FHD",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
-        "title": "FUBO SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "DAZN SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "beIN ENGLISH FHD",
-        "logo": ""
-      },
-      {
-        "title": "CBS NETWORK",
-        "logo": ""
-      },
-      {
-        "title": "SPORT 1 CZ FHD",
-        "logo": ""
-      },
-      {
-        "title": "PARAMOUNT+ HD",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50114,
-    "title": "Olympique Marseille vs Le Havre",
-    "image": "o",
-    "cat": "Ligue 1 🇫🇷",
-    "eventInfo": {
-      "teamA": "Marseille",
-      "teamB": "Le Havre",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1641/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1662/image",
-      "eventName": "Olympique de Marseille vs Le Havre",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/25 16:15:00 +0000",
-      "endTime": "2026/10/25 18:20:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DAZN SPORTS FHD",
-      "beIN SPORTS FHD",
-      "HD SERVER",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DAZN SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "beIN SPORTS FHD",
-        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50115,
-    "title": "Stade Rennais vs Strasbourg",
-    "image": "o",
-    "cat": "Ligue 1 🇫🇷",
-    "eventInfo": {
-      "teamA": "Rennes",
-      "teamB": "Strasbourg",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1658/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1659/image",
-      "eventName": "Stade Rennais vs RC Strasbourg",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/25 16:15:00 +0000",
-      "endTime": "2026/10/25 18:15:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DAZN SPORTS FHD",
-      "HD SERVER",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DAZN SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50116,
-    "title": "Toulouse vs Troyes",
-    "image": "o",
-    "cat": "Ligue 1 🇫🇷",
-    "eventInfo": {
-      "teamA": "Toulouse",
-      "teamB": "Troyes",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1681/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1652/image",
-      "eventName": "Toulouse vs Troyes",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/25 16:15:00 +0000",
-      "endTime": "2026/10/25 18:15:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "HD SERVER",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50117,
-    "title": "Auxerre vs Le Mans",
-    "image": "o",
-    "cat": "Ligue 1 🇫🇷",
-    "eventInfo": {
-      "teamA": "Auxerre",
-      "teamB": "Le Mans",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1646/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1672/image",
-      "eventName": "Auxerre vs Le Mans",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/25 16:15:00 +0000",
-      "endTime": "2026/10/25 18:15:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DAZN SPORTS FHD",
-      "HD SERVER",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DAZN SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50118,
-    "title": "Angers vs Lorient",
-    "image": "o",
-    "cat": "Ligue 1 🇫🇷",
-    "eventInfo": {
-      "teamA": "Angers",
-      "teamB": "Lorient",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1684/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1656/image",
-      "eventName": "Angers vs Lorient",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/25 16:15:00 +0000",
-      "endTime": "2026/10/25 18:15:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "HD SERVER ",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "HD SERVER ",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -2630,34 +2318,6 @@
     ]
   },
   {
-    "id": 50123,
-    "title": "Estoril Praia vs Moreirense",
-    "image": "o",
-    "cat": "Liga Portugal",
-    "eventInfo": {
-      "teamA": "Estoril",
-      "teamB": "Moreirense",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4500/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3014/image",
-      "eventName": "Estoril Praia vs Moreirense",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/25 15:30:00 +0000",
-      "endTime": "2026/10/25 17:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50124,
     "title": "AZ Alkmaar vs Twente",
     "image": "o",
@@ -2676,72 +2336,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50125,
-    "title": "Sparta vs AFC Ajax",
-    "image": "o",
-    "cat": "Eredivisie",
-    "eventInfo": {
-      "teamA": "Sparta",
-      "teamB": "Ajax",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2960/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2953/image",
-      "eventName": "Sparta Rotterdam vs AFC Ajax",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/25 15:45:00 +0000",
-      "endTime": "2026/10/25 17:50:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SportDigital Fussball",
       "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "SportDigital Fussball",
-        "logo": ""
-      },
-      {
         "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50129,
-    "title": "Goztepe vs Corum",
-    "image": "o",
-    "cat": "Super Lig",
-    "eventInfo": {
-      "teamA": "Göztepe",
-      "teamB": "Çorum",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3054/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/77629/image",
-      "eventName": "Göztepe vs Çorum FK",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/25 16:00:00 +0000",
-      "endTime": "2026/10/25 18:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
@@ -2775,62 +2374,6 @@
       },
       {
         "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50133,
-    "title": "Cadiz vs AD Ceuta",
-    "image": "o",
-    "cat": "LaLiga 2",
-    "eventInfo": {
-      "teamA": "Cádiz",
-      "teamB": "Ceuta",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4488/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2869/image",
-      "eventName": "Cádiz vs AD Ceuta",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/25 15:15:00 +0000",
-      "endTime": "2026/10/25 17:15:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50134,
-    "title": "Albacete Balompie vs Eldense",
-    "image": "o",
-    "cat": "LaLiga 2",
-    "eventInfo": {
-      "teamA": "Albacete",
-      "teamB": "Eldense",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2848/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/47321/image",
-      "eventName": "Albacete Balompié vs CD Eldense",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/25 15:15:00 +0000",
-      "endTime": "2026/10/25 17:15:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
