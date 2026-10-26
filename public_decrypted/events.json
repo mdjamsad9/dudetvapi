@@ -643,10 +643,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "TSN SPORTS FHD",
       "DUDE Tv Live",
       "WNBA LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "TSN SPORTS FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1068,23 +1073,63 @@
       "eventName": "Ballon d'Or Show",
       "eventType": "null",
       "eventBanner": "https://wsrv.nl/?url=https://tikolu.net/i/wczok",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/10/26 18:00:00 +0000",
       "endTime": "2026/10/26 21:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DAZN SPORTS HD",
+      "Live Ball FHD",
       "CBS NETWORK",
-      "DUDE Tv Live [FHD]"
+      "DAZN SPORTS HD (2)",
+      "DUDE Tv Live",
+      "LOW SERVER",
+      "DUDE Tv Live [FHD]",
+      "Ballon D'Or (ENG)",
+      "Ballon D'Or (FRN)",
+      "Ballon D'Or (ESP)"
     ],
     "formatsNew": [
+      {
+        "title": "DAZN SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "Live Ball FHD",
+        "logo": ""
+      },
       {
         "title": "CBS NETWORK",
         "logo": ""
       },
       {
+        "title": "DAZN SPORTS HD (2)",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
+        "logo": ""
+      },
+      {
         "title": "DUDE Tv Live [FHD]",
+        "logo": ""
+      },
+      {
+        "title": "Ballon D'Or (ENG)",
+        "logo": ""
+      },
+      {
+        "title": "Ballon D'Or (FRN)",
+        "logo": ""
+      },
+      {
+        "title": "Ballon D'Or (ESP)",
         "logo": ""
       }
     ]
@@ -1357,24 +1402,34 @@
     "formats": [
       "PREMIER SPORTS FHD",
       "beIN ENGLISH FHD",
+      "FANCODE FHD",
       "CAZE TV FHD",
-      "FANCODE FHD"
+      "ESPN DEPORTES HD",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "PREMIER SPORTS FHD",
-        "logo": ""
+        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
       },
       {
         "title": "beIN ENGLISH FHD",
         "logo": ""
       },
       {
+        "title": "FANCODE FHD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
+      {
         "title": "CAZE TV FHD",
+        "logo": "https://duckduckgo.com/i/dab0d6887915781c.png"
+      },
+      {
+        "title": "ESPN DEPORTES HD",
         "logo": ""
       },
       {
-        "title": "FANCODE FHD",
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1443,34 +1498,6 @@
     ]
   },
   {
-    "id": 50093,
-    "title": "PSG vs Olympique Lyon",
-    "image": "o",
-    "cat": "Ligue 1 🇫🇷",
-    "eventInfo": {
-      "teamA": "PSG",
-      "teamB": "Lyon",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1644/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1649/image",
-      "eventName": "Paris Saint-Germain vs Olympique Lyon",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/26 19:30:00 +0000",
-      "endTime": "2026/10/26 21:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "CAZE TV FHD"
-    ],
-    "formatsNew": [
-      {
-        "title": "CAZE TV FHD",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50094,
     "title": "Santa Clara vs Benfica",
     "image": "o",
@@ -1490,7 +1517,8 @@
     "publish": "1",
     "formats": [
       "D Sports FHD",
-      "SportDigital Fussball"
+      "SportDigital Fussball",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
@@ -1499,6 +1527,10 @@
       },
       {
         "title": "SportDigital Fussball",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1522,11 +1554,31 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH FHD"
+      "beIN ENGLISH FHD",
+      "DUDE Tv Live",
+      "HD SERVER",
+      "beIN SPORTS SD",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "beIN ENGLISH FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "beIN SPORTS SD",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1550,11 +1602,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1578,40 +1635,12 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "PARAMOUNT+ FHD"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50098,
-    "title": "Al-Nassr vs Al Wasl",
-    "image": "o",
-    "cat": "AFC Champions Elite",
-    "eventInfo": {
-      "teamA": "Al-Nassr",
-      "teamB": "Al-Wasl",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/23400/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/47674/image",
-      "eventName": "Al-Nassr vs Al Wasl",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/26 18:15:00 +0000",
-      "endTime": "2026/10/26 20:20:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
       }
     ]
   },
@@ -1662,11 +1691,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1734,92 +1768,6 @@
       },
       {
         "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50103,
-    "title": "Rizespor vs Trabzonspor",
-    "image": "o",
-    "cat": "Super Lig",
-    "eventInfo": {
-      "teamA": "Çaykur Rizespor",
-      "teamB": "Trabzonspor",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3064/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3051/image",
-      "eventName": "Çaykur Rizespor vs Trabzonspor",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/26 16:00:00 +0000",
-      "endTime": "2026/10/26 18:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "beIN SPORTS FHD",
-      "DUDE Tv Live",
-      "HD SERVER",
-      "SD SERVER",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN SPORTS FHD",
-        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50104,
-    "title": "Beşiktaş JK vs Başakşehir",
-    "image": "o",
-    "cat": "Super Lig",
-    "eventInfo": {
-      "teamA": "Beşiktaş JK",
-      "teamB": "Başakşehir",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3050/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3086/image",
-      "eventName": "Beşiktaş JK vs Başakşehir",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/26 16:00:00 +0000",
-      "endTime": "2026/10/26 18:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "HD SERVER",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
         "logo": ""
       },
       {
