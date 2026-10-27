@@ -824,10 +824,11 @@
     "publish": "1",
     "formats": [
       "WILLOW - FHD",
+      "PRIME VIDEO (HINDI)",
       "PRIME VIDEO (ENG)",
       "TNT SPORTS FHD",
-      "PRIME VIDEO (TAM)",
       "WILLOW - ALT",
+      "PRIME VIDEO (TAM)",
       "CRICBUZZ HD",
       "TAPMAD - FHD",
       "SonyLiv (ENG)",
@@ -840,6 +841,10 @@
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
+        "title": "PRIME VIDEO (HINDI)",
+        "logo": ""
+      },
+      {
         "title": "PRIME VIDEO (ENG)",
         "logo": ""
       },
@@ -848,12 +853,12 @@
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
       },
       {
-        "title": "PRIME VIDEO (TAM)",
-        "logo": ""
-      },
-      {
         "title": "WILLOW - ALT",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "PRIME VIDEO (TAM)",
+        "logo": ""
       },
       {
         "title": "CRICBUZZ HD",
@@ -885,6 +890,13 @@
         "type": "1"
       },
       {
+        "api": "4dcd41b8ecbc6d0182037e457e2baec9:14a48156510444cc189cdf12c1249670",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ot99hqbbfg/out/v1/d5879616029b431698a8c9446cbe58ec/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "PRIME VIDEO (HINDI)",
+        "type": "1"
+      },
+      {
         "api": "f61a0f45500e86607d1467ac70431693:41649554b2a83f221406756debfe3834",
         "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lgprfsmcco/out/v1/eb3926a34c6c4e4fa9c62c23726f5ff6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "",
@@ -899,17 +911,17 @@
         "type": "1"
       },
       {
-        "api": "99ce7c4be7222f0c0760734bb1a7c726:9c2f0502932c19e0ccd9c8acc5c7790e",
-        "link": "https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/dwurwq3gqy/out/v1/cad9647fdbd64c08afb4ebfb1390768c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "PRIME VIDEO (TAM)",
-        "type": "1"
-      },
-      {
         "api": "b1ee06e6e306aa92e9a4658f739a1596:b993e1f264c6a637cd28427242f5f967",
         "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ojpgrthnnt/out/v1/52619efcaa3e473295a6fd19dd6e9437/cenc.mpd",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW - ALT",
+        "type": "1"
+      },
+      {
+        "api": "99ce7c4be7222f0c0760734bb1a7c726:9c2f0502932c19e0ccd9c8acc5c7790e",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/dwurwq3gqy/out/v1/cad9647fdbd64c08afb4ebfb1390768c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "PRIME VIDEO (TAM)",
         "type": "1"
       },
       {
@@ -1273,19 +1285,16 @@
       "eventBanner": "null",
       "isHot": "0",
       "startTime": "2026/10/27 08:00:00 +0000",
-      "endTime": "2026/10/27 15:30:00 +0000"
+      "endTime": "2026/10/27 13:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
       "WILLOW - FHD",
-      "SKY CRICKET FHD",
       "WILLOW - ALT",
       "TAPMAD - FHD",
-      "FOX CRICKET HD",
+      "TAPMAD - HD",
       "PTV SPORTS HD",
-      "WILLOW HD",
-      "CRICBUZZ HD",
       "T SPORTS HD"
     ],
     "formatsNew": [
@@ -1294,10 +1303,6 @@
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
-        "title": "SKY CRICKET FHD",
-        "logo": ""
-      },
-      {
         "title": "WILLOW - ALT",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
@@ -1306,20 +1311,12 @@
         "logo": ""
       },
       {
-        "title": "FOX CRICKET HD",
-        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj"
+        "title": "TAPMAD - HD",
+        "logo": ""
       },
       {
         "title": "PTV SPORTS HD",
         "logo": ""
-      },
-      {
-        "title": "WILLOW HD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "CRICBUZZ HD",
-        "logo": "https://play-lh.googleusercontent.com/Q3mUXMkM63Z-Dh5YCasJtTEkU6r7kLyn8m6b3-2-MwdK6jlZnxTRXrRstdMAahKLrg"
       },
       {
         "title": "T SPORTS HD",
@@ -1328,38 +1325,31 @@
     ],
     "decoded_channels": [
       {
-        "api": "53ac5670511d1300366b35b85eb6eadc:e255086091e4638f16985ca3ddd56e2b",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/etttcyodrm/out/v1/2e476a75a79741c0bc7c9586e59a5f0e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "a06a8c6d28d399f0ef2864c732f02c7e:58678b7841e58cf8eeae5d4049aac1af",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qlhkaywvyy/out/v1/d904a3e8abc940139881639cf378de84/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW - FHD",
         "type": "1"
       },
       {
-        "api": "",
-        "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-        "logo": "",
-        "title": "SKY CRICKET FHD",
-        "type": "0"
-      },
-      {
-        "api": "53ac5670511d1300366b35b85eb6eadc:e255086091e4638f16985ca3ddd56e2b",
-        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/etttcyodrm/out/v1/2e476a75a79741c0bc7c9586e59a5f0e/cenc.mpd",
+        "api": "71c9587a489e14e4463fb01f0951bc69:2e5fcd0b450696f14c9f065364b6787b",
+        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jcogtjna1p/out/v1/49e48e49b1b74230bc32c008303e962f/cenc.mpd",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW - ALT",
         "type": "1"
       },
       {
         "api": "",
-        "link": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8|referer=https://tapmad.com/",
+        "link": "https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8?|referer=https://tapmad.com/",
         "logo": "",
         "title": "TAPMAD - FHD",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://baila-lentoo.pages.dev/all-sp/809389.m3u8",
-        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj",
-        "title": "FOX CRICKET HD",
+        "link": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8?|referer=https://tapmad.com/",
+        "logo": "",
+        "title": "TAPMAD - HD",
         "type": "0"
       },
       {
@@ -1367,20 +1357,6 @@
         "link": "https://live.msnetworks.net/ptv-sports/master.m3u8",
         "logo": "",
         "title": "PTV SPORTS HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://baila-lentoo.pages.dev/all-sp/809386.m3u8",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://motherofdragons.bondsplive.online/852145/logosp.webp?&e=.m3u8|referer=https://youjizz.com/",
-        "logo": "https://play-lh.googleusercontent.com/Q3mUXMkM63Z-Dh5YCasJtTEkU6r7kLyn8m6b3-2-MwdK6jlZnxTRXrRstdMAahKLrg",
-        "title": "CRICBUZZ HD",
         "type": "0"
       },
       {
@@ -1741,7 +1717,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/187746/image",
       "eventName": "South Africa vs Australia",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/10/27 08:30:00 +0000",
       "endTime": "2026/10/27 16:00:00 +0000"
     },
@@ -1750,11 +1726,11 @@
     "formats": [
       "WILLOW - FHD",
       "FANCODE FHD",
+      "SKY CRICKET FHD",
       "WILLOW - ALT",
       "TAPMAD - FHD",
       "FOX CRICKET HD",
-      "A SPORTS HD",
-      "FANCODE - IN"
+      "A SPORTS HD"
     ],
     "formatsNew": [
       {
@@ -1764,6 +1740,10 @@
       {
         "title": "FANCODE FHD",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
+      {
+        "title": "SKY CRICKET FHD",
+        "logo": ""
       },
       {
         "title": "WILLOW - ALT",
@@ -1780,16 +1760,12 @@
       {
         "title": "A SPORTS HD",
         "logo": ""
-      },
-      {
-        "title": "FANCODE - IN",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       }
     ],
     "decoded_channels": [
       {
-        "api": "0d52e23fe7eade15ac5b852ac0a5a23a:5fce44b4d3887f03d32339b27a13637b",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2jx5hrl31t/out/v1/9b12bcffb3eb4f95a4b1809826d1d020/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "fb8d8ec6aee94e5fca2fc189606b770a:f17b252239990e99cb9c213a76470b52",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jlsbixthj2/out/v1/828e8e7fd5264ae4ad3fd4d47a09a388/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW - FHD",
         "type": "1"
@@ -1802,8 +1778,15 @@
         "type": "1"
       },
       {
-        "api": "0d52e23fe7eade15ac5b852ac0a5a23a:5fce44b4d3887f03d32339b27a13637b",
-        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/2jx5hrl31t/out/v1/9b12bcffb3eb4f95a4b1809826d1d020/cenc.mpd",
+        "api": "",
+        "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+        "logo": "",
+        "title": "SKY CRICKET FHD",
+        "type": "0"
+      },
+      {
+        "api": "bdc52b31dcf25b0515a61fb9d0f444a2:468ae45daef1021713e7ea869a340f96",
+        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/yi1ah9sgsj/out/v1/ffe37797429b4ed28810e8d7735124fc/cenc.mpd",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW - ALT",
         "type": "1"
@@ -1828,13 +1811,6 @@
         "logo": "",
         "title": "A SPORTS HD",
         "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://dai-fancode.pages.dev/mumbai/4249782_english_hls_bf21f9fa2f28565_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
-        "title": "FANCODE - IN",
-        "type": "0"
       }
     ],
     "channel_status": "live"
@@ -1858,57 +1834,33 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "WILLOW - FHD",
-      "STARZPLAY - FHD",
-      "WILLOW - ALT",
-      "FANCODE (IN)"
+      "StarSports HD",
+      "FANCODE FHD"
     ],
     "formatsNew": [
       {
-        "title": "WILLOW - FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "STARZPLAY - FHD",
+        "title": "StarSports HD",
         "logo": ""
       },
       {
-        "title": "WILLOW - ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "FANCODE (IN)",
+        "title": "FANCODE FHD",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       }
     ],
     "decoded_channels": [
       {
-        "api": "c4e6bd30698f91c0d1e99e505d8859c7:cea8ba61e532c7143c630f0c9becd7a6",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/szep2s50dy/out/v1/0654483782a74c1e9e3e578377d28fc6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW - FHD",
-        "type": "1"
-      },
-      {
-        "api": "0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9",
-        "link": "https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "STARZPLAY - FHD",
-        "type": "1"
-      },
-      {
-        "api": "c4e6bd30698f91c0d1e99e505d8859c7:cea8ba61e532c7143c630f0c9becd7a6",
-        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/szep2s50dy/out/v1/0654483782a74c1e9e3e578377d28fc6/cenc.mpd",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW - ALT",
-        "type": "1"
-      },
-      {
         "api": "",
-        "link": "https://dai-fancode.pages.dev/mumbai/4249230_english_hls_af78e095ee47903_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
-        "title": "FANCODE (IN)",
+        "link": "https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8",
+        "logo": "",
+        "title": "StarSports HD",
         "type": "0"
+      },
+      {
+        "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
+        "title": "FANCODE FHD",
+        "type": "1"
       }
     ],
     "channel_status": "live"
@@ -3470,59 +3422,24 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "LOW SERVER",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
-        "api": "116bfe61690ce8cab199b5ddc4aaadc0:172a5780a320064bd3d78d9c10013627",
-        "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/3alb4gvdah/out/v1/8b048711b298499686581bac84cd0f35/f346386b-66f0-4143-9639-d543dd8f1c81-cenc.mpd?aws_sessionId=28bbb138-d49d-4873-9467-f3af9969acd3|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
-        "title": "PARAMOUNT+ FHD",
-        "type": "1"
-      },
-      {
-        "api": "79f0c868f01bd48b3a492859fa44bd68:5486005bc7cd83085e9b98436714888b",
-        "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/w1hi8fdwt6/out/v1/9a01afb3983444c9b0ebd5d4df2e47e2/daf62d05-3d8a-4f12-844e-4bafb7cacb6a-cenc.mpd?aws_sessionId=9dfb7f37-d0a6-4480-b5e4-b08d83cedabb|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "FUBO SPORTS FHD",
-        "type": "1"
-      },
-      {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/58625/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
-        "title": "PARAMOUNT+ HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://live.vivo155.com/live/hd-en-1-4549165.m3u8?txSecret=eca9f96b4b256cd488e6650403dd2fee&txTime=6ADE1FF3|Referer=https://player.online878.com/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://edgestream4.pro/hls/syaLqucEne4k.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://embedcenter.st&Origin=https://embedcenter.st",
-        "logo": "",
-        "title": "HD SERVER",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.50/hls/N222.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+        "link": "http://193.47.62.50/hls/JYYYAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
         "logo": "",
         "title": "LOW SERVER",
         "type": "0"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50113,
@@ -3645,11 +3562,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "LOW SERVER",
         "logo": ""
       }
     ],
@@ -3661,7 +3578,7 @@
         "type": "0"
       }
     ],
-    "channel_status": "live"
+    "channel_status": "cached"
   },
   {
     "id": 50116,
@@ -3682,31 +3599,24 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "LOW SERVER",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream4.pro/hls/zauygazhjd.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://embedcenter.st&Origin=https://embedcenter.st",
-        "logo": "",
-        "title": "HD SERVER",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.55/hls/RT777AAAQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+        "link": "http://193.47.62.50/hls/JYYY.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
         "logo": "",
         "title": "LOW SERVER",
         "type": "0"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50117,
@@ -3727,19 +3637,32 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "link": "https://live.vivo155.com/live/hd-en-1-4621488.m3u8?txSecret=1b4f3e35c10a27706dcc9f0708f9cec4&txTime=6AE0828C|Referer=https://player.on8on8.com/",
+        "logo": "",
         "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://live2.jorvakstreamcache.com/live/channel5.m3u8?|Referer=https://xoilac.domainkqt.cc/",
+        "logo": "",
+        "title": "HD SERVER",
         "type": "0"
       }
     ],
@@ -3764,19 +3687,32 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "link": "https://live.vivo155.com/live/hd-en-1-4621532.m3u8?txSecret=881cc1a1de999e6174009d20401a793f&txTime=6AE0834A|Referer=https://player.on8on8.com/",
+        "logo": "",
         "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://live2.jorvakstreamcache.com/live/channel15.m3u8?|Referer=https://xoilac.domainkqt.cc/",
+        "logo": "",
+        "title": "HD SERVER",
         "type": "0"
       }
     ],
@@ -3801,19 +3737,32 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "link": "https://live.vivo155.com/live/hd-en-1-4621533.m3u8?txSecret=6f1984cc27d76298d6002aacbc390be9&txTime=6AE082B2|Referer=https://player.on8on8.com/",
+        "logo": "",
         "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://live2.jorvakstreamcache.com/live/channel16.m3u8?|Referer=https://xoilac.domainkqt.cc/",
+        "logo": "",
+        "title": "HD SERVER",
         "type": "0"
       }
     ],
@@ -3838,19 +3787,32 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "link": "https://live.vivo155.com/live/hd-en-1-4621521.m3u8?txSecret=77ff51d8170b78ee1b5e2397d3cde37d&txTime=6AE08304|Referer=https://player.on8on8.com/",
+        "logo": "",
         "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://live2.jorvakstreamcache.com/live/channel6.m3u8?|Referer=https://xoilac.domainkqt.cc/",
+        "logo": "",
+        "title": "HD SERVER",
         "type": "0"
       }
     ],
