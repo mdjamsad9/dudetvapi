@@ -690,15 +690,19 @@
     "publish": "1",
     "formats": [
       "WILLOW - FHD",
+      "FANCODE - FHD",
       "WILLOW - ALT",
       "TAPMAD - FHD",
-      "T Sports HD",
-      "FANCODE - IN"
+      "FANCODE - IN "
     ],
     "formatsNew": [
       {
         "title": "WILLOW - FHD",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "FANCODE - FHD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       },
       {
         "title": "WILLOW - ALT",
@@ -709,25 +713,28 @@
         "logo": ""
       },
       {
-        "title": "T Sports HD",
-        "logo": ""
-      },
-      {
-        "title": "FANCODE - IN",
+        "title": "FANCODE - IN ",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       }
     ],
     "decoded_channels": [
       {
-        "api": "85e95a4fae22e02459252a03faaf3166:29334fa5e1d5708ed994f8bf74687933",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/eieh0ekrzy/out/v1/2587259ec56e439086e501951f31ccf7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "d2efbc1c5f8ff101397ecf138e8741ba:7f4d45f386a7640749e0f07417471f01",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nbhokkdipi/out/v1/2b5492875ca8431a979f3ec685cce2f8/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW - FHD",
         "type": "1"
       },
       {
-        "api": "85e95a4fae22e02459252a03faaf3166:29334fa5e1d5708ed994f8bf74687933",
-        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/eieh0ekrzy/out/v1/2587259ec56e439086e501951f31ccf7/cenc.mpd",
+        "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
+        "title": "FANCODE - FHD",
+        "type": "1"
+      },
+      {
+        "api": "d2efbc1c5f8ff101397ecf138e8741ba:7f4d45f386a7640749e0f07417471f01",
+        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/nbhokkdipi/out/v1/2b5492875ca8431a979f3ec685cce2f8/cenc.mpd",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW - ALT",
         "type": "1"
@@ -741,16 +748,9 @@
       },
       {
         "api": "",
-        "link": "http://103.151.60.162:2122/play/a030/index.m3u8?hls",
-        "logo": "",
-        "title": "T Sports HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://dai-fancode.pages.dev/mumbai/4249697_english_hls_7444655df2273_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+        "link": "https://dai-fancode.pages.dev/mumbai/4249769_english_hls_260c41cdcf27321_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
-        "title": "FANCODE - IN",
+        "title": "FANCODE - IN ",
         "type": "0"
       },
       {
@@ -1259,93 +1259,6 @@
     "channel_status": "live"
   },
   {
-    "id": 50012,
-    "title": "Sri Lanka vs England",
-    "image": "o",
-    "cat": "Cricket",
-    "eventInfo": {
-      "teamA": "SL",
-      "teamB": "ENG",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187756/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187757/image",
-      "eventName": "Sri Lanka vs England",
-      "eventType": "null",
-      "eventBanner": "null",
-      "isHot": "0",
-      "startTime": "2026/10/29 08:00:00 +0000",
-      "endTime": "2026/10/29 15:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "WILLOW - FHD",
-      "WILLOW - ALT",
-      "SKY CRICKET - FHD",
-      "PTV SPORTS HD",
-      "TAPMAD - FHD"
-    ],
-    "formatsNew": [
-      {
-        "title": "WILLOW - FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "WILLOW - ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "SKY CRICKET - FHD",
-        "logo": ""
-      },
-      {
-        "title": "PTV SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "TAPMAD - FHD",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "ba4284442c87f52ddeaa95c65d236805:56f0808d1f1fbfc0703b384081f1d340",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6qhfwsk4zo/out/v1/0a7bd0ff80a74315834174393f370523/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW - FHD",
-        "type": "1"
-      },
-      {
-        "api": "ba4284442c87f52ddeaa95c65d236805:56f0808d1f1fbfc0703b384081f1d340",
-        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/6qhfwsk4zo/out/v1/0a7bd0ff80a74315834174393f370523/cenc.mpd",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW - ALT",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-        "logo": "",
-        "title": "SKY CRICKET - FHD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://baila-lentoo.pages.dev/all-sp/809398.m3u8",
-        "logo": "",
-        "title": "PTV SPORTS HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8|referer=https://tapmad.com/",
-        "logo": "",
-        "title": "TAPMAD - FHD",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
     "id": 50027,
     "title": "Atlanta Dream vs Valkyries",
     "image": "o",
@@ -1384,22 +1297,22 @@
     ],
     "decoded_channels": [
       {
-        "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "title": "TSN SPORTS FHD",
         "type": "1"
       },
       {
         "api": "",
-        "link": "https://edgestream2.pro/hls/sdghjvqazhvg80.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://chatgpt.hereisman.net/playlist/58837/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://taifood-blog.asia/embed/wnba/2026-10-26/atl-gs",
+        "link": "https://taifood-blog.asia/embed/wnba/2026-10-29/gs-atl",
         "logo": "",
         "title": "WNBA LIVE [FHD]",
         "type": "2"
@@ -1706,8 +1619,8 @@
       "eventName": "South Africa vs Australia",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/29 08:30:00 +0000",
-      "endTime": "2026/10/29 16:00:00 +0000"
+      "startTime": "2026/10/30 08:30:00 +0000",
+      "endTime": "2026/10/30 16:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1828,10 +1741,72 @@
     "channel_status": "live"
   },
   {
-    "id": 50070,
-    "title": "WBL",
+    "id": 50069,
+    "title": "Green Bay Packers",
     "image": "o",
-    "cat": "BBL",
+    "cat": "NFL",
+    "eventInfo": {
+      "teamA": "Packers",
+      "teamB": "Panthers",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4420/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4415/image",
+      "eventName": "Green Bay Packers vs Carolina Panthers",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/30 00:15:00 +0000",
+      "endTime": "2026/10/30 03:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "TSN SPORTS FHD",
+      "TSN5 SPORTS FHD",
+      "NFL LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "TSN SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "TSN5 SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "NFL LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "TSN SPORTS FHD",
+        "type": "1"
+      },
+      {
+        "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "TSN5 SPORTS FHD",
+        "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://taifood-blog.asia/embed/nfl/2026-10-29/car-gb",
+        "logo": "",
+        "title": "NFL LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50070,
+    "title": "WBBL",
+    "image": "o",
+    "cat": "WBBL",
     "eventInfo": {
       "teamA": "WBBL",
       "teamB": "WBBL",
@@ -1840,8 +1815,8 @@
       "eventName": "Womens Big Bash League",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/29 04:45:00 +0000",
-      "endTime": "2026/10/29 11:30:00 +0000"
+      "startTime": "2026/10/30 08:10:00 +0000",
+      "endTime": "2026/10/30 11:55:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -2747,11 +2722,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "FOX DEPORTES"
+      "FOX DEPORTES",
+      "SportDigital Fussball"
     ],
     "formatsNew": [
       {
         "title": "FOX DEPORTES",
+        "logo": ""
+      },
+      {
+        "title": "SportDigital Fussball",
         "logo": ""
       }
     ],
@@ -2759,7 +2739,15 @@
       {
         "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
         "title": "FOX DEPORTES",
+        "type": "1"
+      },
+      {
+        "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "SportDigital Fussball",
         "type": "1"
       }
     ],
@@ -2821,19 +2809,32 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "HD SERVER ",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "HD SERVER ",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-        "title": "DUDE Tv Live",
+        "link": "https://live2.jorvakstreamcache.com/live/channel1.m3u8?|Referer=https://xlz.domainkqt.cc/",
+        "logo": "",
+        "title": "HD SERVER ",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.59/hls/6HHHAAQQQAAQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+        "logo": "",
+        "title": "LOW SERVER",
         "type": "0"
       }
     ],

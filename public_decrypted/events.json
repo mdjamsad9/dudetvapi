@@ -346,15 +346,19 @@
     "publish": "1",
     "formats": [
       "WILLOW - FHD",
+      "FANCODE - FHD",
       "WILLOW - ALT",
       "TAPMAD - FHD",
-      "T Sports HD",
-      "FANCODE - IN"
+      "FANCODE - IN "
     ],
     "formatsNew": [
       {
         "title": "WILLOW - FHD",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "FANCODE - FHD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       },
       {
         "title": "WILLOW - ALT",
@@ -365,11 +369,7 @@
         "logo": ""
       },
       {
-        "title": "T Sports HD",
-        "logo": ""
-      },
-      {
-        "title": "FANCODE - IN",
+        "title": "FANCODE - IN ",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       }
     ]
@@ -620,55 +620,6 @@
     ]
   },
   {
-    "id": 50012,
-    "title": "Sri Lanka vs England",
-    "image": "o",
-    "cat": "Cricket",
-    "eventInfo": {
-      "teamA": "SL",
-      "teamB": "ENG",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187756/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187757/image",
-      "eventName": "Sri Lanka vs England",
-      "eventType": "null",
-      "eventBanner": "null",
-      "isHot": "0",
-      "startTime": "2026/10/29 08:00:00 +0000",
-      "endTime": "2026/10/29 15:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "WILLOW - FHD",
-      "WILLOW - ALT",
-      "SKY CRICKET - FHD",
-      "PTV SPORTS HD",
-      "TAPMAD - FHD"
-    ],
-    "formatsNew": [
-      {
-        "title": "WILLOW - FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "WILLOW - ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "SKY CRICKET - FHD",
-        "logo": ""
-      },
-      {
-        "title": "PTV SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "TAPMAD - FHD",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50027,
     "title": "Atlanta Dream vs Valkyries",
     "image": "o",
@@ -899,8 +850,8 @@
       "eventName": "South Africa vs Australia",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/29 08:30:00 +0000",
-      "endTime": "2026/10/29 16:00:00 +0000"
+      "startTime": "2026/10/30 08:30:00 +0000",
+      "endTime": "2026/10/30 16:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -955,10 +906,48 @@
     ]
   },
   {
-    "id": 50070,
-    "title": "WBL",
+    "id": 50069,
+    "title": "Green Bay Packers",
     "image": "o",
-    "cat": "BBL",
+    "cat": "NFL",
+    "eventInfo": {
+      "teamA": "Packers",
+      "teamB": "Panthers",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4420/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4415/image",
+      "eventName": "Green Bay Packers vs Carolina Panthers",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/30 00:15:00 +0000",
+      "endTime": "2026/10/30 03:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "TSN SPORTS FHD",
+      "TSN5 SPORTS FHD",
+      "NFL LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "TSN SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "TSN5 SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "NFL LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50070,
+    "title": "WBBL",
+    "image": "o",
+    "cat": "WBBL",
     "eventInfo": {
       "teamA": "WBBL",
       "teamB": "WBBL",
@@ -967,8 +956,8 @@
       "eventName": "Womens Big Bash League",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/29 04:45:00 +0000",
-      "endTime": "2026/10/29 11:30:00 +0000"
+      "startTime": "2026/10/30 08:10:00 +0000",
+      "endTime": "2026/10/30 11:55:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1526,11 +1515,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "FOX DEPORTES"
+      "FOX DEPORTES",
+      "SportDigital Fussball"
     ],
     "formatsNew": [
       {
         "title": "FOX DEPORTES",
+        "logo": ""
+      },
+      {
+        "title": "SportDigital Fussball",
         "logo": ""
       }
     ]
@@ -1582,11 +1576,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "HD SERVER ",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "HD SERVER ",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
