@@ -12,9 +12,9 @@
       "eventName": "Formula 1 -  Mexico Grand Prix",
       "eventType": "null",
       "eventBanner": "null",
-      "isHot": "0",
-      "startTime": "2026/10/30 18:30:00 +0000",
-      "endTime": "2026/10/30 23:30:00 +0000"
+      "isHot": "1",
+      "startTime": "2026/10/30 21:30:00 +0000",
+      "endTime": "2026/10/30 22:45:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -22,12 +22,11 @@
       "TSN SPORTS FHD",
       "FANCODE - FHD",
       "SporTV BR FHD",
+      "CANAL5 FHD",
       "Sky Sports F1 HD",
-      "SKY SPORTS HD",
       "RUSSIA FEED",
       "Sportscast FHD",
-      "SKY SPORTS HD",
-      "SD SERVER",
+      "LOW SERVER",
       "SKY F1 Italia [IT]",
       "DAZN ESPANOL [FHD]",
       "SKY SPORTS [FHD]",
@@ -38,23 +37,23 @@
     "formatsNew": [
       {
         "title": "TSN SPORTS FHD",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+        "logo": ""
       },
       {
         "title": "FANCODE - FHD",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+        "logo": ""
       },
       {
         "title": "SporTV BR FHD",
-        "logo": "https://iili.io/CFFRvqJ.png"
+        "logo": ""
+      },
+      {
+        "title": "CANAL5 FHD",
+        "logo": ""
       },
       {
         "title": "Sky Sports F1 HD",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
-      },
-      {
-        "title": "SKY SPORTS HD",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
+        "logo": ""
       },
       {
         "title": "RUSSIA FEED",
@@ -65,11 +64,7 @@
         "logo": ""
       },
       {
-        "title": "SKY SPORTS HD",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
-      },
-      {
-        "title": "SD SERVER",
+        "title": "LOW SERVER",
         "logo": ""
       },
       {
@@ -82,7 +77,7 @@
       },
       {
         "title": "SKY SPORTS [FHD]",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
+        "logo": ""
       },
       {
         "title": "APPLE TV [FHD]",
@@ -111,8 +106,8 @@
       "eventName": "MotoGP - Grand Prix of Malaysia",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/30 02:45:00 +0000",
-      "endTime": "2026/10/30 08:15:00 +0000"
+      "startTime": "2026/10/31 02:10:00 +0000",
+      "endTime": "2026/10/31 08:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -801,12 +796,12 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live",
+      "TSN SPORTS FHD",
       "NBA LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "TSN SPORTS FHD",
         "logo": ""
       },
       {
@@ -817,19 +812,19 @@
   },
   {
     "id": 50048,
-    "title": "Trail Blazers vs Grizzlies",
+    "title": "Brooklyn Nets vs Detroit Pistons",
     "image": "o",
     "cat": "NBA",
     "eventInfo": {
-      "teamA": "Trail Blazers",
-      "teamB": "Grizzlies",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3414/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3415/image",
-      "eventName": "Portland Trail Blazers vs Memphis Grizzlies",
+      "teamA": "Nets",
+      "teamB": "Pistons",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3436/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3424/image",
+      "eventName": "Brooklyn Nets vs Detroit Pistons",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/30 02:00:00 +0000",
-      "endTime": "2026/10/30 05:00:00 +0000"
+      "startTime": "2026/10/30 23:30:00 +0000",
+      "endTime": "2026/10/31 02:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1194,34 +1189,6 @@
     ]
   },
   {
-    "id": 50072,
-    "title": "[NBA 12]",
-    "image": "o",
-    "cat": "NHL",
-    "eventInfo": {
-      "teamA": "Sharks",
-      "teamB": "Canucks",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3696/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3692/image",
-      "eventName": "San Jose Sharks vs Vancouver Canucks",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/30 02:00:00 +0000",
-      "endTime": "2026/10/30 05:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "NHL LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "NHL LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50075,
     "title": "Golden Knights vs Devils",
     "image": "o",
@@ -1240,9 +1207,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PREMIER SPORTS",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "PREMIER SPORTS",
+        "logo": ""
+      },
       {
         "title": "NHL LIVE [FHD]",
         "logo": ""
@@ -1268,9 +1240,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "TSN SPORTS FHD",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "TSN SPORTS FHD",
+        "logo": ""
+      },
       {
         "title": "NHL LIVE [FHD]",
         "logo": ""
@@ -1296,9 +1273,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PREMIER SPORTS",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "PREMIER SPORTS",
+        "logo": ""
+      },
       {
         "title": "NHL LIVE [FHD]",
         "logo": ""
@@ -1423,6 +1405,39 @@
     ]
   },
   {
+    "id": 50086,
+    "title": "Corinthians vs Mirassol",
+    "image": "o",
+    "cat": "Brasileirão",
+    "eventInfo": {
+      "teamA": "Corinthians",
+      "teamB": "Mirassol",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1957/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/21982/image",
+      "eventName": "Corinthians vs Mirassol",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/30 23:00:00 +0000",
+      "endTime": "2026/10/31 01:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "PREMIERER BR",
+      "SporTV BR FHD"
+    ],
+    "formatsNew": [
+      {
+        "title": "PREMIERER BR",
+        "logo": ""
+      },
+      {
+        "title": "SporTV BR FHD",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50089,
     "title": "Inter Miami",
     "image": "o",
@@ -1435,31 +1450,27 @@
       "eventName": "Hong Kong Sixes",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/30 00:45:00 +0000",
-      "endTime": "2026/10/30 09:45:00 +0000"
+      "startTime": "2026/10/31 00:45:00 +0000",
+      "endTime": "2026/10/31 09:45:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "WILLOW - FHD",
       "WILLOW - ALT",
       "Cricbuzz FHD",
       "TAPMAD - FHD",
       "A SPORTS HD",
-      "TAPMAD HD"
+      "TAPMAD HD",
+      "WILLOW - FHD"
     ],
     "formatsNew": [
       {
-        "title": "WILLOW - FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
         "title": "WILLOW - ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+        "logo": ""
       },
       {
         "title": "Cricbuzz FHD",
-        "logo": "https://play-lh.googleusercontent.com/Q3mUXMkM63Z-Dh5YCasJtTEkU6r7kLyn8m6b3-2-MwdK6jlZnxTRXrRstdMAahKLrg"
+        "logo": ""
       },
       {
         "title": "TAPMAD - FHD",
@@ -1471,6 +1482,10 @@
       },
       {
         "title": "TAPMAD HD",
+        "logo": ""
+      },
+      {
+        "title": "WILLOW - FHD",
         "logo": ""
       }
     ]
@@ -1636,8 +1651,8 @@
       "eventName": "Bangladesh vs West Indies",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/30 03:30:00 +0000",
-      "endTime": "2026/10/30 11:30:00 +0000"
+      "startTime": "2026/10/31 03:30:00 +0000",
+      "endTime": "2026/10/31 11:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -2206,12 +2221,22 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "CAZE TV FHD"
+      "beIN SPORTS FHD",
+      "CAZE TV FHD",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "beIN SPORTS FHD",
+        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
+      },
+      {
         "title": "CAZE TV FHD",
         "logo": "https://duckduckgo.com/i/dab0d6887915781c.png"
+      },
+      {
+        "title": "LOW SERVER",
+        "logo": ""
       }
     ]
   },
@@ -2234,12 +2259,37 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "CAZE TV FHD"
+      "beIN SPORTS FHD",
+      "CAZE TV FHD",
+      "DUDE Tv Live",
+      "HD SERVER",
+      "FAST SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "beIN SPORTS FHD",
+        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
+      },
+      {
         "title": "CAZE TV FHD",
         "logo": "https://duckduckgo.com/i/dab0d6887915781c.png"
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "FAST SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
+        "logo": ""
       }
     ]
   },
@@ -2262,11 +2312,31 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "beIN SPORTS FHD",
+      "DUDE Tv Live",
+      "HD SERVER",
+      "FAST SERVER",
+      "LOW SERVER "
     ],
     "formatsNew": [
       {
+        "title": "beIN SPORTS FHD",
+        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "FAST SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER ",
         "logo": ""
       }
     ]
@@ -2292,7 +2362,8 @@
     "formats": [
       "beIN ENGLISH FHD",
       "D Sports FHD",
-      "FANCODE FHD"
+      "FANCODE FHD",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
@@ -2305,6 +2376,10 @@
       },
       {
         "title": "FANCODE FHD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -2328,11 +2403,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SporTV BR FHD"
+      "DAZN SPORTS FHD",
+      "SporTV BR FHD",
+      "HD SERVER ",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "DAZN SPORTS FHD",
+        "logo": ""
+      },
+      {
         "title": "SporTV BR FHD",
+        "logo": "https://iili.io/CFFRvqJ.png"
+      },
+      {
+        "title": "HD SERVER ",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -2384,10 +2474,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PARAMOUNT+ FHD",
+      "DAZN SPORTS FHD",
       "beIN ENGLISH FHD",
-      "CBS NETWORK"
+      "CBS NETWORK",
+      "LOW SERVER"
     ],
     "formatsNew": [
+      {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "DAZN SPORTS FHD",
+        "logo": ""
+      },
       {
         "title": "beIN ENGLISH FHD",
         "logo": ""
@@ -2395,226 +2496,9 @@
       {
         "title": "CBS NETWORK",
         "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50119,
-    "title": "Al-Shabab vs Al-Ahli",
-    "image": "o",
-    "cat": "Pro League 🇸🇦",
-    "eventInfo": {
-      "teamA": "Al-Shabab",
-      "teamB": "Al-Ahli",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/34313/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/34469/image",
-      "eventName": "Al-Shabab vs Al-Ahli",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/30 18:00:00 +0000",
-      "endTime": "2026/10/30 20:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50120,
-    "title": "Konyaspor vs Galatasaray",
-    "image": "o",
-    "cat": "Super Lig",
-    "eventInfo": {
-      "teamA": "Konyaspor",
-      "teamB": "Galatasaray",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3085/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3061/image",
-      "eventName": "Konyaspor vs Galatasaray",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/30 17:00:00 +0000",
-      "endTime": "2026/10/30 19:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "HD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50121,
-    "title": "Energie Cottbus vs Bochum",
-    "image": "o",
-    "cat": "2. Bundesliga",
-    "eventInfo": {
-      "teamA": "Cottbus",
-      "teamB": "Bochum",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2532/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2542/image",
-      "eventName": "Energie Cottbus vs Bochum",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/30 17:30:00 +0000",
-      "endTime": "2026/10/30 19:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "beIN ENGLISH FHD"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN ENGLISH FHD",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50122,
-    "title": "Arminia Bielefeld vs Braunschweig",
-    "image": "o",
-    "cat": "2. Bundesliga",
-    "eventInfo": {
-      "teamA": "Bielefeld",
-      "teamB": "Braunschweig",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2540/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2557/image",
-      "eventName": "Arminia Bielefeld vs Eintracht Braunschweig",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/30 17:30:00 +0000",
-      "endTime": "2026/10/30 19:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "beIN ENGLISH FHD"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN ENGLISH FHD",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50123,
-    "title": "Diriyah vs Neom",
-    "image": "o",
-    "cat": "Pro League 🇸🇦",
-    "eventInfo": {
-      "teamA": "Diriyah",
-      "teamB": "Neom",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/853574/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/530631/image",
-      "eventName": "Diriyah vs Neom SC",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/30 14:50:00 +0000",
-      "endTime": "2026/10/30 16:50:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "HD SERVER",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
       },
       {
         "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50124,
-    "title": "Abha vs Al-Ittihad",
-    "image": "o",
-    "cat": "Pro League 🇸🇦",
-    "eventInfo": {
-      "teamA": "Abha",
-      "teamB": "Al-Ittihad",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/168090/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/34315/image",
-      "eventName": "Abha vs Al-Ittihad",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/30 12:30:00 +0000",
-      "endTime": "2026/10/30 14:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "FOX DEPORTES",
-      "SporTV BR FHD"
-    ],
-    "formatsNew": [
-      {
-        "title": "FOX DEPORTES",
-        "logo": ""
-      },
-      {
-        "title": "SporTV BR FHD",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50125,
-    "title": "NorthEast United vs Bengaluru",
-    "image": "o",
-    "cat": "ISL",
-    "eventInfo": {
-      "teamA": "NorthEast Utd",
-      "teamB": "Bengaluru",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/174602/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/118670/image",
-      "eventName": "NorthEast United vs Bengaluru",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/30 14:00:00 +0000",
-      "endTime": "2026/10/30 16:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "PRIME VIDEO FHD",
-      "SonyLiv (ENG)",
-      "SonyLiv (HIN)"
-    ],
-    "formatsNew": [
-      {
-        "title": "PRIME VIDEO FHD",
-        "logo": ""
-      },
-      {
-        "title": "SonyLiv (ENG)",
-        "logo": ""
-      },
-      {
-        "title": "SonyLiv (HIN)",
         "logo": ""
       }
     ]
