@@ -12,9 +12,9 @@
       "eventName": "Formula 1 -  Mexico Grand Prix",
       "eventType": "null",
       "eventBanner": "https://wsrv.nl/?url=https://tikolu.net/i/vreyp",
-      "isHot": "1",
+      "isHot": "0",
       "startTime": "2026/11/01 20:00:00 +0000",
-      "endTime": "2026/11/01 21:45:00 +0000"
+      "endTime": "2026/11/01 23:15:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1137,18 +1137,21 @@
       {
         "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
         "title": "TSN SPORTS FHD",
         "type": "1"
       },
       {
         "api": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
         "title": "TSN4 SPORTS FHD",
         "type": "1"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/nfl/2026-09-21/nyg-lar",
+        "link": "https://embedindia.st/embed/nfl/2026-11-01/phi-wsh",
+        "logo": "",
         "title": "NFL LIVE [FHD]",
         "type": "2"
       },
@@ -1189,7 +1192,7 @@
       "eventName": "NFL REDZONE",
       "eventType": "null",
       "eventBanner": "https://wsrv.nl/?url=https://tikolu.net/i/pmead",
-      "isHot": "1",
+      "isHot": "0",
       "startTime": "2026/11/01 17:55:00 +0000",
       "endTime": "2026/11/02 00:00:00 +0000"
     },
@@ -1329,20 +1332,93 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "NFL LIVE [FHD]"
+      "TSN SPORTS FHD",
+      "TSN4 SPORTS FHD",
+      "SporTV BR FHD",
+      "DUDE Tv NFL HD",
+      "DUDE Tv Live",
+      "NFL LIVE [FHD]",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "TSN SPORTS FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+      },
+      {
+        "title": "TSN4 SPORTS FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+      },
+      {
+        "title": "SporTV BR FHD",
+        "logo": "https://iili.io/CFFRvqJ.png"
+      },
+      {
+        "title": "DUDE Tv NFL HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
         "title": "NFL LIVE [FHD]",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
+        "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+        "title": "TSN SPORTS FHD",
+        "type": "1"
+      },
+      {
+        "api": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+        "title": "TSN4 SPORTS FHD",
+        "type": "1"
+      },
+      {
+        "api": "9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://iili.io/CFFRvqJ.png",
+        "title": "SporTV BR FHD",
+        "type": "1"
+      },
+      {
         "api": "",
-        "link": "https://taifood-blog.asia/embed/nfl/2026-10-25/pit-no",
+        "link": "https://chatgpt.hereisman.net/playlist/59078/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "DUDE Tv NFL HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/59079/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://taifood-blog.asia/embed/nfl/2026-11-01/ne-mia",
+        "logo": "",
         "title": "NFL LIVE [FHD]",
         "type": "2"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.44/hls/676767A.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+        "logo": "",
+        "title": "LOW SERVER",
+        "type": "0"
       }
     ],
     "channel_status": "live"
@@ -1445,7 +1521,7 @@
         "type": "2"
       }
     ],
-    "channel_status": "live"
+    "channel_status": "cached"
   },
   {
     "id": 50048,
@@ -1522,7 +1598,7 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://taifood-blog.asia/embed/nba/2026-10-31/sac-mem",
+        "link": "https://taifood-blog.asia/embed/nba/2026-11-01/tor-lal",
         "logo": "",
         "title": "NBA LIVE [FHD]",
         "type": "2"
@@ -1623,15 +1699,58 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv NFL HD",
+      "DUDE Tv Live",
+      "LOW SERVER",
       "NFL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv NFL HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
+        "logo": ""
+      },
       {
         "title": "NFL LIVE [FHD]",
         "logo": ""
       }
     ],
     "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/59074/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "DUDE Tv NFL HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/59075/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.50/hls/G999A.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+        "logo": "",
+        "title": "LOW SERVER",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://taifood-blog.asia/embed/nfl/2026-11-01/kc-den",
+        "logo": "",
+        "title": "NFL LIVE [FHD]",
+        "type": "2"
+      },
       {
         "api": "",
         "link": "https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8",
@@ -2009,15 +2128,58 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv NFL HD",
+      "DUDE Tv Live",
+      "LOW SERVER",
       "NFL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv NFL HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
+        "logo": ""
+      },
       {
         "title": "NFL LIVE [FHD]",
         "logo": ""
       }
     ],
     "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/59077/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "DUDE Tv NFL HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/59084/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.50/hls/676767.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+        "logo": "",
+        "title": "LOW SERVER",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://taifood-blog.asia/embed/nfl/2026-11-01/lac-lar",
+        "logo": "",
+        "title": "NFL LIVE [FHD]",
+        "type": "2"
+      },
       {
         "api": "ZjY1NjRlYzJhZWU4MTkwNDYzMjhhMGUxNTNiZTU3NGQ6ZmY0NmE4YTEwMzFlSDI3ZWYy2jU3NmEwNzdjOThhYjc=",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
@@ -2759,9 +2921,19 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv Live",
+      "NHL LIVE HD",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NHL LIVE HD",
+        "logo": ""
+      },
       {
         "title": "NHL LIVE [FHD]",
         "logo": ""
@@ -2770,20 +2942,27 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/58949/load-playlist?|Referer=https://gooz.aapmains.net",
+        "link": "https://chatgpt.hereisman.net/playlist/59082/load-playlist-multi?|Referer=https://gooz.aapmains.net",
         "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://taifood-blog.asia/embed/nhl/2026-10-31/tb-nsh",
+        "link": "https://chatgpt.hereisman.net/playlist/59081/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "NHL LIVE HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://taifood-blog.asia/embed/nhl/2026-11-01/uta-phi",
         "logo": "",
         "title": "NHL LIVE [FHD]",
         "type": "2"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50078,
@@ -2815,20 +2994,13 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/58946/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://taifood-blog.asia/embed/nhl/2026-10-31/edm-nyi",
+        "link": "https://taifood-blog.asia/embed/nhl/2026-11-01/edm-nyr",
         "logo": "",
         "title": "NHL LIVE [FHD]",
         "type": "2"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50079,
@@ -2849,9 +3021,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PREMIER SPORTS",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "PREMIER SPORTS",
+        "logo": ""
+      },
       {
         "title": "NHL LIVE [FHD]",
         "logo": ""
@@ -2859,21 +3036,19 @@
     ],
     "decoded_channels": [
       {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/58977/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
+        "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "title": "PREMIER SPORTS",
+        "type": "1"
       },
       {
         "api": "",
-        "link": "https://taifood-blog.asia/embed/nhl/2026-10-31/buf-la",
-        "logo": "",
+        "link": "https://taifood-blog.asia/embed/nhl/2026-11-01/ott-ana",
         "title": "NHL LIVE [FHD]",
         "type": "2"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50084,
@@ -2917,60 +3092,60 @@
     "id": 50089,
     "title": "Inter Miami",
     "image": "o",
-    "cat": "Cricket",
+    "cat": "MLS 🇺🇸",
     "eventInfo": {
-      "teamA": "Hong Kong Sixes",
-      "teamB": "Hong Kong Sixes",
-      "teamAFlag": "https://pbs.twimg.com/profile_images/1830519330712268800/uQA-4hNg.jpg",
-      "teamBFlag": "https://pbs.twimg.com/profile_images/1830519330712268800/uQA-4hNg.jpg",
-      "eventName": "Hong Kong Sixes",
+      "teamA": "New England",
+      "teamB": "Inter Miami",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2511/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/337602/image",
+      "eventName": "New England Revolution vs Inter Miami CF",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/11/01 03:30:00 +0000",
-      "endTime": "2026/11/01 08:00:00 +0000"
+      "startTime": "2026/11/02 00:00:00 +0000",
+      "endTime": "2026/11/02 02:15:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "WILLOW - ALT",
-      "A SPORTS HD",
-      "TAPMAD FHD"
+      "HD SERVER 1",
+      "HD SERVER 2",
+      "MLS LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "WILLOW - ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "A SPORTS HD",
+        "title": "HD SERVER 1",
         "logo": ""
       },
       {
-        "title": "TAPMAD FHD",
+        "title": "HD SERVER 2",
+        "logo": ""
+      },
+      {
+        "title": "MLS LIVE [FHD]",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
-        "api": "47882cfe843d91ab3032dfff9fa1b468:e249d2d8555ba8cc75431a25749e8822",
-        "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dsqjzanbb8/out/v1/dd0f18dcbbfe4f329dee9a0295412322/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW - ALT",
-        "type": "1"
-      },
-      {
         "api": "",
-        "link": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8?e=1784102512&token=968935df4fd0678de5d7fe392c0610d9&u=ee5437a7-c16b-4700-b317-a41b77d5cba9",
+        "link": "https://live2.jorvakstreamcache.com/live/channel11.m3u8?|Referer=https://xlz.domainkqt.cc/",
         "logo": "",
-        "title": "A SPORTS HD",
+        "title": "HD SERVER 1",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8|referer=https://tapmad.com/",
+        "link": "https://live2.jorvakstreamcache.com/live/channel21.m3u8?|Referer=https://xlz.domainkqt.cc/",
         "logo": "",
-        "title": "TAPMAD FHD",
+        "title": "HD SERVER 2",
         "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://taifood-blog.asia/embed/mls/2026-11-01/ne-mia",
+        "logo": "",
+        "title": "MLS LIVE [FHD]",
+        "type": "2"
       }
     ],
     "channel_status": "live"
@@ -3276,7 +3451,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2714/image",
       "eventName": "Juventus vs SSC Napoli",
       "eventType": "null",
-      "isHot": "1",
+      "isHot": "0",
       "startTime": "2026/11/01 19:45:00 +0000",
       "endTime": "2026/11/01 21:50:00 +0000"
     },
