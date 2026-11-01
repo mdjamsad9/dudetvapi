@@ -398,61 +398,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DAZN F1 ES",
-      "DAZN Ringside",
-      "DAZN 1 ES",
-      "DAZN 2 ES ",
-      "DAZN 3 ES",
-      "DAZN 4 ES",
-      "Dazn 1 DE",
-      "DAZN 2 DE",
-      "DAZN Rise",
-      "Dazn 1 ",
-      "Dazn 2"
+      "DAZN Ringside"
     ],
     "formatsNew": [
       {
-        "title": "DAZN F1 ES",
-        "logo": ""
-      },
-      {
         "title": "DAZN Ringside",
-        "logo": ""
-      },
-      {
-        "title": "DAZN 1 ES",
-        "logo": ""
-      },
-      {
-        "title": "DAZN 2 ES ",
-        "logo": ""
-      },
-      {
-        "title": "DAZN 3 ES",
-        "logo": ""
-      },
-      {
-        "title": "DAZN 4 ES",
-        "logo": ""
-      },
-      {
-        "title": "Dazn 1 DE",
-        "logo": ""
-      },
-      {
-        "title": "DAZN 2 DE",
-        "logo": ""
-      },
-      {
-        "title": "DAZN Rise",
-        "logo": ""
-      },
-      {
-        "title": "Dazn 1 ",
-        "logo": ""
-      },
-      {
-        "title": "Dazn 2",
         "logo": ""
       }
     ]
@@ -1172,19 +1122,7 @@
     "publish": "1",
     "formats": [
       "Nova Sports 1 Greece",
-      "Nova Sports 1 Greece",
-      "Nova Sports 2",
-      "Nova Sports 2 Greece",
-      "Nova Sports 3 Greece",
-      "Nova Sports 4 Greece",
-      "Nova Sports 5 Greece",
-      "Nova Sports 6 Greece",
-      "Nova Sport Bulgaria",
-      "Nova Sport Serbia",
-      "Premier League Greece",
-      "Nova Sports Start Greece",
-      "Nova Sports Prime Greece",
-      "Nova Sports News Greece"
+      "Nova Sports 2"
     ],
     "formatsNew": [
       {
@@ -1192,55 +1130,7 @@
         "logo": ""
       },
       {
-        "title": "Nova Sports 1 Greece",
-        "logo": ""
-      },
-      {
         "title": "Nova Sports 2",
-        "logo": ""
-      },
-      {
-        "title": "Nova Sports 2 Greece",
-        "logo": ""
-      },
-      {
-        "title": "Nova Sports 3 Greece",
-        "logo": ""
-      },
-      {
-        "title": "Nova Sports 4 Greece",
-        "logo": ""
-      },
-      {
-        "title": "Nova Sports 5 Greece",
-        "logo": ""
-      },
-      {
-        "title": "Nova Sports 6 Greece",
-        "logo": ""
-      },
-      {
-        "title": "Nova Sport Bulgaria",
-        "logo": ""
-      },
-      {
-        "title": "Nova Sport Serbia",
-        "logo": ""
-      },
-      {
-        "title": "Premier League Greece",
-        "logo": ""
-      },
-      {
-        "title": "Nova Sports Start Greece",
-        "logo": ""
-      },
-      {
-        "title": "Nova Sports Prime Greece",
-        "logo": ""
-      },
-      {
-        "title": "Nova Sports News Greece",
         "logo": ""
       }
     ]
@@ -1564,6 +1454,7 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "WWE Live",
       "WWE SMACKDOWN",
       "WWE NETWORK 1",
       "Server 3",
@@ -1572,6 +1463,10 @@
       "Royal Rumble 2026 - Main Card"
     ],
     "formatsNew": [
+      {
+        "title": "WWE Live",
+        "logo": ""
+      },
       {
         "title": "WWE SMACKDOWN",
         "logo": ""
@@ -2479,6 +2374,23 @@
     ]
   },
   {
+    "id": "121",
+    "title": "Sky Cricket",
+    "image": "https://yt3.googleusercontent.com/NXcpeeoQF3y-XNYxw42xqikS7FJVC_fcP8FWHUBoL-PWhd6FCG9Jox60lPjZTTvpTzZxio76Og=s900-c-k-c0x00ffffff-no-rj",
+    "cat": "Sports",
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "Sky Cricket HD"
+    ],
+    "formatsNew": [
+      {
+        "title": "Sky Cricket HD",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": "131",
     "title": "Inter TV",
     "image": "https://lh3.googleusercontent.com/xV26mDEAd7Qtg89t1v6NFBqZrptLwz5KbVPDkZx3ecoHkX3mkjNdQLuJ9UHQLBVgwqJNOS6CS_E2=w1440-ns-nd-rj",
@@ -2496,6 +2408,23 @@
     ]
   },
   {
+    "id": "141",
+    "title": "DD Sports",
+    "image": "https://yt3.googleusercontent.com/aNhhaO0tmH7mc-6BBDPe7AyiREHEVBEeEPigNxENCZsEnIGAPpNEoPm_zFhyHJZ3Y8KJn27dDE0=s900-c-k-c0x00ffffff-no-rj",
+    "cat": "Sports",
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "Server 1"
+    ],
+    "formatsNew": [
+      {
+        "title": "Server 1",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": "188",
     "title": "SportV",
     "image": "https://auvaromaia.com/wp-content/uploads/2020/04/Sportv-900x333.png",
@@ -2503,16 +2432,25 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "MotoGP",
       "Server 1",
+      "SPOTV 2 FHD",
       "SportTV 2",
       "SporTV 3",
-      "MotoGP",
       "SportV",
       "SportV SD"
     ],
     "formatsNew": [
       {
+        "title": "MotoGP",
+        "logo": ""
+      },
+      {
         "title": "Server 1",
+        "logo": ""
+      },
+      {
+        "title": "SPOTV 2 FHD",
         "logo": ""
       },
       {
@@ -2521,10 +2459,6 @@
       },
       {
         "title": "SporTV 3",
-        "logo": ""
-      },
-      {
-        "title": "MotoGP",
         "logo": ""
       },
       {
@@ -2649,16 +2583,25 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "Tennis Plus",
+      "Tennis Channel - Deportivos",
       "TENNIS",
       "Server 1",
       "Server 2",
       "SonyLIV ",
       "SonyLIV Hindi",
-      "Tennis Plus",
       "Premier Tennis ",
       "Tennis Channel 2"
     ],
     "formatsNew": [
+      {
+        "title": "Tennis Plus",
+        "logo": ""
+      },
+      {
+        "title": "Tennis Channel - Deportivos",
+        "logo": ""
+      },
       {
         "title": "TENNIS",
         "logo": ""
@@ -2680,10 +2623,6 @@
         "logo": ""
       },
       {
-        "title": "Tennis Plus",
-        "logo": ""
-      },
-      {
         "title": "Premier Tennis ",
         "logo": ""
       },
@@ -2702,10 +2641,10 @@
     "publish": "1",
     "formats": [
       "NBC SPORTS FHD",
-      "NBC UNIVERSEO",
-      "Server 1",
-      "NBC EPL",
-      "NBC EPL 2",
+      "NBC UNIVERSEO (USA)",
+      "NBC News Now",
+      "NBC EPL (USA)",
+      "NBC EPL 2 (USA)",
       "NBC Sports"
     ],
     "formatsNew": [
@@ -2714,19 +2653,19 @@
         "logo": ""
       },
       {
-        "title": "NBC UNIVERSEO",
+        "title": "NBC UNIVERSEO (USA)",
         "logo": ""
       },
       {
-        "title": "Server 1",
+        "title": "NBC News Now",
         "logo": ""
       },
       {
-        "title": "NBC EPL",
+        "title": "NBC EPL (USA)",
         "logo": ""
       },
       {
-        "title": "NBC EPL 2",
+        "title": "NBC EPL 2 (USA)",
         "logo": ""
       },
       {
