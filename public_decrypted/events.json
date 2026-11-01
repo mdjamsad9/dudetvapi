@@ -334,6 +334,7 @@
       "FANCODE - FHD",
       "WILLOW - ALT",
       "TAPMAD - FHD",
+      "WILLOW HD",
       "FANCODE - IN "
     ],
     "formatsNew": [
@@ -354,6 +355,10 @@
         "logo": ""
       },
       {
+        "title": "WILLOW HD",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
         "title": "FANCODE - IN ",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       }
@@ -372,7 +377,7 @@
       "eventName": "New Zealand vs India",
       "eventType": "null",
       "eventBanner": "null",
-      "isHot": "1",
+      "isHot": "0",
       "startTime": "2026/11/01 07:00:00 +0000",
       "endTime": "2026/11/01 10:45:00 +0000"
     },
@@ -796,22 +801,22 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "HD SERVER",
-      " DUDE Tv Live",
+      "DUDE Tv Live",
       "STAR SPORTS HD",
+      "HIMALAYA HD",
       "FANCODE - IN"
     ],
     "formatsNew": [
       {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": " DUDE Tv Live",
+        "title": "DUDE Tv Live",
         "logo": ""
       },
       {
         "title": "STAR SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "HIMALAYA HD",
         "logo": ""
       },
       {
@@ -946,8 +951,8 @@
       "eventName": "Womens Big Bash League",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/11/01 04:40:00 +0000",
-      "endTime": "2026/11/01 12:00:00 +0000"
+      "startTime": "2026/11/02 08:10:00 +0000",
+      "endTime": "2026/11/02 11:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1395,7 +1400,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2829/image",
       "eventName": "Real Racing Club vs Real Madrid",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/11/01 15:15:00 +0000",
       "endTime": "2026/11/01 17:15:00 +0000"
     },
@@ -1405,21 +1410,30 @@
       "TSN SPORTS FHD",
       "PREMIER SPORTS",
       "beIN ENGLISH FHD",
+      "FANCODE FHD",
       "D Sports FHD",
-      "CAZE TV FHD"
+      "CAZE TV FHD",
+      "ESPN DEPORTES HD",
+      "DUDE Tv Live",
+      "HD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "TSN SPORTS FHD",
-        "logo": ""
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
       },
       {
         "title": "PREMIER SPORTS",
-        "logo": ""
+        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
       },
       {
         "title": "beIN ENGLISH FHD",
         "logo": ""
+      },
+      {
+        "title": "FANCODE FHD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       },
       {
         "title": "D Sports FHD",
@@ -1427,6 +1441,22 @@
       },
       {
         "title": "CAZE TV FHD",
+        "logo": "https://duckduckgo.com/i/dab0d6887915781c.png"
+      },
+      {
+        "title": "ESPN DEPORTES HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1451,15 +1481,25 @@
     "publish": "1",
     "formats": [
       "PREMIER SPORTS",
-      "CAZE TV FHD"
+      "FANCODE FHD",
+      "CAZE TV FHD",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "PREMIER SPORTS",
-        "logo": ""
+        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
+      },
+      {
+        "title": "FANCODE FHD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       },
       {
         "title": "CAZE TV FHD",
+        "logo": "https://duckduckgo.com/i/dab0d6887915781c.png"
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1516,16 +1556,36 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PARAMOUNT+ FHD",
+      "FUBO SPORTS FHD",
+      "PEACOCK TV FHD",
       "beIN ENGLISH FHD",
-      "SPORT 1 CZ FHD"
+      "SPORT 1 CZ FHD",
+      "LOW SERVER "
     ],
     "formatsNew": [
+      {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "FUBO SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "PEACOCK TV FHD",
+        "logo": ""
+      },
       {
         "title": "beIN ENGLISH FHD",
         "logo": ""
       },
       {
         "title": "SPORT 1 CZ FHD",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER ",
         "logo": ""
       }
     ]
@@ -1549,11 +1609,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "PARAMOUNT+ FHD",
+      "FUBO SPORTS FHD",
+      "LOW SERVER "
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "FUBO SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER ",
         "logo": ""
       }
     ]
@@ -1577,16 +1647,41 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PARAMOUNT+ FHD",
+      "FUBO SPORTS FHD",
       "beIN ENGLISH FHD",
-      "SPORT 1 CZ FHD"
+      "SPORT 1 CZ FHD",
+      "DUDE Tv Live",
+      "HD SERVER ",
+      "LOW SERVER "
     ],
     "formatsNew": [
+      {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "FUBO SPORTS FHD",
+        "logo": ""
+      },
       {
         "title": "beIN ENGLISH FHD",
         "logo": ""
       },
       {
         "title": "SPORT 1 CZ FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER ",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER ",
         "logo": ""
       }
     ]
@@ -1638,11 +1733,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DAZN SPORTS FHD",
+      "LOW SERVER "
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "DAZN SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER ",
         "logo": ""
       }
     ]
@@ -1722,11 +1822,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "CAZE TV FHD"
+      "beIN SPORTS FHD",
+      "LOW SERVER "
     ],
     "formatsNew": [
       {
-        "title": "CAZE TV FHD",
+        "title": "beIN SPORTS FHD",
+        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
+      },
+      {
+        "title": "LOW SERVER ",
         "logo": ""
       }
     ]
@@ -1890,11 +1995,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "LOW SERVER "
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER ",
         "logo": ""
       }
     ]
@@ -1918,39 +2028,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
         "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50113,
-    "title": "Zwolle vs ADO",
-    "image": "o",
-    "cat": "Eredivisie",
-    "eventInfo": {
-      "teamA": "PEC Zwolle",
-      "teamB": "ADO",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2971/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2966/image",
-      "eventName": "PEC Zwolle vs ADO Den Haag",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/01 11:15:00 +0000",
-      "endTime": "2026/11/01 13:15:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
+      },
       {
-        "title": "DUDE Tv Live",
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -2002,11 +2089,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "beIN SPORTS FHD",
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "beIN SPORTS FHD",
+        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -2030,11 +2127,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -2087,7 +2184,8 @@
     "publish": "1",
     "formats": [
       "beIN ENGLISH FHD",
-      "SportDigital Fussball"
+      "SportDigital Fussball",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
@@ -2097,89 +2195,9 @@
       {
         "title": "SportDigital Fussball",
         "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50119,
-    "title": "Greuther Fürth vs Holstein Kiel",
-    "image": "o",
-    "cat": "2. Bundesliga",
-    "eventInfo": {
-      "teamA": "Fürth",
-      "teamB": "Kiel",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2551/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2573/image",
-      "eventName": "Greuther Fürth vs Holstein Kiel",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/01 12:30:00 +0000",
-      "endTime": "2026/11/01 14:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
+      },
       {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50120,
-    "title": "Hannover vs Dynamo Dresden",
-    "image": "o",
-    "cat": "2. Bundesliga",
-    "eventInfo": {
-      "teamA": "Hannover",
-      "teamB": "Dresden",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2541/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2595/image",
-      "eventName": "Hannover vs Dynamo Dresden",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/01 12:30:00 +0000",
-      "endTime": "2026/11/01 14:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50121,
-    "title": "St. Pauli vs Nurnberg",
-    "image": "o",
-    "cat": "2. Bundesliga",
-    "eventInfo": {
-      "teamA": "St. Pauli",
-      "teamB": "Nürnberg",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2526/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2523/image",
-      "eventName": "St. Pauli vs Nürnberg",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/01 12:30:00 +0000",
-      "endTime": "2026/11/01 14:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -2259,11 +2277,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "Laliga Hypermotion ES",
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "Laliga Hypermotion ES",
+        "logo": ""
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -2287,11 +2315,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "Laliga Hypermotion ES",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "Laliga Hypermotion ES",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -2460,6 +2493,39 @@
     "formatsNew": [
       {
         "title": "NFL LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50132,
+    "title": "ISL",
+    "image": "o",
+    "cat": "ISL",
+    "eventInfo": {
+      "teamA": "ISL",
+      "teamB": "ISL",
+      "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/1900/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/1900/image",
+      "eventName": "Indian Super League",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/11/01 14:00:00 +0000",
+      "endTime": "2026/11/01 16:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "PRIME VIDEO FHD",
+      "SonyLiv (ENG)"
+    ],
+    "formatsNew": [
+      {
+        "title": "PRIME VIDEO FHD",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (ENG)",
         "logo": ""
       }
     ]
