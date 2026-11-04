@@ -707,6 +707,35 @@
     ]
   },
   {
+    "id": 50063,
+    "title": "[OLD] Zuffa Boxing 11",
+    "image": "o",
+    "cat": "Boxing",
+    "eventInfo": {
+      "teamA": "Colby Covington",
+      "teamB": "Raul Rosas Jr",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/467463/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/470046/image",
+      "eventName": "Covington and Rosas Jr",
+      "eventType": "null",
+      "eventBanner": "null",
+      "isHot": "0",
+      "startTime": "2026/11/03 18:30:00 +0000",
+      "endTime": "2026/11/03 20:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DAZN SPORTS FHD"
+    ],
+    "formatsNew": [
+      {
+        "title": "DAZN SPORTS FHD",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50064,
     "title": "[OLD] NPL",
     "image": "o",
@@ -1078,6 +1107,62 @@
     ]
   },
   {
+    "id": 50086,
+    "title": "Internacional vs Coritiba",
+    "image": "o",
+    "cat": "Brasileirão",
+    "eventInfo": {
+      "teamA": "Internacional",
+      "teamB": "Coritiba",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1966/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1982/image",
+      "eventName": "Internacional vs Coritiba",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/11/04 00:30:00 +0000",
+      "endTime": "2026/11/04 02:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "PREMIERER BR"
+    ],
+    "formatsNew": [
+      {
+        "title": "PREMIERER BR",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50087,
+    "title": "Chapecoense vs Mirassol",
+    "image": "o",
+    "cat": "Brasileirão",
+    "eventInfo": {
+      "teamA": "Chapecoense",
+      "teamB": "Mirassol",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/21845/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/21982/image",
+      "eventName": "Chapecoense vs Mirassol",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/11/03 22:30:00 +0000",
+      "endTime": "2026/11/04 00:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "PREMIERER BR"
+    ],
+    "formatsNew": [
+      {
+        "title": "PREMIERER BR",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50089,
     "title": "Inter Miami",
     "image": "o",
@@ -1117,18 +1202,53 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2672/image",
       "eventName": "Atletico Madrid vs Bayern Munchen",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/11/03 20:00:00 +0000",
       "endTime": "2026/11/03 22:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TNT SPORTS FHD"
+      "PARAMOUNT+ FHD",
+      "TNT SPORTS FHD",
+      "PRIME VIDEO FHD",
+      "PARAMOUNT+ HD",
+      "TNT SPORTS HD",
+      "beIN ARABIC FHD",
+      "SonyLiv (Asia)",
+      "Low Server"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
         "title": "TNT SPORTS FHD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+      },
+      {
+        "title": "PRIME VIDEO FHD",
+        "logo": ""
+      },
+      {
+        "title": "PARAMOUNT+ HD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "TNT SPORTS HD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+      },
+      {
+        "title": "beIN ARABIC FHD",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (Asia)",
+        "logo": ""
+      },
+      {
+        "title": "Low Server",
         "logo": ""
       }
     ]
@@ -1146,18 +1266,63 @@
       "eventName": "FC Barcelona vs Aston Villa",
       "eventType": "null",
       "eventBanner": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/11/03 20:00:00 +0000",
       "endTime": "2026/11/03 22:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TNT SPORTS FHD"
+      "PARAMOUNT+ FHD",
+      "TNT SPORTS FHD",
+      "PRIME VIDEO FHD",
+      "DAZN SPORTS DE",
+      "HBO MAX BRAZIL",
+      "PARAMOUNT+ HD",
+      "TNT SPORTS HD",
+      "beIN ARABIC FHD",
+      "SonyLiv (Asia)",
+      "Low Server"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
         "title": "TNT SPORTS FHD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+      },
+      {
+        "title": "PRIME VIDEO FHD",
+        "logo": ""
+      },
+      {
+        "title": "DAZN SPORTS DE",
+        "logo": ""
+      },
+      {
+        "title": "HBO MAX BRAZIL",
+        "logo": ""
+      },
+      {
+        "title": "PARAMOUNT+ HD",
+        "logo": ""
+      },
+      {
+        "title": "TNT SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "beIN ARABIC FHD",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (Asia)",
+        "logo": ""
+      },
+      {
+        "title": "Low Server",
         "logo": ""
       }
     ]
@@ -1174,18 +1339,48 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/1644/image",
       "eventName": "Villarreal vs Paris Saint-Germain",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/11/03 20:00:00 +0000",
       "endTime": "2026/11/03 22:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TNT SPORTS FHD"
+      "PARAMOUNT+ FHD",
+      "TNT SPORTS FHD",
+      "PRIME VIDEO FHD",
+      "DAZN SPORTS DE",
+      "TNT SPORTS HD",
+      "SonyLiv (Asia)",
+      "Low Server"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
         "title": "TNT SPORTS FHD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+      },
+      {
+        "title": "PRIME VIDEO FHD",
+        "logo": ""
+      },
+      {
+        "title": "DAZN SPORTS DE",
+        "logo": ""
+      },
+      {
+        "title": "TNT SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (Asia)",
+        "logo": ""
+      },
+      {
+        "title": "Low Server",
         "logo": ""
       }
     ]
@@ -1202,18 +1397,63 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2702/image",
       "eventName": "Manchester United vs AS Roma",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/11/03 20:00:00 +0000",
       "endTime": "2026/11/03 22:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "PARAMOUNT+ FHD",
+      "PRIME VIDEO FHD",
+      "DAZN SPORTS DE",
+      "ViX ESPANOL FHD",
+      "DAZN SPORTS HD",
+      "beIN ARABIC FHD",
+      "SonyLiv (ENG)",
+      "SonyLiv (HIN)",
+      "SonyLiv (TAM)",
+      "Low Server"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "PRIME VIDEO FHD",
+        "logo": ""
+      },
+      {
+        "title": "DAZN SPORTS DE",
+        "logo": ""
+      },
+      {
+        "title": "ViX ESPANOL FHD",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png"
+      },
+      {
+        "title": "DAZN SPORTS HD",
+        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
+      },
+      {
+        "title": "beIN ARABIC FHD",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (ENG)",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (HIN)",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (TAM)",
+        "logo": ""
+      },
+      {
+        "title": "Low Server",
         "logo": ""
       }
     ]
@@ -1237,11 +1477,41 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "CBS NETWORK FHD"
+      "PARAMOUNT+ FHD",
+      "PRIME VIDEO FHD",
+      "DAZN SPORTS DE",
+      "ViX ESPANOL FHD",
+      "CBS NETWORK FHD",
+      "SonyLiv (Asia)",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "PRIME VIDEO FHD",
+        "logo": ""
+      },
+      {
+        "title": "DAZN SPORTS DE",
+        "logo": ""
+      },
+      {
+        "title": "ViX ESPANOL FHD",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png"
+      },
+      {
         "title": "CBS NETWORK FHD",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (Asia)",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1265,11 +1535,36 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "PARAMOUNT+ FHD",
+      "PRIME VIDEO FHD",
+      "DAZN SPORTS DE",
+      "ViX ESPANOL FHD",
+      "SonyLiv (Asia)",
+      "Low Server"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "PRIME VIDEO FHD",
+        "logo": ""
+      },
+      {
+        "title": "DAZN SPORTS DE",
+        "logo": ""
+      },
+      {
+        "title": "ViX ESPANOL FHD",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png"
+      },
+      {
+        "title": "SonyLiv (Asia)",
+        "logo": ""
+      },
+      {
+        "title": "Low Server",
         "logo": ""
       }
     ]
@@ -1293,11 +1588,31 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      " PARAMOUNT+ FHD",
+      "DAZN SPORTS DE",
+      "ViX ESPANOL FHD",
+      "SonyLiv (Asia)",
+      "Low Server"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": " PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "DAZN SPORTS DE",
+        "logo": ""
+      },
+      {
+        "title": "ViX ESPANOL FHD",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png"
+      },
+      {
+        "title": "SonyLiv (Asia)",
+        "logo": ""
+      },
+      {
+        "title": "Low Server",
         "logo": ""
       }
     ]
@@ -1543,34 +1858,62 @@
     "id": 50101,
     "title": "Esteghlal vs Al Shamal",
     "image": "o",
-    "cat": "AFC Champions Elite",
+    "cat": "UCL",
     "eventInfo": {
-      "teamA": "Esteghlal FC",
-      "teamB": "Al Shamal SC",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/34316/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/170366/image",
-      "eventName": "Esteghlal vs Al Shamal SC",
+      "teamA": "UCL",
+      "teamB": "Multi Cast",
+      "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/7/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/7/image",
+      "eventName": "Champions League Multicast",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/11/03 16:00:00 +0000",
-      "endTime": "2026/11/03 18:00:00 +0000"
+      "startTime": "2026/11/03 17:40:00 +0000",
+      "endTime": "2026/11/03 22:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live",
-      "HD SERVER",
-      "LOW SERVER"
+      "CBS SPORTS GOLAZO",
+      "DAZN SPORTS DE",
+      "DAZN SPORTS ALT"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "CBS SPORTS GOLAZO",
+        "logo": "https://iili.io/BtCdabj.png"
+      },
+      {
+        "title": "DAZN SPORTS DE",
         "logo": ""
       },
       {
-        "title": "HD SERVER",
+        "title": "DAZN SPORTS ALT",
         "logo": ""
-      },
+      }
+    ]
+  },
+  {
+    "id": 50102,
+    "title": "Preston vs Sheffield United",
+    "image": "o",
+    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "eventInfo": {
+      "teamA": "Preston",
+      "teamB": "Sheffield Utd",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/21/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/15/image",
+      "eventName": "Preston North End vs Sheffield United",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/11/03 19:45:00 +0000",
+      "endTime": "2026/11/03 21:50:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "LOW SERVER"
+    ],
+    "formatsNew": [
       {
         "title": "LOW SERVER",
         "logo": ""
@@ -1578,36 +1921,31 @@
     ]
   },
   {
-    "id": 50102,
-    "title": "Al-Hussein vs Al-Shorta",
+    "id": 50103,
+    "title": "Birmingham vs Millwall",
     "image": "o",
-    "cat": "AFC Champions Two",
+    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
     "eventInfo": {
-      "teamA": "Al-Hussein Irbid",
-      "teamB": "Shorta",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/117204/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/61532/image",
-      "eventName": "Al-Hussein Irbid vs Al-Shorta",
+      "teamA": "Birmingham",
+      "teamB": "Millwall",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/9/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/25/image",
+      "eventName": "Birmingham City vs Millwall",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/11/03 16:00:00 +0000",
-      "endTime": "2026/11/03 18:00:00 +0000"
+      "startTime": "2026/11/03 20:00:00 +0000",
+      "endTime": "2026/11/03 22:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live",
-      "HD SERVER",
+      "PARAMOUNT+ FHD",
       "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
       },
       {
         "title": "LOW SERVER",

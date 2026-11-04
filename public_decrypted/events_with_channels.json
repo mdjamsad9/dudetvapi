@@ -1401,6 +1401,45 @@
     "channel_status": "live"
   },
   {
+    "id": 50063,
+    "title": "[OLD] Zuffa Boxing 11",
+    "image": "o",
+    "cat": "Boxing",
+    "eventInfo": {
+      "teamA": "Colby Covington",
+      "teamB": "Raul Rosas Jr",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/467463/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/470046/image",
+      "eventName": "Covington and Rosas Jr",
+      "eventType": "null",
+      "eventBanner": "null",
+      "isHot": "0",
+      "startTime": "2026/11/03 18:30:00 +0000",
+      "endTime": "2026/11/03 20:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DAZN SPORTS FHD"
+    ],
+    "formatsNew": [
+      {
+        "title": "DAZN SPORTS FHD",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "4339adc036fc1a1270d41aa1bef4b16a:640ce635e7ca20a820c51717d85db278",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/s8whotxtvx/out/v1/2edfd49aaf71440e86eb73d7df83c980/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "DAZN SPORTS FHD",
+        "type": "1"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
     "id": 50064,
     "title": "[OLD] NPL",
     "image": "o",
@@ -1590,7 +1629,8 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://taifood-blog.asia/embed/nhl/2026-11-02/vgk-bos",
+        "link": "https://taifood-blog.asia/embed/nhl/2026-11-03/col-cbj",
+        "logo": "",
         "title": "NHL LIVE [FHD]",
         "type": "2"
       }
@@ -1665,20 +1705,13 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/59157/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv NHL HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://taifood-blog.asia/embed/nhl/2026-11-02/col-chi",
+        "link": "https://taifood-blog.asia/embed/nhl/2026-11-03/stl-nyr",
         "logo": "",
         "title": "NHL LIVE [FHD]",
         "type": "2"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50078,
@@ -1762,7 +1795,8 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://taifood-blog.asia/embed/nhl/2026-11-01/ott-ana",
+        "link": "https://taifood-blog.asia/embed/nhl/2026-11-03/vgk-pit",
+        "logo": "",
         "title": "NHL LIVE [FHD]",
         "type": "2"
       }
@@ -1836,7 +1870,7 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://taifood-blog.asia/embed/nhl/2026-10-31/pit-mtl",
+        "link": "https://taifood-blog.asia/embed/nhl/2026-11-03/uta-tor",
         "logo": "",
         "title": "NHL LIVE [FHD]",
         "type": "2"
@@ -1874,7 +1908,8 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://taifood-blog.asia/embed/nhl/2026-10-31/tor-van",
+        "link": "https://taifood-blog.asia/embed/nhl/2026-11-03/dal-wsh",
+        "logo": "",
         "title": "NHL LIVE [FHD]",
         "type": "2"
       }
@@ -1955,6 +1990,80 @@
         "type": "2"
       }
     ],
+    "channel_status": "cached"
+  },
+  {
+    "id": 50086,
+    "title": "Internacional vs Coritiba",
+    "image": "o",
+    "cat": "Brasileirão",
+    "eventInfo": {
+      "teamA": "Internacional",
+      "teamB": "Coritiba",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1966/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1982/image",
+      "eventName": "Internacional vs Coritiba",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/11/04 00:30:00 +0000",
+      "endTime": "2026/11/04 02:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "PREMIERER BR"
+    ],
+    "formatsNew": [
+      {
+        "title": "PREMIERER BR",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "title": "PREMIERER BR",
+        "type": "1"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50087,
+    "title": "Chapecoense vs Mirassol",
+    "image": "o",
+    "cat": "Brasileirão",
+    "eventInfo": {
+      "teamA": "Chapecoense",
+      "teamB": "Mirassol",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/21845/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/21982/image",
+      "eventName": "Chapecoense vs Mirassol",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/11/03 22:30:00 +0000",
+      "endTime": "2026/11/04 00:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "PREMIERER BR"
+    ],
+    "formatsNew": [
+      {
+        "title": "PREMIERER BR",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "title": "PREMIERER BR",
+        "type": "1"
+      }
+    ],
     "channel_status": "live"
   },
   {
@@ -1992,7 +2101,7 @@
         "type": "2"
       }
     ],
-    "channel_status": "live"
+    "channel_status": "cached"
   },
   {
     "id": 50090,
@@ -2006,27 +2115,112 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2672/image",
       "eventName": "Atletico Madrid vs Bayern Munchen",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/11/03 20:00:00 +0000",
       "endTime": "2026/11/03 22:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TNT SPORTS FHD"
+      "PARAMOUNT+ FHD",
+      "TNT SPORTS FHD",
+      "PRIME VIDEO FHD",
+      "PARAMOUNT+ HD",
+      "TNT SPORTS HD",
+      "beIN ARABIC FHD",
+      "SonyLiv (Asia)",
+      "Low Server"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
         "title": "TNT SPORTS FHD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+      },
+      {
+        "title": "PRIME VIDEO FHD",
+        "logo": ""
+      },
+      {
+        "title": "PARAMOUNT+ HD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "TNT SPORTS HD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+      },
+      {
+        "title": "beIN ARABIC FHD",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (Asia)",
+        "logo": ""
+      },
+      {
+        "title": "Low Server",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
+        "api": "81e0ae17a7166c881b38468bee4d210d:be2dd777d1aa42adc54d090fcf886b29",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vh0otvgsty/out/v1/bd515f9d353d436c8d9f7fad1a036eae/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
+        "title": "PARAMOUNT+ FHD",
+        "type": "1"
+      },
+      {
         "api": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
         "title": "TNT SPORTS FHD",
         "type": "1"
+      },
+      {
+        "api": "61e6e2862d578e47e1d38a09dab188d1:d476e6ff0a07c5d61eebc382cf62e629",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fhhxo4lrgi/out/v1/2e07e360adbb4143a01cfbf13db5a468/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "PRIME VIDEO FHD",
+        "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/59198/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
+        "title": "PARAMOUNT+ HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/59201/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
+        "title": "TNT SPORTS HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://2sisi.s3.us-east-2.amazonaws.com/bein5/720p/manifest.m3u8",
+        "logo": "",
+        "title": "beIN ARABIC FHD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120302/footlive0311/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e691109abceda12fc5bd2d4c5fd381eb-1793734204418",
+        "logo": "",
+        "title": "SonyLiv (Asia)",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.55/hls/HCCC.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+        "logo": "",
+        "title": "Low Server",
+        "type": "0"
       },
       {
         "api": "N2Y3YTFiYmM1MjNhM2ExZDBmYzRjNTMyMmQyZGJkMzQ6Yjc0NWEyNDI5M2EzNDU1ZWY3ZWIyZWYxNGY3YzlkMzg=",
@@ -2100,59 +2294,139 @@
       "eventName": "FC Barcelona vs Aston Villa",
       "eventType": "null",
       "eventBanner": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/11/03 20:00:00 +0000",
       "endTime": "2026/11/03 22:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TNT SPORTS FHD"
+      "PARAMOUNT+ FHD",
+      "TNT SPORTS FHD",
+      "PRIME VIDEO FHD",
+      "DAZN SPORTS DE",
+      "HBO MAX BRAZIL",
+      "PARAMOUNT+ HD",
+      "TNT SPORTS HD",
+      "beIN ARABIC FHD",
+      "SonyLiv (Asia)",
+      "Low Server"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
         "title": "TNT SPORTS FHD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+      },
+      {
+        "title": "PRIME VIDEO FHD",
+        "logo": ""
+      },
+      {
+        "title": "DAZN SPORTS DE",
+        "logo": ""
+      },
+      {
+        "title": "HBO MAX BRAZIL",
+        "logo": ""
+      },
+      {
+        "title": "PARAMOUNT+ HD",
+        "logo": ""
+      },
+      {
+        "title": "TNT SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "beIN ARABIC FHD",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (Asia)",
+        "logo": ""
+      },
+      {
+        "title": "Low Server",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
-        "api": "4cf6e1a461066c43589adb8b495fa0b1:90d28f3dc6e65427ba1e5717f2dd77e4",
-        "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hjosczfikj/out/v1/c9ae9a5fdaa34de4bb850066065c9280/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "DAZN SPORTS FHD",
+        "api": "9257aba4a8155ec0566886d9d2173cbb:c1663d6dd5e13c6105f55986e1b82bb0",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hfrpveg4ut/out/v1/898ffe1fc933458b940e736c42708232/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
+        "title": "PARAMOUNT+ FHD",
         "type": "1"
       },
       {
-        "api": "4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c",
-        "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
-        "title": "beIN SPORTS FHD",
+        "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
+        "title": "TNT SPORTS FHD",
+        "type": "1"
+      },
+      {
+        "api": "8457e2ce4bab3e982f93d01d8531937c:e96b9115e2da4f4fd7fef362fe16b8c6",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/62u3pe9jhe/out/v1/b16f920939bb40ec921f895197dcc8fe/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "PRIME VIDEO FHD",
+        "type": "1"
+      },
+      {
+        "api": "d5e2fec3b6ccef137970196c83892fcf:5db83e1690553fda8b857360ba7e4171",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vfvwmn8lpn/out/v1/fa48945789f044c89d69a67a81acd513/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "DAZN SPORTS DE",
+        "type": "1"
+      },
+      {
+        "api": "83a4bc2c011e2c72b35b7b5f2d35560d:01bd0115c83d3493449181ba68998ab1",
+        "link": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/gwhjevq6ar/out/v1/bf0c281f2dba46cb87434d45ed13003f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "HBO MAX BRAZIL",
         "type": "1"
       },
       {
         "api": "",
-        "link": "https://live.vivo155.com/live/hd-en-1-4550916.m3u8?txSecret=a0f538997a0ba40f33eaa75930b538ee&txTime=6AE8FC7E|Referer=https://player.on8on8.com/",
+        "link": "https://chatgpt.hereisman.net/playlist/59196/load-playlist-multi?|Referer=https://gooz.aapmains.net",
         "logo": "",
-        "title": "DUDE Tv Live",
+        "title": "PARAMOUNT+ HD",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://live.uu1pp.com/sport/202_5601176_1.m3u8?txSecret=e28e9bcc771f6caee984ac428b0b4b2c&txTime=6AE93036",
+        "link": "https://chatgpt.hereisman.net/playlist/59202/load-playlist-multi?|Referer=https://gooz.aapmains.net",
         "logo": "",
-        "title": "HD SERVER",
+        "title": "TNT SPORTS HD",
         "type": "0"
       },
       {
         "api": "",
-        "link": "http://193.47.62.59/hls/FRFRFR.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+        "link": "https://2sisi.s3.us-east-2.amazonaws.com/bein3/master.m3u8",
         "logo": "",
-        "title": "LOW SERVER",
+        "title": "beIN ARABIC FHD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120300/footlive0311/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e691109abceda12fc5bd2d4c5fd381eb-1793734204418",
+        "logo": "",
+        "title": "SonyLiv (Asia)",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.44/hls/HCCCa.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+        "logo": "",
+        "title": "Low Server",
         "type": "0"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50092,
@@ -2166,27 +2440,100 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/1644/image",
       "eventName": "Villarreal vs Paris Saint-Germain",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/11/03 20:00:00 +0000",
       "endTime": "2026/11/03 22:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TNT SPORTS FHD"
+      "PARAMOUNT+ FHD",
+      "TNT SPORTS FHD",
+      "PRIME VIDEO FHD",
+      "DAZN SPORTS DE",
+      "TNT SPORTS HD",
+      "SonyLiv (Asia)",
+      "Low Server"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
         "title": "TNT SPORTS FHD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+      },
+      {
+        "title": "PRIME VIDEO FHD",
+        "logo": ""
+      },
+      {
+        "title": "DAZN SPORTS DE",
+        "logo": ""
+      },
+      {
+        "title": "TNT SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (Asia)",
+        "logo": ""
+      },
+      {
+        "title": "Low Server",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
+        "api": "c42433b27c13a1ad99d32d2c027eeb59:2dad308a6387c9d4fc9b881d01b509d1",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0nsrdwyz6d/out/v1/1fb3f803330c4d56b7067eb32a2d7b5b/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
+        "title": "PARAMOUNT+ FHD",
+        "type": "1"
+      },
+      {
         "api": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
         "title": "TNT SPORTS FHD",
         "type": "1"
+      },
+      {
+        "api": "3c9c9759302a690821dc000229d317f4:dcda7b2874e022d6a03847f78565fedf",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7ginakmkhd/out/v1/ed941032a0cf478583800821f6f73f92/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "PRIME VIDEO FHD",
+        "type": "1"
+      },
+      {
+        "api": "6dcdc041688dd8c939209051ddc16ad7:07f42a6ce5def87eaa37b2cf01263d9d",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/db1e5w2dci/out/v1/3664a5f5c459440cb8becc5f4494277b/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "DAZN SPORTS DE",
+        "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/59200/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "TNT SPORTS HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/footlive0311/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e691109abceda12fc5bd2d4c5fd381eb-1793734204418",
+        "logo": "",
+        "title": "SonyLiv (Asia)",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.59/hls/HCCCaaaaa.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+        "logo": "",
+        "title": "Low Server",
+        "type": "0"
       }
     ],
     "channel_status": "live"
@@ -2203,80 +2550,139 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2702/image",
       "eventName": "Manchester United vs AS Roma",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/11/03 20:00:00 +0000",
       "endTime": "2026/11/03 22:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "PARAMOUNT+ FHD",
+      "PRIME VIDEO FHD",
+      "DAZN SPORTS DE",
+      "ViX ESPANOL FHD",
+      "DAZN SPORTS HD",
+      "beIN ARABIC FHD",
+      "SonyLiv (ENG)",
+      "SonyLiv (HIN)",
+      "SonyLiv (TAM)",
+      "Low Server"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "PRIME VIDEO FHD",
+        "logo": ""
+      },
+      {
+        "title": "DAZN SPORTS DE",
+        "logo": ""
+      },
+      {
+        "title": "ViX ESPANOL FHD",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png"
+      },
+      {
+        "title": "DAZN SPORTS HD",
+        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
+      },
+      {
+        "title": "beIN ARABIC FHD",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (ENG)",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (HIN)",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (TAM)",
+        "logo": ""
+      },
+      {
+        "title": "Low Server",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
-        "api": "13ce949c292d44c6893123c2e8569f7d:ee6cc78d0be27019d63fbc1b8331ad5f",
-        "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2cbyhcycwi/out/v1/3408f06f77434fefa5a0cf2cd8c58ffa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "DAZN SPORTS (EN/ES)",
+        "api": "36e4c42e68010f7a3e5f543d18e48242:014543c3e28193bbe08cf7e3f729715e",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f9bag1jthy/out/v1/3b8065fd2f2448ae950acb1799289059/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
+        "title": "PARAMOUNT+ FHD",
         "type": "1"
       },
       {
-        "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "6d5337196b414dded830543ce01575c8:f5db6c7b83d3a8ee391191a5486ba567",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/75yi5p0s1c/out/v1/537063cc750c49799f8a8f78975ce1c8/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "PRIME VIDEO FHD",
+        "type": "1"
+      },
+      {
+        "api": "746772ee03bdc6b4c4d26384bff0e499:3d88f15c96f473fbfae335e7f1b6b200",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jtyvkcoh4v/out/v1/075533792ddb4a178c7b77a2c582bcaa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "DAZN SPORTS DE",
+        "type": "1"
+      },
+      {
+        "api": "d504a4144684bf40c4ad12a9cf7c3faa:f81e60e7f3c75a3453b3dd605d2b01dd",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rxlovii2bb/out/v1/4ee96f7b64494c1aa1dc327b3f9b07ed/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png",
+        "title": "ViX ESPANOL FHD",
+        "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/59197/load-playlist-multi?|Referer=https://gooz.aapmains.net",
         "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
-        "title": "PREMIER SPORTS",
-        "type": "1"
-      },
-      {
-        "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "beIN ENGLISH FHD",
-        "type": "1"
-      },
-      {
-        "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
-        "title": "FANCODE FHD",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/59120/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "ESPN DEPORTES HD",
+        "title": "DAZN SPORTS HD",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://live.vivo155.com/live/hd-en-1-4565496.m3u8?txSecret=3ff005d2655a60107849ff6740e9c19b&txTime=6AE8FD87|Referer=https://player.on8on8.com/",
+        "link": "https://2sisi.s3.us-east-2.amazonaws.com/bein4/master.m3u8",
         "logo": "",
-        "title": "DUDE Tv Live",
+        "title": "beIN ARABIC FHD",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://live.uu1pp.com/sport/202_5601454_1.m3u8?txSecret=520883061c9afafa10b9c08d7be175e1&txTime=6AE9321B",
+        "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120308/footlive0311/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e691109abceda12fc5bd2d4c5fd381eb-1793734204418",
         "logo": "",
-        "title": "HD SERVER",
+        "title": "SonyLiv (ENG)",
         "type": "0"
       },
       {
         "api": "",
-        "link": "http://193.47.62.44/hls/KPPP.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+        "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120306/footlive0311/HIN/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e691109abceda12fc5bd2d4c5fd381eb-1793734204418",
         "logo": "",
-        "title": "LOW SERVER",
+        "title": "SonyLiv (HIN)",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2005444/footlive0311/TAM/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e691109abceda12fc5bd2d4c5fd381eb-1793734204418",
+        "logo": "",
+        "title": "SonyLiv (TAM)",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.44/hls/HCCCaaaa.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+        "logo": "",
+        "title": "Low Server",
         "type": "0"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50094,
@@ -2297,20 +2703,93 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "CBS NETWORK FHD"
+      "PARAMOUNT+ FHD",
+      "PRIME VIDEO FHD",
+      "DAZN SPORTS DE",
+      "ViX ESPANOL FHD",
+      "CBS NETWORK FHD",
+      "SonyLiv (Asia)",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "PRIME VIDEO FHD",
+        "logo": ""
+      },
+      {
+        "title": "DAZN SPORTS DE",
+        "logo": ""
+      },
+      {
+        "title": "ViX ESPANOL FHD",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png"
+      },
+      {
         "title": "CBS NETWORK FHD",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (Asia)",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
+        "api": "fc651bf819bdc1df6aa7c249f1acfe66:06229427fb5ea8c1fcf8c8f878b2fc23",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/odyam8seie/out/v1/a5f86f8dc35746c9a5d1b0128bb8196c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
+        "title": "PARAMOUNT+ FHD",
+        "type": "1"
+      },
+      {
+        "api": "768f15cdba33cfdf9aebb4f8225535e8:e17aad86724a7d43c8484da55ab0d90b",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zfm6q50wyx/out/v1/e80bb4a13dc24a8f985079c2cfa1e692/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "PRIME VIDEO FHD",
+        "type": "1"
+      },
+      {
+        "api": "8b199d76b52fbb59394d3e1f21f19b49:e5bde1d899ea6c48116aa39f3e50829d",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/td2vcx9ney/out/v1/7ce09a13e61a4e008492bb0545ba65fa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "DAZN SPORTS DE",
+        "type": "1"
+      },
+      {
+        "api": "c3c680a53aab9eec4b43db218a3713a6:1adcde85460fd0b23f1510ca56e1e58b",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yzurcf456k/out/v1/4df741b740c1401a93dd7f933bdde012/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png",
+        "title": "ViX ESPANOL FHD",
+        "type": "1"
+      },
+      {
         "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
         "title": "CBS NETWORK FHD",
         "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/footlive0311/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e691109abceda12fc5bd2d4c5fd381eb-1793734204418",
+        "logo": "",
+        "title": "SonyLiv (Asia)",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.55/hls/HCCCaaa.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+        "logo": "",
+        "title": "LOW SERVER",
+        "type": "0"
       }
     ],
     "channel_status": "live"
@@ -2334,31 +2813,84 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "PARAMOUNT+ FHD",
+      "PRIME VIDEO FHD",
+      "DAZN SPORTS DE",
+      "ViX ESPANOL FHD",
+      "SonyLiv (Asia)",
+      "Low Server"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "PRIME VIDEO FHD",
+        "logo": ""
+      },
+      {
+        "title": "DAZN SPORTS DE",
+        "logo": ""
+      },
+      {
+        "title": "ViX ESPANOL FHD",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png"
+      },
+      {
+        "title": "SonyLiv (Asia)",
+        "logo": ""
+      },
+      {
+        "title": "Low Server",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
-        "api": "",
-        "link": "https://live.vivo155.com/live/sd-1-4578237.m3u8?txSecret=7f7db6e777489d01570c2dd6ed531b98&txTime=6AE8FE48|Referer=https://player.on8on8.com/",
+        "api": "f9c393a27d7eab26828310d5116228b4:54242b217e2cb116436f2a8f72b9ba6b",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vup2gkotxm/out/v1/35a4a5af02a048968c2b300ddd4677a2/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
+        "title": "PARAMOUNT+ FHD",
+        "type": "1"
+      },
+      {
+        "api": "8d7dc1cf69c9ab1e7dc09227b1db0725:9020db32fc968a40a1145f6bdc9b068b",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jl3tltjw9p/out/v1/16fb5ea7267e4d6b9b48b22aedeac0a5/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "",
-        "title": "DUDE Tv Live",
+        "title": "PRIME VIDEO FHD",
+        "type": "1"
+      },
+      {
+        "api": "4ab1edbb78f4867a4e68821974ddc07f:c581c41a8e61fd0bc9ec0d4c23cfea86",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b722xitfbt/out/v1/64cda6be047340fc8eab0cfbd350848f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "DAZN SPORTS DE",
+        "type": "1"
+      },
+      {
+        "api": "1ba1ee8262e770b7d92759485de83fa6:eb42d4be46e10ae5e1c529efc451e3f5",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hknyjwcuzu/out/v1/aef31af53940433bb1b5a1d1eaa6ed5d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png",
+        "title": "ViX ESPANOL FHD",
+        "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2018457/footlive0311/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e691109abceda12fc5bd2d4c5fd381eb-1793734204418",
+        "logo": "",
+        "title": "SonyLiv (Asia)",
         "type": "0"
       },
       {
         "api": "",
-        "link": "http://193.47.62.44/hls/KPPPAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+        "link": "http://193.47.62.55/hls/HCCCaa.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
         "logo": "",
-        "title": "LOW SERVER",
+        "title": "Low Server",
         "type": "0"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50096,
@@ -2379,19 +2911,68 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      " PARAMOUNT+ FHD",
+      "DAZN SPORTS DE",
+      "ViX ESPANOL FHD",
+      "SonyLiv (Asia)",
+      "Low Server"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": " PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "DAZN SPORTS DE",
+        "logo": ""
+      },
+      {
+        "title": "ViX ESPANOL FHD",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png"
+      },
+      {
+        "title": "SonyLiv (Asia)",
+        "logo": ""
+      },
+      {
+        "title": "Low Server",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
+        "api": "0f9a8647387c8ced25cb81e31daa8465:138042cf1b65ee0021b4bb86a8eb4272",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ej3seddljs/out/v1/273718f161c34b44bc7e125ce3fa6173/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
+        "title": " PARAMOUNT+ FHD",
+        "type": "1"
+      },
+      {
+        "api": "05247b8d82d43428e0d5e1fa9993435a:0ac0b44e21d83314c934490e522b6379",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ifwb7xeivb/out/v1/0ef0d09b99094ee9bcf8619782c7535b/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "DAZN SPORTS DE",
+        "type": "1"
+      },
+      {
+        "api": "451fbdc63a11c0819e6d36c54fe95261:5125bacd14af0cbb86d23615a3d94e81",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mustdnrpeu/out/v1/c36180058f2a49a9ac8e96607922aa95/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png",
+        "title": "ViX ESPANOL FHD",
+        "type": "1"
+      },
+      {
         "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-        "title": "DUDE Tv Live",
+        "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2094587/footlive0311/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e691109abceda12fc5bd2d4c5fd381eb-1793734204418",
+        "logo": "",
+        "title": "SonyLiv (Asia)",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.41/hls/eoooA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+        "logo": "",
+        "title": "Low Server",
         "type": "0"
       }
     ],
@@ -2853,34 +3434,86 @@
     "id": 50101,
     "title": "Esteghlal vs Al Shamal",
     "image": "o",
-    "cat": "AFC Champions Elite",
+    "cat": "UCL",
     "eventInfo": {
-      "teamA": "Esteghlal FC",
-      "teamB": "Al Shamal SC",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/34316/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/170366/image",
-      "eventName": "Esteghlal vs Al Shamal SC",
+      "teamA": "UCL",
+      "teamB": "Multi Cast",
+      "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/7/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/7/image",
+      "eventName": "Champions League Multicast",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/11/03 16:00:00 +0000",
-      "endTime": "2026/11/03 18:00:00 +0000"
+      "startTime": "2026/11/03 17:40:00 +0000",
+      "endTime": "2026/11/03 22:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live",
-      "HD SERVER",
-      "LOW SERVER"
+      "CBS SPORTS GOLAZO",
+      "DAZN SPORTS DE",
+      "DAZN SPORTS ALT"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "CBS SPORTS GOLAZO",
+        "logo": "https://iili.io/BtCdabj.png"
+      },
+      {
+        "title": "DAZN SPORTS DE",
         "logo": ""
       },
       {
-        "title": "HD SERVER",
+        "title": "DAZN SPORTS ALT",
         "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "260b37ce733c1b217d443e1be601b3c5:ab79e014ce4ed784b63743c084bb6cb5",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xkheeec2xv/out/v1/0ba456ea055847d4ac3288f8784d4518/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://iili.io/BtCdabj.png",
+        "title": "CBS SPORTS GOLAZO",
+        "type": "1"
       },
+      {
+        "api": "f35e45c111ce14c989cea41608d29ee9:6f7cdd1555418548ece8fe8950039a23",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kozkqxo5pq/out/v1/4abf6877947b4ab9987a2b7ba59c86b8/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "DAZN SPORTS DE",
+        "type": "1"
+      },
+      {
+        "api": "628d5b2d87e068356fd309253a048efe:c6e10ffed0df359c49ee088d705f942f",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uycjvjk8dg/out/v1/9d3fc46e8d5d4a9589ce5293212aed40/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "DAZN SPORTS ALT",
+        "type": "1"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50102,
+    "title": "Preston vs Sheffield United",
+    "image": "o",
+    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "eventInfo": {
+      "teamA": "Preston",
+      "teamB": "Sheffield Utd",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/21/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/15/image",
+      "eventName": "Preston North End vs Sheffield United",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/11/03 19:45:00 +0000",
+      "endTime": "2026/11/03 21:50:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "LOW SERVER"
+    ],
+    "formatsNew": [
       {
         "title": "LOW SERVER",
         "logo": ""
@@ -2889,21 +3522,7 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://live.vivo155.com/live/hd-en-1-4621443.m3u8?txSecret=51b6f68ca2f3a5d75f3b2776b7b95122&txTime=6AEA1A5B|Referer=https://player.on8on8.com/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://live2.jorvakstreamcache.com/live/channel2.m3u8?|Referer=https://xlz.domainkqt.cc/",
-        "logo": "",
-        "title": "HD SERVER",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.41/hls/LOOOAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+        "link": "http://193.47.62.41/hls/7UUUAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
         "logo": "",
         "title": "LOW SERVER",
         "type": "0"
@@ -2912,36 +3531,31 @@
     "channel_status": "live"
   },
   {
-    "id": 50102,
-    "title": "Al-Hussein vs Al-Shorta",
+    "id": 50103,
+    "title": "Birmingham vs Millwall",
     "image": "o",
-    "cat": "AFC Champions Two",
+    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
     "eventInfo": {
-      "teamA": "Al-Hussein Irbid",
-      "teamB": "Shorta",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/117204/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/61532/image",
-      "eventName": "Al-Hussein Irbid vs Al-Shorta",
+      "teamA": "Birmingham",
+      "teamB": "Millwall",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/9/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/25/image",
+      "eventName": "Birmingham City vs Millwall",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/11/03 16:00:00 +0000",
-      "endTime": "2026/11/03 18:00:00 +0000"
+      "startTime": "2026/11/03 20:00:00 +0000",
+      "endTime": "2026/11/03 22:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live",
-      "HD SERVER",
+      "PARAMOUNT+ FHD",
       "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
       },
       {
         "title": "LOW SERVER",
@@ -2950,22 +3564,15 @@
     ],
     "decoded_channels": [
       {
-        "api": "",
-        "link": "https://live.vivo155.com/live/hd-en-1-4621337.m3u8?txSecret=5e60f4cf5d12699916a2bd99a6b9b57f&txTime=6AEA1A7A|Referer=https://player.on8on8.com/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
+        "api": "735ec2c484e8404f9bb1d162186f16a4:eb90599b0afc0766a9138c287e86c3a8",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b9caoephnn/out/v1/b53b2cf820b94e7fae6169ca06bb6fd6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
+        "title": "PARAMOUNT+ FHD",
+        "type": "1"
       },
       {
         "api": "",
-        "link": "https://live2.jorvakstreamcache.com/live/channel6.m3u8?|Referer=https://xlz.domainkqt.cc/",
-        "logo": "",
-        "title": "HD SERVER",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.41/hls/LOOOAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+        "link": "http://193.47.62.41/hls/7UUUAAAAQQAAQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
         "logo": "",
         "title": "LOW SERVER",
         "type": "0"
