@@ -762,9 +762,9 @@
       "eventName": "New Zealand vs India",
       "eventType": "null",
       "eventBanner": "null",
-      "isHot": "1",
-      "startTime": "2026/11/04 02:00:00 +0000",
-      "endTime": "2026/11/04 10:00:00 +0000"
+      "isHot": "0",
+      "startTime": "2026/11/07 02:00:00 +0000",
+      "endTime": "2026/11/07 10:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -886,16 +886,9 @@
       },
       {
         "api": "",
-        "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_0311/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793796155~acl=/*~id=9330fc4a2255cbf324394d7b5b191e90-1793752955164~hmac=1fd83137467b58c5eab840c4d951510eddecacd341e747518010c8de4e5e5aed",
-        "logo": "",
-        "title": "SonyLiv (TAM)",
-        "type": "0"
-      },
-      {
-        "api": "",
         "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_0311/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793796155~acl=/*~id=9330fc4a2255cbf324394d7b5b191e90-1793752955164~hmac=1fd83137467b58c5eab840c4d951510eddecacd341e747518010c8de4e5e5aed",
         "logo": "",
-        "title": "SonyLiv (TEL)",
+        "title": "SonyLiv (TAM)",
         "type": "0"
       },
       {
@@ -996,8 +989,8 @@
       "eventName": "🥊 WWE Monday Night RAW",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/11/03 00:00:00 +0000",
-      "endTime": "2026/11/03 02:30:00 +0000"
+      "startTime": "2026/11/10 00:00:00 +0000",
+      "endTime": "2026/11/10 02:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1898,45 +1891,6 @@
     "channel_status": "live"
   },
   {
-    "id": 50063,
-    "title": "[OLD] Zuffa Boxing 11",
-    "image": "o",
-    "cat": "Boxing",
-    "eventInfo": {
-      "teamA": "Colby Covington",
-      "teamB": "Raul Rosas Jr",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/467463/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/470046/image",
-      "eventName": "Covington and Rosas Jr",
-      "eventType": "null",
-      "eventBanner": "null",
-      "isHot": "0",
-      "startTime": "2026/11/03 18:30:00 +0000",
-      "endTime": "2026/11/03 20:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DAZN SPORTS FHD"
-    ],
-    "formatsNew": [
-      {
-        "title": "DAZN SPORTS FHD",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "4339adc036fc1a1270d41aa1bef4b16a:640ce635e7ca20a820c51717d85db278",
-        "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/s8whotxtvx/out/v1/2edfd49aaf71440e86eb73d7df83c980/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "DAZN SPORTS FHD",
-        "type": "1"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
     "id": 50064,
     "title": "[OLD] NPL",
     "image": "o",
@@ -2006,17 +1960,21 @@
     "publish": "1",
     "formats": [
       "WILLOW FHD",
+      "FANCODE FHD",
       "SKY CRICKET FHD",
       "WILLOW ALT",
       "WILLOW HD",
       "TAPMAD - FHD",
-      "EUROSPORTS FHD",
       "FANCODE - IN"
     ],
     "formatsNew": [
       {
         "title": "WILLOW FHD",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "FANCODE FHD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       },
       {
         "title": "SKY CRICKET FHD",
@@ -2035,20 +1993,23 @@
         "logo": ""
       },
       {
-        "title": "EUROSPORTS FHD",
-        "logo": ""
-      },
-      {
         "title": "FANCODE - IN",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       }
     ],
     "decoded_channels": [
       {
-        "api": "cdca888620514236db847b1ca52773b8:460dff34d4ffa3a814a4e1ad083f4993",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/mwlueryhck/out/v1/c4f180fd53004d80999910f8e2d9cf7d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "b7905c23e4544d1cb19e110c2c31acc3:81ef593bc93049369572a9812c1f6955",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h5r6pyxcdd/out/v1/d68cf08eacb74c349b644466b5c9e06b/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW FHD",
+        "type": "1"
+      },
+      {
+        "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
+        "title": "FANCODE FHD",
         "type": "1"
       },
       {
@@ -2059,8 +2020,8 @@
         "type": "0"
       },
       {
-        "api": "cdca888620514236db847b1ca52773b8:460dff34d4ffa3a814a4e1ad083f4993",
-        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mwlueryhck/out/v1/c4f180fd53004d80999910f8e2d9cf7d/cenc.mpd",
+        "api": "b7905c23e4544d1cb19e110c2c31acc3:81ef593bc93049369572a9812c1f6955",
+        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/h5r6pyxcdd/out/v1/d68cf08eacb74c349b644466b5c9e06b/cenc.mpd",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW ALT",
         "type": "1"
@@ -2078,13 +2039,6 @@
         "logo": "",
         "title": "TAPMAD - FHD",
         "type": "0"
-      },
-      {
-        "api": "12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814",
-        "link": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "EUROSPORTS FHD",
-        "type": "1"
       },
       {
         "api": "",
@@ -2202,31 +2156,26 @@
   },
   {
     "id": 50075,
-    "title": "Blue Jackets vs Colorado Avalanche",
+    "title": "Buffalo Sabres vs Ottawa Senators",
     "image": "o",
     "cat": "NHL",
     "eventInfo": {
-      "teamA": "Blue Jackets",
-      "teamB": "Avalanche",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3683/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3682/image",
-      "eventName": "Columbus Blue Jackets vs Colorado Avalanche",
+      "teamA": "Sabres",
+      "teamB": "Senators",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3678/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3700/image",
+      "eventName": "Buffalo Sabres vs Ottawa Senators",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/11/04 00:00:00 +0000",
-      "endTime": "2026/11/04 03:00:00 +0000"
+      "startTime": "2026/11/05 00:30:00 +0000",
+      "endTime": "2026/11/05 03:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
       {
         "title": "NHL LIVE [FHD]",
         "logo": ""
@@ -2235,15 +2184,7 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/59214/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
         "link": "https://taifood-blog.asia/embed/nhl/2026-11-03/col-cbj",
-        "logo": "",
         "title": "NHL LIVE [FHD]",
         "type": "2"
       }
@@ -2252,36 +2193,26 @@
   },
   {
     "id": 50076,
-    "title": "Canadiens vs Winnipeg Jets",
+    "title": "Florida Panthers vs Blackhawks",
     "image": "o",
     "cat": "NHL",
     "eventInfo": {
-      "teamA": "Canadiens",
-      "teamB": "Jets",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3690/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3676/image",
-      "eventName": "Montréal Canadiens vs Winnipeg Jets",
+      "teamA": "Panthers",
+      "teamB": "Blackhawks",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3687/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3681/image",
+      "eventName": "Florida Panthers vs Chicago Blackhawks",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/11/04 00:00:00 +0000",
-      "endTime": "2026/11/04 03:00:00 +0000"
+      "startTime": "2026/11/05 00:30:00 +0000",
+      "endTime": "2026/11/05 03:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TSN SPORTS FHD",
-      "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
-      {
-        "title": "TSN SPORTS FHD",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
       {
         "title": "NHL LIVE [FHD]",
         "logo": ""
@@ -2310,40 +2241,30 @@
         "type": "2"
       }
     ],
-    "channel_status": "live"
+    "channel_status": "cached"
   },
   {
     "id": 50077,
-    "title": "New York Rangers vs Blues",
+    "title": "Kings vs San Jose Sharks",
     "image": "o",
     "cat": "NHL",
     "eventInfo": {
-      "teamA": "Rangers",
-      "teamB": "Blues",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3701/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3695/image",
-      "eventName": "New York Rangers vs St. Louis Blues",
+      "teamA": "Kings",
+      "teamB": "Sharks",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3688/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3696/image",
+      "eventName": "Los Angeles Kings vs San Jose Sharks",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/11/04 00:00:00 +0000",
-      "endTime": "2026/11/04 03:00:00 +0000"
+      "startTime": "2026/11/05 03:00:00 +0000",
+      "endTime": "2026/11/05 06:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "PREMIER SPORRS FHD",
-      "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
-      {
-        "title": "PREMIER SPORRS FHD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
       {
         "title": "NHL LIVE [FHD]",
         "logo": ""
@@ -2372,92 +2293,30 @@
         "type": "2"
       }
     ],
-    "channel_status": "live"
+    "channel_status": "cached"
   },
   {
     "id": 50078,
-    "title": "Philadelphia Flyers vs Minnesota Wild",
+    "title": "Seattle Kraken vs Calgary Flames",
     "image": "o",
     "cat": "NHL",
     "eventInfo": {
-      "teamA": "Flyers",
-      "teamB": "Wild",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3699/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3689/image",
-      "eventName": "Philadelphia Flyers vs Minnesota Wild",
+      "teamA": "Kraken",
+      "teamB": "Flames",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/381707/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3679/image",
+      "eventName": "Seattle Kraken vs Calgary Flames",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/11/04 00:00:00 +0000",
-      "endTime": "2026/11/04 03:00:00 +0000"
+      "startTime": "2026/11/05 03:00:00 +0000",
+      "endTime": "2026/11/05 06:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "NHL LIVE [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "PREMIER SPORTS FHD",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/59173/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv NHL HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://taifood-blog.asia/embed/nhl/2026-11-02/cgy-sj",
-        "logo": "",
-        "title": "NHL LIVE [FHD]",
-        "type": "2"
-      }
-    ],
-    "channel_status": "cached"
-  },
-  {
-    "id": 50079,
-    "title": "Penguins vs Golden Knights",
-    "image": "o",
-    "cat": "NHL",
-    "eventInfo": {
-      "teamA": "Penguins",
-      "teamB": "Golden Knights",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3697/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/257523/image",
-      "eventName": "Pittsburgh Penguins vs Vegas Golden Knights",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/04 00:00:00 +0000",
-      "endTime": "2026/11/04 03:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "NHL LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
       {
         "title": "NHL LIVE [FHD]",
         "logo": ""
@@ -2466,251 +2325,7 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/59216/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://taifood-blog.asia/embed/nhl/2026-11-03/vgk-pit",
-        "logo": "",
-        "title": "NHL LIVE [FHD]",
-        "type": "2"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50080,
-    "title": "Lightning vs Red Wings",
-    "image": "o",
-    "cat": "NHL",
-    "eventInfo": {
-      "teamA": "Lightning",
-      "teamB": "Red Wings",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3694/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3685/image",
-      "eventName": "Tampa Bay Lightning vs Detroit Red Wings",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/04 00:00:00 +0000",
-      "endTime": "2026/11/04 03:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "NHL LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "NHL LIVE [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/59213/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://taifood-blog.asia/embed/nhl/2026-11-03/det-tb",
-        "logo": "",
-        "title": "NHL LIVE [FHD]",
-        "type": "2"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50081,
-    "title": "Maple Leafs vs Utah Mammoth",
-    "image": "o",
-    "cat": "NHL",
-    "eventInfo": {
-      "teamA": "Maple Leafs",
-      "teamB": "Mammoth",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3693/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/530472/image",
-      "eventName": "Toronto Maple Leafs vs Utah Mammoth",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/04 00:00:00 +0000",
-      "endTime": "2026/11/04 03:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "NHL LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "NHL LIVE [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://taifood-blog.asia/embed/nhl/2026-11-03/uta-tor",
-        "logo": "",
-        "title": "NHL LIVE [FHD]",
-        "type": "2"
-      }
-    ],
-    "channel_status": "cached"
-  },
-  {
-    "id": 50082,
-    "title": "Capitals vs Dallas Stars",
-    "image": "o",
-    "cat": "NHL",
-    "eventInfo": {
-      "teamA": "Capitals",
-      "teamB": "Stars",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3691/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3684/image",
-      "eventName": "Washington Capitals vs Dallas Stars",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/04 00:00:00 +0000",
-      "endTime": "2026/11/04 03:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "NHL LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "NHL LIVE [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://taifood-blog.asia/embed/nhl/2026-11-03/dal-wsh",
-        "logo": "",
-        "title": "NHL LIVE [FHD]",
-        "type": "2"
-      }
-    ],
-    "channel_status": "cached"
-  },
-  {
-    "id": 50083,
-    "title": "Devils vs Edmonton Oilers",
-    "image": "o",
-    "cat": "NHL",
-    "eventInfo": {
-      "teamA": "Devils",
-      "teamB": "Oilers",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3704/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3686/image",
-      "eventName": "New Jersey Devils vs Edmonton Oilers",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/04 00:30:00 +0000",
-      "endTime": "2026/11/04 03:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "NHL LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "NHL LIVE [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/59221/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://taifood-blog.asia/embed/nhl/2026-11-03/edm-nj",
-        "logo": "",
-        "title": "NHL LIVE [FHD]",
-        "type": "2"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50084,
-    "title": "Predators vs Carolina Hurricanes",
-    "image": "o",
-    "cat": "NHL",
-    "eventInfo": {
-      "teamA": "Predators",
-      "teamB": "Hurricanes",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3705/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3680/image",
-      "eventName": "Nashville Predators vs Carolina Hurricanes",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/04 01:00:00 +0000",
-      "endTime": "2026/11/04 04:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "NHL LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "NHL LIVE [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/59226/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://taifood-blog.asia/embed/nhl/2026-11-03/car-nsh",
-        "logo": "",
+        "link": "https://taifood-blog.asia/embed/nhl/2026-11-03/min-phi",
         "title": "NHL LIVE [FHD]",
         "type": "2"
       }
@@ -2719,28 +2334,28 @@
   },
   {
     "id": 50086,
-    "title": "Internacional vs Coritiba",
+    "title": "Flamengo vs Grêmio",
     "image": "o",
     "cat": "Brasileirão",
     "eventInfo": {
-      "teamA": "Internacional",
-      "teamB": "Coritiba",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1966/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1982/image",
-      "eventName": "Internacional vs Coritiba",
+      "teamA": "Flamengo",
+      "teamB": "Grêmio",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/5981/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/5926/image",
+      "eventName": "Flamengo vs Grêmio",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/11/04 00:30:00 +0000",
-      "endTime": "2026/11/04 02:35:00 +0000"
+      "startTime": "2026/11/04 22:30:00 +0000",
+      "endTime": "2026/11/05 00:35:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "PREMIERER BR"
+      "PREMIERER BR FHD"
     ],
     "formatsNew": [
       {
-        "title": "PREMIERER BR",
+        "title": "PREMIERER BR FHD",
         "logo": ""
       }
     ],
@@ -2748,7 +2363,7 @@
       {
         "api": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "title": "PREMIERER BR",
+        "title": "PREMIERER BR FHD",
         "type": "1"
       }
     ],
@@ -2756,28 +2371,28 @@
   },
   {
     "id": 50087,
-    "title": "Chapecoense vs Mirassol",
+    "title": "Botafogo vs Atlético Mineiro",
     "image": "o",
     "cat": "Brasileirão",
     "eventInfo": {
-      "teamA": "Chapecoense",
-      "teamB": "Mirassol",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/21845/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/21982/image",
-      "eventName": "Chapecoense vs Mirassol",
+      "teamA": "Botafogo",
+      "teamB": "Atlético-MG",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1958/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1977/image",
+      "eventName": "Botafogo vs Atlético Mineiro",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/11/03 22:30:00 +0000",
-      "endTime": "2026/11/04 00:35:00 +0000"
+      "startTime": "2026/11/05 00:30:00 +0000",
+      "endTime": "2026/11/05 02:35:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "PREMIERER BR"
+      "PREMIERER BR FHD"
     ],
     "formatsNew": [
       {
-        "title": "PREMIERER BR",
+        "title": "PREMIERER BR FHD",
         "logo": ""
       }
     ],
@@ -2785,70 +2400,56 @@
       {
         "api": "9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "title": "PREMIERER BR",
+        "title": "PREMIERER BR FHD",
         "type": "1"
       }
     ],
     "channel_status": "live"
   },
   {
-    "id": 50089,
-    "title": "Inter Miami",
+    "id": 50088,
+    "title": "São Paulo vs Corinthians",
     "image": "o",
-    "cat": "NHL",
+    "cat": "Brasileirão",
     "eventInfo": {
-      "teamA": "Canucks",
-      "teamB": "Ducks",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3692/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3675/image",
-      "eventName": "Vancouver Canucks vs Anaheim Ducks",
+      "teamA": "São Paulo",
+      "teamB": "Corinthians",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1981/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1957/image",
+      "eventName": "São Paulo vs Corinthians",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/11/04 02:00:00 +0000",
-      "endTime": "2026/11/04 05:00:00 +0000"
+      "startTime": "2026/11/05 00:30:00 +0000",
+      "endTime": "2026/11/05 02:35:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
       "PREMIER SPORTS FHD",
-      "DUDE Tv Live",
-      "NHL LIVE [FHD]"
+      "PREMIERER BR FHD"
     ],
     "formatsNew": [
       {
         "title": "PREMIER SPORTS FHD",
-        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
-      },
-      {
-        "title": "DUDE Tv Live",
         "logo": ""
       },
       {
-        "title": "NHL LIVE [FHD]",
+        "title": "PREMIERER BR FHD",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
-        "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
+        "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "title": "PREMIER SPORTS FHD",
         "type": "1"
       },
       {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/59238/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://taifood-blog.asia/embed/nhl/2026-11-03/ana-van",
-        "logo": "",
-        "title": "NHL LIVE [FHD]",
-        "type": "2"
+        "api": "e23365c2ad97870c871712b73f0d6195:58709c714320bb862dbd07270df81c94",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "title": "PREMIERER BR FHD",
+        "type": "1"
       }
     ],
     "channel_status": "live"
@@ -3773,38 +3374,36 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://live.vivo155.com/live/hd-en-1-4621524.m3u8?txSecret=f9209247ba29ae989472d1d6c16dabcd&txTime=6AE9BE2D|Referer=https://player.on8on8.com/",
+        "link": "https://live.vivo155.com/live/hd-en-1-4621350.m3u8?txSecret=c36e19116a245a274b03d6bc38afb05a&txTime=6AEB0EB6|Referer=https://player.on8on8.com/",
         "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://live2.jorvakstreamcache.com/live/channel15.m3u8?|Referer=https://xlz.domainkqt.cc/",
+        "link": "https://live2.jorvakstreamcache.com/live/channel24.m3u8?|Referer=https://xlz.domainkqt.cc/",
         "logo": "",
         "title": "HD SERVER",
         "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.41/hls/EAEAEAQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-        "logo": "",
-        "title": "LOW SERVER",
-        "type": "0"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50108,
@@ -3825,6 +3424,56 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "HD SERVER",
+      "LOW SERVER"
+    ],
+    "formatsNew": [
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://live2.jorvakstreamcache.com/live/channel11.m3u8?|Referer=https://xlz.domainkqt.cc/",
+        "logo": "",
+        "title": "HD SERVER",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.55/hls/FRFRFR.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+        "logo": "",
+        "title": "LOW SERVER",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50109,
+    "title": "Buriram United vs Kashima Antlers",
+    "image": "o",
+    "cat": "AFC Champions Elite",
+    "eventInfo": {
+      "teamA": "Buriram United",
+      "teamB": "Kashima Antlers",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/34218/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3134/image",
+      "eventName": "Buriram United vs Kashima Antlers",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/11/04 12:15:00 +0000",
+      "endTime": "2026/11/04 14:20:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
       "DUDE Tv Live"
     ],
     "formatsNew": [
@@ -3837,10 +3486,53 @@
       {
         "api": "",
         "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       }
     ],
     "channel_status": "live"
+  },
+  {
+    "id": 50110,
+    "title": "Pohang Steelers vs Gamba Osaka",
+    "image": "o",
+    "cat": "AFC Champions Elite",
+    "eventInfo": {
+      "teamA": "Pohang Steelers",
+      "teamB": "Gamba Osaka",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/7650/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3138/image",
+      "eventName": "Pohang Steelers vs Gamba Osaka",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/11/04 10:00:00 +0000",
+      "endTime": "2026/11/04 12:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "HD SERVER"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      }
+    ],
+    "channel_status": "cached"
   }
 ]
