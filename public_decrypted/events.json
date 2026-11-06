@@ -11,8 +11,8 @@
       "teamBFlag": "https://scdnmain.net/assets/tournament/40-c.png",
       "eventName": "Formula 1 -  Brazil Grand Prix",
       "eventType": "null",
-      "eventBanner": "null",
-      "isHot": "0",
+      "eventBanner": "https://wsrv.nl/?url=https://tikolu.net/i/tghsy",
+      "isHot": "1",
       "startTime": "2026/11/06 15:30:00 +0000",
       "endTime": "2026/11/06 20:30:00 +0000"
     },
@@ -30,8 +30,7 @@
       "DAZN ESPANOL [FHD]",
       "SKY SPORTS [FHD]",
       "APPLE TV [FHD]",
-      "SKY ITALIA [FHD]",
-      "VIAPLAY NL [FHD]"
+      "SKY ITALIA [FHD]"
     ],
     "formatsNew": [
       {
@@ -81,10 +80,6 @@
       {
         "title": "SKY ITALIA [FHD]",
         "logo": ""
-      },
-      {
-        "title": "VIAPLAY NL [FHD]",
-        "logo": ""
       }
     ]
   },
@@ -107,21 +102,29 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TNT SPORTS",
+      "TNT SPORTS FHD",
+      "SKY SPORTS MIX",
       "FANCODE FHD",
+      "SKY TOP EVENT",
       "SP0TV FHD",
-      "MotoGP FHD",
-      "DUDE Tv Live",
-      "TNT SPORTS HD"
+      "MotoGP FHD"
     ],
     "formatsNew": [
       {
-        "title": "TNT SPORTS",
+        "title": "TNT SPORTS FHD",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+      },
+      {
+        "title": "SKY SPORTS MIX",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
       },
       {
         "title": "FANCODE FHD",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
+      {
+        "title": "SKY TOP EVENT",
+        "logo": ""
       },
       {
         "title": "SP0TV FHD",
@@ -130,14 +133,6 @@
       {
         "title": "MotoGP FHD",
         "logo": "https://img.sofascore.com/api/v1/category/1325/image"
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "TNT SPORTS HD",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
       }
     ]
   },
@@ -1049,9 +1044,7 @@
       "WILLOW - FHD",
       "SKY CRICKET FHD",
       "WILLOW - ALT",
-      "EUROSPORTS FHD",
-      "TAPMAD - FHD",
-      "FANCODE - IN"
+      "TAPMAD - FHD"
     ],
     "formatsNew": [
       {
@@ -1067,16 +1060,8 @@
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
-        "title": "EUROSPORTS FHD",
-        "logo": ""
-      },
-      {
         "title": "TAPMAD - FHD",
         "logo": ""
-      },
-      {
-        "title": "FANCODE - IN",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       }
     ]
   },
@@ -1155,9 +1140,19 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PREMIER SPORTS",
+      "SKY SPORTS MIX",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "PREMIER SPORTS",
+        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
+      },
+      {
+        "title": "SKY SPORTS MIX",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
+      },
       {
         "title": "NHL LIVE [FHD]",
         "logo": ""
@@ -1401,8 +1396,8 @@
       "eventName": "Bangladesh vs West Indies",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/11/06 03:30:00 +0000",
-      "endTime": "2026/11/06 11:30:00 +0000"
+      "startTime": "2026/11/07 03:30:00 +0000",
+      "endTime": "2026/11/07 11:15:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -2286,122 +2281,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "PRIME VIDEO FHD"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50123,
-    "title": "India U-19 vs Nepal U-19",
-    "image": "o",
-    "cat": "Asia Cup",
-    "eventInfo": {
-      "teamA": "IND-U19",
-      "teamB": "NEP-U19",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/213112/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/213113/image",
-      "eventName": "India Under-19 vs Nepal Under-19",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/06 05:00:00 +0000",
-      "endTime": "2026/11/06 12:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "WILLOW - FHD",
-      "SonyLiv PRIME FHD",
-      "WILLOW - ALT",
-      "SonyLiv (Asia)",
-      "TEN SPORTS HD",
-      "SonyLiv (HIN)",
-      "SonyLiv (TAM)"
-    ],
-    "formatsNew": [
-      {
-        "title": "WILLOW - FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "SonyLiv PRIME FHD",
-        "logo": ""
-      },
-      {
-        "title": "WILLOW - ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "SonyLiv (Asia)",
-        "logo": ""
-      },
-      {
-        "title": "TEN SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "SonyLiv (HIN)",
-        "logo": ""
-      },
-      {
-        "title": "SonyLiv (TAM)",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50124,
-    "title": "Pakistan U-19 vs UAE U-19",
-    "image": "o",
-    "cat": "Asia Cup",
-    "eventInfo": {
-      "teamA": "PAK-U19",
-      "teamB": "UAE-U19",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/213104/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/300266/image",
-      "eventName": "Pakistan Under-19 vs United Arab Emirates Under-19",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/06 05:00:00 +0000",
-      "endTime": "2026/11/06 12:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "WILLOW - FHD",
-      "SonyLiv PRIME FHD",
-      "WILLOW - ALT",
-      "SonyLiv (Asia)",
-      "PTV SPORTS HD",
-      "TEN SPORTS HD"
-    ],
-    "formatsNew": [
-      {
-        "title": "WILLOW - FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "SonyLiv PRIME FHD",
-        "logo": ""
-      },
-      {
-        "title": "WILLOW - ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "SonyLiv (Asia)",
-        "logo": ""
-      },
-      {
-        "title": "PTV SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "TEN SPORTS HD",
+        "title": "PRIME VIDEO FHD",
         "logo": ""
       }
     ]
