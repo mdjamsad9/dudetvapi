@@ -12,7 +12,7 @@
       "eventName": "Formula 1 -  Brazil Grand Prix",
       "eventType": "null",
       "eventBanner": "https://wsrv.nl/?url=https://tikolu.net/i/tghsy",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/11/07 14:30:00 +0000",
       "endTime": "2026/11/07 19:30:00 +0000"
     },
@@ -760,9 +760,19 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "WILLOW - FHD",
+      "WILLOW - ALT",
       "A Sports FHD"
     ],
     "formatsNew": [
+      {
+        "title": "WILLOW - FHD",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "WILLOW - ALT",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
       {
         "title": "A Sports FHD",
         "logo": ""
@@ -1473,8 +1483,8 @@
       "eventName": "Bangladesh vs West Indies",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/11/07 03:30:00 +0000",
-      "endTime": "2026/11/07 11:15:00 +0000"
+      "startTime": "2026/11/08 03:30:00 +0000",
+      "endTime": "2026/11/08 11:15:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1566,15 +1576,35 @@
     "publish": "1",
     "formats": [
       "TNT SPORTS FHD",
-      "FUBO SPORTS FHD"
+      "SKY EPL FHD",
+      "FUBO SPORTS FHD",
+      "SKY SPORTS EPL",
+      "USA NETWORK HD",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "TNT SPORTS FHD",
-        "logo": ""
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+      },
+      {
+        "title": "SKY EPL FHD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
       },
       {
         "title": "FUBO SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "SKY SPORTS EPL",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
+      },
+      {
+        "title": "USA NETWORK HD",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1697,26 +1727,46 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DAZN ESPANOL FHD",
       "PREMIER SPORTS FHD",
       "beIN ENGLISH FHD",
+      "FANCODE FHD",
       "D Sports FHD",
-      "CAZE TV FHD"
+      "ESPN DEPORTES HD",
+      "DUDE Tv Live",
+      "LOW SERVER "
     ],
     "formatsNew": [
       {
-        "title": "PREMIER SPORTS FHD",
+        "title": "DAZN ESPANOL FHD",
         "logo": ""
+      },
+      {
+        "title": "PREMIER SPORTS FHD",
+        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
       },
       {
         "title": "beIN ENGLISH FHD",
         "logo": ""
       },
       {
+        "title": "FANCODE FHD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
+      {
         "title": "D Sports FHD",
         "logo": ""
       },
       {
-        "title": "CAZE TV FHD",
+        "title": "ESPN DEPORTES HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER ",
         "logo": ""
       }
     ]
@@ -1768,11 +1818,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "PARAMOUNT+ FHD",
+      "DAZN SPORTS FHD",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "DAZN SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1796,11 +1856,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "PARAMOUNT+ FHD",
+      "DAZN SPORTS FHD",
+      "LOW SERVER "
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "DAZN SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER ",
         "logo": ""
       }
     ]
@@ -1845,18 +1915,28 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2672/image",
       "eventName": "Mainz vs Bayern München",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/11/07 14:30:00 +0000",
       "endTime": "2026/11/07 16:35:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "PEACOCK TV FHD",
+      "SKY SPORTS DE FHD",
+      "LOW SERVER "
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "PEACOCK TV FHD",
+        "logo": ""
+      },
+      {
+        "title": "SKY SPORTS DE FHD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
+      },
+      {
+        "title": "LOW SERVER ",
         "logo": ""
       }
     ]
@@ -1880,11 +1960,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "CAZE TV FHD"
+      "PEACOCK TV FHD",
+      "SKY SPORT DE FHD",
+      "CAZE TV FHD",
+      "LOW SERVER "
     ],
     "formatsNew": [
       {
+        "title": "PEACOCK TV FHD",
+        "logo": ""
+      },
+      {
+        "title": "SKY SPORT DE FHD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
+      },
+      {
         "title": "CAZE TV FHD",
+        "logo": "https://duckduckgo.com/i/dab0d6887915781c.png"
+      },
+      {
+        "title": "LOW SERVER ",
         "logo": ""
       }
     ]
@@ -1908,11 +2003,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "PEACOCK TV FHD",
+      "SKY SPORTS DE FHD",
+      "LOW SERVER "
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "PEACOCK TV FHD",
+        "logo": ""
+      },
+      {
+        "title": "SKY SPORTS DE FHD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
+      },
+      {
+        "title": "LOW SERVER ",
         "logo": ""
       }
     ]
@@ -1936,11 +2041,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "PEACOCK TV FHD",
+      "SKY SPORTS FHD",
+      "LOW SERVER "
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "PEACOCK TV FHD",
+        "logo": ""
+      },
+      {
+        "title": "SKY SPORTS FHD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
+      },
+      {
+        "title": "LOW SERVER ",
         "logo": ""
       }
     ]
@@ -2404,39 +2519,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER",
+      "LOW SERVER "
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
         "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50125,
-    "title": "Eyupspor vs Kocaelispor",
-    "image": "o",
-    "cat": "Super Lig",
-    "eventInfo": {
-      "teamA": "Eyüpspor",
-      "teamB": "Kocaelispor",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/7040/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3065/image",
-      "eventName": "Eyüpspor vs Kocaelispor",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/07 10:30:00 +0000",
-      "endTime": "2026/11/07 12:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
+      },
       {
-        "title": "DUDE Tv Live",
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER ",
         "logo": ""
       }
     ]
@@ -2684,11 +2781,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "Laliga Hypermotion ES"
+      "Laliga Hypermotion ES",
+      "DUDE Tv Live",
+      "LOW SERVER "
     ],
     "formatsNew": [
       {
         "title": "Laliga Hypermotion ES",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER ",
         "logo": ""
       }
     ]
@@ -2712,151 +2819,59 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH FHD"
+      "PARAMOUNT+ FHD",
+      "beIN ENGLISH FHD",
+      "CBS SPORTS HD",
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
+      {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
       {
         "title": "beIN ENGLISH FHD",
         "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50136,
-    "title": "Bristol City vs Norwich City",
-    "image": "o",
-    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Bristol City",
-      "teamB": "Norwich",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/58/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/263/image",
-      "eventName": "Bristol City vs Norwich City",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/07 12:30:00 +0000",
-      "endTime": "2026/11/07 14:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
+      },
+      {
+        "title": "CBS SPORTS HD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50137,
-    "title": "Portsmouth vs Stoke City",
-    "image": "o",
-    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Portsmouth",
-      "teamB": "Stoke",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/29/image",
-      "eventName": "Portsmouth vs Stoke City",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/07 12:30:00 +0000",
-      "endTime": "2026/11/07 14:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
+      },
       {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50138,
-    "title": "Holstein Kiel vs Arminia Bielefeld",
-    "image": "o",
-    "cat": "2. Bundesliga",
-    "eventInfo": {
-      "teamA": "Kiel",
-      "teamB": "Bielefeld",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2573/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2540/image",
-      "eventName": "Holstein Kiel vs Arminia Bielefeld",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/07 12:00:00 +0000",
-      "endTime": "2026/11/07 14:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50139,
-    "title": "Nurnberg vs Darmstadt",
-    "image": "o",
-    "cat": "2. Bundesliga",
-    "eventInfo": {
-      "teamA": "Nürnberg",
-      "teamB": "Darmstadt",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2523/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2576/image",
-      "eventName": "Nürnberg vs Darmstadt",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/07 12:00:00 +0000",
-      "endTime": "2026/11/07 14:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
   },
   {
     "id": 50140,
-    "title": "Osnabrück vs Kaiserslautern",
+    "title": "Bundesliga Conference",
     "image": "o",
-    "cat": "2. Bundesliga",
+    "cat": "Bundesliga 🇩🇪",
     "eventInfo": {
-      "teamA": "Osnabrück",
-      "teamB": "Kaiserslautern",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2581/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2675/image",
-      "eventName": "Osnabrück vs Kaiserslautern",
+      "teamA": "Bundesliga Conference",
+      "teamB": "Bundesliga Conference",
+      "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/35/image/dark",
+      "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/35/image/dark",
+      "eventName": "Bundesliga Conference",
       "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/07 12:00:00 +0000",
-      "endTime": "2026/11/07 14:00:00 +0000"
+      "isHot": "1",
+      "startTime": "2026/11/07 14:25:00 +0000",
+      "endTime": "2026/11/07 16:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DAZN SPORTS FHD"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "DAZN SPORTS FHD",
         "logo": ""
       }
     ]
@@ -2880,97 +2895,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50142,
-    "title": "Sri Lanka U-19 vs Bangladesh U-19",
-    "image": "o",
-    "cat": "Asia Cup",
-    "eventInfo": {
-      "teamA": "SL-U19",
-      "teamB": "BAN-U19",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/213106/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/213099/image",
-      "eventName": "Sri Lanka Under-19 vs Bangladesh Under-19",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/07 05:00:00 +0000",
-      "endTime": "2026/11/07 12:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "WILLOW - FHD",
       "PRIME VIDEO FHD",
-      "WILLOW - ALT",
-      "SonyLiv (ENG)"
+      "SonyLiv (ENG)",
+      "SonyLiv (HIN)"
     ],
     "formatsNew": [
-      {
-        "title": "WILLOW - FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
       {
         "title": "PRIME VIDEO FHD",
         "logo": ""
       },
       {
-        "title": "WILLOW - ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
         "title": "SonyLiv (ENG)",
         "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50143,
-    "title": "Afghanistan U-19 vs Malaysia U-19",
-    "image": "o",
-    "cat": "Asia Cup",
-    "eventInfo": {
-      "teamA": "AFG-U19",
-      "teamB": "MAS-U19",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/213103/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/505670/image",
-      "eventName": "Afghanistan Under-19 vs Malaysia Under-19",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/07 05:00:00 +0000",
-      "endTime": "2026/11/07 12:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "WILLOW - FHD",
-      "PRIME VIDEO FHD",
-      "WILLOW - ALT",
-      "SonyLiv (ENG)"
-    ],
-    "formatsNew": [
-      {
-        "title": "WILLOW - FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
-        "title": "PRIME VIDEO FHD",
-        "logo": ""
-      },
-      {
-        "title": "WILLOW - ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "SonyLiv (ENG)",
+        "title": "SonyLiv (HIN)",
         "logo": ""
       }
     ]
