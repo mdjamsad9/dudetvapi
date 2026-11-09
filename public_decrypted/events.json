@@ -499,8 +499,8 @@
       "eventType": "null",
       "eventBanner": "null",
       "isHot": "0",
-      "startTime": "2026/11/09 04:30:00 +0000",
-      "endTime": "2026/11/09 12:00:00 +0000"
+      "startTime": "2026/11/10 04:30:00 +0000",
+      "endTime": "2026/11/10 12:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -660,15 +660,17 @@
       "eventName": "Abu Dhabi T10 League",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/11/09 13:45:00 +0000",
+      "startTime": "2026/11/09 16:00:00 +0000",
       "endTime": "2026/11/09 18:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
       "WILLOW - FHD",
+      "PREMIER SPORTS",
       "WILLOW - ALT",
-      "A Sports FHD"
+      "A Sports FHD",
+      "MYCO LIVE HD"
     ],
     "formatsNew": [
       {
@@ -676,11 +678,19 @@
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
+        "title": "PREMIER SPORTS",
+        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
+      },
+      {
         "title": "WILLOW - ALT",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
         "title": "A Sports FHD",
+        "logo": ""
+      },
+      {
+        "title": "MYCO LIVE HD",
         "logo": ""
       }
     ]
@@ -732,11 +742,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "NBA TV HD"
+      "NBA LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "NBA TV HD",
+        "title": "NBA LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -760,11 +770,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "NBA Live HD"
+      "NBA LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "NBA Live HD",
+        "title": "NBA LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -788,11 +798,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "NBA LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "NBA LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -816,11 +826,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv NBA HD"
+      "NBA LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv NBA HD",
+        "title": "NBA LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -844,11 +854,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "FANCODE FHD",
       "NPL LIVE FHD",
       "STAR SPORTS HD",
       "FANCODE - IN"
     ],
     "formatsNew": [
+      {
+        "title": "FANCODE FHD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
       {
         "title": "NPL LIVE FHD",
         "logo": ""
@@ -1110,92 +1125,6 @@
     "formatsNew": [
       {
         "title": "Laliga Hypermotion ES",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50120,
-    "title": "Sri Lanka U-19 vs Afghanistan U-19",
-    "image": "o",
-    "cat": "Asia Cup",
-    "eventInfo": {
-      "teamA": "SL-U19",
-      "teamB": "AFG-U19",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/213106/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/213103/image",
-      "eventName": "Sri Lanka Under-19 vs Afghanistan Under-19",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/09 05:00:00 +0000",
-      "endTime": "2026/11/09 12:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "WILLOW FHD",
-      "PRIME VIDEO FHD",
-      "WILLOW ALT",
-      "SonyLiv (Asia)"
-    ],
-    "formatsNew": [
-      {
-        "title": "WILLOW FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "PRIME VIDEO FHD",
-        "logo": ""
-      },
-      {
-        "title": "WILLOW ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "SonyLiv (Asia)",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50121,
-    "title": "Bangladesh U-19 vs Malaysia U-19",
-    "image": "o",
-    "cat": "Asia Cup",
-    "eventInfo": {
-      "teamA": "BAN-U19",
-      "teamB": "MAS-U19",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/213099/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/505670/image",
-      "eventName": "Bangladesh Under-19 vs Malaysia Under-19",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/09 05:00:00 +0000",
-      "endTime": "2026/11/09 12:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "WILLOW FHD",
-      "PRIME VIDEO FHD",
-      "WILLOW ALT",
-      "SonyLiv (Asia)"
-    ],
-    "formatsNew": [
-      {
-        "title": "WILLOW FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "PRIME VIDEO FHD",
-        "logo": ""
-      },
-      {
-        "title": "WILLOW ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "SonyLiv (Asia)",
         "logo": ""
       }
     ]
