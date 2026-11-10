@@ -771,9 +771,9 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
       "eventName": "Abu Dhabi T10 League",
       "eventType": "null",
-      "isHot": "1",
-      "startTime": "2026/11/10 16:00:00 +0000",
-      "endTime": "2026/11/10 18:00:00 +0000"
+      "isHot": "0",
+      "startTime": "2026/11/11 13:45:00 +0000",
+      "endTime": "2026/11/11 18:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1301,11 +1301,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1442,11 +1452,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "PARAMOUNT+ FHD",
+      "FANCODE FHD",
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "FANCODE FHD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1470,11 +1495,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "PARAMOUNT+ FHD",
+      "CBS NETWORK",
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "CBS NETWORK",
+        "logo": ""
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1498,11 +1538,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "PARAMOUNT+ FHD",
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1526,11 +1576,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1554,123 +1614,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
         "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50123,
-    "title": "Pamplona vs Eibar",
-    "image": "o",
-    "cat": "Copa Del Rey 🇪🇸",
-    "eventInfo": {
-      "teamA": "Pamplona",
-      "teamB": "Eibar",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/263528/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2839/image",
-      "eventName": "Pamplona vs Eibar",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/10 18:00:00 +0000",
-      "endTime": "2026/11/10 20:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
+      },
       {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50124,
-    "title": "Anaitasuna vs Deportivo Alavés",
-    "image": "o",
-    "cat": "Copa Del Rey 🇪🇸",
-    "eventInfo": {
-      "teamA": "Anaitasuna",
-      "teamB": "Alavés",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/263773/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2885/image",
-      "eventName": "Anaitasuna vs Deportivo Alavés",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/10 18:00:00 +0000",
-      "endTime": "2026/11/10 20:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50125,
-    "title": "Real Madrid vs Paris",
-    "image": "o",
-    "cat": "UCL Womens",
-    "eventInfo": {
-      "teamA": "Real Madrid",
-      "teamB": "Paris",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/305051/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/264964/image",
-      "eventName": "Real Madrid vs Paris FC",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/10 17:45:00 +0000",
-      "endTime": "2026/11/10 19:50:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50126,
-    "title": "Hacken vs Chelsea",
-    "image": "o",
-    "cat": "UCL Womens",
-    "eventInfo": {
-      "teamA": "Häcken",
-      "teamB": "Chelsea",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1889/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/66768/image",
-      "eventName": "BK Häcken vs Chelsea",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/10 17:45:00 +0000",
-      "endTime": "2026/11/10 19:45:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
+        "title": "HD SERVER",
         "logo": ""
       }
     ]
@@ -1694,11 +1647,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TSN SPORTS FHD"
+      "TSN SPORTS FHD",
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
         "title": "TSN SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
@@ -1722,41 +1680,13 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TSN SPORTS FHD"
-    ],
-    "formatsNew": [
-      {
-        "title": "TSN SPORTS FHD",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50129,
-    "title": "Finland vs Japan",
-    "image": "o",
-    "cat": "IIHF World",
-    "eventInfo": {
-      "teamA": "Finland",
-      "teamB": "Japan",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/5728/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/22241/image",
-      "eventName": "Finland vs Japan",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/10 14:00:00 +0000",
-      "endTime": "2026/11/10 16:45:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
       "TSN SPORTS FHD",
       "DUDE Tv Live"
     ],
     "formatsNew": [
       {
         "title": "TSN SPORTS FHD",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+        "logo": ""
       },
       {
         "title": "DUDE Tv Live",
@@ -1765,32 +1695,27 @@
     ]
   },
   {
-    "id": 50130,
-    "title": "Czechia vs Germany",
+    "id": 50129,
+    "title": "Lagunas vs Real Jaen",
     "image": "o",
-    "cat": "IIHF World",
+    "cat": "Copa Del Rey 🇪🇸",
     "eventInfo": {
-      "teamA": "Czechia",
-      "teamB": "Germany",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/72454/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/5727/image",
-      "eventName": "Czechia vs Germany",
+      "teamA": "Cp Mijas",
+      "teamB": "Real Jaén",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/493345/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2841/image",
+      "eventName": "Cp Mijas Lagunas vs Real Jaén",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/11/10 14:00:00 +0000",
-      "endTime": "2026/11/10 16:45:00 +0000"
+      "startTime": "2026/11/10 19:00:00 +0000",
+      "endTime": "2026/11/10 21:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TSN SPORTS FHD",
       "DUDE Tv Live"
     ],
     "formatsNew": [
-      {
-        "title": "TSN SPORTS FHD",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
-      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
