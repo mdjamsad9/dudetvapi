@@ -228,8 +228,8 @@
       "eventName": "🥊 WWE NXT",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/11/11 01:00:00 +0000",
-      "endTime": "2026/11/11 02:45:00 +0000"
+      "startTime": "2026/11/18 01:00:00 +0000",
+      "endTime": "2026/11/18 02:45:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -563,8 +563,8 @@
       "eventType": "null",
       "eventBanner": "null",
       "isHot": "0",
-      "startTime": "2026/11/11 04:30:00 +0000",
-      "endTime": "2026/11/11 12:00:00 +0000"
+      "startTime": "2026/11/12 04:30:00 +0000",
+      "endTime": "2026/11/12 12:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -675,8 +675,8 @@
       "eventType": "null",
       "eventBanner": "https://wsrv.nl/?url=https://tikolu.net/i/qylaf",
       "isHot": "0",
-      "startTime": "2026/11/10 12:00:00 +0000",
-      "endTime": "2026/11/11 05:00:00 +0000"
+      "startTime": "2026/11/11 12:00:00 +0000",
+      "endTime": "2026/11/12 05:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -823,38 +823,56 @@
     ]
   },
   {
-    "id": 50055,
-    "title": "Sacramento Kings vs Orlando Magic",
+    "id": 50043,
+    "title": "Indiana Pacers vs Wizards",
     "image": "o",
     "cat": "NBA",
     "eventInfo": {
-      "teamA": "Kings",
-      "teamB": "Magic",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3413/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3437/image",
-      "eventName": "Sacramento Kings vs Orlando Magic",
+      "teamA": "Pacers",
+      "teamB": "Wizards",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3419/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3431/image",
+      "eventName": "Indiana Pacers vs Washington Wizards",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/11/11 03:00:00 +0000",
-      "endTime": "2026/11/11 06:00:00 +0000"
+      "startTime": "2026/11/12 00:00:00 +0000",
+      "endTime": "2026/11/12 03:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "NBA LEAGUEPASS FHD",
-      "DUDE Tv Live",
-      "NBA LIVE HD",
       "NBA LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "NBA LEAGUEPASS FHD",
+        "title": "NBA LIVE [FHD]",
         "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
+      }
+    ]
+  },
+  {
+    "id": 50044,
+    "title": "Knicks vs Cleveland Cavaliers",
+    "image": "o",
+    "cat": "NBA",
+    "eventInfo": {
+      "teamA": "Knicks",
+      "teamB": "Cavaliers",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3421/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3432/image",
+      "eventName": "New York Knicks vs Cleveland Cavaliers",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/11/12 00:00:00 +0000",
+      "endTime": "2026/11/12 03:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "NBA LIVE HD",
+      "NBA LIVE [FHD]"
+    ],
+    "formatsNew": [
       {
         "title": "NBA LIVE HD",
         "logo": ""
@@ -866,42 +884,111 @@
     ]
   },
   {
-    "id": 50056,
-    "title": "Portland Trail Blazers vs Thunder",
+    "id": 50048,
+    "title": "Toronto Raptors vs Boston Celtics",
     "image": "o",
     "cat": "NBA",
     "eventInfo": {
-      "teamA": "Trail Blazers",
-      "teamB": "Thunder",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3414/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3418/image",
-      "eventName": "Portland Trail Blazers vs Oklahoma City Thunder",
+      "teamA": "Raptors",
+      "teamB": "Celtics",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3433/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3422/image",
+      "eventName": "Toronto Raptors vs Boston Celtics",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/11/11 04:00:00 +0000",
-      "endTime": "2026/11/11 07:00:00 +0000"
+      "startTime": "2026/11/12 00:00:00 +0000",
+      "endTime": "2026/11/12 03:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "NBA LEAGUEPASS FHD",
-      "DUDE Tv Live",
-      "NBA LIVE HD",
       "NBA LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "NBA LEAGUEPASS FHD",
+        "title": "NBA LIVE [FHD]",
         "logo": ""
-      },
+      }
+    ]
+  },
+  {
+    "id": 50051,
+    "title": "Chicago Bulls vs San Antonio Spurs",
+    "image": "o",
+    "cat": "NBA",
+    "eventInfo": {
+      "teamA": "Bulls",
+      "teamB": "Spurs",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3409/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3429/image",
+      "eventName": "Chicago Bulls vs San Antonio Spurs",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/11/12 01:00:00 +0000",
+      "endTime": "2026/11/12 04:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "NBA LIVE [FHD]"
+    ],
+    "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "NBA LIVE [FHD]",
         "logo": ""
-      },
+      }
+    ]
+  },
+  {
+    "id": 50055,
+    "title": "Memphis Grizzlies vs Denver Nuggets",
+    "image": "o",
+    "cat": "NBA",
+    "eventInfo": {
+      "teamA": "Grizzlies",
+      "teamB": "Nuggets",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3415/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3417/image",
+      "eventName": "Memphis Grizzlies vs Denver Nuggets",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/11/12 01:00:00 +0000",
+      "endTime": "2026/11/12 04:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "NBA LIVE [FHD]"
+    ],
+    "formatsNew": [
       {
-        "title": "NBA LIVE HD",
+        "title": "NBA LIVE [FHD]",
         "logo": ""
-      },
+      }
+    ]
+  },
+  {
+    "id": 50056,
+    "title": "Milwaukee Bucks vs Lakers",
+    "image": "o",
+    "cat": "NBA",
+    "eventInfo": {
+      "teamA": "Bucks",
+      "teamB": "Lakers",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3410/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3427/image",
+      "eventName": "Milwaukee Bucks vs Los Angeles Lakers",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/11/12 01:00:00 +0000",
+      "endTime": "2026/11/12 04:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "NBA LIVE [FHD]"
+    ],
+    "formatsNew": [
       {
         "title": "NBA LIVE [FHD]",
         "logo": ""
@@ -1112,37 +1199,167 @@
     ]
   },
   {
-    "id": 50081,
-    "title": "Kings vs Nashville Predators",
+    "id": 50075,
+    "title": "Buffalo Sabres vs Lightning",
     "image": "o",
     "cat": "NHL",
     "eventInfo": {
-      "teamA": "Kings",
-      "teamB": "Predators",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3688/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3705/image",
-      "eventName": "Los Angeles Kings vs Nashville Predators",
+      "teamA": "Sabres",
+      "teamB": "Lightning",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3678/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3694/image",
+      "eventName": "Buffalo Sabres vs Tampa Bay Lightning",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/11/11 03:00:00 +0000",
-      "endTime": "2026/11/11 06:00:00 +0000"
+      "startTime": "2026/11/12 00:00:00 +0000",
+      "endTime": "2026/11/12 03:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "PREMIER SPORTS FHD",
-      "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "PREMIER SPORTS FHD",
+        "title": "NHL LIVE [FHD]",
         "logo": ""
-      },
+      }
+    ]
+  },
+  {
+    "id": 50076,
+    "title": "Calgary Flames vs New York Rangers",
+    "image": "o",
+    "cat": "NHL",
+    "eventInfo": {
+      "teamA": "Flames",
+      "teamB": "Rangers",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3679/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3701/image",
+      "eventName": "Calgary Flames vs New York Rangers",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/11/12 00:30:00 +0000",
+      "endTime": "2026/11/12 03:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "NHL LIVE [FHD]"
+    ],
+    "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "NHL LIVE [FHD]",
         "logo": ""
-      },
+      }
+    ]
+  },
+  {
+    "id": 50077,
+    "title": "Edmonton Oilers vs Philadelphia Flyers",
+    "image": "o",
+    "cat": "NHL",
+    "eventInfo": {
+      "teamA": "Oilers",
+      "teamB": "Flyers",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3686/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3699/image",
+      "eventName": "Edmonton Oilers vs Philadelphia Flyers",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/11/12 02:00:00 +0000",
+      "endTime": "2026/11/12 05:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "NHL LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "NHL LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50078,
+    "title": "Golden Knights vs Utah Mammoth",
+    "image": "o",
+    "cat": "NHL",
+    "eventInfo": {
+      "teamA": "Golden Knights",
+      "teamB": "Mammoth",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/257523/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/530472/image",
+      "eventName": "Vegas Golden Knights vs Utah Mammoth",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/11/12 02:30:00 +0000",
+      "endTime": "2026/11/12 05:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "NHL LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "NHL LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50079,
+    "title": "Anaheim Ducks vs Nashville Predators",
+    "image": "o",
+    "cat": "NHL",
+    "eventInfo": {
+      "teamA": "Ducks",
+      "teamB": "Predators",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3675/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3705/image",
+      "eventName": "Anaheim Ducks vs Nashville Predators",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/11/12 03:00:00 +0000",
+      "endTime": "2026/11/12 06:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "NHL LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "NHL LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50080,
+    "title": "Sharks vs Pittsburgh Penguins",
+    "image": "o",
+    "cat": "NHL",
+    "eventInfo": {
+      "teamA": "Sharks",
+      "teamB": "Penguins",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3696/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3697/image",
+      "eventName": "San Jose Sharks vs Pittsburgh Penguins",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/11/12 03:00:00 +0000",
+      "endTime": "2026/11/12 06:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "NHL LIVE [FHD]"
+    ],
+    "formatsNew": [
       {
         "title": "NHL LIVE [FHD]",
         "logo": ""
@@ -1751,90 +1968,95 @@
       "eventName": "Bangladesh vs Sri Lanka",
       "eventType": "null",
       "eventBanner": "null",
-      "isHot": "1",
+      "isHot": "0",
       "startTime": "2026/11/11 14:00:00 +0000",
       "endTime": "2026/11/11 16:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "MYCO TV FHD",
+      "BTV SPORTS FHD",
+      "DUDE Tv Live",
+      "TSPORTS HD",
+      "TSports HD"
     ],
     "formatsNew": [
       {
+        "title": "MYCO TV FHD",
+        "logo": ""
+      },
+      {
+        "title": "BTV SPORTS FHD",
+        "logo": ""
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "TSPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "TSports HD",
         "logo": ""
       }
     ]
   },
   {
     "id": 50132,
-    "title": "India vs Maldives",
+    "title": "Canada vs Finland",
     "image": "o",
-    "cat": "SAFF Championship",
+    "cat": "IIHF World",
     "eventInfo": {
-      "teamA": "India",
-      "teamB": "Maldives",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4828/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/6911/image",
-      "eventName": "India vs Maldives",
+      "teamA": "Canada",
+      "teamB": "Finland",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/5721/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/5728/image",
+      "eventName": "Canada vs Finland",
       "eventType": "null",
-      "isHot": "1",
-      "startTime": "2026/11/11 09:30:00 +0000",
-      "endTime": "2026/11/11 11:35:00 +0000"
+      "isHot": "0",
+      "startTime": "2026/11/11 14:00:00 +0000",
+      "endTime": "2026/11/11 16:45:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "MYCO FHD",
-      "VETO IN FHD",
-      "HD QUALITY",
-      "T SPORTS HD"
+      "TSN SPORTS FHD"
     ],
     "formatsNew": [
       {
-        "title": "MYCO FHD",
-        "logo": ""
-      },
-      {
-        "title": "VETO IN FHD",
-        "logo": ""
-      },
-      {
-        "title": "HD QUALITY",
-        "logo": ""
-      },
-      {
-        "title": "T SPORTS HD",
-        "logo": ""
+        "title": "TSN SPORTS FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
       }
     ]
   },
   {
     "id": 50133,
-    "title": "Vietnam vs Chinese Taipei",
+    "title": "Germany vs Switzerland",
     "image": "o",
-    "cat": "FIFA Friendlies",
+    "cat": "IIHF World",
     "eventInfo": {
-      "teamA": "Vietnam",
-      "teamB": "Chinese Taipei",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/7050/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/5937/image",
-      "eventName": "Vietnam vs Chinese Taipei",
+      "teamA": "Germany",
+      "teamB": "Switzerland",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/5727/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/5725/image",
+      "eventName": "Germany vs Switzerland",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/11/11 12:00:00 +0000",
-      "endTime": "2026/11/11 14:05:00 +0000"
+      "startTime": "2026/11/11 14:00:00 +0000",
+      "endTime": "2026/11/11 16:45:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "Default"
+      "TSN SPORTS FHD"
     ],
     "formatsNew": [
       {
-        "title": "Default",
-        "logo": ""
+        "title": "TSN SPORTS FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
       }
     ]
   }

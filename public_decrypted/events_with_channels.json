@@ -496,8 +496,8 @@
       "eventName": "🥊 WWE NXT",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/11/11 01:00:00 +0000",
-      "endTime": "2026/11/11 02:45:00 +0000"
+      "startTime": "2026/11/18 01:00:00 +0000",
+      "endTime": "2026/11/18 02:45:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1149,8 +1149,8 @@
       "eventType": "null",
       "eventBanner": "null",
       "isHot": "0",
-      "startTime": "2026/11/11 04:30:00 +0000",
-      "endTime": "2026/11/11 12:00:00 +0000"
+      "startTime": "2026/11/12 04:30:00 +0000",
+      "endTime": "2026/11/12 12:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1379,8 +1379,8 @@
       "eventType": "null",
       "eventBanner": "https://wsrv.nl/?url=https://tikolu.net/i/qylaf",
       "isHot": "0",
-      "startTime": "2026/11/10 12:00:00 +0000",
-      "endTime": "2026/11/11 05:00:00 +0000"
+      "startTime": "2026/11/11 12:00:00 +0000",
+      "endTime": "2026/11/12 05:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1635,8 +1635,8 @@
     ],
     "decoded_channels": [
       {
-        "api": "0eaeb634595bb3f64991e455815b9c45:a8037691d9faa4c8ae58cc021e52cb63",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cdfjxdswmz/out/v1/1e629cb7a52f440f94cbf2758e2316f9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "1e9def1e0c216818e8edc06ce10d25c9:4743d779da68303948a6e7e18fc77056",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q6p7ehxwmc/out/v1/64ff7b94fefb4ec4b838bc86e9b32bda/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW - FHD",
         "type": "1"
@@ -1649,8 +1649,8 @@
         "type": "1"
       },
       {
-        "api": "c86f21d47ee98bfb22dfd0284f42c25f:ed0504f6bc8dae781fcb2e4520e858a9",
-        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/matrf5qsgb/out/v1/820fd242a0db4693bff1ead95eeea258/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "1e9def1e0c216818e8edc06ce10d25c9:4743d779da68303948a6e7e18fc77056",
+        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/q6p7ehxwmc/out/v1/64ff7b94fefb4ec4b838bc86e9b32bda/cenc.mpd",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW - ALT",
         "type": "1"
@@ -1673,38 +1673,87 @@
     "channel_status": "live"
   },
   {
-    "id": 50055,
-    "title": "Sacramento Kings vs Orlando Magic",
+    "id": 50043,
+    "title": "Indiana Pacers vs Wizards",
     "image": "o",
     "cat": "NBA",
     "eventInfo": {
-      "teamA": "Kings",
-      "teamB": "Magic",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3413/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3437/image",
-      "eventName": "Sacramento Kings vs Orlando Magic",
+      "teamA": "Pacers",
+      "teamB": "Wizards",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3419/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3431/image",
+      "eventName": "Indiana Pacers vs Washington Wizards",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/11/11 03:00:00 +0000",
-      "endTime": "2026/11/11 06:00:00 +0000"
+      "startTime": "2026/11/12 00:00:00 +0000",
+      "endTime": "2026/11/12 03:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "NBA LEAGUEPASS FHD",
-      "DUDE Tv Live",
-      "NBA LIVE HD",
       "NBA LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "NBA LEAGUEPASS FHD",
+        "title": "NBA LIVE [FHD]",
         "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "55c305619e62c36b074d56a10840de9c:3f06c182e2bd31ae980bd374a4e11ee4",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hyjnsjvtkw/out/v1/0eb537a3468e4df69fd9ffd025d0272a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "NBA LEAGUEPASS FHD",
+        "type": "1"
       },
       {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/59789/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+        "logo": "",
         "title": "DUDE Tv Live",
-        "logo": ""
+        "type": "0"
       },
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/59778/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "NBA LIVE HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://taifood-blog.asia/embed/nba/2026-11-10/mil-ny",
+        "logo": "",
+        "title": "NBA LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "cached"
+  },
+  {
+    "id": 50044,
+    "title": "Knicks vs Cleveland Cavaliers",
+    "image": "o",
+    "cat": "NBA",
+    "eventInfo": {
+      "teamA": "Knicks",
+      "teamB": "Cavaliers",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3421/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3432/image",
+      "eventName": "New York Knicks vs Cleveland Cavaliers",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/11/12 00:00:00 +0000",
+      "endTime": "2026/11/12 03:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "NBA LIVE HD",
+      "NBA LIVE [FHD]"
+    ],
+    "formatsNew": [
       {
         "title": "NBA LIVE HD",
         "logo": ""
@@ -1716,30 +1765,147 @@
     ],
     "decoded_channels": [
       {
-        "api": "bebdeb3775a9c387af2b8573e17f20e6:bbca2d97e65bc204121527d2492e43ed",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hmrjau1hzb/out/v1/cabb979a9f6c416597440ea449361d32/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/59788/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+        "title": "NBA LIVE HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://taifood-blog.asia/embed/nba/2026-11-10/bos-phi",
+        "title": "NBA LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50048,
+    "title": "Toronto Raptors vs Boston Celtics",
+    "image": "o",
+    "cat": "NBA",
+    "eventInfo": {
+      "teamA": "Raptors",
+      "teamB": "Celtics",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3433/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3422/image",
+      "eventName": "Toronto Raptors vs Boston Celtics",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/11/12 00:00:00 +0000",
+      "endTime": "2026/11/12 03:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "NBA LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "NBA LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://taifood-blog.asia/embed/nba/2026-11-10/lac-phx",
+        "title": "NBA LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50051,
+    "title": "Chicago Bulls vs San Antonio Spurs",
+    "image": "o",
+    "cat": "NBA",
+    "eventInfo": {
+      "teamA": "Bulls",
+      "teamB": "Spurs",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3409/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3429/image",
+      "eventName": "Chicago Bulls vs San Antonio Spurs",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/11/12 01:00:00 +0000",
+      "endTime": "2026/11/12 04:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "NBA LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "NBA LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "574ddd19ae266a2459313072fd88a271:6e36225ffed3834d1fb3c763b97f8d3b",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ylfaoxv8jf/out/v1/bc51e05df44d4a9ca5990fb2699d54da/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "",
         "title": "NBA LEAGUEPASS FHD",
         "type": "1"
       },
       {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/59810/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+        "link": "https://chatgpt.hereisman.net/playlist/59802/load-playlist-multi?|Referer=https://gooz.aapmains.net",
         "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/59812/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+        "link": "https://chatgpt.hereisman.net/playlist/59803/load-playlist-multi?|Referer=https://gooz.aapmains.net",
         "logo": "",
         "title": "NBA LIVE HD",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://taifood-blog.asia/embed/nba/2026-11-10/orl-sac",
+        "link": "https://taifood-blog.asia/embed/nba/2026-11-10/mia-utah",
         "logo": "",
+        "title": "NBA LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "cached"
+  },
+  {
+    "id": 50055,
+    "title": "Memphis Grizzlies vs Denver Nuggets",
+    "image": "o",
+    "cat": "NBA",
+    "eventInfo": {
+      "teamA": "Grizzlies",
+      "teamB": "Nuggets",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3415/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3417/image",
+      "eventName": "Memphis Grizzlies vs Denver Nuggets",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/11/12 01:00:00 +0000",
+      "endTime": "2026/11/12 04:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "NBA LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "NBA LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://taifood-blog.asia/embed/nba/2026-11-10/orl-sac",
         "title": "NBA LIVE [FHD]",
         "type": "2"
       }
@@ -1748,41 +1914,26 @@
   },
   {
     "id": 50056,
-    "title": "Portland Trail Blazers vs Thunder",
+    "title": "Milwaukee Bucks vs Lakers",
     "image": "o",
     "cat": "NBA",
     "eventInfo": {
-      "teamA": "Trail Blazers",
-      "teamB": "Thunder",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3414/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3418/image",
-      "eventName": "Portland Trail Blazers vs Oklahoma City Thunder",
+      "teamA": "Bucks",
+      "teamB": "Lakers",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3410/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3427/image",
+      "eventName": "Milwaukee Bucks vs Los Angeles Lakers",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/11/11 04:00:00 +0000",
-      "endTime": "2026/11/11 07:00:00 +0000"
+      "startTime": "2026/11/12 01:00:00 +0000",
+      "endTime": "2026/11/12 04:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "NBA LEAGUEPASS FHD",
-      "DUDE Tv Live",
-      "NBA LIVE HD",
       "NBA LIVE [FHD]"
     ],
     "formatsNew": [
-      {
-        "title": "NBA LEAGUEPASS FHD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "NBA LIVE HD",
-        "logo": ""
-      },
       {
         "title": "NBA LIVE [FHD]",
         "logo": ""
@@ -1790,30 +1941,8 @@
     ],
     "decoded_channels": [
       {
-        "api": "493941d0e9286e1938b282b22a2aa5b5:7a6efbc41dc4bf672d069cd33d4d5812",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsm8axafg5/out/v1/02f930af80e84a9fb8040e478da6e252/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "NBA LEAGUEPASS FHD",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/59813/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/59814/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "NBA LIVE HD",
-        "type": "0"
-      },
-      {
         "api": "",
         "link": "https://taifood-blog.asia/embed/nba/2026-11-10/okc-por",
-        "logo": "",
         "title": "NBA LIVE [FHD]",
         "type": "2"
       },
@@ -2160,37 +2289,27 @@
     "channel_status": "live"
   },
   {
-    "id": 50081,
-    "title": "Kings vs Nashville Predators",
+    "id": 50075,
+    "title": "Buffalo Sabres vs Lightning",
     "image": "o",
     "cat": "NHL",
     "eventInfo": {
-      "teamA": "Kings",
-      "teamB": "Predators",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3688/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3705/image",
-      "eventName": "Los Angeles Kings vs Nashville Predators",
+      "teamA": "Sabres",
+      "teamB": "Lightning",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3678/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3694/image",
+      "eventName": "Buffalo Sabres vs Tampa Bay Lightning",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/11/11 03:00:00 +0000",
-      "endTime": "2026/11/11 06:00:00 +0000"
+      "startTime": "2026/11/12 00:00:00 +0000",
+      "endTime": "2026/11/12 03:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "PREMIER SPORTS FHD",
-      "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
-      {
-        "title": "PREMIER SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
       {
         "title": "NHL LIVE [FHD]",
         "logo": ""
@@ -2198,28 +2317,236 @@
     ],
     "decoded_channels": [
       {
-        "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
+        "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
         "title": "PREMIER SPORTS FHD",
         "type": "1"
       },
       {
+        "api": "fa23a7c0d9c82f0c7b113506e202af8c:a883237ef30932b731f71aa59a0805c0",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ttguqv2dus/out/v1/10e708fa029549e8807c7a35f4740adf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+        "title": "SKY SPORTS MIX",
+        "type": "1"
+      },
+      {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/59809/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+        "link": "https://chatgpt.hereisman.net/playlist/59768/load-playlist-multi?|Referer=https://gooz.aapmains.net",
         "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://taifood-blog.asia/embed/nhl/2026-11-07/sj-dal",
+        "link": "https://taifood-blog.asia/embed/nhl/2026-11-09/nyr-edm",
         "logo": "",
         "title": "NHL LIVE [FHD]",
         "type": "2"
       }
     ],
+    "channel_status": "cached"
+  },
+  {
+    "id": 50076,
+    "title": "Calgary Flames vs New York Rangers",
+    "image": "o",
+    "cat": "NHL",
+    "eventInfo": {
+      "teamA": "Flames",
+      "teamB": "Rangers",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3679/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3701/image",
+      "eventName": "Calgary Flames vs New York Rangers",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/11/12 00:30:00 +0000",
+      "endTime": "2026/11/12 03:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "NHL LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "NHL LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://taifood-blog.asia/embed/nhl/2026-11-09/phi-van",
+        "title": "NHL LIVE [FHD]",
+        "type": "2"
+      }
+    ],
     "channel_status": "live"
+  },
+  {
+    "id": 50077,
+    "title": "Edmonton Oilers vs Philadelphia Flyers",
+    "image": "o",
+    "cat": "NHL",
+    "eventInfo": {
+      "teamA": "Oilers",
+      "teamB": "Flyers",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3686/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3699/image",
+      "eventName": "Edmonton Oilers vs Philadelphia Flyers",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/11/12 02:00:00 +0000",
+      "endTime": "2026/11/12 05:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "NHL LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "NHL LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://taifood-blog.asia/embed/nhl/2026-11-09/nyi-sj",
+        "title": "NHL LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50078,
+    "title": "Golden Knights vs Utah Mammoth",
+    "image": "o",
+    "cat": "NHL",
+    "eventInfo": {
+      "teamA": "Golden Knights",
+      "teamB": "Mammoth",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/257523/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/530472/image",
+      "eventName": "Vegas Golden Knights vs Utah Mammoth",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/11/12 02:30:00 +0000",
+      "endTime": "2026/11/12 05:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "NHL LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "NHL LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/59759/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://taifood-blog.asia/embed/nhl/2026-11-07/uta-ott",
+        "logo": "",
+        "title": "NHL LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "cached"
+  },
+  {
+    "id": 50079,
+    "title": "Anaheim Ducks vs Nashville Predators",
+    "image": "o",
+    "cat": "NHL",
+    "eventInfo": {
+      "teamA": "Ducks",
+      "teamB": "Predators",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3675/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3705/image",
+      "eventName": "Anaheim Ducks vs Nashville Predators",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/11/12 03:00:00 +0000",
+      "endTime": "2026/11/12 06:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "NHL LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "NHL LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://taifood-blog.asia/embed/nhl/2026-11-07/mtl-tor",
+        "title": "NHL LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "cached"
+  },
+  {
+    "id": 50080,
+    "title": "Sharks vs Pittsburgh Penguins",
+    "image": "o",
+    "cat": "NHL",
+    "eventInfo": {
+      "teamA": "Sharks",
+      "teamB": "Penguins",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3696/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3697/image",
+      "eventName": "San Jose Sharks vs Pittsburgh Penguins",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/11/12 03:00:00 +0000",
+      "endTime": "2026/11/12 06:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "NHL LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "NHL LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/59784/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://taifood-blog.asia/embed/nhl/2026-11-07/chi-car",
+        "logo": "",
+        "title": "NHL LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "cached"
   },
   {
     "id": 50082,
@@ -3213,204 +3540,152 @@
       "eventName": "Bangladesh vs Sri Lanka",
       "eventType": "null",
       "eventBanner": "null",
-      "isHot": "1",
+      "isHot": "0",
       "startTime": "2026/11/11 14:00:00 +0000",
       "endTime": "2026/11/11 16:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "MYCO TV FHD",
+      "BTV SPORTS FHD",
+      "DUDE Tv Live",
+      "TSPORTS HD",
+      "TSports HD"
     ],
     "formatsNew": [
       {
+        "title": "MYCO TV FHD",
+        "logo": ""
+      },
+      {
+        "title": "BTV SPORTS FHD",
+        "logo": ""
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "TSPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "TSports HD",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
-        "id": 1,
-        "title": "DAZN ENGLISH FHD",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7zd8uemujv/out/v1/7cb02f7f84f3457b9124219ae3dcc112/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "api": "c4dd0db0b72637863e1d5c3e2c5bf2cd:7643ae2a8c5319261c513e2887f7350d",
-        "type": "1",
-        "webLink": "",
-        "defaultLanguage": "",
-        "geo": "ALL",
-        "quality": ""
-      },
-      {
-        "id": 1,
-        "title": "PEACOCK ES FHD",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5ebzbf3udt/out/v1/6d939fc4c9124732a031ec455788b8ae/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "api": "eaab90e333773b6ff0790199dda4036b:6ce3fe4260142f675847557382e28a41",
-        "type": "1",
-        "webLink": "",
-        "defaultLanguage": "",
-        "geo": "ALL",
-        "quality": ""
-      },
-      {
-        "id": 1,
-        "title": "DAZN DE FHD",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/co8ff7jxfh/out/v1/3acaab61e726485ca35f8ada51c46555/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "api": "4ef679ef8a265c7c3f45f0f2fa337e88:14441c42a217b3b915ba80c1dd93b975",
-        "type": "1",
-        "webLink": "",
-        "defaultLanguage": "",
-        "geo": "ALL",
-        "quality": ""
-      },
-      {
-        "id": 1,
-        "title": "SporTV BR FHD",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "api": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
-        "type": "1",
-        "webLink": "",
-        "defaultLanguage": "",
-        "geo": "ALL",
-        "quality": ""
-      },
-      {
-        "id": 1,
-        "title": "LOW QUALITY ",
-        "link": "http://193.47.62.44/hls/O777AAAAAQQQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
         "api": "",
-        "type": "0",
-        "webLink": "",
-        "defaultLanguage": "",
-        "geo": "ALL",
-        "quality": ""
+        "link": "https://ml-pull-rtmp-pk1.myco.io/SAFF2026/hls/26113.m3u8|referer=https://myco.io/",
+        "logo": "",
+        "title": "MYCO TV FHD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8",
+        "logo": "",
+        "title": "BTV SPORTS FHD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://live2.jorvakstreamcache.com/live/channel14.m3u8?|Referer=https://xlz.domainkqt.cc/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://80.97.161.64/m/soccer/manifest.spf?exp=2109765797&t=2978f9a1d6277b1a5a4d74966ddcadca&e=.m3u8?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "TSPORTS HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8",
+        "logo": "",
+        "title": "TSports HD",
+        "type": "0"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50132,
-    "title": "India vs Maldives",
+    "title": "Canada vs Finland",
     "image": "o",
-    "cat": "SAFF Championship",
+    "cat": "IIHF World",
     "eventInfo": {
-      "teamA": "India",
-      "teamB": "Maldives",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4828/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/6911/image",
-      "eventName": "India vs Maldives",
+      "teamA": "Canada",
+      "teamB": "Finland",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/5721/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/5728/image",
+      "eventName": "Canada vs Finland",
       "eventType": "null",
-      "isHot": "1",
-      "startTime": "2026/11/11 09:30:00 +0000",
-      "endTime": "2026/11/11 11:35:00 +0000"
+      "isHot": "0",
+      "startTime": "2026/11/11 14:00:00 +0000",
+      "endTime": "2026/11/11 16:45:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "MYCO FHD",
-      "VETO IN FHD",
-      "HD QUALITY",
-      "T SPORTS HD"
+      "TSN SPORTS FHD"
     ],
     "formatsNew": [
       {
-        "title": "MYCO FHD",
-        "logo": ""
-      },
-      {
-        "title": "VETO IN FHD",
-        "logo": ""
-      },
-      {
-        "title": "HD QUALITY",
-        "logo": ""
-      },
-      {
-        "title": "T SPORTS HD",
-        "logo": ""
+        "title": "TSN SPORTS FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
       }
     ],
     "decoded_channels": [
       {
-        "id": 1,
-        "title": "MYCO FHD",
-        "link": "https://ml-pull-rtmp-pk1.myco.io/SAFF2026/hls/26113.m3u8|referer=https://myco.io/",
-        "api": "",
-        "type": "0",
-        "webLink": "",
-        "defaultLanguage": "",
-        "geo": "ALL",
-        "quality": ""
-      },
-      {
-        "id": 1,
-        "title": "VETO IN FHD",
-        "link": "https://vetointv.akamaized.net/Dreamboat-CH01/master.m3u8",
-        "api": "",
-        "type": "0",
-        "webLink": "",
-        "defaultLanguage": "",
-        "geo": "ALL",
-        "quality": ""
-      },
-      {
-        "id": 1,
-        "title": "HD QUALITY",
-        "link": "https://live2.jorvakstreamcache.com/live/channel4.m3u8?|Referer=https://xlz.domainkqt.cc/",
-        "api": "",
-        "type": "0",
-        "webLink": "",
-        "defaultLanguage": "",
-        "geo": "ALL",
-        "quality": ""
-      },
-      {
-        "id": 1,
-        "title": "T SPORTS HD",
-        "link": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8",
-        "api": "",
-        "type": "0",
-        "webLink": "",
-        "defaultLanguage": "",
-        "geo": "ALL",
-        "quality": ""
+        "api": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+        "title": "TSN SPORTS FHD",
+        "type": "1"
       }
     ],
     "channel_status": "live"
   },
   {
     "id": 50133,
-    "title": "Vietnam vs Chinese Taipei",
+    "title": "Germany vs Switzerland",
     "image": "o",
-    "cat": "FIFA Friendlies",
+    "cat": "IIHF World",
     "eventInfo": {
-      "teamA": "Vietnam",
-      "teamB": "Chinese Taipei",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/7050/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/5937/image",
-      "eventName": "Vietnam vs Chinese Taipei",
+      "teamA": "Germany",
+      "teamB": "Switzerland",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/5727/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/5725/image",
+      "eventName": "Germany vs Switzerland",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/11/11 12:00:00 +0000",
-      "endTime": "2026/11/11 14:05:00 +0000"
+      "startTime": "2026/11/11 14:00:00 +0000",
+      "endTime": "2026/11/11 16:45:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "Default"
+      "TSN SPORTS FHD"
     ],
     "formatsNew": [
       {
-        "title": "Default",
-        "logo": ""
+        "title": "TSN SPORTS FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
       }
     ],
     "decoded_channels": [
       {
-        "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-        "logo": "",
-        "title": "Default",
-        "type": "0"
+        "api": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+        "title": "TSN SPORTS FHD",
+        "type": "1"
       }
     ],
     "channel_status": "live"
