@@ -246,18 +246,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "WILLOW FHD",
-      "WILLOW ALT",
+      "WILLOW - FHD",
+      "WILLOW - ALT",
+      "ATN SPORTS FHD",
       "A SPORTS HD",
+      "ATN SPORTS HD",
+      "TAPMAD - FHD",
+      "TAMASHA (PAK)",
       "FANCODE (IND)"
     ],
     "formatsNew": [
       {
-        "title": "WILLOW FHD",
-        "logo": ""
+        "title": "WILLOW - FHD",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
-        "title": "WILLOW ALT",
+        "title": "WILLOW - ALT",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "ATN SPORTS FHD",
         "logo": ""
       },
       {
@@ -265,8 +273,20 @@
         "logo": ""
       },
       {
-        "title": "FANCODE (IND)",
+        "title": "ATN SPORTS HD",
         "logo": ""
+      },
+      {
+        "title": "TAPMAD - FHD",
+        "logo": ""
+      },
+      {
+        "title": "TAMASHA (PAK)",
+        "logo": ""
+      },
+      {
+        "title": "FANCODE (IND)",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       }
     ]
   },
@@ -456,74 +476,6 @@
     ]
   },
   {
-    "id": 50013,
-    "title": "Cincinnati Bengals",
-    "image": "o",
-    "cat": "NFL",
-    "eventInfo": {
-      "teamA": "Bengals",
-      "teamB": "Steelers",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4416/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4345/image",
-      "eventName": "Cincinnati Bengals vs Pittsburgh Steelers",
-      "eventType": "null",
-      "isHot": "1",
-      "startTime": "2026/11/16 01:20:00 +0000",
-      "endTime": "2026/11/16 04:45:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "NFL GAMEPASS FHD",
-      "PEACOCK TV FHD",
-      "NBC SPORTS FHD",
-      "TSN SPORTS FHD",
-      "SKY TOP EVENT",
-      "SporTV BR FHD",
-      "DUDE Tv Live",
-      "DUDE Tv NFL HD",
-      "NFL LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "NFL GAMEPASS FHD",
-        "logo": ""
-      },
-      {
-        "title": "PEACOCK TV FHD",
-        "logo": ""
-      },
-      {
-        "title": "NBC SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "TSN SPORTS FHD",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
-      },
-      {
-        "title": "SKY TOP EVENT",
-        "logo": ""
-      },
-      {
-        "title": "SporTV BR FHD",
-        "logo": "https://iili.io/CFFRvqJ.png"
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv NFL HD",
-        "logo": ""
-      },
-      {
-        "title": "NFL LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50019,
     "title": "ATP 250",
     "image": "o",
@@ -546,7 +498,8 @@
       "ATP 250 FHD",
       "WTA FINALS FHD",
       "SKY SPORT TENNIS",
-      "TENNIS CHANNEL 2"
+      "TENNIS CHANNEL 2",
+      "TSN SPORTS FHD"
     ],
     "formatsNew": [
       {
@@ -564,6 +517,10 @@
       {
         "title": "TENNIS CHANNEL 2",
         "logo": ""
+      },
+      {
+        "title": "TSN SPORTS FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
       }
     ]
   },
@@ -685,125 +642,6 @@
       },
       {
         "title": "MYCO HD",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50051,
-    "title": "Washington Wizards vs Houston Rockets",
-    "image": "o",
-    "cat": "NBA",
-    "eventInfo": {
-      "teamA": "Wizards",
-      "teamB": "Rockets",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3431/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3412/image",
-      "eventName": "Washington Wizards vs Houston Rockets",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/16 00:00:00 +0000",
-      "endTime": "2026/11/16 03:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "NBA LEAGUEPASS FHD",
-      "DUDE Tv Live",
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "NBA LEAGUEPASS FHD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50055,
-    "title": "Milwaukee Bucks vs Atlanta Hawks",
-    "image": "o",
-    "cat": "NBA",
-    "eventInfo": {
-      "teamA": "Bucks",
-      "teamB": "Hawks",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3410/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3423/image",
-      "eventName": "Milwaukee Bucks vs Atlanta Hawks",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/16 01:00:00 +0000",
-      "endTime": "2026/11/16 04:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "NBA LEAGUEPASS FHD",
-      "DUDE Tv Live",
-      "NBA LIVE HD"
-    ],
-    "formatsNew": [
-      {
-        "title": "NBA LEAGUEPASS FHD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "NBA LIVE HD",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50056,
-    "title": "Sacramento Kings vs Thunder",
-    "image": "o",
-    "cat": "NBA",
-    "eventInfo": {
-      "teamA": "Kings",
-      "teamB": "Thunder",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3413/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3418/image",
-      "eventName": "Sacramento Kings vs Oklahoma City Thunder",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/16 02:00:00 +0000",
-      "endTime": "2026/11/16 05:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "NBA LEAGUPASS FHD",
-      "DUDE Tv Live",
-      "NBA LIVE HD",
-      "NBA LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "NBA LEAGUPASS FHD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "NBA LIVE HD",
-        "logo": ""
-      },
-      {
-        "title": "NBA LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -935,7 +773,6 @@
     "formats": [
       "WILLOW - FHD",
       "WILLOW - AdFree",
-      "SKY CRICKET FHD",
       "WILLOW - ALT",
       "TAPMAD - FHD",
       "WILLOW HD",
@@ -948,11 +785,7 @@
       },
       {
         "title": "WILLOW - AdFree",
-        "logo": ""
-      },
-      {
-        "title": "SKY CRICKET FHD",
-        "logo": ""
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
         "title": "WILLOW - ALT",
@@ -968,171 +801,6 @@
       },
       {
         "title": "LOW QUALITY",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50075,
-    "title": "Philadelphia Flyers vs Edmonton Oilers",
-    "image": "o",
-    "cat": "NHL",
-    "eventInfo": {
-      "teamA": "Flyers",
-      "teamB": "Oilers",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3699/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3686/image",
-      "eventName": "Philadelphia Flyers vs Edmonton Oilers",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/16 00:30:00 +0000",
-      "endTime": "2026/11/16 03:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "NHL LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "NHL LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50076,
-    "title": "Anaheim Ducks vs Calgary Flames",
-    "image": "o",
-    "cat": "NHL",
-    "eventInfo": {
-      "teamA": "Ducks",
-      "teamB": "Flames",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3675/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3679/image",
-      "eventName": "Anaheim Ducks vs Calgary Flames",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/16 01:00:00 +0000",
-      "endTime": "2026/11/16 04:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "NHL LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "NHL LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50077,
-    "title": "Dallas Stars vs Florida Panthers",
-    "image": "o",
-    "cat": "NHL",
-    "eventInfo": {
-      "teamA": "Stars",
-      "teamB": "Panthers",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3684/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3687/image",
-      "eventName": "Dallas Stars vs Florida Panthers",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/16 01:00:00 +0000",
-      "endTime": "2026/11/16 04:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "NHL LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "NHL LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50078,
-    "title": "Sharks vs Nashville Predators",
-    "image": "o",
-    "cat": "NHL",
-    "eventInfo": {
-      "teamA": "Sharks",
-      "teamB": "Predators",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3696/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3705/image",
-      "eventName": "San Jose Sharks vs Nashville Predators",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/16 02:00:00 +0000",
-      "endTime": "2026/11/16 05:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "NHL LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "NHL LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50081,
-    "title": "Knights vs Vancouver Canucks",
-    "image": "o",
-    "cat": "NHL",
-    "eventInfo": {
-      "teamA": "Golden Knights",
-      "teamB": "Canucks",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/257523/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3692/image",
-      "eventName": "Vegas Golden Knights vs Vancouver Canucks",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/16 02:00:00 +0000",
-      "endTime": "2026/11/16 05:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "NHL LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "NHL LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1441,23 +1109,53 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/187744/image",
       "eventName": "South Africa vs Bangladesh",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/11/16 08:00:00 +0000",
       "endTime": "2026/11/16 16:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "WILLOW - AdFree",
+      "WILLOW - FHD",
       "FANCODE FHD",
-      "WILLOW - HD"
+      "SKY CRICKET FHD",
+      "WILLOW - ALT",
+      "FANCODE - SD",
+      "T SPORTS HD",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "WILLOW - AdFree",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "WILLOW - FHD",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
         "title": "FANCODE FHD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
+      {
+        "title": "SKY CRICKET FHD",
         "logo": ""
       },
       {
-        "title": "WILLOW - HD",
+        "title": "WILLOW - ALT",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "FANCODE - SD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
+      {
+        "title": "T SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1847,63 +1545,70 @@
     ]
   },
   {
-    "id": 50132,
-    "title": "Bangladesh W vs Netherlands W",
-    "image": "o",
-    "cat": "Cricket",
-    "eventInfo": {
-      "teamA": "Bangladesh Women",
-      "teamB": "Netherlands Women",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187809/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/417753/image",
-      "eventName": "Bangladesh Women vs Netherlands Women",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/16 05:00:00 +0000",
-      "endTime": "2026/11/16 08:45:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "Default"
-    ],
-    "formatsNew": [
-      {
-        "title": "Default",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50133,
-    "title": "Zimbabwe W vs Pakistan W",
-    "image": "o",
-    "cat": "Cricket",
-    "eventInfo": {
-      "teamA": "Zimbabwe Women",
-      "teamB": "Pakistan Women",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/417062/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187808/image",
-      "eventName": "Zimbabwe Women vs Pakistan Women",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/16 05:00:00 +0000",
-      "endTime": "2026/11/16 08:45:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "Default"
-    ],
-    "formatsNew": [
-      {
-        "title": "Default",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50134,
+    "title": "GOLF EVENTO vs GOLF EVENTO",
+    "image": "o",
+    "cat": "Golf",
+    "eventInfo": {
+      "teamA": "GOLF EVENTO",
+      "teamB": "GOLF EVENTO",
+      "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
+      "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
+      "eventName": "GOLF EVENTO vs GOLF EVENTO",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/11/16 02:35:00 +0000",
+      "endTime": "2026/11/16 09:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SKY GOLF - FHD",
+      "SKY GOLF ALT",
+      "Golf Channel - HD",
+      "Golf Open de Espana",
+      "Golf PGA Open",
+      "SONY TEN 720P",
+      "SONY TEN SD",
+      "XTREME FHD + GOLF"
+    ],
+    "formatsNew": [
+      {
+        "title": "SKY GOLF - FHD",
+        "logo": ""
+      },
+      {
+        "title": "SKY GOLF ALT",
+        "logo": ""
+      },
+      {
+        "title": "Golf Channel - HD",
+        "logo": ""
+      },
+      {
+        "title": "Golf Open de Espana",
+        "logo": ""
+      },
+      {
+        "title": "Golf PGA Open",
+        "logo": ""
+      },
+      {
+        "title": "SONY TEN 720P",
+        "logo": ""
+      },
+      {
+        "title": "SONY TEN SD",
+        "logo": ""
+      },
+      {
+        "title": "XTREME FHD + GOLF",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50135,
     "title": "UAE Women vs Sri Lanka Women",
     "image": "o",
     "cat": "Cricket",
@@ -1912,7 +1617,7 @@
       "teamB": "Sri Lanka Women",
       "teamAFlag": "https://img.sofascore.com/api/v1/team/291494/image",
       "teamBFlag": "https://img.sofascore.com/api/v1/team/187806/image",
-      "eventName": "UAE Women vs Sri Lanka Women",
+      "eventName": "United Arab Emirates Women vs Sri Lanka Women",
       "eventType": "null",
       "isHot": "0",
       "startTime": "2026/11/16 09:15:00 +0000",
@@ -1921,23 +1626,23 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "Default"
+      "ICC TV FHD"
     ],
     "formatsNew": [
       {
-        "title": "Default",
+        "title": "ICC TV FHD",
         "logo": ""
       }
     ]
   },
   {
-    "id": 50135,
+    "id": 50136,
     "title": "Ireland Women vs PNG Women",
     "image": "o",
     "cat": "Cricket",
     "eventInfo": {
       "teamA": "Ireland Women",
-      "teamB": "PNG Women",
+      "teamB": "Papua New Guinea Women",
       "teamAFlag": "https://img.sofascore.com/api/v1/team/213116/image",
       "teamBFlag": "https://img.sofascore.com/api/v1/team/453165/image",
       "eventName": "Ireland Women vs Papua New Guinea Women",
@@ -1949,11 +1654,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "Default"
+      "ICC TV FHD"
     ],
     "formatsNew": [
       {
-        "title": "Default",
+        "title": "ICC TV FHD",
         "logo": ""
       }
     ]
