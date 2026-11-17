@@ -450,163 +450,6 @@
     "channel_status": "live"
   },
   {
-    "id": 50007,
-    "title": "Afghanistan vs Zimbabwe",
-    "image": "o",
-    "cat": "Cricket",
-    "eventInfo": {
-      "teamA": "AFG",
-      "teamB": "ZIM",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187575/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187745/image",
-      "eventName": "Afghanistan vs Zimbabwe",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/17 06:00:00 +0000",
-      "endTime": "2026/11/17 14:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "WILLOW - FHD",
-      "WILLOW - ALT",
-      "ATN SPORTS FHD",
-      "A SPORTS HD",
-      "ATN SPORTS HD",
-      "TAPMAD - FHD",
-      "TAMASHA (PAK)",
-      "FANCODE (IND)"
-    ],
-    "formatsNew": [
-      {
-        "title": "WILLOW - FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "WILLOW - ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "ATN SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "A SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "ATN SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "TAPMAD - FHD",
-        "logo": ""
-      },
-      {
-        "title": "TAMASHA (PAK)",
-        "logo": ""
-      },
-      {
-        "title": "FANCODE (IND)",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "d3253db6835efda5d3dc41409d9cf6c5:f4e9b34903385fdb07bca75e4f0be40b",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vonyh71f7z/out/v1/cba5383903864de3b9477ea97bfa1b9b/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW - FHD",
-        "type": "1"
-      },
-      {
-        "api": "d3253db6835efda5d3dc41409d9cf6c5:f4e9b34903385fdb07bca75e4f0be40b",
-        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vonyh71f7z/out/v1/cba5383903864de3b9477ea97bfa1b9b/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW - ALT",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://stream1.liveland.af/hls/tv/ariana/playlist.m3u8|referer=https://liveland.af/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "ATN SPORTS FHD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://live.msnetworks.net/a-sports/master.m3u8",
-        "logo": "",
-        "title": "A SPORTS HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://d3bq19vx8xhpwy.cloudfront.net/live/myStream/playlist.m3u8",
-        "logo": "",
-        "title": "ATN SPORTS HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8|referer=https://tapmad.com/",
-        "logo": "",
-        "title": "TAPMAD - FHD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://cdn09khi-n.tamashaweb.com:8087/appcast/zim-vs-afg-t20-abr/playlist.m3u8",
-        "logo": "",
-        "title": "TAMASHA (PAK)",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://dai-fancode.pages.dev/mumbai/4249772_english_hls_ea87fdf83461346_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
-        "title": "FANCODE (IND)",
-        "type": "0"
-      },
-      {
-        "api": "MDY1MDUxYjk5YmY1Y2Y4ZDlhM2JkZTVjYmRlNmFhZjk6MjE0YmQxNzY4MzI4NzIzMzljZTF3NDMzCDMyMGY5YTI=",
-        "link": "https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/h35gev6jft/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
-        "title": "FANCODE FHD",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|user-agent=ExoPlayerDemo/6.4.36 (Linux;Android 11) AndroidXMedia3/1.4.1",
-        "logo": "",
-        "title": "TAPMAD FHD",
-        "type": "0"
-      },
-      {
-        "api": "NzA5YzgxMmUxYjQxNzQwMDI2MDVkZjFkMTdkMzRhNGM6MGJiZWU2YzljMjBhMGYwNjViZjhyNjlkBTRjYmY4M2U=",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
-        "title": "FANCODE SD",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://in-mc-fblive.fancode.com/mumbai/143402_english_hls_f613f0001e43912_1ta-di_h264/index.m3u8",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
-        "title": "FANCODE - IN",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/zimbabwe_vs_bangladesh_143404_english.m3u8",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
-        "title": "FANCODE - BD",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
     "id": 50009,
     "title": "ONE Friday Fights",
     "image": "o",
@@ -931,8 +774,8 @@
       "eventType": "null",
       "eventBanner": "https://wsrv.nl/?url=https://tikolu.net/i/qylaf",
       "isHot": "0",
-      "startTime": "2026/11/17 10:30:00 +0000",
-      "endTime": "2026/11/17 16:00:00 +0000"
+      "startTime": "2026/11/17 17:00:00 +0000",
+      "endTime": "2026/11/17 22:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1176,69 +1019,89 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "WILLOW - FHD",
+      "WILLOW FHD",
       "PREMIER SPORTS FHD",
-      "WILLOW - ALT",
+      "WILLOW ALT",
       "A SPORTS HD",
-      "MYCO HD"
+      "HOTSTAR (IND)"
     ],
     "formatsNew": [
       {
-        "title": "WILLOW - FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+        "title": "WILLOW FHD",
+        "logo": ""
       },
       {
         "title": "PREMIER SPORTS FHD",
-        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
+        "logo": ""
       },
       {
-        "title": "WILLOW - ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+        "title": "WILLOW ALT",
+        "logo": ""
       },
       {
         "title": "A SPORTS HD",
         "logo": ""
       },
       {
-        "title": "MYCO HD",
+        "title": "HOTSTAR (IND)",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
-        "api": "4b1eceb456bf99c799c594be747c678a:3db93c12c61be53ebc775ffd57aa6041",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yqqmsydyhc/out/v1/edc6ed0eeadf4639aa13be40fabaf289/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW - FHD",
-        "type": "1"
+        "id": 1,
+        "title": "WILLOW FHD",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5ijjfwkrfb/out/v1/6be8fdc7d3324eb2b7774e8081c508cc/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "b50eedac4fd1a7f6068fc90c875a2f2e:b6c288c9a0112f3729538b3fb37bd044",
+        "type": "1",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
       },
       {
-        "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
+        "id": 1,
         "title": "PREMIER SPORTS FHD",
-        "type": "1"
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+        "type": "1",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
       },
       {
-        "api": "4b1eceb456bf99c799c594be747c678a:3db93c12c61be53ebc775ffd57aa6041",
-        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/yqqmsydyhc/out/v1/edc6ed0eeadf4639aa13be40fabaf289/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW - ALT",
-        "type": "1"
+        "id": 1,
+        "title": "WILLOW ALT",
+        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5ijjfwkrfb/out/v1/6be8fdc7d3324eb2b7774e8081c508cc/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "b50eedac4fd1a7f6068fc90c875a2f2e:b6c288c9a0112f3729538b3fb37bd044",
+        "type": "1",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
       },
       {
-        "api": "",
-        "link": "https://live.msnetworks.net/a-sports/master.m3u8",
-        "logo": "",
+        "id": 1,
         "title": "A SPORTS HD",
-        "type": "0"
+        "link": "https://live.msnetworks.net/a-sports/master.m3u8",
+        "api": "",
+        "type": "0",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
       },
       {
+        "id": 1,
+        "title": "HOTSTAR (IND)",
+        "link": "https://livetv.hotstar.com/mp2/gec-india-1540068298/9f99e1af0bdc465b8a3015e3a1a689d8/index.mpd|Cookie=hdntl=exp=1794990986~acl=%2f*~id=0719a606b19c47a7f45e69090e0a55f2~data=hdntl~hmac=1280c60d06d7d9e31d6c485a55b4a758761a031cb2b3dee25f5c0a82811c7509&User-Agent=Virat&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com&drmScheme=clearkey&drmLicense=effcadcbcc634296a6cf65e231f10000:569c794c69ea496e9ad1887f557ea4dc",
         "api": "",
-        "link": "https://ml-pull-rtmp-pk1.myco.io/SRT/hls/index.m3u8|referer=https://myco.io/",
-        "logo": "",
-        "title": "MYCO HD",
-        "type": "0"
+        "type": "0",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
       }
     ],
     "channel_status": "live"
@@ -1262,11 +1125,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "NBA LIVE HD"
+      "NBA LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "NBA LIVE HD",
+        "title": "NBA LIVE [FHD]",
         "logo": ""
       }
     ],
@@ -1345,20 +1208,45 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "NBA LIVE HD"
+      "NBC SPORTS FHD",
+      "TSN SPORTS FHD",
+      "NBA LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "NBA LIVE HD",
+        "title": "NBC SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "TSN SPORTS FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+      },
+      {
+        "title": "NBA LIVE [FHD]",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
+        "api": "36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "NBC SPORTS FHD",
+        "type": "1"
+      },
+      {
+        "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+        "title": "TSN SPORTS FHD",
+        "type": "1"
+      },
+      {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/60280/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-        "title": "NBA LIVE HD",
-        "type": "0"
+        "link": "https://taifood-blog.asia/embed/nba/2026-11-17/det-sa",
+        "logo": "",
+        "title": "NBA LIVE [FHD]",
+        "type": "2"
       }
     ],
     "channel_status": "live"
@@ -1382,23 +1270,24 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "NBA LIVE HD"
+      "NBA LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "NBA LIVE HD",
+        "title": "NBA LIVE [FHD]",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-        "title": "DUDE Tv Live",
-        "type": "0"
+        "link": "https://taifood-blog.asia/embed/nba/2026-11-17/utah-lac",
+        "logo": "",
+        "title": "NBA LIVE [FHD]",
+        "type": "2"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50052,
@@ -1508,20 +1397,45 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "NBA LIVE HD"
+      "SKY SPORTS MIX",
+      "SKY TOP EVENT",
+      "NBA LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "NBA LIVE HD",
+        "title": "SKY SPORTS MIX",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
+      },
+      {
+        "title": "SKY TOP EVENT",
+        "logo": ""
+      },
+      {
+        "title": "NBA LIVE [FHD]",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
+        "api": "fa23a7c0d9c82f0c7b113506e202af8c:a883237ef30932b731f71aa59a0805c0",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ttguqv2dus/out/v1/10e708fa029549e8807c7a35f4740adf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+        "title": "SKY SPORTS MIX",
+        "type": "1"
+      },
+      {
+        "api": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "SKY TOP EVENT",
+        "type": "1"
+      },
+      {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/60293/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-        "title": "NBA LIVE HD",
-        "type": "0"
+        "link": "https://taifood-blog.asia/embed/nba/2026-11-17/cha-lal/home",
+        "logo": "",
+        "title": "NBA LIVE [FHD]",
+        "type": "2"
       }
     ],
     "channel_status": "live"
@@ -1859,9 +1773,24 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PREMIER SPORTS FHD",
+      "SKY SPORTS MIX",
+      "SKY TOP EVENT",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "PREMIER SPORTS FHD",
+        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
+      },
+      {
+        "title": "SKY SPORTS MIX",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
+      },
+      {
+        "title": "SKY TOP EVENT",
+        "logo": ""
+      },
       {
         "title": "NHL LIVE [FHD]",
         "logo": ""
@@ -1869,11 +1798,25 @@
     ],
     "decoded_channels": [
       {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/60095/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+        "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
+        "title": "PREMIER SPORTS FHD",
+        "type": "1"
+      },
+      {
+        "api": "fa23a7c0d9c82f0c7b113506e202af8c:a883237ef30932b731f71aa59a0805c0",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ttguqv2dus/out/v1/10e708fa029549e8807c7a35f4740adf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+        "title": "SKY SPORTS MIX",
+        "type": "1"
+      },
+      {
+        "api": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
+        "title": "SKY TOP EVENT",
+        "type": "1"
       },
       {
         "api": "",
@@ -1883,7 +1826,7 @@
         "type": "2"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50072,
@@ -1979,31 +1922,31 @@
     "channel_status": "live"
   },
   {
-    "id": 50076,
-    "title": "Utah Mammoth vs Vancouver Canucks",
+    "id": 50075,
+    "title": "Winnipeg Jets vs Ottawa Senators",
     "image": "o",
     "cat": "NHL",
     "eventInfo": {
-      "teamA": "Mammoth",
-      "teamB": "Canucks",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/530472/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3692/image",
-      "eventName": "Utah Mammoth vs Vancouver Canucks",
+      "teamA": "Jets",
+      "teamB": "Senators",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3676/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3700/image",
+      "eventName": "Winnipeg Jets vs Ottawa Senators",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/11/17 02:30:00 +0000",
-      "endTime": "2026/11/17 05:30:00 +0000"
+      "startTime": "2026/11/18 00:00:00 +0000",
+      "endTime": "2026/11/18 03:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "PREMIER SPORTS FHD",
+      "TSN SPORTS FHD",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "PREMIER SPORTS FHD",
-        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
+        "title": "TSN SPORTS FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
       },
       {
         "title": "NHL LIVE [FHD]",
@@ -2012,16 +1955,53 @@
     ],
     "decoded_channels": [
       {
-        "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
-        "title": "PREMIER SPORTS FHD",
+        "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+        "title": "TSN SPORTS FHD",
         "type": "1"
       },
       {
         "api": "",
-        "link": "https://taifood-blog.asia/embed/nhl/2026-11-11/nyr-cgy",
+        "link": "https://taifood-blog.asia/embed/nhl/2026-11-11/tb-buf",
         "logo": "",
+        "title": "NHL LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50076,
+    "title": "Blackhawks vs Maple Leafs",
+    "image": "o",
+    "cat": "NHL",
+    "eventInfo": {
+      "teamA": "Blackhawks",
+      "teamB": "Maple Leafs",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3681/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3693/image",
+      "eventName": "Chicago Blackhawks vs Toronto Maple Leafs",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/11/18 00:30:00 +0000",
+      "endTime": "2026/11/18 03:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "NHL LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "NHL LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://taifood-blog.asia/embed/nhl/2026-11-11/nyr-cgy",
         "title": "NHL LIVE [FHD]",
         "type": "2"
       }
@@ -2047,9 +2027,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PREMIER SPORTS FHD",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "PREMIER SPORTS FHD",
+        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
+      },
       {
         "title": "NHL LIVE [FHD]",
         "logo": ""
@@ -2063,7 +2048,7 @@
         "type": "2"
       }
     ],
-    "channel_status": "live"
+    "channel_status": "cached"
   },
   {
     "id": 50078,
@@ -2203,9 +2188,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PREMIER SPORTS FHD",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "PREMIER SPORTS FHD",
+        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
+      },
       {
         "title": "NHL LIVE [FHD]",
         "logo": ""
@@ -2213,8 +2203,16 @@
     ],
     "decoded_channels": [
       {
+        "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
+        "title": "PREMIER SPORTS FHD",
+        "type": "1"
+      },
+      {
         "api": "",
         "link": "https://taifood-blog.asia/embed/nhl/2026-11-07/det-col",
+        "logo": "",
         "title": "NHL LIVE [FHD]",
         "type": "2"
       }
@@ -2462,7 +2460,7 @@
         "type": "0"
       }
     ],
-    "channel_status": "live"
+    "channel_status": "cached"
   },
   {
     "id": 50088,
@@ -2483,11 +2481,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "CANAL5 FHD"
+      "CANAL5 FHD",
+      "TUDN MEXICO FHD"
     ],
     "formatsNew": [
       {
         "title": "CANAL5 FHD",
+        "logo": ""
+      },
+      {
+        "title": "TUDN MEXICO FHD",
         "logo": ""
       }
     ],
@@ -2497,9 +2500,57 @@
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "title": "CANAL5 FHD",
         "type": "1"
+      },
+      {
+        "id": 1,
+        "title": "TUDN MEXICO FHD",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411",
+        "type": "1",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
       }
     ],
     "channel_status": "live"
+  },
+  {
+    "id": 50089,
+    "title": "Uruguay vs Dominican Republic",
+    "image": "o",
+    "cat": "FIFA Friendlies",
+    "eventInfo": {
+      "teamA": "Uruguay",
+      "teamB": "Dominican Republic",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4725/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/21813/image",
+      "eventName": "Uruguay vs Dominican Republic",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/11/17 23:30:00 +0000",
+      "endTime": "2026/11/18 01:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "title": "SporTV BR FHD",
+        "type": "1"
+      }
+    ],
+    "channel_status": "cached"
   },
   {
     "id": 50090,
@@ -2513,7 +2564,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/4704/image",
       "eventName": "Wales vs Portugal",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/11/17 19:45:00 +0000",
       "endTime": "2026/11/17 21:50:00 +0000"
     },
@@ -2522,7 +2573,12 @@
     "formats": [
       "beIN ENGLISH FHD",
       "SporTV BR FHD",
-      "SPORT 2 CZ FHD"
+      "SPORT 2 CZ FHD",
+      "DUDE Tv TV+ HD",
+      "SonyLiv (Asia)",
+      "HD QUALITY",
+      "DUDE Tv LIVE",
+      "LOW QUALITY"
     ],
     "formatsNew": [
       {
@@ -2536,29 +2592,116 @@
       {
         "title": "SPORT 2 CZ FHD",
         "logo": ""
+      },
+      {
+        "title": "DUDE Tv TV+ HD",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (Asia)",
+        "logo": ""
+      },
+      {
+        "title": "HD QUALITY",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv LIVE",
+        "logo": ""
+      },
+      {
+        "title": "LOW QUALITY",
+        "logo": ""
       }
     ],
     "decoded_channels": [
       {
-        "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
+        "id": 1,
         "title": "beIN ENGLISH FHD",
-        "type": "1"
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+        "type": "1",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
       },
       {
-        "api": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
+        "id": 1,
         "title": "SporTV BR FHD",
-        "type": "1"
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
+        "type": "1",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
       },
       {
-        "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-        "link": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
+        "id": 1,
         "title": "SPORT 2 CZ FHD",
-        "type": "1"
+        "link": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+        "type": "1",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
+      },
+      {
+        "id": 1,
+        "title": "DUDE Tv TV+ HD",
+        "link": "https://chatgpt.hereisman.net/playlist/60317/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+        "api": "",
+        "type": "0",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
+      },
+      {
+        "id": 1,
+        "title": "SonyLiv (Asia)",
+        "link": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/footlive1711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794986052~acl=/*~id=94065917567144459926240907239802~hmac=ae891d140053510fec44f130a910574ba0bc776ab4b8b617882b4656f9f5ae7d|User-Agent=Mozilla/5.0 (Linux; Android 13; sdk_gphone_x86_64 Build/TE1A.220922.033) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.71 Mobile Safari/537.36",
+        "api": "",
+        "type": "0",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
+      },
+      {
+        "id": 1,
+        "title": "HD QUALITY",
+        "link": "https://live2.jorvakstreamcache.com/live/channel1.m3u8?|Referer=https://xlz.domainkqt.cc/",
+        "api": "",
+        "type": "0",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
+      },
+      {
+        "id": 1,
+        "title": "DUDE Tv LIVE",
+        "link": "https://www.rtmpcdn.com/live/aeb19a2e-6ca0-429a-9ec1-a7728336f752.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+        "api": "",
+        "type": "0",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
+      },
+      {
+        "id": 1,
+        "title": "LOW QUALITY",
+        "link": "http://193.47.62.50/hls/CCCCAAAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+        "api": "",
+        "type": "0",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
       },
       {
         "api": "N2Y3YTFiYmM1MjNhM2ExZDBmYzRjNTMyMmQyZGJkMzQ6Yjc0NWEyNDI5M2EzNDU1ZWY3ZWIyZWYxNGY3YzlkMzg=",
@@ -2632,7 +2775,7 @@
       "eventName": "Denmark vs Norway",
       "eventType": "null",
       "eventBanner": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/11/17 19:45:00 +0000",
       "endTime": "2026/11/17 21:50:00 +0000"
     },
@@ -2641,7 +2784,11 @@
     "formats": [
       "FOX SPORTS FHD",
       "beIN ENGLISH FHD",
-      "SPORT 1 CZ FHD"
+      "SPORT 1 CZ FHD",
+      "FOX SPORTS HD",
+      "SonyLiv (Asia)",
+      "HD QUALITY",
+      "LOW QUALITY"
     ],
     "formatsNew": [
       {
@@ -2655,26 +2802,101 @@
       {
         "title": "SPORT 1 CZ FHD",
         "logo": ""
+      },
+      {
+        "title": "FOX SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (Asia)",
+        "logo": ""
+      },
+      {
+        "title": "HD QUALITY",
+        "logo": ""
+      },
+      {
+        "title": "LOW QUALITY",
+        "logo": ""
       }
     ],
     "decoded_channels": [
       {
-        "api": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "id": 1,
         "title": "FOX SPORTS FHD",
-        "type": "1"
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
+        "type": "1",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
       },
       {
-        "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "id": 1,
         "title": "beIN ENGLISH FHD",
-        "type": "1"
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+        "type": "1",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
       },
       {
-        "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-        "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+        "id": 1,
         "title": "SPORT 1 CZ FHD",
-        "type": "1"
+        "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+        "type": "1",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
+      },
+      {
+        "id": 1,
+        "title": "FOX SPORTS HD",
+        "link": "https://chatgpt.hereisman.net/playlist/60311/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+        "api": "",
+        "type": "0",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
+      },
+      {
+        "id": 1,
+        "title": "SonyLiv (Asia)",
+        "link": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/footlive1711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794986052~acl=/*~id=94065917567144459926240907239802~hmac=ae891d140053510fec44f130a910574ba0bc776ab4b8b617882b4656f9f5ae7d|User-Agent=Mozilla/5.0 (Linux; Android 13; sdk_gphone_x86_64 Build/TE1A.220922.033) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.71 Mobile Safari/537.36",
+        "api": "",
+        "type": "0",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
+      },
+      {
+        "id": 1,
+        "title": "HD QUALITY",
+        "link": "https://www.rtmpcdn.com/live/e6d08dd1-e7b0-4549-ac03-b80dbb305291.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+        "api": "",
+        "type": "0",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
+      },
+      {
+        "id": 1,
+        "title": "LOW QUALITY",
+        "link": "http://193.47.62.44/hls/ZZZZAAAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+        "api": "",
+        "type": "0",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
       }
     ],
     "channel_status": "live"
@@ -2698,20 +2920,105 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "FOX SPORTS FHD"
+      "FOX SPORTS FHD",
+      "SporTV BR FHD",
+      "FOX SPORTS HD",
+      "SonyLiv (Asia)",
+      "HD QUALITY",
+      "LOW QUALITY"
     ],
     "formatsNew": [
       {
         "title": "FOX SPORTS FHD",
         "logo": ""
+      },
+      {
+        "title": "SporTV BR FHD",
+        "logo": ""
+      },
+      {
+        "title": "FOX SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (Asia)",
+        "logo": ""
+      },
+      {
+        "title": "HD QUALITY",
+        "logo": ""
+      },
+      {
+        "title": "LOW QUALITY",
+        "logo": ""
       }
     ],
     "decoded_channels": [
       {
-        "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "id": 1,
         "title": "FOX SPORTS FHD",
-        "type": "1"
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+        "type": "1",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
+      },
+      {
+        "id": 1,
+        "title": "SporTV BR FHD",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3",
+        "type": "1",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
+      },
+      {
+        "id": 1,
+        "title": "FOX SPORTS HD",
+        "link": "https://chatgpt.hereisman.net/playlist/60318/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+        "api": "",
+        "type": "0",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
+      },
+      {
+        "id": 1,
+        "title": "SonyLiv (Asia)",
+        "link": "https://sonyeventsglobal.akamaized.net/hls/live/2120307/footlive1711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794986052~acl=/*~id=94065917567144459926240907239802~hmac=ae891d140053510fec44f130a910574ba0bc776ab4b8b617882b4656f9f5ae7d|User-Agent=Mozilla/5.0 (Linux; Android 13; sdk_gphone_x86_64 Build/TE1A.220922.033) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.71 Mobile Safari/537.36",
+        "api": "",
+        "type": "0",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
+      },
+      {
+        "id": 1,
+        "title": "HD QUALITY",
+        "link": "https://live2.jorvakstreamcache.com/live/channel19.m3u8?|Referer=https://xlz.domainkqt.cc/",
+        "api": "",
+        "type": "0",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
+      },
+      {
+        "id": 1,
+        "title": "LOW QUALITY",
+        "link": "http://193.47.62.50/hls/CCCCAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+        "api": "",
+        "type": "0",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
       },
       {
         "api": "",
@@ -2777,20 +3084,73 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "FUBO NETWORK FHD"
+      "FUBO SPORTS FHD",
+      "DUDE Tv TV+ HD",
+      "SonyLiv (Asia)",
+      "LOW QUALITY"
     ],
     "formatsNew": [
       {
-        "title": "FUBO NETWORK FHD",
+        "title": "FUBO SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv TV+ HD",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (Asia)",
+        "logo": ""
+      },
+      {
+        "title": "LOW QUALITY",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
-        "api": "fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681",
+        "id": 1,
+        "title": "FUBO SPORTS FHD",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "title": "FUBO NETWORK FHD",
-        "type": "1"
+        "api": "fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681",
+        "type": "1",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
+      },
+      {
+        "id": 1,
+        "title": "DUDE Tv TV+ HD",
+        "link": "https://chatgpt.hereisman.net/playlist/60313/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+        "api": "",
+        "type": "0",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
+      },
+      {
+        "id": 1,
+        "title": "SonyLiv (Asia)",
+        "link": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/footlive1711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794986052~acl=/*~id=94065917567144459926240907239802~hmac=ae891d140053510fec44f130a910574ba0bc776ab4b8b617882b4656f9f5ae7d|User-Agent=Mozilla/5.0 (Linux; Android 13; sdk_gphone_x86_64 Build/TE1A.220922.033) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.71 Mobile Safari/537.36",
+        "api": "",
+        "type": "0",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
+      },
+      {
+        "id": 1,
+        "title": "LOW QUALITY",
+        "link": "http://193.47.62.50/hls/CCCCAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+        "api": "",
+        "type": "0",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
       }
     ],
     "channel_status": "live"
@@ -2808,8 +3168,8 @@
       "eventName": "South Africa vs Bangladesh",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/11/17 08:00:00 +0000",
-      "endTime": "2026/11/17 16:00:00 +0000"
+      "startTime": "2026/11/18 08:00:00 +0000",
+      "endTime": "2026/11/18 16:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -2952,19 +3312,34 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "SonyLiv (Asia)",
+      "DUDE Tv TV+ HD",
+      "HD QUALITY",
+      "LOW QUALITY"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "SonyLiv (Asia)",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv TV+ HD",
+        "logo": ""
+      },
+      {
+        "title": "HD QUALITY",
+        "logo": ""
+      },
+      {
+        "title": "LOW QUALITY",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
         "id": 1,
-        "title": "DUDE Tv TV+ HD",
-        "link": "https://chatgpt.hereisman.net/playlist/60259/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+        "title": "SonyLiv (Asia)",
+        "link": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive1711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794986052~acl=/*~id=94065917567144459926240907239802~hmac=ae891d140053510fec44f130a910574ba0bc776ab4b8b617882b4656f9f5ae7d|User-Agent=Mozilla/5.0 (Linux; Android 13; sdk_gphone_x86_64 Build/TE1A.220922.033) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.71 Mobile Safari/537.36",
         "api": "",
         "type": "0",
         "webLink": "",
@@ -2974,8 +3349,8 @@
       },
       {
         "id": 1,
-        "title": "SonyLiv (Asia)",
-        "link": "https://sonyeventsglobal.akamaized.net/hls/live/2018458/Footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794899433~acl=/*~id=58490771614783125394218619795015~hmac=2c076aafdd4f0be7b247dfd3326267fe8ff1869d41c90a83ac3fadd32c93fc2d|User-Agent=Mozilla/5.0 (Linux; Android 13; sdk_gphone_x86_64 Build/TE1A.220922.033) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.71 Mobile Safari/537.36",
+        "title": "DUDE Tv TV+ HD",
+        "link": "https://chatgpt.hereisman.net/playlist/60316/load-playlist-multi?|Referer=https://gooz.aapmains.net",
         "api": "",
         "type": "0",
         "webLink": "",
@@ -2986,7 +3361,7 @@
       {
         "id": 1,
         "title": "HD QUALITY",
-        "link": "https://www.rtmpcdn.com/live/1ebce86b-c5b6-46c2-bab0-2e505a303bf0.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+        "link": "https://www.rtmpcdn.com/live/622b5c7b-38a2-415c-8854-e022c40dee5c.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
         "api": "",
         "type": "0",
         "webLink": "",
@@ -2997,7 +3372,7 @@
       {
         "id": 1,
         "title": "LOW QUALITY",
-        "link": "http://193.47.62.41/hls/UOOOAAAQQQQQA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+        "link": "http://193.47.62.50/hls/CCCCAAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
         "api": "",
         "type": "0",
         "webLink": "",
@@ -3006,7 +3381,7 @@
         "quality": ""
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50120,
@@ -3027,20 +3402,73 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv TV+ HD",
+      "SonyLiv (Asia)",
+      "HD QUALITY",
+      "LOW QUALITY"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "DUDE Tv TV+ HD",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (Asia)",
+        "logo": ""
+      },
+      {
+        "title": "HD QUALITY",
+        "logo": ""
+      },
+      {
+        "title": "LOW QUALITY",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
+        "id": 1,
+        "title": "DUDE Tv TV+ HD",
+        "link": "https://chatgpt.hereisman.net/playlist/60315/load-playlist-multi?|Referer=https://gooz.aapmains.net",
         "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-        "title": "DUDE Tv Live",
-        "type": "0"
+        "type": "0",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
+      },
+      {
+        "id": 1,
+        "title": "SonyLiv (Asia)",
+        "link": "https://sonyeventsglobal.akamaized.net/hls/live/2120308/footlive1711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794986052~acl=/*~id=94065917567144459926240907239802~hmac=ae891d140053510fec44f130a910574ba0bc776ab4b8b617882b4656f9f5ae7d|User-Agent=Mozilla/5.0 (Linux; Android 13; sdk_gphone_x86_64 Build/TE1A.220922.033) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.71 Mobile Safari/537.36",
+        "api": "",
+        "type": "0",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
+      },
+      {
+        "id": 1,
+        "title": "HD QUALITY",
+        "link": "https://www.rtmpcdn.com/live/a6924d86-da5a-486c-b8e8-508efde22c08.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+        "api": "",
+        "type": "0",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
+      },
+      {
+        "id": 1,
+        "title": "LOW QUALITY",
+        "link": "http://193.47.62.59/hls/ZZZZAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+        "api": "",
+        "type": "0",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
       }
     ],
     "channel_status": "live"
@@ -3064,20 +3492,105 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "SporTV BR FHD",
+      "SonyLiv (Asia)",
+      "DUDE Tv TV+ HD",
+      "HD QUALITY",
+      "DUDE Tv LIVE",
+      "LOW QUALITY"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "SporTV BR FHD",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (Asia)",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv TV+ HD",
+        "logo": ""
+      },
+      {
+        "title": "HD QUALITY",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv LIVE",
+        "logo": ""
+      },
+      {
+        "title": "LOW QUALITY",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
+        "id": 1,
+        "title": "SporTV BR FHD",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd",
+        "api": "9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3",
+        "type": "1",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
+      },
+      {
+        "id": 1,
+        "title": "SonyLiv (Asia)",
+        "link": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/footlive1711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794986052~acl=/*~id=94065917567144459926240907239802~hmac=ae891d140053510fec44f130a910574ba0bc776ab4b8b617882b4656f9f5ae7d|User-Agent=Mozilla/5.0 (Linux; Android 13; sdk_gphone_x86_64 Build/TE1A.220922.033) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.71 Mobile Safari/537.36",
         "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-        "title": "DUDE Tv Live",
-        "type": "0"
+        "type": "0",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
+      },
+      {
+        "id": 1,
+        "title": "DUDE Tv TV+ HD",
+        "link": "https://chatgpt.hereisman.net/playlist/60312/load-playlist?|Referer=https://gooz.aapmains.net",
+        "api": "",
+        "type": "0",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
+      },
+      {
+        "id": 1,
+        "title": "HD QUALITY",
+        "link": "https://live2.jorvakstreamcache.com/live/channel15.m3u8?|Referer=https://xlz.domainkqt.cc/",
+        "api": "",
+        "type": "0",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
+      },
+      {
+        "id": 1,
+        "title": "DUDE Tv LIVE",
+        "link": "https://www.rtmpcdn.com/live/e65f87e3-68c3-474e-a84b-01536d28f4e0.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+        "api": "",
+        "type": "0",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
+      },
+      {
+        "id": 1,
+        "title": "LOW QUALITY",
+        "link": "http://193.47.62.59/hls/ZZZZAAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+        "api": "",
+        "type": "0",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
       }
     ],
     "channel_status": "live"
@@ -3101,20 +3614,73 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "SonyLiv (Asia)",
+      "DUDE Tv TV+ HD",
+      "HD QUALITY",
+      "LOW QUALITY"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "SonyLiv (Asia)",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv TV+ HD",
+        "logo": ""
+      },
+      {
+        "title": "HD QUALITY",
+        "logo": ""
+      },
+      {
+        "title": "LOW QUALITY",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
+        "id": 1,
+        "title": "SonyLiv (Asia)",
+        "link": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive1711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794986052~acl=/*~id=94065917567144459926240907239802~hmac=ae891d140053510fec44f130a910574ba0bc776ab4b8b617882b4656f9f5ae7d|User-Agent=Mozilla/5.0 (Linux; Android 13; sdk_gphone_x86_64 Build/TE1A.220922.033) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.71 Mobile Safari/537.36",
         "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-        "title": "DUDE Tv Live",
-        "type": "0"
+        "type": "0",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
+      },
+      {
+        "id": 1,
+        "title": "DUDE Tv TV+ HD",
+        "link": "https://www.rtmpcdn.com/live/5bc03f08-921b-4ef8-a78e-ca64afd7b0e8.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+        "api": "",
+        "type": "0",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
+      },
+      {
+        "id": 1,
+        "title": "HD QUALITY",
+        "link": "https://live2.jorvakstreamcache.com/live/channel11.m3u8?|Referer=https://xlz.domainkqt.cc/",
+        "api": "",
+        "type": "0",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
+      },
+      {
+        "id": 1,
+        "title": "LOW QUALITY",
+        "link": "http://193.47.62.44/hls/ZZZZAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+        "api": "",
+        "type": "0",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
       }
     ],
     "channel_status": "live"
@@ -3138,23 +3704,76 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "beIN SPORTS FHD",
+      "DUDE Tv TV+ HD",
+      "HD QUALITY",
+      "LOW QUALITY"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "beIN SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv TV+ HD",
+        "logo": ""
+      },
+      {
+        "title": "HD QUALITY",
+        "logo": ""
+      },
+      {
+        "title": "LOW QUALITY",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
+        "id": 1,
+        "title": "beIN SPORTS FHD",
+        "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe",
+        "type": "1",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
+      },
+      {
+        "id": 1,
+        "title": "DUDE Tv TV+ HD",
+        "link": "https://www.rtmpcdn.com/live/066ac51b-41c5-4d77-884f-5d599c538536.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
         "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-        "title": "DUDE Tv Live",
-        "type": "0"
+        "type": "0",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
+      },
+      {
+        "id": 1,
+        "title": "HD QUALITY",
+        "link": "https://live2.jorvakstreamcache.com/live/channel8.m3u8?|Referer=https://xlz.domainkqt.cc/",
+        "api": "",
+        "type": "0",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
+      },
+      {
+        "id": 1,
+        "title": "LOW QUALITY",
+        "link": "http://193.47.62.50/hls/CCCCAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+        "api": "",
+        "type": "0",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50124,
@@ -3175,20 +3794,57 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "beIN SPORTS FHD",
+      "HD QUALITY",
+      "LOW QUALITY"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "beIN SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "HD QUALITY",
+        "logo": ""
+      },
+      {
+        "title": "LOW QUALITY",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
+        "id": 1,
+        "title": "beIN SPORTS FHD",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c",
+        "type": "1",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
+      },
+      {
+        "id": 1,
+        "title": "HD QUALITY",
+        "link": "https://live2.jorvakstreamcache.com/live/channel28.m3u8?|Referer=https://xlz.domainkqt.cc/",
         "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-        "title": "DUDE Tv Live",
-        "type": "0"
+        "type": "0",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
+      },
+      {
+        "id": 1,
+        "title": "LOW QUALITY",
+        "link": "http://193.47.62.55/hls/CCCCA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+        "api": "",
+        "type": "0",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
       }
     ],
     "channel_status": "live"
@@ -3212,20 +3868,41 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "HD QUALITY",
+      "LOW QUALITY"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "HD QUALITY",
+        "logo": ""
+      },
+      {
+        "title": "LOW QUALITY",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
+        "id": 1,
+        "title": "HD QUALITY",
+        "link": "https://live2.jorvakstreamcache.com/live/channel14.m3u8?|Referer=https://xlz.domainkqt.cc/",
         "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-        "title": "DUDE Tv Live",
-        "type": "0"
+        "type": "0",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
+      },
+      {
+        "id": 1,
+        "title": "LOW QUALITY",
+        "link": "http://193.47.62.50/hls/CCCC.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+        "api": "",
+        "type": "0",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
       }
     ],
     "channel_status": "live"
@@ -3249,23 +3926,44 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "HD QUALITY",
+      "LOW QUALITY"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "HD QUALITY",
+        "logo": ""
+      },
+      {
+        "title": "LOW QUALITY",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
-        "api": "4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c",
-        "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "title": "beIN SPORTS FHD",
-        "type": "1"
+        "id": 1,
+        "title": "HD QUALITY",
+        "link": "https://live2.jorvakstreamcache.com/live/channel20.m3u8?|Referer=https://xlz.domainkqt.cc/",
+        "api": "",
+        "type": "0",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
+      },
+      {
+        "id": 1,
+        "title": "LOW QUALITY",
+        "link": "http://193.47.62.59/hls/ZZZZ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+        "api": "",
+        "type": "0",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50127,
@@ -3286,20 +3984,41 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "HD QUALITY",
+      "LOW QUALITY"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "HD QUALITY",
+        "logo": ""
+      },
+      {
+        "title": "LOW QUALITY",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
+        "id": 1,
+        "title": "HD QUALITY",
+        "link": "https://live2.jorvakstreamcache.com/live/channel22.m3u8?|Referer=https://xlz.domainkqt.cc/",
         "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-        "title": "DUDE Tv Live",
-        "type": "0"
+        "type": "0",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
+      },
+      {
+        "id": 1,
+        "title": "LOW QUALITY",
+        "link": "http://193.47.62.59/hls/ZZZZA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+        "api": "",
+        "type": "0",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
       }
     ],
     "channel_status": "live"
@@ -3323,20 +4042,57 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "beIN SPORTS FHD",
+      "HD QUALITY",
+      "LOW QUALITY"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "beIN SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "HD QUALITY",
+        "logo": ""
+      },
+      {
+        "title": "LOW QUALITY",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
+        "id": 1,
+        "title": "beIN SPORTS FHD",
+        "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c",
+        "type": "1",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
+      },
+      {
+        "id": 1,
+        "title": "HD QUALITY",
+        "link": "https://live2.jorvakstreamcache.com/live/channel13.m3u8?|Referer=https://xlz.domainkqt.cc/",
         "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-        "title": "DUDE Tv Live",
-        "type": "0"
+        "type": "0",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
+      },
+      {
+        "id": 1,
+        "title": "LOW QUALITY",
+        "link": "http://193.47.62.44/hls/ZZZZAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+        "api": "",
+        "type": "0",
+        "webLink": "",
+        "defaultLanguage": "",
+        "geo": "ALL",
+        "quality": ""
       }
     ],
     "channel_status": "live"
@@ -3353,308 +4109,41 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/4756/image",
       "eventName": "Argentina vs Costa Rica",
       "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/17 21:00:00 +0000",
-      "endTime": "2026/11/17 23:15:00 +0000"
+      "startTime": "2026/11/17 23:00:00 +0000",
+      "endTime": "2026/11/18 01:15:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "SporTV BR FHD",
+      "D Sports FHD",
+      "SporTV BR ALT",
+      "HD QUALITY"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50130,
-    "title": "Kenya vs South Africa",
-    "image": "o",
-    "cat": "AFCON",
-    "eventInfo": {
-      "teamA": "Kenya",
-      "teamB": "South Africa",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4773/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4736/image",
-      "eventName": "Kenya vs South Africa",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/17 16:00:00 +0000",
-      "endTime": "2026/11/17 18:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "beIN ESPNAOL FHD"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN ESPNAOL FHD",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c",
-        "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "beIN ESPNAOL FHD",
-        "type": "1"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50131,
-    "title": "Gambia vs Ivory Coast",
-    "image": "o",
-    "cat": "AFCON",
-    "eventInfo": {
-      "teamA": "Gambia",
-      "teamB": "Côte d'Ivoire",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4762/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4768/image",
-      "eventName": "Gambia vs Côte d'Ivoire",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/17 16:00:00 +0000",
-      "endTime": "2026/11/17 18:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "beIN ENGLISH FHD",
-      "beIN SPORTS FHD"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN ENGLISH FHD",
+        "title": "SporTV BR FHD",
         "logo": ""
       },
       {
-        "title": "beIN SPORTS FHD",
-        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "beIN ENGLISH FHD",
-        "type": "1"
-      },
-      {
-        "api": "27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe",
-        "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
-        "title": "beIN SPORTS FHD",
-        "type": "1"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50132,
-    "title": "Sierra Leone vs DR Congo",
-    "image": "o",
-    "cat": "AFCON",
-    "eventInfo": {
-      "teamA": "Sierra Leone",
-      "teamB": "DR Congo",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4737/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4823/image",
-      "eventName": "Sierra Leone vs DR Congo",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/17 16:00:00 +0000",
-      "endTime": "2026/11/17 18:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "beIN SPORTS FHD"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN SPORTS FHD",
-        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c",
-        "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
-        "title": "beIN SPORTS FHD",
-        "type": "1"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50133,
-    "title": "Libya vs Tunisia",
-    "image": "o",
-    "cat": "AFCON",
-    "eventInfo": {
-      "teamA": "Libya",
-      "teamB": "Tunisia",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4775/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4729/image",
-      "eventName": "Libya vs Tunisia",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/17 16:00:00 +0000",
-      "endTime": "2026/11/17 18:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50134,
-    "title": "Togo vs Algeria",
-    "image": "o",
-    "cat": "AFCON",
-    "eventInfo": {
-      "teamA": "Togo",
-      "teamB": "Algeria",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4836/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4691/image",
-      "eventName": "Togo vs Algeria",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/17 16:00:00 +0000",
-      "endTime": "2026/11/17 18:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "beIN ENGLISH FHD"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN ENGLISH FHD",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "beIN ENGLISH FHD",
-        "type": "1"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50135,
-    "title": "Guinea-Bissau vs Madagascar",
-    "image": "o",
-    "cat": "AFCON",
-    "eventInfo": {
-      "teamA": "Guinea-Bissau",
-      "teamB": "Madagascar",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/23478/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/8035/image",
-      "eventName": "Guinea-Bissau vs Madagascar",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/17 16:00:00 +0000",
-      "endTime": "2026/11/17 18:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-        "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1794848667~acl=*%2Fchannel(vcg-01-ch-hd-07)%2F*~id=96bc7139-3edd-47ca-8f83-cfabcae165c5~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixNTA%3D%3D~hmac=b55edb2d50c71d578d64d6ffeacf6543594b861acaf97e867f7d9939804ea1f3/manifest.mpd?vcfilter=abfc2c4d-0330-4c6f-beea-6571759006a4&|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "ICC TV FHD",
-        "type": "1"
-      }
-    ],
-    "channel_status": "cached"
-  },
-  {
-    "id": 50136,
-    "title": "Tanzania vs Nigeria",
-    "image": "o",
-    "cat": "AFCON",
-    "eventInfo": {
-      "teamA": "Tanzania",
-      "teamB": "Nigeria",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4835/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4785/image",
-      "eventName": "Tanzania vs Nigeria",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/17 13:00:00 +0000",
-      "endTime": "2026/11/17 15:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "beIN ENGLISH FHD",
-      "beIN SPORTS FHD"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN ENGLISH FHD",
+        "title": "D Sports FHD",
         "logo": ""
       },
       {
-        "title": "beIN SPORTS FHD",
-        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
+        "title": "SporTV BR ALT",
+        "logo": ""
+      },
+      {
+        "title": "HD QUALITY",
+        "logo": ""
       }
     ],
     "decoded_channels": [
       {
         "id": 1,
-        "title": "beIN ENGLISH FHD",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+        "title": "SporTV BR FHD",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
         "type": "1",
         "webLink": "",
         "defaultLanguage": "",
@@ -3662,10 +4151,17 @@
         "quality": ""
       },
       {
+        "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "D Sports FHD",
+        "type": "1"
+      },
+      {
         "id": 1,
-        "title": "beIN SPORTS FHD",
-        "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "api": "27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe",
+        "title": "SporTV BR ALT",
+        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
         "type": "1",
         "webLink": "",
         "defaultLanguage": "",
@@ -3675,855 +4171,80 @@
       {
         "id": 1,
         "title": "HD QUALITY",
-        "link": "https://live2.jorvakstreamcache.com/live/channel14.m3u8?|Referer=https://xlz.domainkqt.cc/",
+        "link": "https://live2.jorvakstreamcache.com/live/channel11.m3u8?|Referer=https://xlz.domainkqt.cc/",
         "api": "",
         "type": "0",
         "webLink": "",
         "defaultLanguage": "",
         "geo": "ALL",
         "quality": ""
-      },
-      {
-        "id": 1,
-        "title": "LOW QUALITY",
-        "link": "http://193.47.62.50/hls/NYNYNY.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-        "api": "",
-        "type": "0",
-        "webLink": "",
-        "defaultLanguage": "",
-        "geo": "ALL",
-        "quality": ""
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50137,
-    "title": "Ethiopia vs Mozambique",
-    "image": "o",
-    "cat": "AFCON",
-    "eventInfo": {
-      "teamA": "Ethiopia",
-      "teamB": "Mozambique",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/8036/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4783/image",
-      "eventName": "Ethiopia vs Mozambique",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/17 13:00:00 +0000",
-      "endTime": "2026/11/17 15:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "id": 1,
-        "title": "HD QUALITY",
-        "link": "https://live2.jorvakstreamcache.com/live/channel12.m3u8?|Referer=https://xlz.domainkqt.cc/",
-        "api": "",
-        "type": "0",
-        "webLink": "",
-        "defaultLanguage": "",
-        "geo": "ALL",
-        "quality": ""
-      },
-      {
-        "id": 1,
-        "title": "LOW QUALITY",
-        "link": "http://193.47.62.41/hls/TTTTA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-        "api": "",
-        "type": "0",
-        "webLink": "",
-        "defaultLanguage": "",
-        "geo": "ALL",
-        "quality": ""
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50138,
-    "title": "Burundi vs Zambia",
-    "image": "o",
-    "cat": "AFCON",
-    "eventInfo": {
-      "teamA": "Burundi",
-      "teamB": "Zambia",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4750/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4720/image",
-      "eventName": "Burundi vs Zambia",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/17 13:00:00 +0000",
-      "endTime": "2026/11/17 15:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      }
-    ],
-    "channel_status": "cached"
-  },
-  {
-    "id": 50139,
-    "title": "South Sudan vs Angola",
-    "image": "o",
-    "cat": "AFCON",
-    "eventInfo": {
-      "teamA": "South Sudan",
-      "teamB": "Angola",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/88508/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4692/image",
-      "eventName": "South Sudan vs Angola",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/17 13:00:00 +0000",
-      "endTime": "2026/11/17 15:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "id": 1,
-        "title": "HD QUALITY",
-        "link": "https://live2.jorvakstreamcache.com/live/channel21.m3u8?|Referer=https://xlz.domainkqt.cc/",
-        "api": "",
-        "type": "0",
-        "webLink": "",
-        "defaultLanguage": "",
-        "geo": "ALL",
-        "quality": ""
-      },
-      {
-        "id": 1,
-        "title": "LOW QUALITY",
-        "link": "http://193.47.62.55/hls/TTTTAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-        "api": "",
-        "type": "0",
-        "webLink": "",
-        "defaultLanguage": "",
-        "geo": "ALL",
-        "quality": ""
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50140,
-    "title": "Malawi vs Egypt",
-    "image": "o",
-    "cat": "AFCON",
-    "eventInfo": {
-      "teamA": "Malawi",
-      "teamB": "Egypt",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/8043/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4758/image",
-      "eventName": "Malawi vs Egypt",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/17 13:00:00 +0000",
-      "endTime": "2026/11/17 15:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "beIN ENGLISH FHD",
-      "beIN ESPNAOL FHD"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN ENGLISH FHD",
-        "logo": ""
-      },
-      {
-        "title": "beIN ESPNAOL FHD",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "id": 1,
-        "title": "beIN ENGLISH FHD",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-        "type": "1",
-        "webLink": "",
-        "defaultLanguage": "",
-        "geo": "ALL",
-        "quality": ""
-      },
-      {
-        "id": 1,
-        "title": "beIN Espanol FHD",
-        "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "api": "74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c",
-        "type": "1",
-        "webLink": "",
-        "defaultLanguage": "",
-        "geo": "ALL",
-        "quality": ""
-      },
-      {
-        "id": 1,
-        "title": "HD QUALITY",
-        "link": "https://live2.jorvakstreamcache.com/live/channel4.m3u8?|Referer=https://xlz.domainkqt.cc/",
-        "api": "",
-        "type": "0",
-        "webLink": "",
-        "defaultLanguage": "",
-        "geo": "ALL",
-        "quality": ""
-      },
-      {
-        "id": 1,
-        "title": "LOW QUALITY",
-        "link": "http://193.47.62.55/hls/TTTTAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-        "api": "",
-        "type": "0",
-        "webLink": "",
-        "defaultLanguage": "",
-        "geo": "ALL",
-        "quality": ""
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50141,
-    "title": "Lesotho vs Gabon",
-    "image": "o",
-    "cat": "AFCON",
-    "eventInfo": {
-      "teamA": "Lesotho",
-      "teamB": "Gabon",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/8033/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4761/image",
-      "eventName": "Lesotho vs Gabon",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/17 13:00:00 +0000",
-      "endTime": "2026/11/17 15:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "beIN SPORTS FHD"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN SPORTS FHD",
-        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
-      }
-    ],
-    "decoded_channels": [
-      {
-        "id": 1,
-        "title": "beIN SPORTS FHD",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "api": "4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c",
-        "type": "1",
-        "webLink": "",
-        "defaultLanguage": "",
-        "geo": "ALL",
-        "quality": ""
-      },
-      {
-        "id": 1,
-        "title": "HD QUALITY",
-        "link": "https://live2.jorvakstreamcache.com/live/channel9.m3u8?|Referer=https://xlz.domainkqt.cc/",
-        "api": "",
-        "type": "0",
-        "webLink": "",
-        "defaultLanguage": "",
-        "geo": "ALL",
-        "quality": ""
-      },
-      {
-        "id": 1,
-        "title": "LOW QUALITY",
-        "link": "http://193.47.62.55/hls/TTTTAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-        "api": "",
-        "type": "0",
-        "webLink": "",
-        "defaultLanguage": "",
-        "geo": "ALL",
-        "quality": ""
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50142,
-    "title": "Jordan vs Australia",
-    "image": "o",
-    "cat": "FIFA Friendlies",
-    "eventInfo": {
-      "teamA": "Jordan",
-      "teamB": "Australia",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4771/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4741/image",
-      "eventName": "Jordan vs Australia",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/17 16:00:00 +0000",
-      "endTime": "2026/11/17 18:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://live2.jorvakstreamcache.com/live/channel20.m3u8",
-        "logo": "",
-        "title": "HD SERVER",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.41/hls/UOOOAAAQQ.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "LOW QUALITY",
-        "type": "0"
-      }
-    ],
-    "channel_status": "cached"
-  },
-  {
-    "id": 50143,
-    "title": "Russia vs Venezuela",
-    "image": "o",
-    "cat": "FIFA Friendlies",
-    "eventInfo": {
-      "teamA": "Russia",
-      "teamB": "Venezuela",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4694/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4722/image",
-      "eventName": "Russia vs Venezuela",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/17 16:00:00 +0000",
-      "endTime": "2026/11/17 18:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      }
-    ],
-    "channel_status": "cached"
-  },
-  {
-    "id": 50144,
-    "title": "Kuwait vs Honduras",
-    "image": "o",
-    "cat": "FIFA Friendlies",
-    "eventInfo": {
-      "teamA": "Kuwait",
-      "teamB": "Honduras",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/5368/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4827/image",
-      "eventName": "Kuwait vs Honduras",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/17 16:30:00 +0000",
-      "endTime": "2026/11/17 18:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://live.vivo155.com/live/sd-1-4663036.m3u8?txSecret=68c5e213072d337174f4ff103c7fd78c&txTime=6AF86719|Referer=https://player.on8on8.com/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://live2.jorvakstreamcache.com/live/channel4.m3u8?|Referer=https://xlz.domainkqt.cc/",
-        "logo": "",
-        "title": "HD QUALITY",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.44/hls/KUUUAA.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "LOW SERVER",
-        "type": "0"
-      }
-    ],
-    "channel_status": "cached"
-  },
-  {
-    "id": 50145,
-    "title": "Saudi Arabia vs Uzbekistan",
-    "image": "o",
-    "cat": "FIFA Friendlies",
-    "eventInfo": {
-      "teamA": "Saudi Arabia",
-      "teamB": "Uzbekistan",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4834/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4723/image",
-      "eventName": "Saudi Arabia vs Uzbekistan",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/17 15:30:00 +0000",
-      "endTime": "2026/11/17 17:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      }
-    ],
-    "channel_status": "cached"
-  },
-  {
-    "id": 50146,
-    "title": "United Arab Emirates vs Syria",
-    "image": "o",
-    "cat": "FIFA Friendlies",
-    "eventInfo": {
-      "teamA": "UAE",
-      "teamB": "Syria",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4727/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4731/image",
-      "eventName": "United Arab Emirates vs Syria",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/17 14:10:00 +0000",
-      "endTime": "2026/11/17 16:10:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50147,
-    "title": "Qatar vs South Korea",
-    "image": "o",
-    "cat": "FIFA Friendlies",
-    "eventInfo": {
-      "teamA": "Qatar",
-      "teamB": "South Korea",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4792/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4735/image",
-      "eventName": "Qatar vs South Korea",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/17 14:00:00 +0000",
-      "endTime": "2026/11/17 16:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "3ca19f31c530a41236266adc467cad29:deea9447f55180a35e5435853d65b730",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vvww44glgx/out/v1/7ea0ace804754c73a2580b3156039598/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "NBA LEAGUEPASS FHD",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/60209/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      }
-    ],
-    "channel_status": "cached"
-  },
-  {
-    "id": 50148,
-    "title": "Japan vs Paraguay",
-    "image": "o",
-    "cat": "FIFA Friendlies",
-    "eventInfo": {
-      "teamA": "Japan",
-      "teamB": "Paraguay",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4770/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4789/image",
-      "eventName": "Japan vs Paraguay",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/17 13:10:00 +0000",
-      "endTime": "2026/11/17 15:10:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "id": 1,
-        "title": "HD QUALITY",
-        "link": "https://live2.jorvakstreamcache.com/live/channel6.m3u8?|Referer=https://xlz.domainkqt.cc/",
-        "api": "",
-        "type": "0",
-        "webLink": "",
-        "defaultLanguage": "",
-        "geo": "ALL",
-        "quality": ""
-      },
-      {
-        "id": 1,
-        "title": "LOW QUALITY",
-        "link": "http://193.47.62.41/hls/DGGGAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-        "api": "",
-        "type": "0",
-        "webLink": "",
-        "defaultLanguage": "",
-        "geo": "ALL",
-        "quality": ""
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50149,
-    "title": "Kyrgyzstan vs Vietnam",
-    "image": "o",
-    "cat": "FIFA Friendlies",
-    "eventInfo": {
-      "teamA": "Kyrgyzstan",
-      "teamB": "Vietnam",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/7930/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/7050/image",
-      "eventName": "Kyrgyzstan vs Vietnam",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/17 12:00:00 +0000",
-      "endTime": "2026/11/17 14:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "DUDE Tv TV+ HD",
-      "HD QUALITY",
-      "SD QUALITY",
-      "LOW QUALITY"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv TV+ HD",
-        "logo": ""
-      },
-      {
-        "title": "HD QUALITY",
-        "logo": ""
-      },
-      {
-        "title": "SD QUALITY",
-        "logo": ""
-      },
-      {
-        "title": "LOW QUALITY",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://live.vivo155.com/live/sd-1-4667930.m3u8?txSecret=c9137ada1107bfd104734d51210010ba&txTime=6AFC581A|Referer=https://player.on8on8.com/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://live.mkirjg.cn/sport/202_6033368_1.m3u8?txSecret=3f2fd07aa170da064bb23879263780bd&txTime=6AFC8BD8",
-        "logo": "",
-        "title": "DUDE Tv TV+ HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://live2.jorvakstreamcache.com/live/channel1.m3u8?|Referer=https://xlz.domainkqt.cc/",
-        "logo": "",
-        "title": "HD QUALITY",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://www.rtmpcdn.com/live/55217c48-6317-4259-80a7-9df8f0c89bde.m3u8",
-        "logo": "",
-        "title": "SD QUALITY",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.41/hls/DGGGA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-        "logo": "",
-        "title": "LOW QUALITY",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50150,
-    "title": "China vs Bahrain",
-    "image": "o",
-    "cat": "FIFA Friendlies",
-    "eventInfo": {
-      "teamA": "China",
-      "teamB": "Bahrain",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4755/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/5161/image",
-      "eventName": "China vs Bahrain",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/17 12:00:00 +0000",
-      "endTime": "2026/11/17 14:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "DUDE Tv TV+ HD",
-      "HD QUALITY",
-      "SD QUALITY",
-      "LOW QUALITY"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv TV+ HD",
-        "logo": ""
-      },
-      {
-        "title": "HD QUALITY",
-        "logo": ""
-      },
-      {
-        "title": "SD QUALITY",
-        "logo": ""
-      },
-      {
-        "title": "LOW QUALITY",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://live.vivo155.com/live/hd-en-1-4659375.m3u8?txSecret=5eb2da94aaaf3b54d583f7acd04b1f08&txTime=6AFC57E9|Referer=https://player.on8on8.com/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://live.mkirjg.cn/sport/202_5918904_1.m3u8?txSecret=41290f3c4d4af3a764aa81de7f55f8e4&txTime=6AFC8C1D",
-        "logo": "",
-        "title": "DUDE Tv TV+ HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://live2.jorvakstreamcache.com/live/channel10.m3u8?|Referer=https://xlz.domainkqt.cc/",
-        "logo": "",
-        "title": "HD QUALITY",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://www.rtmpcdn.com/live/16e7e114-f5c9-436e-ae15-8b26b9186da0.m3u8",
-        "logo": "",
-        "title": "SD QUALITY",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.41/hls/DGGG.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-        "logo": "",
-        "title": "LOW QUALITY",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50152,
-    "title": "India vs Pakistan",
-    "image": "o",
-    "cat": "FIFA Friendlies",
-    "eventInfo": {
-      "teamA": "India",
-      "teamB": "Pakistan",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4828/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/6081/image",
-      "eventName": "India vs Pakistan",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/17 14:00:00 +0000",
-      "endTime": "2026/11/17 16:10:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-        "title": "DUDE Tv Live",
-        "type": "0"
       }
     ],
     "channel_status": "live"
   },
   {
     "id": 50153,
-    "title": "Tajikistan vs Thailand",
+    "title": "BC Dubai vs Anadolu Efes",
     "image": "o",
-    "cat": "FIFA Friendlies",
+    "cat": "Euroleague",
     "eventInfo": {
-      "teamA": "Tajikistan",
-      "teamB": "Thailand",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/23488/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4730/image",
-      "eventName": "Tajikistan vs Thailand",
+      "teamA": "BC Dubai",
+      "teamB": "Anadolu Efes",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/526165/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3515/image",
+      "eventName": "BC Dubai vs Anadolu Efes",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/11/17 12:30:00 +0000",
-      "endTime": "2026/11/17 14:35:00 +0000"
+      "startTime": "2026/11/17 16:00:00 +0000",
+      "endTime": "2026/11/17 19:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "HD SERVER",
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "http://193.47.62.41/hls/JJJJGAAAA.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36&origin=https://nadia01eo.tn76degree12ec3out.cfd&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50154,
+    "title": "Maccabi Tel Aviv vs Olympiacos BC",
+    "image": "o",
+    "cat": "Euroleague",
+    "eventInfo": {
+      "teamA": "Maccabi Tel Aviv",
+      "teamB": "Olympiacos BC",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/6655/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3501/image",
+      "eventName": "Maccabi Tel Aviv vs Olympiacos BC",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/11/17 17:00:00 +0000",
+      "endTime": "2026/11/17 20:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "STREAM TV + HD",
       "SD SERVER"
     ],
     "formatsNew": [
       {
-        "title": "HD SERVER",
+        "title": "STREAM TV + HD",
         "logo": ""
       },
       {
@@ -4533,17 +4254,490 @@
     ],
     "decoded_channels": [
       {
-        "name": "HD SERVER",
-        "link": "http://193.47.62.41/hls/DGGGAA.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36&origin=https://nadia01eo.tn76degree12ec3out.cfd&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "name": "STREAM TV + HD",
+        "link": "http://193.47.62.41/hls/J555AAAA.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36&origin=https://nadia01eo.tn76degree12ec3out.cfd&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "scheme": 0,
         "api": "",
         "tokenApi": "",
         "hasHeader": false,
         "hasVpnDetection": false,
-        "title": "HD SERVER",
+        "title": "STREAM TV + HD",
         "type": "0"
       }
     ],
     "channel_status": "live"
+  },
+  {
+    "id": 50155,
+    "title": "Barça Basket vs Paris Basketball",
+    "image": "o",
+    "cat": "Euroleague",
+    "eventInfo": {
+      "teamA": "Barça Basket",
+      "teamB": "Paris Basketball",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3543/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/295374/image",
+      "eventName": "Barça Basket vs Paris Basketball",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/11/17 19:30:00 +0000",
+      "endTime": "2026/11/17 22:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "D SPORTS ++ FHD",
+      "SD SERVER"
+    ],
+    "formatsNew": [
+      {
+        "title": "D SPORTS ++ FHD",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f",
+        "link": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "D SPORTS ++ FHD",
+        "type": "1"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.41/hls/EIIIAAAQQ.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "SD SERVER",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50156,
+    "title": "Kosner Baskonia vs Hapoel Tel-Aviv",
+    "image": "o",
+    "cat": "Euroleague",
+    "eventInfo": {
+      "teamA": "Kosner Baskonia",
+      "teamB": "Hapoel Tel-Aviv",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3553/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/82179/image",
+      "eventName": "Kosner Baskonia vs Hapoel Tel-Aviv",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/11/17 19:30:00 +0000",
+      "endTime": "2026/11/17 22:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv TV"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv TV",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "http://193.47.62.41/hls/EIIIAAAQQQ.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "DUDE Tv TV",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50157,
+    "title": "EA7 Emporio Armani Milano vs KK Crvena zvezda",
+    "image": "o",
+    "cat": "Euroleague",
+    "eventInfo": {
+      "teamA": "EA7 Emporio Armani Milano",
+      "teamB": "KK Crvena zvezda",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3580/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/57183/image",
+      "eventName": "EA7 Emporio Armani Milano vs KK Crvena zvezda",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/11/17 19:30:00 +0000",
+      "endTime": "2026/11/17 22:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv TV"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv TV",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "http://193.47.62.41/hls/EIIIAAAQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+        "logo": "",
+        "title": "DUDE Tv TV",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50158,
+    "title": "Kauno Zalgiris vs Bayern Munchen",
+    "image": "o",
+    "cat": "Euroleague",
+    "eventInfo": {
+      "teamA": "Kauno Žalgiris",
+      "teamB": "Bayern München",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/6662/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/26071/image",
+      "eventName": "Kauno Žalgiris vs Bayern München",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/11/17 18:00:00 +0000",
+      "endTime": "2026/11/17 21:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "D SPORTS2+ FHD",
+      "LOW QUALITY (USE VPN)",
+      "HD QUALITY + TV"
+    ],
+    "formatsNew": [
+      {
+        "title": "D SPORTS2+ FHD",
+        "logo": ""
+      },
+      {
+        "title": "LOW QUALITY (USE VPN)",
+        "logo": ""
+      },
+      {
+        "title": "HD QUALITY + TV",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "name": "D SPORTS2+ FHD",
+        "link": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "scheme": 0,
+        "api": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504",
+        "tokenApi": "",
+        "title": "D SPORTS2+ FHD",
+        "type": "1"
+      },
+      {
+        "name": "LOW QUALITY (USE VPN)",
+        "link": "http://193.47.62.41/hls/HHHHAAAA.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36&origin=https://nadia01eo.tn76degree12ec3out.cfd&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "",
+        "title": "LOW QUALITY (USE VPN)",
+        "type": "0"
+      },
+      {
+        "name": "HD QUALITY + TV",
+        "link": "https://www.rtmpcdn.com/live/2ab1dfb1-a9ae-401e-8408-d5894dbf46b9.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "",
+        "title": "HD QUALITY + TV",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50159,
+    "title": "Darts vs Darts",
+    "image": "o",
+    "cat": "Darts",
+    "eventInfo": {
+      "teamA": "Darts",
+      "teamB": "Darts",
+      "teamAFlag": "https://images.vexels.com/media/users/3/258879/isolated/preview/6ac50fa7f0785b5ae27955f8496fee70-dartboard-party-game.png",
+      "teamBFlag": "https://images.vexels.com/media/users/3/258879/isolated/preview/6ac50fa7f0785b5ae27955f8496fee70-dartboard-party-game.png",
+      "eventName": "Grand Slam of Darts",
+      "eventType": "null",
+      "startTime": "2026/11/17 19:00:00 +0000",
+      "endTime": "2026/11/17 23:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SPORT 1 DE - FHD",
+      "NOVA SPORTS FHD",
+      "LOW SERVER",
+      "PDC.TV FHD",
+      "PDC.TV SD"
+    ],
+    "formatsNew": [
+      {
+        "title": "SPORT 1 DE - FHD",
+        "logo": ""
+      },
+      {
+        "title": "NOVA SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
+        "logo": ""
+      },
+      {
+        "title": "PDC.TV FHD",
+        "logo": ""
+      },
+      {
+        "title": "PDC.TV SD",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "98f2ab49605f0469a4b97de40277fca0:7ed06b6908edc372f2cb8ef2df2615d0",
+        "link": "https://ac-009.live.p7s1video.net/181aa0bf/t_009/sport1-de/cenc-default.mpd",
+        "logo": "",
+        "title": "SPORT 1 DE - FHD",
+        "type": "1"
+      },
+      {
+        "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+        "link": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "NOVA SPORTS FHD",
+        "type": "1"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.59/hls/BEEEAAA.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "LOW SERVER",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://taifood-blog.asia/embed/grand-slam-of-darts--day-4-32254",
+        "logo": "",
+        "title": "PDC.TV FHD",
+        "type": "2"
+      },
+      {
+        "api": "",
+        "link": "https://taifood-blog.asia/embed/grand-slam-of-darts--day-4-32254_540p",
+        "logo": "",
+        "title": "PDC.TV SD",
+        "type": "2"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50160,
+    "title": "Dominica vs Cayman Islands",
+    "image": "o",
+    "cat": "CONCACAF Cup 🇺🇸",
+    "eventInfo": {
+      "teamA": "Dominica",
+      "teamB": "Cayman Islands",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/21812/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/21811/image",
+      "eventName": "Dominica vs Cayman Islands",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/11/17 19:00:00 +0000",
+      "endTime": "2026/11/17 21:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv TV"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv TV",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "http://193.47.62.41/hls/EIIIAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+        "logo": "",
+        "title": "DUDE Tv TV",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50161,
+    "title": "Saint Lucia vs Barbados",
+    "image": "o",
+    "cat": "CONCACAF Cup 🇺🇸",
+    "eventInfo": {
+      "teamA": "Saint Lucia",
+      "teamB": "Barbados",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/21820/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/21808/image",
+      "eventName": "Saint Lucia vs Barbados",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/11/17 19:00:00 +0000",
+      "endTime": "2026/11/17 21:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv TV"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv TV",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "e8b9f85a440a23d6f8bdec8ee7c3a476:74a802cc5a153ee6651e8d54edb75e8d",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3fnzbb5b5f/out/v1/1d8ea6fed91d44789d94a59f1d75e10b/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "NFL GAMEPASS FHD",
+        "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/59624/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "DUDE Tv NFL HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/59610/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/59611/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "NFL LIVE (USA)",
+        "type": "0"
+      }
+    ],
+    "channel_status": "cached"
+  },
+  {
+    "id": 50162,
+    "title": "Saint Kitts vs Bonaire",
+    "image": "o",
+    "cat": "CONCACAF Cup 🇺🇸",
+    "eventInfo": {
+      "teamA": "St. Kitts And Nevis",
+      "teamB": "Bonaire",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/21819/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/180236/image",
+      "eventName": "Saint Kitts and Nevis vs Bonaire",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/11/17 19:00:00 +0000",
+      "endTime": "2026/11/17 21:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv TV"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv TV",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "http://193.47.62.41/hls/EIIIAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+        "logo": "",
+        "title": "DUDE Tv TV",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50163,
+    "title": "Belize vs Sint Maarten",
+    "image": "o",
+    "cat": "CONCACAF Cup 🇺🇸",
+    "eventInfo": {
+      "teamA": "Belize",
+      "teamB": "Sint Maarten",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/21809/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/298263/image",
+      "eventName": "Belize vs Sint Maarten",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/11/17 19:00:00 +0000",
+      "endTime": "2026/11/17 21:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv TV"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv TV",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "e25d10551883acc40dcb71e47eebd489:892509ea654a668fd71a04f54c30efec",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vuzaaxxem1/out/v1/e94aa80abc75481084c80546b0f77980/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "DAZN SPORTS FHD",
+        "type": "1"
+      },
+      {
+        "api": "cb4ba2f6a3667bb086116570ed56a9fd:31f36919eb3705936718c1fa18bf4998",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z2axvo6izi/out/v1/7865fac6859d404c9dac5c5a7c589b1e/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "PEACOCK ES FHD",
+        "type": "1"
+      },
+      {
+        "api": "43cc4d82eb9afa82c539228715687b0c:ee8658a2ae68af6e6e490caa29242af3",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jgsjthpk9s/out/v1/cf2461b87edc43dfa9283591ea2c9357/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "DAZN DE FHD",
+        "type": "1"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.44/hls/CVCVCVQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+        "logo": "",
+        "title": "HD SERVER ",
+        "type": "0"
+      }
+    ],
+    "channel_status": "cached"
   }
 ]
