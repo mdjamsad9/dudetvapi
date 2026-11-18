@@ -366,9 +366,9 @@
       "eventName": "Pakistan vs Sri Lanka",
       "eventType": "null",
       "eventBanner": "null",
-      "isHot": "1",
-      "startTime": "2026/11/18 04:30:00 +0000",
-      "endTime": "2026/11/18 12:00:00 +0000"
+      "isHot": "0",
+      "startTime": "2026/11/19 04:30:00 +0000",
+      "endTime": "2026/11/19 12:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -421,8 +421,8 @@
       "eventType": "null",
       "eventBanner": "https://wsrv.nl/?url=https://tikolu.net/i/qylaf",
       "isHot": "0",
-      "startTime": "2026/11/18 10:30:00 +0000",
-      "endTime": "2026/11/18 16:00:00 +0000"
+      "startTime": "2026/11/18 17:00:00 +0000",
+      "endTime": "2026/11/18 22:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1362,8 +1362,8 @@
       "eventName": "South Africa vs Bangladesh",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/11/18 08:00:00 +0000",
-      "endTime": "2026/11/18 16:00:00 +0000"
+      "startTime": "2026/11/19 08:00:00 +0000",
+      "endTime": "2026/11/19 16:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1426,9 +1426,19 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "FANCODE FHD",
+      "CBS SPORTS FHD",
       "DUDE Tv Live"
     ],
     "formatsNew": [
+      {
+        "title": "FANCODE FHD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
+      {
+        "title": "CBS SPORTS FHD",
+        "logo": "https://iili.io/BtCdabj.png"
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1454,11 +1464,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "FANCODE FHD",
+      "DUDE Tv Live",
+      "HD QUALITY"
     ],
     "formatsNew": [
       {
+        "title": "FANCODE FHD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD QUALITY",
         "logo": ""
       }
     ]
@@ -1482,11 +1502,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "SD STREAM",
+      "DUDE Tv  TV [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "SD STREAM",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv  TV [FHD]",
         "logo": ""
       }
     ]
@@ -1510,11 +1535,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "STREAM TV + HD",
+      "LOW QUALITY"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "STREAM TV + HD",
+        "logo": ""
+      },
+      {
+        "title": "LOW QUALITY",
         "logo": ""
       }
     ]
@@ -1566,11 +1596,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "FANCODE FHD",
+      "HD QUALITY",
+      "LOW QUALITY"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "FANCODE FHD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
+      {
+        "title": "HD QUALITY",
+        "logo": ""
+      },
+      {
+        "title": "LOW QUALITY",
         "logo": ""
       }
     ]
@@ -1594,87 +1634,130 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "FANCODE FHD",
+      "LOW QUALITY"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "FANCODE FHD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
+      {
+        "title": "LOW QUALITY",
         "logo": ""
       }
     ]
   },
   {
     "id": 50126,
-    "title": "Bangladesh Women vs Thailand Women",
+    "title": "Beşiktaş JK vs Real Madrid",
     "image": "o",
-    "cat": "Cricket",
+    "cat": "Euroleague",
     "eventInfo": {
-      "teamA": "BAN-W",
-      "teamB": "THA-W",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187809/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/446070/image",
-      "eventName": "Bangladesh Women vs Thailand Women",
+      "teamA": "Beşiktaş JK",
+      "teamB": "Real Madrid",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/6678/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3540/image",
+      "eventName": "Beşiktaş JK vs Real Madrid",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/11/18 09:15:00 +0000",
-      "endTime": "2026/11/18 13:00:00 +0000"
+      "startTime": "2026/11/18 17:00:00 +0000",
+      "endTime": "2026/11/18 20:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "ICC TV FHD",
-      "MyCO TV FHD",
-      "TAMASHA FHD (PAK)"
+      "DUDE Tv Live",
+      "STREAM TV + HD",
+      "LOW QUALITY (USE VPN)"
     ],
     "formatsNew": [
       {
-        "title": "ICC TV FHD",
-        "logo": "https://m.media-amazon.com/images/I/31F7ropt9OL.png"
-      },
-      {
-        "title": "MyCO TV FHD",
+        "title": "DUDE Tv Live",
         "logo": ""
       },
       {
-        "title": "TAMASHA FHD (PAK)",
+        "title": "STREAM TV + HD",
+        "logo": ""
+      },
+      {
+        "title": "LOW QUALITY (USE VPN)",
         "logo": ""
       }
     ]
   },
   {
     "id": 50127,
-    "title": "Netherlands Women vs Zimbabwe Women",
+    "title": "Club Portugalete vs Real Unión Club",
     "image": "o",
-    "cat": "Cricket",
+    "cat": "Copa Del Rey 🇪🇸",
     "eventInfo": {
-      "teamA": "NED-W",
-      "teamB": "ZIM-W",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/417753/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/417062/image",
-      "eventName": "Netherlands Women vs Zimbabwe Women",
+      "teamA": "Club Portugalete",
+      "teamB": "Real Unión Club",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/25403/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2881/image",
+      "eventName": "Club Portugalete vs Real Unión Club",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/11/18 09:15:00 +0000",
-      "endTime": "2026/11/18 13:00:00 +0000"
+      "startTime": "2026/11/18 18:00:00 +0000",
+      "endTime": "2026/11/18 20:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "ICC TV FHD",
-      "MyCO TV FHD",
-      "TAMASHA FHD (PAK)"
+      "STREAM TV + HD",
+      "LOW QUALITY"
     ],
     "formatsNew": [
       {
-        "title": "ICC TV FHD",
-        "logo": "https://m.media-amazon.com/images/I/31F7ropt9OL.png"
-      },
-      {
-        "title": "MyCO TV FHD",
+        "title": "STREAM TV + HD",
         "logo": ""
       },
       {
-        "title": "TAMASHA FHD (PAK)",
+        "title": "LOW QUALITY",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50128,
+    "title": "Darts vs Darts",
+    "image": "o",
+    "cat": "Darts",
+    "eventInfo": {
+      "teamA": "Darts",
+      "teamB": "Darts",
+      "teamAFlag": "https://images.vexels.com/media/users/3/258879/isolated/preview/6ac50fa7f0785b5ae27955f8496fee70-dartboard-party-game.png",
+      "teamBFlag": "https://images.vexels.com/media/users/3/258879/isolated/preview/6ac50fa7f0785b5ae27955f8496fee70-dartboard-party-game.png",
+      "eventName": "Darts vs Darts",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/11/18 19:00:00 +0000",
+      "endTime": "2026/11/18 22:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SPORT 1 DE - FHD",
+      "NOVA SPORTS CZ",
+      "PDC.TV FHD",
+      "PDC.TV SD"
+    ],
+    "formatsNew": [
+      {
+        "title": "SPORT 1 DE - FHD",
+        "logo": ""
+      },
+      {
+        "title": "NOVA SPORTS CZ",
+        "logo": ""
+      },
+      {
+        "title": "PDC.TV FHD",
+        "logo": ""
+      },
+      {
+        "title": "PDC.TV SD",
         "logo": ""
       }
     ]
