@@ -256,8 +256,8 @@
       "eventName": "AEW Dynamite",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/11/26 01:00:00 +0000",
-      "endTime": "2026/11/26 03:30:00 +0000"
+      "startTime": "2026/12/03 01:00:00 +0000",
+      "endTime": "2026/12/03 03:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -343,8 +343,8 @@
       "eventName": "🥊 WWE Monday Night RAW",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/11/24 01:00:00 +0000",
-      "endTime": "2026/11/24 03:30:00 +0000"
+      "startTime": "2026/12/01 01:00:00 +0000",
+      "endTime": "2026/12/01 03:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -419,18 +419,19 @@
   },
   {
     "id": 50013,
-    "title": "Green Bay Packers",
+    "title": "Kansas City Chiefs",
     "image": "o",
     "cat": "NFL",
     "eventInfo": {
-      "teamA": "Rams",
-      "teamB": "Packers",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4387/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4420/image",
-      "eventName": "Los Angeles Rams vs Green Bay Packers",
+      "teamA": "Bills",
+      "teamB": "Chiefs",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4414/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4422/image",
+      "eventName": "Buffalo Bills vs Kansas City Chiefs",
       "eventType": "null",
-      "startTime": "2026/11/26 01:00:00 +0000",
-      "endTime": "2026/11/26 04:15:00 +0000"
+      "isHot": "0",
+      "startTime": "2026/11/27 01:20:00 +0000",
+      "endTime": "2026/11/27 04:50:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -493,7 +494,6 @@
       "TNT SPORTS FHD",
       "WILLOW - ALT",
       "UNITE8 HIN HD",
-      "FANCODE - SD",
       "ZEE ZEST (IND)",
       "UNITE8 SPORTS (IND)"
     ],
@@ -519,10 +519,6 @@
         "logo": ""
       },
       {
-        "title": "FANCODE - SD",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
-      },
-      {
         "title": "ZEE ZEST (IND)",
         "logo": ""
       },
@@ -533,67 +529,29 @@
     ]
   },
   {
-    "id": 50059,
-    "title": "Warriors vs Sacramento Kings",
+    "id": 50042,
+    "title": "Philadelphia Eagles",
     "image": "o",
-    "cat": "NBA",
+    "cat": "NFL",
     "eventInfo": {
-      "teamA": "Warriors",
-      "teamB": "Kings",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3428/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3413/image",
-      "eventName": "Golden State Warriors vs Sacramento Kings",
+      "teamA": "Cowboys",
+      "teamB": "Eagles",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4392/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4428/image",
+      "eventName": "Dallas Cowboys vs Philadelphia Eagles",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/11/26 03:00:00 +0000",
-      "endTime": "2026/11/26 06:00:00 +0000"
+      "startTime": "2026/11/26 21:30:00 +0000",
+      "endTime": "2026/11/27 01:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live",
-      "NBA LIVE [FHD]"
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "NBA LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50060,
-    "title": "Portland Trail Blazers vs Spurs",
-    "image": "o",
-    "cat": "NBA",
-    "eventInfo": {
-      "teamA": "Trail Blazers",
-      "teamB": "Spurs",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3414/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3429/image",
-      "eventName": "Portland Trail Blazers vs San Antonio Spurs",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/26 03:00:00 +0000",
-      "endTime": "2026/11/26 06:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "NBA LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "NBA LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -667,6 +625,34 @@
     ]
   },
   {
+    "id": 50065,
+    "title": "Chicago Bears",
+    "image": "o",
+    "cat": "NFL",
+    "eventInfo": {
+      "teamA": "Lions",
+      "teamB": "Bears",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4419/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4391/image",
+      "eventName": "Detroit Lions vs Chicago Bears",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/11/26 18:00:00 +0000",
+      "endTime": "2026/11/26 21:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50070,
     "title": "WBBL",
     "image": "o",
@@ -679,14 +665,14 @@
       "eventName": "Womens Big Bash League",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/11/26 04:40:00 +0000",
-      "endTime": "2026/11/26 12:00:00 +0000"
+      "startTime": "2026/11/27 10:10:00 +0000",
+      "endTime": "2026/11/27 14:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "WILLOW FHD",
-      "WILLOW ALT",
+      "WILLOW - FHD",
+      "WILLOW - ALT",
       "SKY CRICKET FHD",
       "TAPMAD FHD",
       "WILLOW HD",
@@ -694,11 +680,11 @@
     ],
     "formatsNew": [
       {
-        "title": "WILLOW FHD",
+        "title": "WILLOW - FHD",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
-        "title": "WILLOW ALT",
+        "title": "WILLOW - ALT",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
@@ -715,39 +701,6 @@
       },
       {
         "title": "LOW QUALITY",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50073,
-    "title": "Monterrey vs Club América",
-    "image": "o",
-    "cat": "Liga MX",
-    "eventInfo": {
-      "teamA": "Monterrey",
-      "teamB": "América",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1932/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1939/image",
-      "eventName": "CF Monterrey vs Club América",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/26 03:00:00 +0000",
-      "endTime": "2026/11/26 05:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "CANAL5 MX FHD",
-      "HD QUALITY"
-    ],
-    "formatsNew": [
-      {
-        "title": "CANAL5 MX FHD",
-        "logo": ""
-      },
-      {
-        "title": "HD QUALITY",
         "logo": ""
       }
     ]
@@ -992,7 +945,7 @@
       "eventName": "Italita T10",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/11/26 11:30:00 +0000",
+      "startTime": "2026/11/26 13:15:00 +0000",
       "endTime": "2026/11/26 16:30:00 +0000"
     },
     "adsLimit": "0",
@@ -1815,9 +1768,29 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "SPORT 2 CZ FHD",
+      "SonyLiv (Asia)",
+      "HD QUALITY",
+      "LOW QUALITY",
       "DUDE Tv Live"
     ],
     "formatsNew": [
+      {
+        "title": "SPORT 2 CZ FHD",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (Asia)",
+        "logo": "https://m.media-amazon.com/images/I/61JxXK7hNDL.png"
+      },
+      {
+        "title": "HD QUALITY",
+        "logo": ""
+      },
+      {
+        "title": "LOW QUALITY",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2011,11 +1984,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "HD QUALITY",
+      "LOW QUALITY"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "HD QUALITY",
+        "logo": ""
+      },
+      {
+        "title": "LOW QUALITY",
         "logo": ""
       }
     ]
@@ -2039,11 +2017,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD QUALITY",
+      "LOW QUALITY"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD QUALITY",
+        "logo": ""
+      },
+      {
+        "title": "LOW QUALITY",
         "logo": ""
       }
     ]
@@ -2067,11 +2055,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "LOW QUALITY"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW QUALITY",
         "logo": ""
       }
     ]
@@ -2095,11 +2088,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "LOW QUALITY"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW QUALITY",
         "logo": ""
       }
     ]
@@ -2123,11 +2121,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD QUALITY",
+      "LOW QUALITY"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD QUALITY",
+        "logo": ""
+      },
+      {
+        "title": "LOW QUALITY",
         "logo": ""
       }
     ]
@@ -2151,11 +2159,31 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "TSN SPORTS FHD",
+      "FOX SPORTS FHD",
+      "D SPORTS FHD",
+      "DUDE Tv Live",
+      "HD QUALITY"
     ],
     "formatsNew": [
       {
+        "title": "TSN SPORTS FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+      },
+      {
+        "title": "FOX SPORTS FHD",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
+      },
+      {
+        "title": "D SPORTS FHD",
+        "logo": ""
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD QUALITY",
         "logo": ""
       }
     ]
@@ -2179,11 +2207,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "HD QUALITY"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "HD QUALITY",
         "logo": ""
       }
     ]
@@ -2207,235 +2235,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "D SPORTS+ FHD",
+      "HD QUALITY"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "D SPORTS+ FHD",
         "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50353,
-    "title": "New Zealand U17 vs Belgium U17",
-    "image": "o",
-    "cat": "U17 World Championship",
-    "eventInfo": {
-      "teamA": "New Zealand U17",
-      "teamB": "Belgium U17",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/22634/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/22583/image",
-      "eventName": "New Zealand U17 vs Belgium U17",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/26 13:00:00 +0000",
-      "endTime": "2026/11/26 15:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
+      },
       {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50354,
-    "title": "Vietnam U17 vs Mali U17",
-    "image": "o",
-    "cat": "U17 World Championship",
-    "eventInfo": {
-      "teamA": "Vietnam U17",
-      "teamB": "Mali U17",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/468404/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/203876/image",
-      "eventName": "Vietnam U17 vs Mali U17",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/26 13:00:00 +0000",
-      "endTime": "2026/11/26 15:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50355,
-    "title": "Svay Rieng vs Machida Zelvia",
-    "image": "o",
-    "cat": "League Two 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Svay Rieng",
-      "teamB": "Machida",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/153474/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/44409/image",
-      "eventName": "Svay Rieng vs Machida Zelvia",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/26 12:15:00 +0000",
-      "endTime": "2026/11/26 14:15:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50356,
-    "title": "Tai Po vs Adelaide United",
-    "image": "o",
-    "cat": "AFC Champions Two",
-    "eventInfo": {
-      "teamA": "Tai Po",
-      "teamB": "Adelaide United",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/40662/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2946/image",
-      "eventName": "Tai Po vs Adelaide United",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/26 12:15:00 +0000",
-      "endTime": "2026/11/26 14:15:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50357,
-    "title": "Pathum United vs Lion City",
-    "image": "o",
-    "cat": "AFC Champions Two",
-    "eventInfo": {
-      "teamA": "Pathum Utd",
-      "teamB": "Lion City Sailors",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/35607/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3041/image",
-      "eventName": "BG Pathum United vs Lion City Sailors",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/26 12:15:00 +0000",
-      "endTime": "2026/11/26 14:15:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50358,
-    "title": "Tampines Rovers vs Shanghai Shenhua",
-    "image": "o",
-    "cat": "AFC Champions Two",
-    "eventInfo": {
-      "teamA": "Tampines Rovers",
-      "teamB": "Shenhua",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3043/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3373/image",
-      "eventName": "Tampines Rovers vs Shanghai Shenhua",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/26 10:00:00 +0000",
-      "endTime": "2026/11/26 12:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50359,
-    "title": "Kuching City vs Phnom Penh",
-    "image": "o",
-    "cat": "AFC Champions Two",
-    "eventInfo": {
-      "teamA": "Kuching",
-      "teamB": "PPCFC",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/338334/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/35605/image",
-      "eventName": "Kuching City vs Phnom Penh Crown",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/26 10:00:00 +0000",
-      "endTime": "2026/11/26 12:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50360,
-    "title": "Gangwon vs Kitchee",
-    "image": "o",
-    "cat": "AFC Champions Two",
-    "eventInfo": {
-      "teamA": "Gangwon",
-      "teamB": "Kitchee",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/34220/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/42199/image",
-      "eventName": "Gangwon vs Kitchee",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/11/26 10:00:00 +0000",
-      "endTime": "2026/11/26 12:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
+        "title": "HD QUALITY",
         "logo": ""
       }
     ]
@@ -2452,18 +2261,83 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
       "eventName": "India A vs Sri Lanka A",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/11/26 10:00:00 +0000",
-      "endTime": "2026/11/26 12:05:00 +0000"
+      "endTime": "2026/11/26 18:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "PRIME VIDEO (Multi-Audio)",
+      "WILLOW - FHD",
+      "WILLOW - ALT",
+      "SonyLiv (ENG)",
+      "SonyLiv (HIN)",
+      "SonyLiv (TAM)",
+      "SonyLiv (TEL)",
+      "SonyLiv (KAN)",
+      "PTV SPORTS HD",
+      "SONY TEN 1 (IND)",
+      "SONY TEN 2 (IND)",
+      "SONY TEN 3 (IND)",
+      "SONY TEN 4 (IND)",
+      "SONY TEN 5 (IND)"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "PRIME VIDEO (Multi-Audio)",
+        "logo": "https://m.media-amazon.com/images/I/61JxXK7hNDL.png"
+      },
+      {
+        "title": "WILLOW - FHD",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "WILLOW - ALT",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "SonyLiv (ENG)",
+        "logo": "https://m.media-amazon.com/images/I/61JxXK7hNDL.png"
+      },
+      {
+        "title": "SonyLiv (HIN)",
+        "logo": "https://m.media-amazon.com/images/I/61JxXK7hNDL.png"
+      },
+      {
+        "title": "SonyLiv (TAM)",
+        "logo": "https://m.media-amazon.com/images/I/61JxXK7hNDL.png"
+      },
+      {
+        "title": "SonyLiv (TEL)",
+        "logo": "https://m.media-amazon.com/images/I/61JxXK7hNDL.png"
+      },
+      {
+        "title": "SonyLiv (KAN)",
+        "logo": "https://m.media-amazon.com/images/I/61JxXK7hNDL.png"
+      },
+      {
+        "title": "PTV SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "SONY TEN 1 (IND)",
+        "logo": ""
+      },
+      {
+        "title": "SONY TEN 2 (IND)",
+        "logo": ""
+      },
+      {
+        "title": "SONY TEN 3 (IND)",
+        "logo": ""
+      },
+      {
+        "title": "SONY TEN 4 (IND)",
+        "logo": ""
+      },
+      {
+        "title": "SONY TEN 5 (IND)",
         "logo": ""
       }
     ]
@@ -2487,11 +2361,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH FHD"
+      "beIN ENGLISH FHD",
+      "D SPORTS FHD"
     ],
     "formatsNew": [
       {
         "title": "beIN ENGLISH FHD",
+        "logo": ""
+      },
+      {
+        "title": "D SPORTS FHD",
         "logo": ""
       }
     ]
@@ -2515,82 +2394,72 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH FHD"
+      "beIN ENGLISH FHD",
+      "D SPORTS FHD"
     ],
     "formatsNew": [
       {
         "title": "beIN ENGLISH FHD",
+        "logo": ""
+      },
+      {
+        "title": "D SPORTS FHD",
         "logo": ""
       }
     ]
   },
   {
     "id": 50364,
-    "title": "South Australia vs Victoria",
+    "title": "Qatar vs South Korea",
     "image": "o",
-    "cat": "Sheffield Shield",
+    "cat": "FIBA Asia Cup",
     "eventInfo": {
-      "teamA": "South Australia",
-      "teamB": "Victoria",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187750/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187749/image",
-      "eventName": "South Australia vs Victoria",
+      "teamA": "Qatar",
+      "teamB": "South Korea",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/6137/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/22382/image",
+      "eventName": "Qatar vs South Korea",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/11/26 00:00:00 +0000",
-      "endTime": "2026/11/26 07:30:00 +0000"
+      "startTime": "2026/11/26 16:00:00 +0000",
+      "endTime": "2026/11/26 19:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "FANCODE FHD",
-      "DUDE Tv  TV Live",
-      "FANCODE [IND]"
+      "LOW QUALITY"
     ],
     "formatsNew": [
       {
-        "title": "FANCODE FHD",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
-      },
-      {
-        "title": "DUDE Tv  TV Live",
+        "title": "LOW QUALITY",
         "logo": ""
-      },
-      {
-        "title": "FANCODE [IND]",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       }
     ]
   },
   {
     "id": 50365,
-    "title": "Western Australia vs Tasmania",
+    "title": "Lithuania vs Serbia",
     "image": "o",
-    "cat": "Sheffield Shield",
+    "cat": "FIBA Asia Cup",
     "eventInfo": {
-      "teamA": "Western Australia",
-      "teamB": "Tasmania",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187752/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187748/image",
-      "eventName": "Western Australia vs Tasmania",
+      "teamA": "Lithuania",
+      "teamB": "Serbia",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/6132/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/6139/image",
+      "eventName": "Lithuania vs Serbia",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/11/26 02:30:00 +0000",
-      "endTime": "2026/11/26 10:00:00 +0000"
+      "startTime": "2026/11/26 16:30:00 +0000",
+      "endTime": "2026/11/26 19:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv  TV Live",
-      "FANCODE [IND]"
+      "DEFAULT"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv  TV Live",
-        "logo": ""
-      },
-      {
-        "title": "FANCODE [IND]",
+        "title": "DEFAULT",
         "logo": ""
       }
     ]
